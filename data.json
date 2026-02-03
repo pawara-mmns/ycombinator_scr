@@ -3934,5 +3934,11 @@
         "url": "https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/",
         "timestamp": "2026-02-03T21:25:33.543147",
         "source": "Hacker News"
+    },
+    {
+        "title": "FlashAttention-T: Towards Tensorized Attention",
+        "url": "https://dl.acm.org/doi/10.1145/3774934.3786425",
+        "timestamp": "2026-02-03T21:25:33.543183",
+        "source": "Hacker News"
     }
 ]
