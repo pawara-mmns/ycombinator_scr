@@ -2524,5 +2524,11 @@
         "url": "https://www.icemap.dev/",
         "timestamp": "2026-02-03T17:47:27.629568",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Gumbel-Max Trick",
+        "url": "https://blog.quipu-strands.com/gumbel",
+        "timestamp": "2026-02-03T17:47:27.629601",
+        "source": "Hacker News"
     }
 ]
