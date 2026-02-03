@@ -706,5 +706,11 @@
         "url": "https://news.ycombinator.com/item?id=46869899",
         "timestamp": "2026-02-03T12:22:01.077252",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ESP32-based Remote Wake-on-LAN that works behind CGNAT",
+        "url": "https://github.com/kreaxv/esp32-remote-wol",
+        "timestamp": "2026-02-03T12:22:01.077288",
+        "source": "Hacker News"
     }
 ]
