@@ -3712,5 +3712,11 @@
         "url": "https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html",
         "timestamp": "2026-02-03T21:10:15.804592",
         "source": "Hacker News"
+    },
+    {
+        "title": "MetaAttention: Unified&Performant Attention Framework Across Hardware Back Ends",
+        "url": "https://dl.acm.org/doi/10.1145/3774934.3786444",
+        "timestamp": "2026-02-03T21:10:16.110512",
+        "source": "Hacker News"
     }
 ]
