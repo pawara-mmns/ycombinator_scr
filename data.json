@@ -1018,5 +1018,11 @@
         "url": "https://github.com/sheeki03/tirith",
         "timestamp": "2026-02-03T13:26:56.649973",
         "source": "Hacker News"
+    },
+    {
+        "title": "KDE Plasma Login Manager Won't Support systemd-Free Linux or BSD Systems",
+        "url": "https://forums.FreeBSD.org/threads/kde-plasma-login-manager-wont-support-systemd-free-linux-or-bsd-systems.101393/",
+        "timestamp": "2026-02-03T13:53:01.562137",
+        "source": "Hacker News"
     }
 ]
