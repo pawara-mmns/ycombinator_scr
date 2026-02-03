@@ -3394,5 +3394,11 @@
         "url": "https://github.com/git-cola/git-cola",
         "timestamp": "2026-02-03T20:09:38.335781",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZK (Zero knowledge) proof for SHA-256: 312-byte proof, ~18µs verification",
+        "url": "https://github.com/chetannothingness/opoch-hash",
+        "timestamp": "2026-02-03T20:09:38.335810",
+        "source": "Hacker News"
     }
 ]
