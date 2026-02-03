@@ -1834,5 +1834,11 @@
         "url": "https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/",
         "timestamp": "2026-02-03T15:46:34.267583",
         "source": "Hacker News"
+    },
+    {
+        "title": "Wave: Python Domain-Specific Language for High Performance Machine Learning",
+        "url": "https://github.com/iree-org/wave",
+        "timestamp": "2026-02-03T15:46:34.267615",
+        "source": "Hacker News"
     }
 ]
