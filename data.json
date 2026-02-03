@@ -448,5 +448,11 @@
         "url": "https://www.genui.sh/",
         "timestamp": "2026-02-03T11:25:42.336509",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentSight: Zero-Instrumentation LLM Agent Observability with eBPF",
+        "url": "https://github.com/eunomia-bpf/agentsight",
+        "timestamp": "2026-02-03T11:25:42.336547",
+        "source": "Hacker News"
     }
 ]
