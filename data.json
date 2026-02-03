@@ -2530,5 +2530,11 @@
         "url": "https://blog.quipu-strands.com/gumbel",
         "timestamp": "2026-02-03T17:47:27.629601",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Stigmergy pattern for multi-agent LLMs (80% fewer API calls)",
+        "url": "https://github.com/KeepALifeUS/autonomous-agents",
+        "timestamp": "2026-02-03T17:47:27.629636",
+        "source": "Hacker News"
     }
 ]
