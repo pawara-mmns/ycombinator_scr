@@ -148,5 +148,203 @@
         "title": "Nano-vLLM: How a vLLM-style inference engine works",
         "url": "https://neutree.ai/blog/nano-vllm-part-1",
         "timestamp": "2026-02-03T15:21:19.133602"
+    },
+    {
+        "title": "50 Years of the Jetsons: Why the Show Still Matters",
+        "url": "https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/",
+        "timestamp": "2026-02-03T16:23:38.740289",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)",
+        "url": "https://safe-now.live",
+        "timestamp": "2026-02-03T16:23:38.740408",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Pretty soon, heat pumps will be able to store and distribute heat as needed",
+        "url": "https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/",
+        "timestamp": "2026-02-03T16:23:38.740694",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Helix: A post-modern text editor",
+        "url": "https://helix-editor.com/",
+        "timestamp": "2026-02-03T16:23:41.027798",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why people say they're using 'Are You Dead?' (&others)",
+        "url": "https://www.npr.org/2026/02/03/nx-s1-5694669/loneliness-isolation-app-are-you-dead-snug-alone",
+        "timestamp": "2026-02-03T16:23:41.027831",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Crime rates of undocumented-, legal immigrants, & native-born citizens in Texas",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2014704117",
+        "timestamp": "2026-02-03T16:23:41.027856",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Linux Emulation on Apple iPads: iSH, JIT, and the EU Digital Markets Act (2024)",
+        "url": "https://ish.app/blog/ish-jit-and-eu",
+        "timestamp": "2026-02-03T16:23:41.027880",
+        "source": "Hacker News"
+    },
+    {
+        "title": "NationStates security breach caused by own player",
+        "url": "https://web.archive.org/web/20260130051909/https://nationstates.net/",
+        "timestamp": "2026-02-03T16:23:41.027904",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I wrote a Semgrep alternative in Rust with cross-file taint tracking",
+        "url": "https://github.com/bumahkib7/rust-monorepo-analyzer",
+        "timestamp": "2026-02-03T16:23:41.027929",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Curlme.io – Terminal-first HTTP request debugging",
+        "url": "https://curlme.io/",
+        "timestamp": "2026-02-03T16:23:41.027953",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Clienwork – Client portal for freelancers and agencies",
+        "url": "https://clienwork.com",
+        "timestamp": "2026-02-03T16:23:41.027979",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Devs Need AI Training",
+        "url": "https://news.ycombinator.com/item?id=46869163",
+        "timestamp": "2026-02-03T16:23:41.028004",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Europe's tech sovereignty watch (74% of EU companies depend on US tech services)",
+        "url": "https://proton.me/business/europe-tech-watch",
+        "timestamp": "2026-02-03T16:23:41.028029",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A11yJSON: A standard to describe the accessibility of the physical world",
+        "url": "https://sozialhelden.github.io/a11yjson/",
+        "timestamp": "2026-02-03T16:23:41.028052",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Maths Worksheet Generator – Fun printable worksheets for kids",
+        "url": "https://maths.antfie.com",
+        "timestamp": "2026-02-03T16:23:41.028077",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How to Convert OST Files to PST",
+        "url": "https://apps.microsoft.com/detail/9p62fq9z8x7p?hl=en-US&gl=US",
+        "timestamp": "2026-02-03T16:23:41.028100",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
+        "url": "http://efp.asia/blog/2025/12/24/api-tooling-crisis/",
+        "timestamp": "2026-02-03T16:23:41.028123",
+        "source": "Hacker News"
+    },
+    {
+        "title": "EU-based transactional email service",
+        "url": "https://lettermint.co",
+        "timestamp": "2026-02-03T16:23:41.028147",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How to Evaluate an Online Tarot Platform (and What Most Users Overlook)",
+        "url": "https://medium.com/@enrique_15267/how-to-evaluate-an-online-tarot-platform-and-what-most-users-overlook-8a8214280d20",
+        "timestamp": "2026-02-03T16:23:41.028171",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Erys: Terminal Interface for Jupyter Notebooks",
+        "url": "https://github.com/natibek/erys",
+        "timestamp": "2026-02-03T16:23:41.028196",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Sealos – AI Native Cloud Cloud Operating System",
+        "url": "https://github.com/labring/sealos",
+        "timestamp": "2026-02-03T16:23:41.028220",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Remote Access to Long-Running AI Tasks: A Tmux and Tailscale Setup Guide",
+        "url": "https://orangehill.dev/posts/how-to-remotely-monitor-your-claude-code-sessions-from-your-phone",
+        "timestamp": "2026-02-03T16:23:41.028244",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Paris prosecutors raid France offices of Elon Musk's X",
+        "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
+        "timestamp": "2026-02-03T16:23:41.028268",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nioh guide site – release info, beginner guides, and builds",
+        "url": "https://nioh3.net/",
+        "timestamp": "2026-02-03T16:23:41.028293",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Highguard Wiki – tier lists, wardens and weapons, beginner guides",
+        "url": "https://highguard.app/",
+        "timestamp": "2026-02-03T16:23:41.028317",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Raw₿It – Visual Raw Transaction Builder and Script Debugger (Open-Source)",
+        "url": "https://github.com/rawBit-io/rawbit",
+        "timestamp": "2026-02-03T16:23:41.028341",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Vcdiff Generic Differencing and Compression Data Format (2002)",
+        "url": "https://datatracker.ietf.org/doc/html/rfc3284",
+        "timestamp": "2026-02-03T16:23:41.028365",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Even remote Pacific fish are full of microplastics",
+        "url": "https://www.sciencedaily.com/releases/2026/02/260203020202.htm",
+        "timestamp": "2026-02-03T16:23:41.028395",
+        "source": "Hacker News"
+    },
+    {
+        "title": "LLMs as the new high level language",
+        "url": "https://federicopereiro.com/llm-high/",
+        "timestamp": "2026-02-03T16:23:41.028422",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Matchbox: A record matching and entity resolution orchestration tool",
+        "url": "https://github.com/uktrade/matchbox",
+        "timestamp": "2026-02-03T16:23:41.028445",
+        "source": "Hacker News"
+    },
+    {
+        "title": "European pensions are in dire need of reform",
+        "url": "https://www.economist.com/graphic-detail/2025/12/01/european-pensions-are-in-dire-need-of-reform",
+        "timestamp": "2026-02-03T16:23:41.028470",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Browser based state machine simulator and visualizer",
+        "url": "https://svylabs.github.io/smac-viz/",
+        "timestamp": "2026-02-03T16:23:41.028493",
+        "source": "Hacker News"
+    },
+    {
+        "title": "U.S. Federal Data Is Disappearing",
+        "url": "https://www.notus.org/trump-white-house/federal-data-is-disappearing",
+        "timestamp": "2026-02-03T16:23:41.028517",
+        "source": "Hacker News"
     }
 ]
