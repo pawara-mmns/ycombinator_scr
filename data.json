@@ -3100,5 +3100,11 @@
         "url": "https://www.youtube.com/watch?v=UEIHfXLMtwA",
         "timestamp": "2026-02-03T19:18:55.421905",
         "source": "Hacker News"
+    },
+    {
+        "title": "Balancing your dataset? Mind the privacy leaks",
+        "url": "https://desfontain.es/blog/smote-and-mirrors.html",
+        "timestamp": "2026-02-03T19:18:55.421941",
+        "source": "Hacker News"
     }
 ]
