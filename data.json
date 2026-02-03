@@ -2320,5 +2320,11 @@
         "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
         "timestamp": "2026-02-03T17:19:16.686530",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deskmate: A local-first AI agent for executing real system actions",
+        "url": "https://github.com/sarkar-ai-taken/deskmate",
+        "timestamp": "2026-02-03T17:19:16.686560",
+        "source": "Hacker News"
     }
 ]
