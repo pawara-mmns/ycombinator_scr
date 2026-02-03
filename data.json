@@ -3868,5 +3868,11 @@
         "url": "https://www.nytimes.com/interactive/2026/02/03/books/judge-ruling-liam-conejo-ramos-analysis.html",
         "timestamp": "2026-02-03T21:10:16.111447",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres managed by ClickHouse",
+        "url": "https://clickhouse.com/cloud/postgres",
+        "timestamp": "2026-02-03T21:10:16.111481",
+        "source": "Hacker News"
     }
 ]
