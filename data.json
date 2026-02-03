@@ -2302,5 +2302,11 @@
         "url": "https://www.thisispamela.com",
         "timestamp": "2026-02-03T17:19:16.686444",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open Source Security in Spite of AI (Daniel Stenberg, Curl, FOSDEM'26)",
+        "url": "https://daniel.haxx.se/blog/2026/02/03/open-source-security-in-spite-of-ai/",
+        "timestamp": "2026-02-03T17:19:16.686472",
+        "source": "Hacker News"
     }
 ]
