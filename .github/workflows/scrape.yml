@@ -1,6 +1,10 @@
 name: Scrape Tech News
 
 on:
+  push:
+    paths:
+      - 'scraper.py'
+      - '.github/workflows/scrape.yml'
   schedule:
     - cron: '*/15 * * * *' # Every 15 minutes
   workflow_dispatch:
