@@ -3694,5 +3694,11 @@
         "url": "https://news.ycombinator.com/item?id=46876813",
         "timestamp": "2026-02-03T20:45:49.062951",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vibecoded a simple reverse proxy for Claude Code with its own UI",
+        "url": "https://github.com/juancgarza/claude-code-proxy",
+        "timestamp": "2026-02-03T20:45:49.062985",
+        "source": "Hacker News"
     }
 ]
