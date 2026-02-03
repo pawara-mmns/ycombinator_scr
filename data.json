@@ -1594,5 +1594,11 @@
         "url": "https://www.tensorlake.ai/blog/the-end-of-database-backed-workflow-engines-building-graphrag-on-object-storage",
         "timestamp": "2026-02-03T15:16:18.288468",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Workflow – A Git-native, local-first DAG orchestrator in Go",
+        "url": "https://github.com/joelfokou/workflow",
+        "timestamp": "2026-02-03T15:16:18.288500",
+        "source": "Hacker News"
     }
 ]
