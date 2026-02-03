@@ -2482,5 +2482,11 @@
         "url": "https://www.theregister.com/2026/02/02/stopice_alerts_hacked/",
         "timestamp": "2026-02-03T17:47:27.629290",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shopify checkout changes broke purchase tracking for many stores",
+        "url": "https://news.ycombinator.com/item?id=46874189",
+        "timestamp": "2026-02-03T17:47:27.629325",
+        "source": "Hacker News"
     }
 ]
