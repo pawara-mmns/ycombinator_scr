@@ -3634,5 +3634,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-02-03/epstein-backed-coinbase-in-crypto-exchange-s-early-years",
         "timestamp": "2026-02-03T20:45:49.062613",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rules_Claude: Hermetic Bazel toolchain and rules for Claude Code",
+        "url": "https://github.com/buildbuddy-io/rules_claude",
+        "timestamp": "2026-02-03T20:45:49.062647",
+        "source": "Hacker News"
     }
 ]
