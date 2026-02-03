@@ -2812,5 +2812,11 @@
         "url": "https://www.ultravox.ai/blog/why-speech-to-speech-is-the-future-for-ai-voice-agents-unpacking-the-aiewf-eval",
         "timestamp": "2026-02-03T18:47:21.751712",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero-sysroot hermetic LLVM cross-compilation using Bazel [video]",
+        "url": "https://fosdem.org/2026/schedule/event/F8SDAA-zero-sysroot_hermetic_llvm_cross-compilation_using_bazel/",
+        "timestamp": "2026-02-03T18:47:21.751748",
+        "source": "Hacker News"
     }
 ]
