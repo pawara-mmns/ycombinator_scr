@@ -3730,5 +3730,11 @@
         "url": "https://yanthomas.dev/articles/documentation-is-more-than-you-think/",
         "timestamp": "2026-02-03T21:10:16.110598",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Scrape (auto-discover APIs or HTML) & Monitor changes on any site",
+        "url": "https://github.com/reverse/meter-sdk",
+        "timestamp": "2026-02-03T21:10:16.110636",
+        "source": "Hacker News"
     }
 ]
