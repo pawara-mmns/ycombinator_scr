@@ -814,5 +814,11 @@
         "url": "https://telemetryagent.dev/blog/shell-theory",
         "timestamp": "2026-02-03T12:47:08.446093",
         "source": "Hacker News"
+    },
+    {
+        "title": "An autonomous MCP Data Engine that handles the dirty work",
+        "url": "https://vespermcp.lovable.app/",
+        "timestamp": "2026-02-03T12:47:08.446131",
+        "source": "Hacker News"
     }
 ]
