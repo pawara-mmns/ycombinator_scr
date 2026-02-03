@@ -364,5 +364,11 @@
         "url": "https://www.theregister.com/2026/02/03/openclaw_security_problems/",
         "timestamp": "2026-02-03T16:32:54.132424",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tgterm – Control Claude Code from Telegram on macOS (< 1000 lines of C code)",
+        "url": "https://github.com/antirez/tgterm",
+        "timestamp": "2026-02-03T16:32:54.132452",
+        "source": "Hacker News"
     }
 ]
