@@ -3064,5 +3064,11 @@
         "url": "https://news.ycombinator.com/item?id=46875622",
         "timestamp": "2026-02-03T19:18:55.421698",
         "source": "Hacker News"
+    },
+    {
+        "title": "ClickHouse Release 26.1",
+        "url": "https://presentations.clickhouse.com/2026-release-26.1/",
+        "timestamp": "2026-02-03T19:18:55.421732",
+        "source": "Hacker News"
     }
 ]
