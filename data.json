@@ -1030,5 +1030,11 @@
         "url": "https://www.chibigenerator.com/",
         "timestamp": "2026-02-03T13:53:01.810063",
         "source": "Hacker News"
+    },
+    {
+        "title": "Signal-First Architectures: Rethinking Front-End Reactivity",
+        "url": "https://arxiv.org/abs/2506.13815",
+        "timestamp": "2026-02-03T13:53:01.810108",
+        "source": "Hacker News"
     }
 ]
