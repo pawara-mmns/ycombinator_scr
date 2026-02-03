@@ -3778,5 +3778,11 @@
         "url": "https://incoherency.co.uk/blog/stories/tractor.html",
         "timestamp": "2026-02-03T21:10:16.110879",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Reimplementing PyTorch from scratch (MLP, CNN) to learn the internals",
+        "url": "https://github.com/geyuxu/nn-from-scratch",
+        "timestamp": "2026-02-03T21:10:16.110914",
+        "source": "Hacker News"
     }
 ]
