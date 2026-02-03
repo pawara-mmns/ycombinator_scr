@@ -1684,5 +1684,11 @@
         "url": "https://pricepertoken.com/leaderboards/openclaw",
         "timestamp": "2026-02-03T15:16:18.288932",
         "source": "Hacker News"
+    },
+    {
+        "title": "New Requests for Startups",
+        "url": "https://www.ycombinator.com/rfs",
+        "timestamp": "2026-02-03T15:16:18.288962",
+        "source": "Hacker News"
     }
 ]
