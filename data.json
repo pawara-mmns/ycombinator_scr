@@ -2848,5 +2848,11 @@
         "url": "https://en.uaebattery.ae/hp-en/battery-hp-l52448-1c1.htm",
         "timestamp": "2026-02-03T18:47:21.751923",
         "source": "Hacker News"
+    },
+    {
+        "title": "Libfyaml v0.9.4: multi platform support YAML 1.2 C library",
+        "url": "https://github.com/pantoniou/libfyaml/releases/tag/v0.9.4",
+        "timestamp": "2026-02-03T18:47:21.751992",
+        "source": "Hacker News"
     }
 ]
