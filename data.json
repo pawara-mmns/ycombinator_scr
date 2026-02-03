@@ -1216,5 +1216,11 @@
         "url": "https://news.ycombinator.com/item?id=46871179",
         "timestamp": "2026-02-03T14:17:50.708678",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sentinel Gate – Open-source RBAC firewall for MCP agents",
+        "url": "https://github.com/Sentinel-Gate/Sentinelgate",
+        "timestamp": "2026-02-03T14:17:50.807647",
+        "source": "Hacker News"
     }
 ]
