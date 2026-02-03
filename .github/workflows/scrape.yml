@@ -1,4 +1,4 @@
-name: Scrape Tech News
+name: Scrape Tech News # Automated Scraper
 
 on:
   push:
