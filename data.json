@@ -3946,5 +3946,11 @@
         "url": "https://mjtsai.com/blog/2026/02/03/sinofsky-on-cook-and-forstall/",
         "timestamp": "2026-02-03T21:25:33.543231",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling GPU-to-CPU Migration for Efficient Distributed Execution on CPU Clusters",
+        "url": "https://dl.acm.org/doi/10.1145/3774934.3786435",
+        "timestamp": "2026-02-03T21:25:33.543271",
+        "source": "Hacker News"
     }
 ]
