@@ -2800,5 +2800,11 @@
         "url": "https://www.bbc.co.uk/news/articles/c0mke841zj0o",
         "timestamp": "2026-02-03T18:47:21.751622",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unbrowse – Skip browser automation on OpenClaw by calling internal APIs directly",
+        "url": "https://github.com/lekt9/unbrowse-openclaw",
+        "timestamp": "2026-02-03T18:47:21.751659",
+        "source": "Hacker News"
     }
 ]
