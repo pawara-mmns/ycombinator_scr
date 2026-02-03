@@ -700,5 +700,11 @@
         "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
         "timestamp": "2026-02-03T12:22:01.077217",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TurboLibBMP stb-style BMP decoder/encoder in C no allocations, embedded",
+        "url": "https://news.ycombinator.com/item?id=46869899",
+        "timestamp": "2026-02-03T12:22:01.077252",
+        "source": "Hacker News"
     }
 ]
