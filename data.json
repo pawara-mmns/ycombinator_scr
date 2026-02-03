@@ -1582,5 +1582,11 @@
         "url": "https://openclawd.wiki",
         "timestamp": "2026-02-03T15:16:18.288391",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: WardGate, give AI agents API access without giving them credentials",
+        "url": "https://github.com/wardgate/wardgate",
+        "timestamp": "2026-02-03T15:16:18.288436",
+        "source": "Hacker News"
     }
 ]
