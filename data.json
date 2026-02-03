@@ -1774,5 +1774,11 @@
         "url": "https://www.botlovin.ai/",
         "timestamp": "2026-02-03T15:46:34.267246",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built an AI movie making and design engine in Rust",
+        "url": "https://github.com/storytold/artcraft",
+        "timestamp": "2026-02-03T15:46:34.267282",
+        "source": "Hacker News"
     }
 ]
