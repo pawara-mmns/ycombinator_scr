@@ -1078,5 +1078,11 @@
         "url": "https://ajmoon.com/posts/joyus-i-hacked-datastar-to-support-web-components",
         "timestamp": "2026-02-03T13:53:01.810320",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Difi – Git diff TUI with NVIM support built with Go and Bubbletea",
+        "url": "https://github.com/oug-t/difi",
+        "timestamp": "2026-02-03T13:53:01.810350",
+        "source": "Hacker News"
     }
 ]
