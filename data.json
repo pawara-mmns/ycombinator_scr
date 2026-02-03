@@ -1252,5 +1252,11 @@
         "url": "https://clawshot.ai/",
         "timestamp": "2026-02-03T14:17:50.807844",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OmniDB – Thin database orchestration (failover, health checks) for Node",
+        "url": "https://github.com/sathvikc/omni-db",
+        "timestamp": "2026-02-03T14:17:50.807936",
+        "source": "Hacker News"
     }
 ]
