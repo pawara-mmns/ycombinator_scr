@@ -694,5 +694,11 @@
         "url": "https://weather-sense.leftium.com/?calm",
         "timestamp": "2026-02-03T12:22:01.077183",
         "source": "Hacker News"
+    },
+    {
+        "title": "Incident CVE-2024-Yikes",
+        "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+        "timestamp": "2026-02-03T12:22:01.077217",
+        "source": "Hacker News"
     }
 ]
