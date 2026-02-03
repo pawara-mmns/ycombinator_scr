@@ -646,5 +646,11 @@
         "url": "https://secureclaw.dev/",
         "timestamp": "2026-02-03T12:22:01.076881",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bunny Database",
+        "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
+        "timestamp": "2026-02-03T12:22:01.076934",
+        "source": "Hacker News"
     }
 ]
