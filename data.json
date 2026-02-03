@@ -3148,5 +3148,11 @@
         "url": "https://group.miletic.net/en/blog/2026-01-31-openssh-connections-with-post-quantum-key-exchange-through-wireguard-tunnel/",
         "timestamp": "2026-02-03T19:18:55.422185",
         "source": "Hacker News"
+    },
+    {
+        "title": "EzAuth – Simple and plugnplay auth library for Golang",
+        "url": "https://github.com/josuebrunel/ezauth",
+        "timestamp": "2026-02-03T19:45:39.277807",
+        "source": "Hacker News"
     }
 ]
