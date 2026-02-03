@@ -3874,5 +3874,11 @@
         "url": "https://clickhouse.com/cloud/postgres",
         "timestamp": "2026-02-03T21:10:16.111481",
         "source": "Hacker News"
+    },
+    {
+        "title": "Life without good internet is boring",
+        "url": "https://blog.usmanity.com/posts/life-without-good-internet-is-boring",
+        "timestamp": "2026-02-03T21:10:16.111515",
+        "source": "Hacker News"
     }
 ]
