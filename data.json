@@ -1984,5 +1984,11 @@
         "url": "https://www.autoblog.com/news/the-9000-rpm-honda-engine-that-shouldnt-have-been-possible",
         "timestamp": "2026-02-03T16:42:58.362380",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: PII-Shield – Log Sanitization Sidecar with JSON Integrity (Go, Entropy)",
+        "url": "https://github.com/aragossa/pii-shield",
+        "timestamp": "2026-02-03T16:42:58.362412",
+        "source": "Hacker News"
     }
 ]
