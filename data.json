@@ -394,5 +394,11 @@
         "url": "https://news.ycombinator.com/item?id=46869322",
         "timestamp": "2026-02-03T16:32:54.132559",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Java library for writing Helm chart tests",
+        "url": "https://github.com/robmoore-i/helm-test-java",
+        "timestamp": "2026-02-03T11:10:40.015335",
+        "source": "Hacker News"
     }
 ]
