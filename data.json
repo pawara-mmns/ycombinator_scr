@@ -1510,5 +1510,11 @@
         "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-growth-has-officially-hit-a-brick-wall-and-users-appear-to-be-fleeing-back-to-windows-10",
         "timestamp": "2026-02-03T14:45:52.293282",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sandboxing untrusted code using WebAssembly",
+        "url": "https://github.com/mavdol/capsule",
+        "timestamp": "2026-02-03T14:45:52.293319",
+        "source": "Hacker News"
     }
 ]
