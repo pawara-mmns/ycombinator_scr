@@ -916,5 +916,11 @@
         "url": "https://hackaday.com/2026/02/02/kde-binds-itself-tightly-to-systemd-drops-support-for-non-systemd-systems/",
         "timestamp": "2026-02-03T13:26:56.649345",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Unsuitability of Using LoRa Gateway Concentrators with MeshCore",
+        "url": "https://housedillon.com/blog/meshcore-and-lorawan/",
+        "timestamp": "2026-02-03T13:26:56.649381",
+        "source": "Hacker News"
     }
 ]
