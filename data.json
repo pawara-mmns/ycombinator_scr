@@ -604,5 +604,11 @@
         "url": "https://kotaku.com/gog-ai-art-banner-ad-confirms-discord-message-small-team-slop-2000665056",
         "timestamp": "2026-02-03T11:58:20.737930",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
+        "url": "https://github.com/whispem/minikv",
+        "timestamp": "2026-02-03T12:22:00.780308",
+        "source": "Hacker News"
     }
 ]
