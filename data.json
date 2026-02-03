@@ -1666,5 +1666,11 @@
         "url": "https://www.gamespot.com/articles/adobe-is-killing-a-popular-animation-and-game-development-program/1100-6537851/",
         "timestamp": "2026-02-03T15:16:18.288841",
         "source": "Hacker News"
+    },
+    {
+        "title": "HeartMuse – Local AI music generator with smart lyrics (HeartMuLa and Ollama)",
+        "url": "https://github.com/strnad/HeartMuse",
+        "timestamp": "2026-02-03T15:16:18.288872",
+        "source": "Hacker News"
     }
 ]
