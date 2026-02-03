@@ -1618,5 +1618,11 @@
         "url": "https://www.reuters.com/world/asia-pacific/china-ban-hidden-car-door-handles-address-safety-fears-2026-02-03/",
         "timestamp": "2026-02-03T15:16:18.288591",
         "source": "Hacker News"
+    },
+    {
+        "title": "Detecting Hallucinations in LLM with Cohomology",
+        "url": "https://mathinspector.com/papers/hallucinations-cohomology.html",
+        "timestamp": "2026-02-03T15:16:18.288620",
+        "source": "Hacker News"
     }
 ]
