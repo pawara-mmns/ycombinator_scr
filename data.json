@@ -1120,5 +1120,11 @@
         "url": "https://news.ycombinator.com/item?id=46870868",
         "timestamp": "2026-02-03T13:53:01.810527",
         "source": "Hacker News"
+    },
+    {
+        "title": "Escape from the Monolith, Green CI and Red Production, the Zombie Project",
+        "url": "https://failhub.substack.com/p/failhub-issue-4",
+        "timestamp": "2026-02-03T13:53:01.810556",
+        "source": "Hacker News"
     }
 ]
