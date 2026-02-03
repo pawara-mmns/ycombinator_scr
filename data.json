@@ -1426,5 +1426,11 @@
         "url": "https://gdbs.getvaultsync.com",
         "timestamp": "2026-02-03T14:45:52.292780",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Redress – failure policy for Python services",
+        "url": "https://github.com/aponysus/redress",
+        "timestamp": "2026-02-03T14:45:52.292816",
+        "source": "Hacker News"
     }
 ]
