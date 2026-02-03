@@ -3256,5 +3256,11 @@
         "url": "https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/",
         "timestamp": "2026-02-03T19:45:39.278420",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using a CSV File in S3 as a \"Database\"",
+        "url": "https://tim.bai.uno/using-a-csv-file-in-s3-as-a-database-a-surprisingly-practical-pattern/",
+        "timestamp": "2026-02-03T19:45:39.278453",
+        "source": "Hacker News"
     }
 ]
