@@ -74,21 +74,59 @@ def load_existing_data():
             return []
     return []
 
-def save_data(data):
-    # Determine uniqueness by URL
+import subprocess
+
+def save_and_commit(new_items, all_data):
+    # We need to save the file and commit FOR EACH new item to have unique commits
+    # This implies we are appending one by one and committing one by one.
+    
+    # Reload data to ensure we have the base state (though all_data passed in helps)
+    # But to be safe and simple: 
+    # 1. We have the full updated list 'all_data' which contains everything.
+    # 2. But we need to 'replay' the saving for the new items to get individual commits.
+    
+    # Strategy: 
+    # The 'all_data' passed here is actually the FINAL state. 
+    # We should back up a bit. 
+    # Let's refactor 'save_data' entirely.
+    pass
+
+def process_and_save(fetched_articles):
     existing_data = load_existing_data()
     existing_urls = {item['url'] for item in existing_data}
     
     new_items_count = 0
-    for item in data:
-        if item['url'] not in existing_urls:
-            existing_data.append(item)
-            new_items_count += 1
+    commits_made = False
+    
+    for article in fetched_articles:
+        if article['url'] not in existing_urls:
+            # Add to memory
+            existing_data.append(article)
+            existing_urls.add(article['url'])
             
-    with open(DATA_FILE, 'w', encoding='utf-8') as f:
-        json.dump(existing_data, f, indent=4, ensure_ascii=False)
-        
-    print(f"Scraping complete. Added {new_items_count} new items.")
+            # Save to file immediately
+            with open(DATA_FILE, 'w', encoding='utf-8') as f:
+                json.dump(existing_data, f, indent=4, ensure_ascii=False)
+            
+            # Commit immediately
+            try:
+                print(f"Committing new article: {article['title']}")
+                subprocess.run(["git", "add", DATA_FILE], check=True)
+                subprocess.run(["git", "commit", "-m", f"Add article: {article['title']}"], check=True)
+                commits_made = True
+                new_items_count += 1
+            except subprocess.CalledProcessError as e:
+                print(f"Git commit failed: {e}")
+
+    if commits_made:
+        print(f"Pushing {new_items_count} new commits...")
+        try:
+            subprocess.run(["git", "push"], check=True)
+            print("Push successful.")
+        except subprocess.CalledProcessError as e:
+            print(f"Git push failed: {e}")
+    else:
+        print("No new items to commit.")
 
 def main():
     all_articles = []
@@ -107,7 +145,7 @@ def main():
             print(f"Failed to retrieve data for {source['name']}.")
             
     if all_articles:
-        save_data(all_articles)
+        process_and_save(all_articles)
     else:
         print("No articles found across all sources.")
 
