@@ -4414,5 +4414,11 @@
         "url": "https://frontier-cs.org/blog/feb-release/",
         "timestamp": "2026-02-03T22:48:22.280088",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Run QuantLib pricing in parallel via gRPC and FlatBuffers",
+        "url": "https://github.com/joseprupi/quantraserver",
+        "timestamp": "2026-02-03T22:48:22.280126",
+        "source": "Hacker News"
     }
 ]
