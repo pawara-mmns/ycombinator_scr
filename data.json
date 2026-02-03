@@ -4186,5 +4186,11 @@
         "url": "http://ternarysearch.blogspot.com/2026/02/llm-quantization-and-nvfp4.html",
         "timestamp": "2026-02-03T21:59:01.101341",
         "source": "Hacker News"
+    },
+    {
+        "title": "Use \"\\A \\z\", not \"^ $\" with Python regular expressions – Seth Larson",
+        "url": "https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-$-with-python-regular-expressions",
+        "timestamp": "2026-02-03T21:59:01.101375",
+        "source": "Hacker News"
     }
 ]
