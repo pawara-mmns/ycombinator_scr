@@ -730,5 +730,11 @@
         "url": "https://status.hetzner.com/",
         "timestamp": "2026-02-03T12:47:08.445547",
         "source": "Hacker News"
+    },
+    {
+        "title": "Millets: A practical memory-safety and thread-safety experiment",
+        "url": "https://eagledot.xyz/millets.md.html",
+        "timestamp": "2026-02-03T12:47:08.445588",
+        "source": "Hacker News"
     }
 ]
