@@ -1648,5 +1648,11 @@
         "url": "https://phys.org/news/2026-01-cuttlefish-polarized-display-invisible-humans.html",
         "timestamp": "2026-02-03T15:16:18.288738",
         "source": "Hacker News"
+    },
+    {
+        "title": "C++ Minesweeper v0.2.0",
+        "url": "http://81net.duckdns.org/git/cgit.cgi/minesweeper.git/",
+        "timestamp": "2026-02-03T15:16:18.288767",
+        "source": "Hacker News"
     }
 ]
