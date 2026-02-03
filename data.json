@@ -2284,5 +2284,11 @@
         "url": "https://n8n.io/ai-benchmark/",
         "timestamp": "2026-02-03T17:19:16.686358",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built \"AI Wattpad\" to eval LLMs on fiction",
+        "url": "https://narrator.sh/llm-leaderboard",
+        "timestamp": "2026-02-03T17:19:16.686387",
+        "source": "Hacker News"
     }
 ]
