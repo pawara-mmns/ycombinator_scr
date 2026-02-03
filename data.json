@@ -4630,5 +4630,11 @@
         "url": "https://news.ycombinator.com/item?id=46878999",
         "timestamp": "2026-02-03T23:40:29.563999",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hybrid MARL + Linear Programming Architecture for Logistics Scheduling",
+        "url": "https://medium.com/@alexlevinml/generalizable-marl-lp-approach-for-scheduling-in-logistics-5203805196f7",
+        "timestamp": "2026-02-03T23:40:29.564035",
+        "source": "Hacker News"
     }
 ]
