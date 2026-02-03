@@ -3574,5 +3574,11 @@
         "url": "https://github.com/carter2099/hyperliquid",
         "timestamp": "2026-02-03T20:25:44.483494",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Real-world speedrun timer that auto-ticks via vision on smart glasses",
+        "url": "https://github.com/RealComputer/GlassKit/tree/main/examples/rokid-rfdetr",
+        "timestamp": "2026-02-03T20:45:49.062208",
+        "source": "Hacker News"
     }
 ]
