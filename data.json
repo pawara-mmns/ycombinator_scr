@@ -1342,5 +1342,11 @@
         "url": "https://www.sudo.ws/about/logo/",
         "timestamp": "2026-02-03T14:17:50.808459",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deobfuscate JavaScript code using ChatGPT",
+        "url": "https://github.com/jehna/humanify",
+        "timestamp": "2026-02-03T14:17:50.808494",
+        "source": "Hacker News"
     }
 ]
