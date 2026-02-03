@@ -2776,5 +2776,11 @@
         "url": "https://www.youtube.com/watch?v=OZmP466Rt34",
         "timestamp": "2026-02-03T18:18:06.453461",
         "source": "Hacker News"
+    },
+    {
+        "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+        "url": "https://github.com/alibaba/AliSQL",
+        "timestamp": "2026-02-03T18:47:21.652322",
+        "source": "Hacker News"
     }
 ]
