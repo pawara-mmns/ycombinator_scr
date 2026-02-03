@@ -478,5 +478,11 @@
         "url": "https://notchable.com",
         "timestamp": "2026-02-03T11:25:42.336688",
         "source": "Hacker News"
+    },
+    {
+        "title": "uLauncher",
+        "url": "https://github.com/jrpie/launcher",
+        "timestamp": "2026-02-03T11:44:13.724822",
+        "source": "Hacker News"
     }
 ]
