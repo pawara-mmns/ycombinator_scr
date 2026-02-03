@@ -1444,5 +1444,11 @@
         "url": "https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats",
         "timestamp": "2026-02-03T14:45:52.292888",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
+        "url": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
+        "timestamp": "2026-02-03T14:45:52.292925",
+        "source": "Hacker News"
     }
 ]
