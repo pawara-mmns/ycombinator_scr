@@ -2050,5 +2050,11 @@
         "url": "https://www.sciencealert.com/painful-side-effect-of-statins-explained-after-decades-of-mystery",
         "timestamp": "2026-02-03T16:42:58.362711",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
+        "url": "https://github.com/j178/prek",
+        "timestamp": "2026-02-03T16:42:58.362740",
+        "source": "Hacker News"
     }
 ]
