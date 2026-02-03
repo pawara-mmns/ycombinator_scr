@@ -4360,5 +4360,11 @@
         "url": "https://twitter.com/AlexWeichart/status/2018812097828962629",
         "timestamp": "2026-02-03T22:29:53.623360",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scurl: Agent First Curl Wrapper with Markdown Extraction and Secret Blocking",
+        "url": "https://github.com/sibyllinesoft/scurl",
+        "timestamp": "2026-02-03T22:29:53.623397",
+        "source": "Hacker News"
     }
 ]
