@@ -3502,5 +3502,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool",
         "timestamp": "2026-02-03T20:25:44.483075",
         "source": "Hacker News"
+    },
+    {
+        "title": "WordPress Boost – MCP server that exposes WordPress internals to AI agents",
+        "url": "https://github.com/thanoseleftherakos/wordpress-boost",
+        "timestamp": "2026-02-03T20:25:44.483113",
+        "source": "Hacker News"
     }
 ]
