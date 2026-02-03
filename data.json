@@ -2950,5 +2950,11 @@
         "url": "https://medium.com/writewithai",
         "timestamp": "2026-02-03T18:47:21.752542",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code 2.1.27: OOM crash in 20s, 19 incidents in 14 days",
+        "url": "https://gist.github.com/LEX8888/675867b7f130b7ad614905c9dd86b57a",
+        "timestamp": "2026-02-03T18:47:21.752577",
+        "source": "Hacker News"
     }
 ]
