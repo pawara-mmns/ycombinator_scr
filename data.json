@@ -3910,5 +3910,11 @@
         "url": "https://www.geekwire.com/2026/microsoft-campus-library-closes-in-broader-shift-to-ai-powered-digital-learning-experiences/",
         "timestamp": "2026-02-03T21:25:33.543001",
         "source": "Hacker News"
+    },
+    {
+        "title": "Turning raw RSS feeds into narrow, custom-formatted news briefings",
+        "url": "https://github.com/badgiovi/news-editor-agent",
+        "timestamp": "2026-02-03T21:25:33.543038",
+        "source": "Hacker News"
     }
 ]
