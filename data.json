@@ -3424,5 +3424,11 @@
         "url": "https://www.theregister.com/2026/02/03/microsoft_tls_deprecations/",
         "timestamp": "2026-02-03T20:09:38.335928",
         "source": "Hacker News"
+    },
+    {
+        "title": "When rust ≠ performance. a lesson in developer experience",
+        "url": "https://suriya.cc/tech/performance/oxen-add/",
+        "timestamp": "2026-02-03T20:09:38.335957",
+        "source": "Hacker News"
     }
 ]
