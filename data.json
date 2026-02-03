@@ -2998,5 +2998,11 @@
         "url": "https://blog.exe.dev/codebase-as-prompt",
         "timestamp": "2026-02-03T19:18:55.421295",
         "source": "Hacker News"
+    },
+    {
+        "title": "superfly/tokenizer: HTTP proxy that injects 3rd party credentials into requests",
+        "url": "https://github.com/superfly/tokenizer",
+        "timestamp": "2026-02-03T19:18:55.421347",
+        "source": "Hacker News"
     }
 ]
