@@ -346,5 +346,11 @@
         "url": "https://www.notus.org/trump-white-house/federal-data-is-disappearing",
         "timestamp": "2026-02-03T16:23:41.028517",
         "source": "Hacker News"
+    },
+    {
+        "title": "Same SQL, Different Results: A Subtle Oracle vs. PostgreSQL Migration Bug",
+        "url": "https://databaserookies.wordpress.com/2026/01/30/same-sql-different-results-a-subtle-oracle-vs-postgresql-migration-bug/",
+        "timestamp": "2026-02-03T16:32:52.691806",
+        "source": "Hacker News"
     }
 ]
