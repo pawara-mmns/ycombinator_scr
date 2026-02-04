@@ -10702,5 +10702,11 @@
         "url": "https://morphllm.com/products/glance",
         "timestamp": "2026-02-04T22:42:03.493947",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing an optimizing tensor compiler from scratch",
+        "url": "https://michaelmoroz.github.io/WritingAnOptimizingTensorCompilerFromScratch/",
+        "timestamp": "2026-02-04T22:42:03.494255",
+        "source": "Hacker News"
     }
 ]
