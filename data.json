@@ -10348,5 +10348,11 @@
         "url": "https://rietta.com/blog/ai-sql-database-data-protection-read-replica/",
         "timestamp": "2026-02-04T21:43:12.699148",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lessons from BF-Tree: Building a Concurrent Larger-Than-Memory Index in Rust",
+        "url": "https://zhihanz.github.io/posts/bf-tree-rust-implementation/",
+        "timestamp": "2026-02-04T21:43:12.699219",
+        "source": "Hacker News"
     }
 ]
