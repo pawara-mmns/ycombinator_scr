@@ -5572,5 +5572,11 @@
         "url": "https://en.wikipedia.org/wiki/Chinese_drywall",
         "timestamp": "2026-02-04T04:57:51.759339",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQLite in Production? Not So Fast for Complex Queries",
+        "url": "https://yyhh.org/blog/2026/01/sqlite-in-production-not-so-fast-for-complex-queries/",
+        "timestamp": "2026-02-04T04:57:51.759373",
+        "source": "Hacker News"
     }
 ]
