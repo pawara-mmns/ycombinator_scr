@@ -8098,5 +8098,11 @@
         "url": "https://www.electronicosfantasticos.com/en/works/barcoder/",
         "timestamp": "2026-02-04T15:15:20.479166",
         "source": "Hacker News"
+    },
+    {
+        "title": "Distributing Go binaries like SQLite-scanner through PyPI using go-to-wheel",
+        "url": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/",
+        "timestamp": "2026-02-04T15:15:20.479200",
+        "source": "Hacker News"
     }
 ]
