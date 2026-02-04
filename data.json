@@ -8974,5 +8974,11 @@
         "url": "https://www.theregister.com/2026/02/04/server_cpus_memory_shortage/",
         "timestamp": "2026-02-04T17:46:04.758373",
         "source": "Hacker News"
+    },
+    {
+        "title": "Feedsmith: Emacs RSS reader with Feedbin sync, pluggable back ends",
+        "url": "https://github.com/curtismchale/feedsmith",
+        "timestamp": "2026-02-04T17:46:04.758408",
+        "source": "Hacker News"
     }
 ]
