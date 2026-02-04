@@ -9568,5 +9568,11 @@
         "url": "https://thecritic.co.uk/the-very-strange-downfall-of-noam-chomsky/",
         "timestamp": "2026-02-04T19:16:51.989761",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hermetic Bazel toolchain and ruleset for OpenAI's Codex coding agent",
+        "url": "https://github.com/buildbuddy-io/rules_codex",
+        "timestamp": "2026-02-04T19:16:51.989797",
+        "source": "Hacker News"
     }
 ]
