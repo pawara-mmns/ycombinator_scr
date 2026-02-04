@@ -4762,5 +4762,11 @@
         "url": "https://www.adweek.com/media/amazon-agentic-ads-model-context-protocol/",
         "timestamp": "2026-02-04T00:19:45.704132",
         "source": "Hacker News"
+    },
+    {
+        "title": "Engine-Bench: Evaluating Coding Agents on Writing Game Engine Code",
+        "url": "https://github.com/JoshuaPurtell/engine-bench",
+        "timestamp": "2026-02-04T00:19:45.704174",
+        "source": "Hacker News"
     }
 ]
