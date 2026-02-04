@@ -9370,5 +9370,11 @@
         "url": "https://doitliam.com",
         "timestamp": "2026-02-04T18:46:50.061023",
         "source": "Hacker News"
+    },
+    {
+        "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
+        "url": "https://github.com/naver/lispe",
+        "timestamp": "2026-02-04T18:46:50.061057",
+        "source": "Hacker News"
     }
 ]
