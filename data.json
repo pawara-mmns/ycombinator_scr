@@ -8392,5 +8392,11 @@
         "url": "https://grok-imagine.me/",
         "timestamp": "2026-02-04T16:15:55.647600",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Seren – Serverless Postgres, Rust SDK, CLI, & MCP Server for AI Agents",
+        "url": "https://github.com/serenorg/seren",
+        "timestamp": "2026-02-04T16:15:55.647641",
+        "source": "Hacker News"
     }
 ]
