@@ -5578,5 +5578,11 @@
         "url": "https://yyhh.org/blog/2026/01/sqlite-in-production-not-so-fast-for-complex-queries/",
         "timestamp": "2026-02-04T04:57:51.759373",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nod – A protocol for agent-to-agent security handshakes",
+        "url": "https://github.com/mraml/nod-rules/blob/main/library/negotiation-protocol.yaml",
+        "timestamp": "2026-02-04T04:57:51.759406",
+        "source": "Hacker News"
     }
 ]
