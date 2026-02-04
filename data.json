@@ -9778,5 +9778,11 @@
         "url": "https://www.youtube.com/watch?v=1AZA1zoP-II",
         "timestamp": "2026-02-04T19:43:36.292128",
         "source": "Hacker News"
+    },
+    {
+        "title": "Beginner's Guide: Your First Web Scraper with Python and ScrapingDuck",
+        "url": "https://scrapingduck.com/python-web-scraping-with-scrapingduck/",
+        "timestamp": "2026-02-04T19:43:36.292166",
+        "source": "Hacker News"
     }
 ]
