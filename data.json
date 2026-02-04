@@ -7186,5 +7186,11 @@
         "url": "https://news.ycombinator.com/item?id=46885171",
         "timestamp": "2026-02-04T12:49:32.230463",
         "source": "Hacker News"
+    },
+    {
+        "title": "Composite data type performance issues in PostgreSQL",
+        "url": "https://www.cybertec-postgresql.com/en/composite-type-performance-issues-in-postgresql/",
+        "timestamp": "2026-02-04T12:49:32.230534",
+        "source": "Hacker News"
     }
 ]
