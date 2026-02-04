@@ -8020,5 +8020,11 @@
         "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
         "timestamp": "2026-02-04T15:15:20.231443",
         "source": "Hacker News"
+    },
+    {
+        "title": "Coding Agent VMs on NixOS with Microvm.nix",
+        "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+        "timestamp": "2026-02-04T15:15:20.232102",
+        "source": "Hacker News"
     }
 ]
