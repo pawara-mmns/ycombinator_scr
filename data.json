@@ -8122,5 +8122,11 @@
         "url": "https://sendrec.eu/blog/why-video-tool-source-code-matters-more-than-privacy-policy/",
         "timestamp": "2026-02-04T15:15:20.479300",
         "source": "Hacker News"
+    },
+    {
+        "title": "Confidential Computing Adds a Crazy Amount of Overhead to GPUs",
+        "url": "https://bomfather.dev/blog/confidential-computing-overhead/",
+        "timestamp": "2026-02-04T15:15:20.479335",
+        "source": "Hacker News"
     }
 ]
