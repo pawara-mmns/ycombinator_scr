@@ -5440,5 +5440,11 @@
         "url": "https://www.johnbell.studio",
         "timestamp": "2026-02-04T04:21:05.044472",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simpler Java Project Setup with Mill",
+        "url": "https://mill-build.org/blog/17-simpler-jvm-mill-110.html",
+        "timestamp": "2026-02-04T04:21:05.044507",
+        "source": "Hacker News"
     }
 ]
