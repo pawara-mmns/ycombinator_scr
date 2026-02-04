@@ -5860,5 +5860,11 @@
         "url": "https://www.youtube.com/watch?v=iq1WmAVb3Sg",
         "timestamp": "2026-02-04T06:46:44.179082",
         "source": "Hacker News"
+    },
+    {
+        "title": "Embedded Vector and Graph Database in Pure Go",
+        "url": "https://github.com/liliang-cn/sqvect",
+        "timestamp": "2026-02-04T06:46:44.179111",
+        "source": "Hacker News"
     }
 ]
