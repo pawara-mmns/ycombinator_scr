@@ -10900,5 +10900,11 @@
         "url": "https://news.ycombinator.com/item?id=46893115",
         "timestamp": "2026-02-04T23:06:05.983703",
         "source": "Hacker News"
+    },
+    {
+        "title": "A sandbox-safe macOS gateway for AI agents",
+        "url": "https://github.com/ericblue/mac-agent-gateway",
+        "timestamp": "2026-02-04T23:06:05.983738",
+        "source": "Hacker News"
     }
 ]
