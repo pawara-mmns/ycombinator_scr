@@ -6556,5 +6556,11 @@
         "url": "https://banteg.xyz/posts/takopi/",
         "timestamp": "2026-02-04T10:01:31.521339",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing an Async Runtime in Rust",
+        "url": "https://michaelhelvey.dev/posts/rust_async_runtime",
+        "timestamp": "2026-02-04T10:01:31.521373",
+        "source": "Hacker News"
     }
 ]
