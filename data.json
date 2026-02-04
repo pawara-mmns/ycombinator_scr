@@ -10474,5 +10474,11 @@
         "url": "https://crates.io/crates/ovid",
         "timestamp": "2026-02-04T21:43:12.699908",
         "source": "Hacker News"
+    },
+    {
+        "title": "Litestream Writable VFS",
+        "url": "https://fly.io/blog/litestream-writable-vfs/",
+        "timestamp": "2026-02-04T21:55:50.320503",
+        "source": "Hacker News"
     }
 ]
