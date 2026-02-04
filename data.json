@@ -10396,5 +10396,11 @@
         "url": "https://twitter.com/garrytan/status/2018368128108167344",
         "timestamp": "2026-02-04T21:43:12.699461",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Kubernetes is retiring Ingress Nginx",
+        "url": "https://thenewstack.io/kubernetes-to-retire-ingress-nginx/",
+        "timestamp": "2026-02-04T21:43:12.699494",
+        "source": "Hacker News"
     }
 ]
