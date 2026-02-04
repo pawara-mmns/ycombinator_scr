@@ -9676,5 +9676,11 @@
         "url": "https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test)",
         "timestamp": "2026-02-04T19:43:36.291420",
         "source": "Hacker News"
+    },
+    {
+        "title": "MLflow's Missing Validators: An Authorization Bypass Across API Surfaces",
+        "url": "https://tachyon.so/blog/mlfow-bypass",
+        "timestamp": "2026-02-04T19:43:36.291455",
+        "source": "Hacker News"
     }
 ]
