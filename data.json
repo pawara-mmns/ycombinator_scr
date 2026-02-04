@@ -6646,5 +6646,11 @@
         "url": "https://davidbessis.substack.com/p/attention-is-all-we-have",
         "timestamp": "2026-02-04T10:26:27.169576",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sandboxed script execution from VBA with support for module system",
+        "url": "https://github.com/ECP-Solutions/ASF/blob/main/README.md",
+        "timestamp": "2026-02-04T10:26:27.169616",
+        "source": "Hacker News"
     }
 ]
