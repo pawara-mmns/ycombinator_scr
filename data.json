@@ -9544,5 +9544,11 @@
         "url": "https://github.com/stym06/kepler",
         "timestamp": "2026-02-04T19:16:51.989599",
         "source": "Hacker News"
+    },
+    {
+        "title": "F# Pattern Matching",
+        "url": "https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/pattern-matching",
+        "timestamp": "2026-02-04T19:16:51.989634",
+        "source": "Hacker News"
     }
 ]
