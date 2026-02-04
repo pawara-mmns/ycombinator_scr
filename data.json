@@ -8722,5 +8722,11 @@
         "url": "https://backseat-writer.vercel.app/demo",
         "timestamp": "2026-02-04T16:46:22.282048",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Implementation of Google's PaperBanana (diagram generation from text)",
+        "url": "https://github.com/llmsresearch/paperbanana",
+        "timestamp": "2026-02-04T16:46:22.282084",
+        "source": "Hacker News"
     }
 ]
