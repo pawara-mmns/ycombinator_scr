@@ -8044,5 +8044,11 @@
         "url": "https://news.ycombinator.com/item?id=46886775",
         "timestamp": "2026-02-04T15:15:20.478845",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multifloats.jl: the world's fastest extended-precision floating-point arithmetic",
+        "url": "https://github.com/dzhang314/MultiFloats.jl",
+        "timestamp": "2026-02-04T15:15:20.478882",
+        "source": "Hacker News"
     }
 ]
