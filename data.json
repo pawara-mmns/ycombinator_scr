@@ -6616,5 +6616,11 @@
         "url": "https://www.qrexpress.org/#en",
         "timestamp": "2026-02-04T10:26:27.169330",
         "source": "Hacker News"
+    },
+    {
+        "title": "The engineering behind GitHub Copilot CLI's animated ASCII banner",
+        "url": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
+        "timestamp": "2026-02-04T10:26:27.169373",
+        "source": "Hacker News"
     }
 ]
