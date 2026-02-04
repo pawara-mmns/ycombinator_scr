@@ -9328,5 +9328,11 @@
         "url": "https://moltsearch.algolia.com",
         "timestamp": "2026-02-04T18:46:50.060781",
         "source": "Hacker News"
+    },
+    {
+        "title": "Learning Low-Level Computing and C++ by Making a Game Boy Emulator",
+        "url": "https://byteofmelon.com/blog/2026/making-of-gamebyte",
+        "timestamp": "2026-02-04T18:46:50.060815",
+        "source": "Hacker News"
     }
 ]
