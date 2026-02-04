@@ -6418,5 +6418,11 @@
         "url": "https://www.airtable.com/newsroom/introducing-superagent",
         "timestamp": "2026-02-04T09:32:37.009539",
         "source": "Hacker News"
+    },
+    {
+        "title": "How LLMs Scaled from 512 to 2M Context: A Technical Deep Dive",
+        "url": "https://amaarora.github.io/posts/2025-09-21-rope-context-extension.html",
+        "timestamp": "2026-02-04T09:32:37.009573",
+        "source": "Hacker News"
     }
 ]
