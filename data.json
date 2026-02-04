@@ -4816,5 +4816,11 @@
         "url": "https://mementomori.club",
         "timestamp": "2026-02-04T00:19:45.704463",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nono: A secure, kernel-enforced capability sandbox for AI agents",
+        "url": "https://github.com/lukehinds/nono",
+        "timestamp": "2026-02-04T00:19:45.704498",
+        "source": "Hacker News"
     }
 ]
