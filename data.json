@@ -8884,5 +8884,11 @@
         "url": "https://www.currentaffairs.org/news/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire",
         "timestamp": "2026-02-04T17:17:52.134234",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Small \"AI slop\" classifier running in a browser extension",
+        "url": "https://github.com/distil-labs/distil-ai-slop-detector",
+        "timestamp": "2026-02-04T17:17:52.134269",
+        "source": "Hacker News"
     }
 ]
