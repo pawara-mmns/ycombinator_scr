@@ -11044,5 +11044,11 @@
         "url": "https://www.thebignewsletter.com/p/the-boomcession-why-everyone-but",
         "timestamp": "2026-02-04T23:40:30.791218",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Trigger in the Haystack: Extracting and Reconstructing LLM Backdoor Triggers",
+        "url": "https://arxiv.org/abs/2602.03085",
+        "timestamp": "2026-02-04T23:40:30.791247",
+        "source": "Hacker News"
     }
 ]
