@@ -7786,5 +7786,11 @@
         "url": "https://roastmy.online",
         "timestamp": "2026-02-04T14:16:46.967350",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mmdr – 1000x faster Mermaid rendering in pure Rust (no browser)",
+        "url": "https://github.com/1jehuang/mermaid-rs-renderer/blob/master/README.md",
+        "timestamp": "2026-02-04T14:16:46.967386",
+        "source": "Hacker News"
     }
 ]
