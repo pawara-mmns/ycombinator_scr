@@ -7864,5 +7864,11 @@
         "url": "https://kotaku.com/gdc-2026-survey-ai-union-layoff-xbox-ps5-trump-2000664245",
         "timestamp": "2026-02-04T14:45:14.430262",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Built an Agent to Fix Context Issues",
+        "url": "https://johnoct.github.io/blog/2025/08/18/optimizing-claude-context-with-specialized-agent/",
+        "timestamp": "2026-02-04T14:45:14.430298",
+        "source": "Hacker News"
     }
 ]
