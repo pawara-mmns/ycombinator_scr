@@ -9304,5 +9304,11 @@
         "url": "https://github.com/willswire/cluster",
         "timestamp": "2026-02-04T18:46:50.060639",
         "source": "Hacker News"
+    },
+    {
+        "title": "Devenv: Declarative Developer Environments using Nix",
+        "url": "https://devenv.sh/",
+        "timestamp": "2026-02-04T18:46:50.060676",
+        "source": "Hacker News"
     }
 ]
