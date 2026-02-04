@@ -9322,5 +9322,11 @@
         "url": "https://github.com/jeff-gorelick/csvdb",
         "timestamp": "2026-02-04T18:46:50.060747",
         "source": "Hacker News"
+    },
+    {
+        "title": "We built Moltbook a search engine",
+        "url": "https://moltsearch.algolia.com",
+        "timestamp": "2026-02-04T18:46:50.060781",
+        "source": "Hacker News"
     }
 ]
