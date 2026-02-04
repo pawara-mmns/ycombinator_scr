@@ -10534,5 +10534,11 @@
         "url": "https://www.pv-tech.org/clean-energy-conquers-coal-as-australias-nem-delivers-historic-51-renewables-quarter/",
         "timestamp": "2026-02-04T21:55:50.425430",
         "source": "Hacker News"
+    },
+    {
+        "title": "Async Rust in ScyllaDB: performance, pitfalls, profiling",
+        "url": "https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/",
+        "timestamp": "2026-02-04T21:55:50.425466",
+        "source": "Hacker News"
     }
 ]
