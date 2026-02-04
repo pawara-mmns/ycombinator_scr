@@ -10240,5 +10240,11 @@
         "url": "https://rent-or-buy-sim.com/",
         "timestamp": "2026-02-04T21:16:20.349937",
         "source": "Hacker News"
+    },
+    {
+        "title": "The 'weird' things that happened when ClickHouse replaced C++ with Rust",
+        "url": "https://thenewstack.io/the-weird-things-that-happened-when-clickhouse-replaced-c-with-rust/",
+        "timestamp": "2026-02-04T21:16:20.349973",
+        "source": "Hacker News"
     }
 ]
