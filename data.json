@@ -9316,5 +9316,11 @@
         "url": "https://tabchop.app/overview",
         "timestamp": "2026-02-04T18:46:50.060712",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Csvdb – Git-friendly CSV directories that convert to SQLite or DuckDB",
+        "url": "https://github.com/jeff-gorelick/csvdb",
+        "timestamp": "2026-02-04T18:46:50.060747",
+        "source": "Hacker News"
     }
 ]
