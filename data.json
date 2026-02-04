@@ -10810,5 +10810,11 @@
         "url": "https://bcanuntoldhistory.knowledge.ca",
         "timestamp": "2026-02-04T22:54:37.340967",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code patches to make it use less CPU",
+        "url": "https://github.com/denysvitali/claude-code-patches",
+        "timestamp": "2026-02-04T22:54:37.340997",
+        "source": "Hacker News"
     }
 ]
