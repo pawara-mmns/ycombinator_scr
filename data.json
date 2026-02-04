@@ -8518,5 +8518,11 @@
         "url": "https://blog.dottxt.ai/dotjson-has-good-schema-support.html",
         "timestamp": "2026-02-04T16:15:55.648381",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built Clash to avoid conflicts when running AI agents in parallel",
+        "url": "https://github.com/clash-sh/clash",
+        "timestamp": "2026-02-04T16:15:55.648414",
+        "source": "Hacker News"
     }
 ]
