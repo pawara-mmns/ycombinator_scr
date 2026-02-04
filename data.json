@@ -9916,5 +9916,11 @@
         "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
         "timestamp": "2026-02-04T20:15:15.475080",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sh-DSL – Write/Use Shell with Janet",
+        "url": "https://janet-lang.org/spork/api/sh-dsl.html",
+        "timestamp": "2026-02-04T20:15:15.475110",
+        "source": "Hacker News"
     }
 ]
