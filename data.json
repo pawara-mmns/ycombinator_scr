@@ -8350,5 +8350,11 @@
         "url": "https://www.youtube.com/watch?v=rnEAAFeE3W4",
         "timestamp": "2026-02-04T15:45:53.888886",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why we stopped allowing autonomous fixes in production (even when tests pass)?",
+        "url": "https://news.ycombinator.com/item?id=46887037",
+        "timestamp": "2026-02-04T15:45:53.888937",
+        "source": "Hacker News"
     }
 ]
