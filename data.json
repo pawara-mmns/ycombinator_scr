@@ -5962,5 +5962,11 @@
         "url": "https://www.kaggle.com/game-arena",
         "timestamp": "2026-02-04T07:18:43.656430",
         "source": "Hacker News"
+    },
+    {
+        "title": "FireClaw: Personal OpenClaw assistant in a single binary, built on Firecracker",
+        "url": "https://github.com/AFK-surf/fireclaw",
+        "timestamp": "2026-02-04T07:45:55.877871",
+        "source": "Hacker News"
     }
 ]
