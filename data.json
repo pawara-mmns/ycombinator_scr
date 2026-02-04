@@ -9460,5 +9460,11 @@
         "url": "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/",
         "timestamp": "2026-02-04T19:16:51.886010",
         "source": "Hacker News"
+    },
+    {
+        "title": "Node Readiness Controller",
+        "url": "https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/",
+        "timestamp": "2026-02-04T19:16:51.989080",
+        "source": "Hacker News"
     }
 ]
