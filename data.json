@@ -6310,5 +6310,11 @@
         "url": "https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html",
         "timestamp": "2026-02-04T09:14:48.998748",
         "source": "Hacker News"
+    },
+    {
+        "title": "Proof of Claude Max quota regression",
+        "url": "https://github.com/anthropics/claude-code/issues/22435",
+        "timestamp": "2026-02-04T09:14:48.998783",
+        "source": "Hacker News"
     }
 ]
