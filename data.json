@@ -5776,5 +5776,11 @@
         "url": "https://www.unite.ai/if-you-tell-ai-not-to-do-something-its-more-likely-to-do-it/",
         "timestamp": "2026-02-04T06:16:26.656852",
         "source": "Hacker News"
+    },
+    {
+        "title": "We added TOON compression to our LLM gateway – compress prompts, saves tokens",
+        "url": "https://github.com/toon-format/toon",
+        "timestamp": "2026-02-04T06:16:26.656886",
+        "source": "Hacker News"
     }
 ]
