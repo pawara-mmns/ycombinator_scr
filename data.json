@@ -5074,5 +5074,11 @@
         "url": "https://news.ycombinator.com/item?id=46880662",
         "timestamp": "2026-02-04T02:37:20.921999",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Librediffusion: C++ / CUDA Reimplementation of StreamDiffusion",
+        "url": "https://github.com/jcelerier/librediffusion",
+        "timestamp": "2026-02-04T02:37:20.922035",
+        "source": "Hacker News"
     }
 ]
