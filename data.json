@@ -10168,5 +10168,11 @@
         "url": "https://www.youtube.com/watch?v=PWbfVcDcfFw",
         "timestamp": "2026-02-04T21:00:11.420595",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rethinking Kafka Migration in the Age of Data Products",
+        "url": "https://www.aklivity.io/post/rethinking-kafka-migration-in-the-age-of-data-products",
+        "timestamp": "2026-02-04T21:00:11.420647",
+        "source": "Hacker News"
     }
 ]
