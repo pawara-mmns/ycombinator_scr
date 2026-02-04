@@ -6874,5 +6874,11 @@
         "url": "https://github.com/synaptiai/agent-capability-standard",
         "timestamp": "2026-02-04T11:12:49.617887",
         "source": "Hacker News"
+    },
+    {
+        "title": "Long-term memory for OpenClaw agents with the mem0/OpenClaw-mem0 plugin",
+        "url": "https://docs.mem0.ai/integrations/openclaw",
+        "timestamp": "2026-02-04T11:12:49.617918",
+        "source": "Hacker News"
     }
 ]
