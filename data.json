@@ -6322,5 +6322,11 @@
         "url": "https://news.ycombinator.com/item?id=46883324",
         "timestamp": "2026-02-04T09:14:48.998817",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ktkit: A Kotlin toolkit for building server applications with Ktor",
+        "url": "https://github.com/smyrgeorge/ktkit",
+        "timestamp": "2026-02-04T09:14:48.998851",
+        "source": "Hacker News"
     }
 ]
