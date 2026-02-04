@@ -9178,5 +9178,11 @@
         "url": "https://www.readcommunique.com/p/substack-lost-its-way",
         "timestamp": "2026-02-04T18:15:19.465896",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust vs. JavaScript: performance, WebAssembly, and developer experience",
+        "url": "https://blog.jetbrains.com/rust/2026/01/27/rust-vs-javascript-typescript/",
+        "timestamp": "2026-02-04T18:15:19.465930",
+        "source": "Hacker News"
     }
 ]
