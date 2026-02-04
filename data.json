@@ -8428,5 +8428,11 @@
         "url": "https://contentauthenticity.org/blog/how-forensic-photonics-verifies-digital-evidence-with-content-credentials",
         "timestamp": "2026-02-04T16:15:55.647826",
         "source": "Hacker News"
+    },
+    {
+        "title": "DuoBolt – a review-first duplicate file finder powered by BLAKE3",
+        "url": "https://duobolt.app/",
+        "timestamp": "2026-02-04T16:15:55.647862",
+        "source": "Hacker News"
     }
 ]
