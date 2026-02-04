@@ -5836,5 +5836,11 @@
         "url": "https://audit.omensystems.com",
         "timestamp": "2026-02-04T06:46:44.178900",
         "source": "Hacker News"
+    },
+    {
+        "title": "Taming the Flat AST: Ergonomics in the Age of Zero Allocations",
+        "url": "http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html",
+        "timestamp": "2026-02-04T06:46:44.178956",
+        "source": "Hacker News"
     }
 ]
