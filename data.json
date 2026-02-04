@@ -5590,5 +5590,11 @@
         "url": "https://news.ycombinator.com/item?id=46881457",
         "timestamp": "2026-02-04T04:57:51.759440",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reimplementing Tor from Scratch for a Single-Hop Proxy",
+        "url": "https://foxmoss.com/blog/kurrat/",
+        "timestamp": "2026-02-04T05:26:51.277513",
+        "source": "Hacker News"
     }
 ]
