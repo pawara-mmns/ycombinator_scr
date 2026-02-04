@@ -7564,5 +7564,11 @@
         "url": "https://spectrum.ieee.org/3d-printed-batteries",
         "timestamp": "2026-02-04T13:53:07.073319",
         "source": "Hacker News"
+    },
+    {
+        "title": "Langsmith Degraded Performance",
+        "url": "https://status.smith.langchain.com/incidents/01KGM9BQNMJ79ZFE9NMKADRCHC",
+        "timestamp": "2026-02-04T13:53:07.073354",
+        "source": "Hacker News"
     }
 ]
