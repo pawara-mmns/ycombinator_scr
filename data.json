@@ -6562,5 +6562,11 @@
         "url": "https://michaelhelvey.dev/posts/rust_async_runtime",
         "timestamp": "2026-02-04T10:01:31.521373",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kubernetes Learned to Resize Pods Without Restarting Them",
+        "url": "https://medium.com/@dinidusachintha/how-kubernetes-learned-to-resize-pods-without-restarting-them-158241b5eb06",
+        "timestamp": "2026-02-04T10:01:31.521407",
+        "source": "Hacker News"
     }
 ]
