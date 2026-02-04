@@ -8494,5 +8494,11 @@
         "url": "https://github.com/distr-sh/distr",
         "timestamp": "2026-02-04T16:15:55.648212",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Orpheus, An Agent runtime that scales on queue depth and not CPU",
+        "url": "https://github.com/arpitnath/orpheus",
+        "timestamp": "2026-02-04T16:15:55.648246",
+        "source": "Hacker News"
     }
 ]
