@@ -9298,5 +9298,11 @@
         "url": "https://stratechery.com/2019/the-google-squeeze/",
         "timestamp": "2026-02-04T18:46:50.060601",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: K8s clusters on macOS using Apple's containerization framework",
+        "url": "https://github.com/willswire/cluster",
+        "timestamp": "2026-02-04T18:46:50.060639",
+        "source": "Hacker News"
     }
 ]
