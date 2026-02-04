@@ -9586,5 +9586,11 @@
         "url": "https://www.theguardian.com/media/2026/feb/04/washington-post-layoffs",
         "timestamp": "2026-02-04T19:16:51.989866",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to design an SDK to handle $10B in transactions",
+        "url": "https://blog.jacobstechtavern.com/p/revenuecat-sdk",
+        "timestamp": "2026-02-04T19:16:51.989901",
+        "source": "Hacker News"
     }
 ]
