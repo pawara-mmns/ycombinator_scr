@@ -10504,5 +10504,11 @@
         "url": "https://www.nasa.gov/wp-content/uploads/2024/07/hpsc-white-paper-tmg-26jun2024-final.pdf",
         "timestamp": "2026-02-04T21:55:50.425236",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Notebook page on llama.cpp official webui",
+        "url": "https://github.com/ggml-org/llama.cpp/pull/19339",
+        "timestamp": "2026-02-04T21:55:50.425277",
+        "source": "Hacker News"
     }
 ]
