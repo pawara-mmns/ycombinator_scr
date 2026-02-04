@@ -9934,5 +9934,11 @@
         "url": "https://windsurf.com/blog/windsurf-tab-2",
         "timestamp": "2026-02-04T20:15:15.475169",
         "source": "Hacker News"
+    },
+    {
+        "title": "Securely run Claude Code agents in Docker",
+        "url": "https://edspencer.net/2026/2/4/run-claude-code-agents-docker-herdctl",
+        "timestamp": "2026-02-04T20:15:15.475198",
+        "source": "Hacker News"
     }
 ]
