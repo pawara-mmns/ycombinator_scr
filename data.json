@@ -7660,5 +7660,11 @@
         "url": "https://oldinsurancemaps.net/",
         "timestamp": "2026-02-04T14:16:46.867994",
         "source": "Hacker News"
+    },
+    {
+        "title": "Detectron2: Platform for object detection and visual recognition tasks",
+        "url": "https://github.com/facebookresearch/detectron2",
+        "timestamp": "2026-02-04T14:16:46.966545",
+        "source": "Hacker News"
     }
 ]
