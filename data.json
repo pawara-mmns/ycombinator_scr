@@ -6628,5 +6628,11 @@
         "url": "https://glintlog.com",
         "timestamp": "2026-02-04T10:26:27.169415",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reuse of Public Keys Across UTXO and Account-Based Cryptocurrencies",
+        "url": "https://arxiv.org/abs/2601.19500",
+        "timestamp": "2026-02-04T10:26:27.169457",
+        "source": "Hacker News"
     }
 ]
