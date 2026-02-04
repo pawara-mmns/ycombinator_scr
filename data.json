@@ -8908,5 +8908,11 @@
         "url": "https://status.claude.com/incidents/pvbysfjjrf8m",
         "timestamp": "2026-02-04T17:17:52.134369",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Notifox – send SMS and Email alerts from the terminal",
+        "url": "https://notifox.com/cli",
+        "timestamp": "2026-02-04T17:17:52.134404",
+        "source": "Hacker News"
     }
 ]
