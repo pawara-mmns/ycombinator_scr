@@ -6844,5 +6844,11 @@
         "url": "https://getconfide.com/",
         "timestamp": "2026-02-04T11:12:49.617722",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code Plugins",
+        "url": "https://github.com/ComposioHQ/awesome-claude-plugins",
+        "timestamp": "2026-02-04T11:12:49.617763",
+        "source": "Hacker News"
     }
 ]
