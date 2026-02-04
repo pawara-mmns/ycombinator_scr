@@ -7294,5 +7294,11 @@
         "url": "https://cabinetmagazine.org/issues/57/wertheim.php",
         "timestamp": "2026-02-04T13:27:13.947228",
         "source": "Hacker News"
+    },
+    {
+        "title": "I prefer to pass secrets between programs through standard input",
+        "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin",
+        "timestamp": "2026-02-04T13:27:13.947692",
+        "source": "Hacker News"
     }
 ]
