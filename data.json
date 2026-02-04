@@ -9412,5 +9412,11 @@
         "url": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
         "timestamp": "2026-02-04T18:46:50.061259",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LayerClaw – Lightweight observability for PyTorch training runs",
+        "url": "https://github.com/layerclaw/layerclaw",
+        "timestamp": "2026-02-04T18:46:50.061294",
+        "source": "Hacker News"
     }
 ]
