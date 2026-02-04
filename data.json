@@ -5338,5 +5338,11 @@
         "url": "https://www.youtube.com/watch?v=fKR0-0OfE1E",
         "timestamp": "2026-02-04T03:36:12.082569",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Publish to Maven Central Easily with Mill",
+        "url": "https://mill-build.org/blog/18-how-to-publish-to-maven-central-easily-with-mill.html",
+        "timestamp": "2026-02-04T03:36:12.082603",
+        "source": "Hacker News"
     }
 ]
