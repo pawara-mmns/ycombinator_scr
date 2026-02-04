@@ -10342,5 +10342,11 @@
         "url": "https://bejamas.com/tools/ai-ascii-art-generator",
         "timestamp": "2026-02-04T21:43:12.699112",
         "source": "Hacker News"
+    },
+    {
+        "title": "Protect Production SQL Databases from AI/LLM Agentic SQL Query Risks",
+        "url": "https://rietta.com/blog/ai-sql-database-data-protection-read-replica/",
+        "timestamp": "2026-02-04T21:43:12.699148",
+        "source": "Hacker News"
     }
 ]
