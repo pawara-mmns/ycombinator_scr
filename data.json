@@ -9346,5 +9346,11 @@
         "url": "https://www.neowin.net/news/jetbrains-drops-x11-for-wayland-as-default-in-intellij-based-ides/",
         "timestamp": "2026-02-04T18:46:50.060884",
         "source": "Hacker News"
+    },
+    {
+        "title": "EarlyBinder and Instantiating Parameters",
+        "url": "https://rustc-dev-guide.rust-lang.org/ty-module/early-binder.html",
+        "timestamp": "2026-02-04T18:46:50.060919",
+        "source": "Hacker News"
     }
 ]
