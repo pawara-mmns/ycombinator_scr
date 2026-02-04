@@ -5818,5 +5818,11 @@
         "url": "https://openclaw.loca.lt/notes/reliability-sprint-packet.html?src=hn",
         "timestamp": "2026-02-04T06:16:26.657106",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Continuity Capsule – deterministic restarts for long-running LLM agents",
+        "url": "https://openclaw.loca.lt/notes/continuity-capsule.html",
+        "timestamp": "2026-02-04T06:16:26.657141",
+        "source": "Hacker News"
     }
 ]
