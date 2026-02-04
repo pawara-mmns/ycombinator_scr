@@ -6496,5 +6496,11 @@
         "url": "https://media.gdcvault.com/gdceurope2012/Presentations/Programming/Kasper_Fauerby_Programming_CrowdsInHitman.pdf",
         "timestamp": "2026-02-04T10:01:31.520965",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing an RSS reader in 80 lines of bash",
+        "url": "https://yobibyte.github.io/yr.html",
+        "timestamp": "2026-02-04T10:01:31.521000",
+        "source": "Hacker News"
     }
 ]
