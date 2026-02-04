@@ -5506,5 +5506,11 @@
         "url": "https://www.databend.com/blog/category-product/databend-agent-ready-database",
         "timestamp": "2026-02-04T04:21:05.044880",
         "source": "Hacker News"
+    },
+    {
+        "title": "SHOW HN: Notepad++ Vulnerability Checker",
+        "url": "https://github.com/nHunter0/Notepad-vulnerability-checker",
+        "timestamp": "2026-02-04T04:21:05.044914",
+        "source": "Hacker News"
     }
 ]
