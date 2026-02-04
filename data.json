@@ -6868,5 +6868,11 @@
         "url": "https://en.wikipedia.org/wiki/Glass_battery",
         "timestamp": "2026-02-04T11:12:49.617856",
         "source": "Hacker News"
+    },
+    {
+        "title": "Grounded Agency: The Type System Your Agent Framework Forgot to Build",
+        "url": "https://github.com/synaptiai/agent-capability-standard",
+        "timestamp": "2026-02-04T11:12:49.617887",
+        "source": "Hacker News"
     }
 ]
