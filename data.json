@@ -5806,5 +5806,11 @@
         "url": "https://video2docs.com/",
         "timestamp": "2026-02-04T06:16:26.657033",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Trappsec – detect attackers probing API business logic",
+        "url": "https://github.com/trappsec-dev/trappsec",
+        "timestamp": "2026-02-04T06:16:26.657070",
+        "source": "Hacker News"
     }
 ]
