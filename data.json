@@ -8998,5 +8998,11 @@
         "url": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
         "timestamp": "2026-02-04T17:46:04.758562",
         "source": "Hacker News"
+    },
+    {
+        "title": "Implementation of the Apollo Guidance Computer in an FPGA",
+        "url": "https://github.com/mikeakohn/apollo11_fpga",
+        "timestamp": "2026-02-04T17:46:04.758596",
+        "source": "Hacker News"
     }
 ]
