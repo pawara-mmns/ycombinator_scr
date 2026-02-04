@@ -8812,5 +8812,11 @@
         "url": "https://twitter.com/Ced_haurus/status/2018716889191498172",
         "timestamp": "2026-02-04T17:17:52.133806",
         "source": "Hacker News"
+    },
+    {
+        "title": "Finding a Cross-Tenant Vulnerability in GCP's Apigee",
+        "url": "https://omeramiad.com/posts/gatewaytoheaven-gcp-cross-tenant-vulnerability/",
+        "timestamp": "2026-02-04T17:17:52.133839",
+        "source": "Hacker News"
     }
 ]
