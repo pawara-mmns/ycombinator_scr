@@ -6508,5 +6508,11 @@
         "url": "https://blog.fidelramos.net/software/self-hosted-home-1",
         "timestamp": "2026-02-04T10:01:31.521036",
         "source": "Hacker News"
+    },
+    {
+        "title": "Multi-layer defense for LLM agents inspired by immune systems (seeking critique)",
+        "url": "https://gist.github.com/andreschauer/e0f958c2a279062559ae8306f946b43d",
+        "timestamp": "2026-02-04T10:01:31.521081",
+        "source": "Hacker News"
     }
 ]
