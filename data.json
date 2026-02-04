@@ -7732,5 +7732,11 @@
         "url": "https://github.com/agentic-dev3o/sandbox-shell",
         "timestamp": "2026-02-04T14:16:46.967002",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sukr: A minimal static site compiler in Rust with zero-JS output",
+        "url": "https://sukr.io/index.html",
+        "timestamp": "2026-02-04T14:16:46.967037",
+        "source": "Hacker News"
     }
 ]
