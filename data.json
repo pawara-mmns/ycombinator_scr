@@ -8686,5 +8686,11 @@
         "url": "https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold",
         "timestamp": "2026-02-04T16:46:22.281843",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing a SQL database, take two: Zig and RocksDB",
+        "url": "https://notes.eatonphil.com/zigrocks-sql.html",
+        "timestamp": "2026-02-04T16:46:22.281877",
+        "source": "Hacker News"
     }
 ]
