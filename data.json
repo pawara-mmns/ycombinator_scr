@@ -7744,5 +7744,11 @@
         "url": "https://mccormick.cx/news/entries/platforms-should-publish-search-data",
         "timestamp": "2026-02-04T14:16:46.967071",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: PostgreSQL extension for privacy – AI training and RAG monetization",
+        "url": "https://github.com/machine-squelch/kernel-privacy",
+        "timestamp": "2026-02-04T14:16:46.967106",
+        "source": "Hacker News"
     }
 ]
