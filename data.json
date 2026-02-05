@@ -14200,5 +14200,11 @@
         "url": "https://news.ycombinator.com/item?id=46900017",
         "timestamp": "2026-02-05T14:45:55.136533",
         "source": "Hacker News"
+    },
+    {
+        "title": "Orthanc – Open-Source Memory Layer for Agents (Sub-200ms Latency)",
+        "url": "https://github.com/orthanc-protocol/client-sdk",
+        "timestamp": "2026-02-05T14:45:55.136568",
+        "source": "Hacker News"
     }
 ]
