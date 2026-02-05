@@ -16282,5 +16282,11 @@
         "url": "https://www.menuetos.net/",
         "timestamp": "2026-02-05T20:55:34.902850",
         "source": "Hacker News"
+    },
+    {
+        "title": "Experimental: Add xx-zones protocol for area-limited window positioning",
+        "url": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/264",
+        "timestamp": "2026-02-05T20:55:35.192712",
+        "source": "Hacker News"
     }
 ]
