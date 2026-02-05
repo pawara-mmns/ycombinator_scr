@@ -11692,5 +11692,11 @@
         "url": "https://www.aiasmrvoice.com/en",
         "timestamp": "2026-02-05T03:36:39.177468",
         "source": "Hacker News"
+    },
+    {
+        "title": "Yet another reminder why you should not use Ollama",
+        "url": "https://github.com/ggml-org/llama.cpp/pull/19324",
+        "timestamp": "2026-02-05T03:36:39.177503",
+        "source": "Hacker News"
     }
 ]
