@@ -15166,5 +15166,11 @@
         "url": "https://www.moltplace.net",
         "timestamp": "2026-02-05T17:46:57.819177",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unauthorized Prompt Injection to RCE in Anthropic's Claude Code Action",
+        "url": "https://johnstawinski.com/2026/02/05/trusting-claude-with-a-knife-unauthorized-prompt-injection-to-rce-in-anthropics-claude-code-action/",
+        "timestamp": "2026-02-05T17:46:57.819218",
+        "source": "Hacker News"
     }
 ]
