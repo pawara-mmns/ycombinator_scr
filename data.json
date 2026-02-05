@@ -13336,5 +13336,11 @@
         "url": "https://bloghunter.se/",
         "timestamp": "2026-02-05T12:23:06.570737",
         "source": "Hacker News"
+    },
+    {
+        "title": "CLI tool to enforce RFC-driven AI coding",
+        "url": "https://github.com/govctl-org/govctl",
+        "timestamp": "2026-02-05T12:23:06.570773",
+        "source": "Hacker News"
     }
 ]
