@@ -13840,5 +13840,11 @@
         "url": "https://jtemporal.com/ai-powered-development-workflow/",
         "timestamp": "2026-02-05T13:55:30.445080",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fixing Noisy Logs with OpenTelemetry Log Deduplication",
+        "url": "https://www.dash0.com/guides/opentelemetry-log-deduplication-processor",
+        "timestamp": "2026-02-05T13:55:30.445113",
+        "source": "Hacker News"
     }
 ]
