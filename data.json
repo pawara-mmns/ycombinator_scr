@@ -14260,5 +14260,11 @@
         "url": "https://github.com/StructureMA/memory-decay",
         "timestamp": "2026-02-05T15:15:16.087700",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
+        "url": "https://github.com/jnidzwetzki/pg-dev-container",
+        "timestamp": "2026-02-05T15:15:16.087736",
+        "source": "Hacker News"
     }
 ]
