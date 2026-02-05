@@ -12520,5 +12520,11 @@
         "url": "https://www.spara.co/blog/test-driven-context-engineering",
         "timestamp": "2026-02-05T08:22:27.785991",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lessons from banking and finance: Why we need zero trust secrets management",
+        "url": "https://www.hashicorp.com/en/blog/5-lessons-from-banking-finance-why-we-need-zero-trust-secrets-management",
+        "timestamp": "2026-02-05T08:22:27.786039",
+        "source": "Hacker News"
     }
 ]
