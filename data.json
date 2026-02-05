@@ -15334,5 +15334,11 @@
         "url": "https://news.ycombinator.com/item?id=46902715",
         "timestamp": "2026-02-05T18:16:49.445723",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Why it's hard to know which deployment caused a production incident",
+        "url": "https://github.com/BytePeaks/valiant",
+        "timestamp": "2026-02-05T18:16:49.445758",
+        "source": "Hacker News"
     }
 ]
