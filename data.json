@@ -14986,5 +14986,11 @@
         "url": "https://maestrix.ai/skills",
         "timestamp": "2026-02-05T17:18:24.898686",
         "source": "Hacker News"
+    },
+    {
+        "title": "Micropay: Stripe-like payment intents for M-Pesa with no transaction fees",
+        "url": "https://micropay.dev/",
+        "timestamp": "2026-02-05T17:18:24.898721",
+        "source": "Hacker News"
     }
 ]
