@@ -11134,5 +11134,11 @@
         "url": "https://techcrunch.com/2026/02/03/watch-club-microdrama-video-social-network/",
         "timestamp": "2026-02-05T00:18:26.145376",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Toktrack – 1000x faster AI CLI cost tracker (Rust and SIMD)",
+        "url": "https://github.com/mag123c/toktrack",
+        "timestamp": "2026-02-05T00:18:26.145412",
+        "source": "Hacker News"
     }
 ]
