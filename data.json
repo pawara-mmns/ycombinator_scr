@@ -13114,5 +13114,11 @@
         "url": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
         "timestamp": "2026-02-05T11:26:07.038912",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN:I made CyberChecker after finding exposed Stripe keys in production",
+        "url": "https://www.cyber-checker.com/",
+        "timestamp": "2026-02-05T11:26:07.038965",
+        "source": "Hacker News"
     }
 ]
