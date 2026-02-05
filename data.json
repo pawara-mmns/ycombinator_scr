@@ -15046,5 +15046,11 @@
         "url": "https://github.com/kirillpolevoy/relai",
         "timestamp": "2026-02-05T17:18:24.899050",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Messaging for AI agents without SMTP, MIME, or polling inboxes",
+        "url": "https://getrelay.sh/",
+        "timestamp": "2026-02-05T17:18:24.899084",
+        "source": "Hacker News"
     }
 ]
