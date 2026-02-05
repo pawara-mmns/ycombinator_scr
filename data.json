@@ -15490,5 +15490,11 @@
         "url": "https://www.lei.chat/posts/triton-bespoke-layouts/",
         "timestamp": "2026-02-05T18:46:25.749810",
         "source": "Hacker News"
+    },
+    {
+        "title": "High performance correctly rounded math libraries for 32-bit floating point",
+        "url": "https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/",
+        "timestamp": "2026-02-05T18:46:26.004001",
+        "source": "Hacker News"
     }
 ]
