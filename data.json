@@ -17092,5 +17092,11 @@
         "url": "https://www.cnbc.com/2026/02/05/amazon-amzn-q4-earnings-report-2025.html",
         "timestamp": "2026-02-05T23:39:03.637687",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Local task classifier and dispatcher on RTX 3080(No Ollama, raw Python)",
+        "url": "https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel",
+        "timestamp": "2026-02-05T23:39:03.637724",
+        "source": "Hacker News"
     }
 ]
