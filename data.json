@@ -14242,5 +14242,11 @@
         "url": "https://www.reuters.com/business/bitcoin-slumps-with-key-70000-level-sight-2026-02-05/",
         "timestamp": "2026-02-05T15:15:16.087591",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Opus 4.6 and Claude Opus 4.6 Thinking are now live on Perplexity's APIs",
+        "url": "https://www.perplexity.ai/rest/models/config?config_schema=v1&version=2.18&source=default",
+        "timestamp": "2026-02-05T15:15:16.087628",
+        "source": "Hacker News"
     }
 ]
