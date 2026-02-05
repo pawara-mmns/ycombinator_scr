@@ -12532,5 +12532,11 @@
         "url": "https://www.minimus.io/post/cve-2026-22039-how-kyvernos-critical-authorization-bypass-breaks-kubernetes-namespace-isolation",
         "timestamp": "2026-02-05T08:22:27.786077",
         "source": "Hacker News"
+    },
+    {
+        "title": "SSL,HTTPS, HTTP/3, and security header checker made by AI",
+        "url": "https://httpsornot.com/",
+        "timestamp": "2026-02-05T08:22:27.786111",
+        "source": "Hacker News"
     }
 ]
