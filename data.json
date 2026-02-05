@@ -16570,5 +16570,11 @@
         "url": "https://tournotes.my/",
         "timestamp": "2026-02-05T21:41:58.936546",
         "source": "Hacker News"
+    },
+    {
+        "title": "Slack CLI for Agents (OSS)",
+        "url": "https://github.com/stablyai/agent-slack",
+        "timestamp": "2026-02-05T21:41:58.936586",
+        "source": "Hacker News"
     }
 ]
