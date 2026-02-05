@@ -16060,5 +16060,11 @@
         "url": "https://www.rwx.com/blog/work-in-progress-commits-are-a-thing-of-the-past",
         "timestamp": "2026-02-05T20:14:58.674504",
         "source": "Hacker News"
+    },
+    {
+        "title": "Everything in Git: Running a Trading Signal Platform on NixOS",
+        "url": "https://www.pxdynamics.com/blog/nixos-infrastructure",
+        "timestamp": "2026-02-05T20:14:58.674541",
+        "source": "Hacker News"
     }
 ]
