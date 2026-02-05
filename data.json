@@ -13798,5 +13798,11 @@
         "url": "https://gizmodo.com/rent-a-human-site-lets-ai-agents-hire-an-irl-set-of-opposable-thumbs-2000717958",
         "timestamp": "2026-02-05T13:55:30.444845",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: stable_pydantic – catch Pydantic schema breakage in two tests",
+        "url": "https://github.com/QuartzLibrary/stable_pydantic",
+        "timestamp": "2026-02-05T13:55:30.444879",
+        "source": "Hacker News"
     }
 ]
