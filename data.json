@@ -13696,5 +13696,11 @@
         "url": "https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf",
         "timestamp": "2026-02-05T13:55:30.343114",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fastlog – Async C logging with thread-local hot path",
+        "url": "https://github.com/j91981274-sudo/fastlog",
+        "timestamp": "2026-02-05T13:55:30.444232",
+        "source": "Hacker News"
     }
 ]
