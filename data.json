@@ -12892,5 +12892,11 @@
         "url": "https://github.com/kevin-hs-sohn/vibesafu",
         "timestamp": "2026-02-05T10:14:54.716159",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tailscale: Custom OIDC Providers",
+        "url": "https://tailscale.com/docs/integrations/identity/custom-oidc",
+        "timestamp": "2026-02-05T10:14:54.716194",
+        "source": "Hacker News"
     }
 ]
