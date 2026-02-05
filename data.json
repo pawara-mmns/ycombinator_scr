@@ -15520,5 +15520,11 @@
         "url": "https://github.com/Colmbus72/yeehaw",
         "timestamp": "2026-02-05T18:46:26.004165",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Track vim cmd and mapping usage, and detect typos to optimize vimrc",
+        "url": "https://github.com/AquiGorka/vim-stats",
+        "timestamp": "2026-02-05T18:46:26.004200",
+        "source": "Hacker News"
     }
 ]
