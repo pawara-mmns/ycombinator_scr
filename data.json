@@ -13588,5 +13588,11 @@
         "url": "https://www.economist.com/finance-and-economics/2026/02/02/ai-is-not-the-only-threat-menacing-big-tech",
         "timestamp": "2026-02-05T13:28:15.185537",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Prompt-injection‑resistant agent runtime that writes web apps",
+        "url": "https://github.com/gterzian/lsp_agent",
+        "timestamp": "2026-02-05T13:28:15.185572",
+        "source": "Hacker News"
     }
 ]
