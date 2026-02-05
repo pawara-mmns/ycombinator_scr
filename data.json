@@ -14914,5 +14914,11 @@
         "url": "https://dogac.dev/blog/2026/migrating-to-tpu/",
         "timestamp": "2026-02-05T16:46:27.403289",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Resilient RAP – A self-healing pipeline for telemetry using embeddings",
+        "url": "https://github.com/tarek-clarke/resilient-rap-framework",
+        "timestamp": "2026-02-05T16:46:27.403323",
+        "source": "Hacker News"
     }
 ]
