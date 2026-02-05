@@ -16708,5 +16708,11 @@
         "url": "https://www.nature.com/articles/s41586-026-10105-6",
         "timestamp": "2026-02-05T22:06:09.707321",
         "source": "Hacker News"
+    },
+    {
+        "title": "MatPy – Pure Python linear algebra library with ODE solvers",
+        "url": "https://github.com/njryan-boou/matpy",
+        "timestamp": "2026-02-05T22:06:09.707374",
+        "source": "Hacker News"
     }
 ]
