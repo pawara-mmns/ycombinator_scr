@@ -15532,5 +15532,11 @@
         "url": "https://www.bbc.com/news/articles/c1wzrlndzjro",
         "timestamp": "2026-02-05T18:46:26.004236",
         "source": "Hacker News"
+    },
+    {
+        "title": "Date Arithmetic in Bash",
+        "url": "https://blog.miguelgrinberg.com/post/date-arithmetic-in-bash",
+        "timestamp": "2026-02-05T18:46:26.004272",
+        "source": "Hacker News"
     }
 ]
