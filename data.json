@@ -14404,5 +14404,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-02-05/china-trader-who-made-3-billion-on-gold-bets-big-against-silver",
         "timestamp": "2026-02-05T15:15:16.088552",
         "source": "Hacker News"
+    },
+    {
+        "title": "CG/SQL – SQL dialect compiler to C for sqlite3 mimicking stored procedures",
+        "url": "https://ricomariani.github.io/CG-SQL-author/",
+        "timestamp": "2026-02-05T15:45:34.991375",
+        "source": "Hacker News"
     }
 ]
