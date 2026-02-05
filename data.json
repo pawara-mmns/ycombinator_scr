@@ -16780,5 +16780,11 @@
         "url": "https://www.zdnet.com/article/why-gen-ai-boosts-productivity-some-developers-not-others/",
         "timestamp": "2026-02-05T22:24:04.496778",
         "source": "Hacker News"
+    },
+    {
+        "title": "Outlawed executable code encoded in a prime number",
+        "url": "https://www.cs.cmu.edu/~dst/DeCSS/Gallery/Stego/illegal-primes.html",
+        "timestamp": "2026-02-05T22:24:04.496813",
+        "source": "Hacker News"
     }
 ]
