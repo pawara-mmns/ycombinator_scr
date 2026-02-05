@@ -11614,5 +11614,11 @@
         "url": "https://news.ycombinator.com/item?id=46895231",
         "timestamp": "2026-02-05T03:36:39.177003",
         "source": "Hacker News"
+    },
+    {
+        "title": "MLIR-Tutor: Exercises for Learning MLIR (Originally Written for PPoPP 2026)",
+        "url": "https://github.com/Groverkss/mlir-tutor",
+        "timestamp": "2026-02-05T03:36:39.177038",
+        "source": "Hacker News"
     }
 ]
