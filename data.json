@@ -16486,5 +16486,11 @@
         "url": "https://beastx.ro/why-ai-generated-code-will-hurt-both-customers-and-companies",
         "timestamp": "2026-02-05T21:09:08.884033",
         "source": "Hacker News"
+    },
+    {
+        "title": "Voxtral.c Voxtral Realtime 4B model inference as a C library",
+        "url": "https://github.com/antirez/voxtral.c",
+        "timestamp": "2026-02-05T21:09:08.884062",
+        "source": "Hacker News"
     }
 ]
