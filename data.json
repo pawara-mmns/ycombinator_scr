@@ -16144,5 +16144,11 @@
         "url": "https://blog.ploeh.dk/2026/01/26/ai-generated-tests-as-ceremony/",
         "timestamp": "2026-02-05T20:30:57.034183",
         "source": "Hacker News"
+    },
+    {
+        "title": "Browser Agent Protocol – Open standard for AI agents to control browsers",
+        "url": "https://github.com/browseragentprotocol/bap",
+        "timestamp": "2026-02-05T20:30:57.034223",
+        "source": "Hacker News"
     }
 ]
