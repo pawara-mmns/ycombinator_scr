@@ -14908,5 +14908,11 @@
         "url": "https://cherif.substack.com/p/authentic-ceo",
         "timestamp": "2026-02-05T16:46:27.403255",
         "source": "Hacker News"
+    },
+    {
+        "title": "Training language models on TPUs shouldn't be scary",
+        "url": "https://dogac.dev/blog/2026/migrating-to-tpu/",
+        "timestamp": "2026-02-05T16:46:27.403289",
+        "source": "Hacker News"
     }
 ]
