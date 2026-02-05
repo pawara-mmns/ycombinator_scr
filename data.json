@@ -16828,5 +16828,11 @@
         "url": "https://www.tuhs.org/Archive/Documentation/OralHistory/",
         "timestamp": "2026-02-05T22:42:46.733898",
         "source": "Hacker News"
+    },
+    {
+        "title": "GABRIEL – turn messy qualitative corpora into analysis-ready datasets",
+        "url": "https://github.com/openai/GABRIEL",
+        "timestamp": "2026-02-05T22:42:46.733936",
+        "source": "Hacker News"
     }
 ]
