@@ -15970,5 +15970,11 @@
         "url": "https://www.youtube.com/watch?v=fs2-mDbFfzU",
         "timestamp": "2026-02-05T19:57:51.365055",
         "source": "Hacker News"
+    },
+    {
+        "title": "TurboKV: A fast, embedded key-value store in Rust",
+        "url": "https://crates.io/crates/turbokv",
+        "timestamp": "2026-02-05T19:57:51.365090",
+        "source": "Hacker News"
     }
 ]
