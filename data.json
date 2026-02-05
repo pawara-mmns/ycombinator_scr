@@ -14836,5 +14836,11 @@
         "url": "https://news.ycombinator.com/item?id=46901420",
         "timestamp": "2026-02-05T16:46:27.402821",
         "source": "Hacker News"
+    },
+    {
+        "title": "Importance of Tuning Checkpoint in PostgreSQL",
+        "url": "https://www.percona.com/blog/importance-of-tuning-checkpoint-in-postgresql/",
+        "timestamp": "2026-02-05T16:46:27.402878",
+        "source": "Hacker News"
     }
 ]
