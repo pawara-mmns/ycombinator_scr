@@ -11410,5 +11410,11 @@
         "url": "https://www.djangoproject.com/weblog/2026/feb/04/recent-trends-security-team/",
         "timestamp": "2026-02-05T01:33:41.491221",
         "source": "Hacker News"
+    },
+    {
+        "title": "Relic – a missing secrets artifact for Node and Edge",
+        "url": "https://www.npmjs.com/package/@nick-skriabin/relic",
+        "timestamp": "2026-02-05T01:33:41.491255",
+        "source": "Hacker News"
     }
 ]
