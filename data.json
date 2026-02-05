@@ -16726,5 +16726,11 @@
         "url": "https://www.digitalocean.com/blog/openclaw-digitalocean-app-platform",
         "timestamp": "2026-02-05T22:06:09.707494",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Linear MCP Fast – 10x faster Linear MCP reads from local cache",
+        "url": "https://github.com/everything-chalna/linear-mcp-fast",
+        "timestamp": "2026-02-05T22:06:09.707539",
+        "source": "Hacker News"
     }
 ]
