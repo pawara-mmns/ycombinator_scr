@@ -13864,5 +13864,11 @@
         "url": "https://blog.flurdy.com/2026/02/yagni-100-with-ai",
         "timestamp": "2026-02-05T13:55:30.445216",
         "source": "Hacker News"
+    },
+    {
+        "title": "QRT: Screen-to-camera data transfer protocol, using QR codes (proof of concept)",
+        "url": "https://github.com/smyrgeorge/qrt",
+        "timestamp": "2026-02-05T13:55:30.445250",
+        "source": "Hacker News"
     }
 ]
