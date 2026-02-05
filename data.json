@@ -15244,5 +15244,11 @@
         "url": "https://www.geodd.io/",
         "timestamp": "2026-02-05T17:46:57.819678",
         "source": "Hacker News"
+    },
+    {
+        "title": "Your CLI's UX is probably broken for AI agents",
+        "url": "https://www.speakeasy.com/blog/engineering-agent-friendly-cli",
+        "timestamp": "2026-02-05T17:46:57.819711",
+        "source": "Hacker News"
     }
 ]
