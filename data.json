@@ -13096,5 +13096,11 @@
         "url": "https://localcoder.xyz",
         "timestamp": "2026-02-05T11:01:49.439803",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Replacing NotNull and Preconditions with fluent Java assertions",
+        "url": "https://github.com/Sympol/pure-assert",
+        "timestamp": "2026-02-05T11:01:49.439838",
+        "source": "Hacker News"
     }
 ]
