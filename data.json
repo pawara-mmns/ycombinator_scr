@@ -11728,5 +11728,11 @@
         "url": "https://www.eff.org/deeplinks/2026/02/protecting-our-right-sue-federal-agents-who-violate-constitution",
         "timestamp": "2026-02-05T03:36:39.177678",
         "source": "Hacker News"
+    },
+    {
+        "title": "Constant 14ms attention: 512→524K tokens (24.5x faster than FlashAttention)",
+        "url": "https://github.com/RegularJoe-CEO/vllm/blob/waller-operator-integration/benchmarks/attention_benchmarks/waller_mistral7b_results.md",
+        "timestamp": "2026-02-05T04:25:09.880130",
+        "source": "Hacker News"
     }
 ]
