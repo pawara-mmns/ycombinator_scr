@@ -14308,5 +14308,11 @@
         "url": "https://en.wikipedia.org/wiki/Neijuan",
         "timestamp": "2026-02-05T15:15:16.087978",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fault – a Rust-CLI to inject network and application faults",
+        "url": "https://fault-project.com/",
+        "timestamp": "2026-02-05T15:15:16.088013",
+        "source": "Hacker News"
     }
 ]
