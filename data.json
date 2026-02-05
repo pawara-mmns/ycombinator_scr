@@ -15628,5 +15628,11 @@
         "url": "https://github.com/felixbrock/voxpaste",
         "timestamp": "2026-02-05T18:46:26.004902",
         "source": "Hacker News"
+    },
+    {
+        "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
+        "url": "https://www.anthropic.com/engineering/building-c-compiler",
+        "timestamp": "2026-02-05T19:16:39.175930",
+        "source": "Hacker News"
     }
 ]
