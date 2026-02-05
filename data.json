@@ -14872,5 +14872,11 @@
         "url": "https://hn-related.dosaygo.com/",
         "timestamp": "2026-02-05T16:46:27.403050",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open-source ClickHouse skills – SQL craft course for your agent",
+        "url": "https://github.com/obsessiondb/clickhouse-skills",
+        "timestamp": "2026-02-05T16:46:27.403085",
+        "source": "Hacker News"
     }
 ]
