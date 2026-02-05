@@ -16336,5 +16336,11 @@
         "url": "https://www.pnas.org/doi/10.1073/pnas.2531111123",
         "timestamp": "2026-02-05T20:55:35.193048",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sopro v1.5: A 135M TTS model trained for ~$100, runs 20× real-time on CPU",
+        "url": "https://huggingface.co/samuel-vitorino/sopro",
+        "timestamp": "2026-02-05T20:55:35.193083",
+        "source": "Hacker News"
     }
 ]
