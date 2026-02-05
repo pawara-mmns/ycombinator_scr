@@ -14800,5 +14800,11 @@
         "url": "https://news.ycombinator.com/item?id=46901509",
         "timestamp": "2026-02-05T16:46:27.402550",
         "source": "Hacker News"
+    },
+    {
+        "title": "China-made Loongson 12-core chip 3x slower than 6 core Ryzen 5 9600X",
+        "url": "https://www.tomshardware.com/pc-components/cpus/china-made-loongson-12-core-chip-is-approximately-three-times-slower-than-six-core-ryzen-5-9600x-3b6000-hampered-by-low-clock-speeds-in-linux-benchmarks",
+        "timestamp": "2026-02-05T16:46:27.402585",
+        "source": "Hacker News"
     }
 ]
