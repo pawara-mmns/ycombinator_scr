@@ -13108,5 +13108,11 @@
         "url": "https://police2peer.politiet.no/",
         "timestamp": "2026-02-05T11:26:07.038782",
         "source": "Hacker News"
+    },
+    {
+        "title": "How we made geo joins 400× faster with H3 indexes",
+        "url": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+        "timestamp": "2026-02-05T11:26:07.038912",
+        "source": "Hacker News"
     }
 ]
