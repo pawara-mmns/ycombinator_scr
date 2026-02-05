@@ -12076,5 +12076,11 @@
         "url": "https://gist.github.com/breadchris/2a59eb61dfafcd03c16d4ae647e5df9f",
         "timestamp": "2026-02-05T06:05:19.761058",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
+        "url": "https://github.com/sandys/kappal",
+        "timestamp": "2026-02-05T06:05:19.761095",
+        "source": "Hacker News"
     }
 ]
