@@ -17212,5 +17212,11 @@
         "url": "https://www.theatlantic.com/newsletters/2026/02/bezos-washington-post-layoffs-yacht/685902/",
         "timestamp": "2026-02-05T23:51:47.029964",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing an LLM from scratch, part 32c – Interventions: removing dropout",
+        "url": "https://www.gilesthomas.com/2026/02/llm-from-scratch-32c-interventions-removing-dropout",
+        "timestamp": "2026-02-05T23:51:47.029991",
+        "source": "Hacker News"
     }
 ]
