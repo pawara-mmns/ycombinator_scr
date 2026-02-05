@@ -14476,5 +14476,11 @@
         "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-secures-landmark-settlement-express-scripts-lower-drug-costs-american-patients",
         "timestamp": "2026-02-05T15:45:35.286682",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: PipelineRL – Async RL with in-flight weight updates (train ~2× faster)",
+        "url": "https://github.com/ServiceNow/PipelineRL",
+        "timestamp": "2026-02-05T15:45:35.286717",
+        "source": "Hacker News"
     }
 ]
