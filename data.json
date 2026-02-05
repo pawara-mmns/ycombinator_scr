@@ -13372,5 +13372,11 @@
         "url": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html",
         "timestamp": "2026-02-05T12:47:09.924526",
         "source": "Hacker News"
+    },
+    {
+        "title": "Handling the Dual-Write Problem in Distributed Systems",
+        "url": "https://auth0.com/blog/handling-the-dual-write-problem-in-distributed-systems/",
+        "timestamp": "2026-02-05T12:47:10.026476",
+        "source": "Hacker News"
     }
 ]
