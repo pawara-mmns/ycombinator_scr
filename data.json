@@ -15850,5 +15850,11 @@
         "url": "https://www.jakequist.com/thoughts/what-happens-when-ai-can-write-all-your-software/",
         "timestamp": "2026-02-05T19:43:07.494623",
         "source": "Hacker News"
+    },
+    {
+        "title": "Llama.cpp performance breakthrough for multi-GPU setups",
+        "url": "https://medium.com/@jagusztinl/llama-cpp-performance-breakthrough-for-multi-gpu-setups-04c83a66feb2",
+        "timestamp": "2026-02-05T19:43:07.494658",
+        "source": "Hacker News"
     }
 ]
