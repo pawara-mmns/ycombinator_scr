@@ -12706,5 +12706,11 @@
         "url": "https://www.macrumors.com/2026/02/04/apple-arcade-civilization-vii/",
         "timestamp": "2026-02-05T09:16:05.521985",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp",
+        "url": "https://github.com/vkazanov/elcity",
+        "timestamp": "2026-02-05T09:16:05.522020",
+        "source": "Hacker News"
     }
 ]
