@@ -13954,5 +13954,11 @@
         "url": "https://news.ycombinator.com/item?id=46899781",
         "timestamp": "2026-02-05T14:19:01.044003",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tools for Recovering RAID5 Disasters",
+        "url": "https://github.com/alfiopuglisi/raid_recovery",
+        "timestamp": "2026-02-05T14:19:01.044037",
+        "source": "Hacker News"
     }
 ]
