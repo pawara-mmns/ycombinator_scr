@@ -16666,5 +16666,11 @@
         "url": "https://blog.janestreet.com/the-joy-of-expect-tests/",
         "timestamp": "2026-02-05T21:54:22.535415",
         "source": "Hacker News"
+    },
+    {
+        "title": "What Every Programmer Should Know About Memory [pdf]",
+        "url": "https://people.freebsd.org/~lstewart/articles/cpumemory.pdf",
+        "timestamp": "2026-02-05T21:54:22.535491",
+        "source": "Hacker News"
     }
 ]
