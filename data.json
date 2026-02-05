@@ -14152,5 +14152,11 @@
         "url": "https://stratechery.com/2026/microsoft-and-software-survival/",
         "timestamp": "2026-02-05T14:45:55.136260",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Jest-doctor – catching async leaks that cause flaky Jest tests",
+        "url": "https://github.com/stephan-dum/jest-doctor/tree/main/packages/jest-doctor",
+        "timestamp": "2026-02-05T14:45:55.136293",
+        "source": "Hacker News"
     }
 ]
