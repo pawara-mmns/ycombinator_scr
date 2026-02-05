@@ -15376,5 +15376,11 @@
         "url": "https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/",
         "timestamp": "2026-02-05T18:16:49.446016",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Webhook Dispatcher – webhook infra in a Rust crate",
+        "url": "https://github.com/webhook-labs/webhook-dispatcher",
+        "timestamp": "2026-02-05T18:16:49.446049",
+        "source": "Hacker News"
     }
 ]
