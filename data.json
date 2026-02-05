@@ -11968,5 +11968,11 @@
         "url": "https://www.railly.dev/blog/skill-gen/",
         "timestamp": "2026-02-05T05:38:13.093031",
         "source": "Hacker News"
+    },
+    {
+        "title": "We built a serverless GPU inference platform with predictable latency",
+        "url": "https://news.ycombinator.com/item?id=46896013",
+        "timestamp": "2026-02-05T05:38:13.093072",
+        "source": "Hacker News"
     }
 ]
