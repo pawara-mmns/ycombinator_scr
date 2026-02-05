@@ -15874,5 +15874,11 @@
         "url": "https://www.accept.md/",
         "timestamp": "2026-02-05T19:43:07.494798",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bast – Open-source CLI that redacts PII before sending prompts to Claude",
+        "url": "https://github.com/bastio-ai/bast",
+        "timestamp": "2026-02-05T19:43:07.494834",
+        "source": "Hacker News"
     }
 ]
