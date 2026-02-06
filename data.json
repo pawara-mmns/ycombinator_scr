@@ -21466,5 +21466,11 @@
         "url": "https://www.biotradingarena.com/hn",
         "timestamp": "2026-02-06T17:29:45.803306",
         "source": "Hacker News"
+    },
+    {
+        "title": "LlamaLib: A cross-platform C++/C# library for local LLMs based on llama.cpp",
+        "url": "https://github.com/undreamai/LlamaLib",
+        "timestamp": "2026-02-06T17:29:45.803340",
+        "source": "Hacker News"
     }
 ]
