@@ -23062,5 +23062,11 @@
         "url": "https://jakebox.github.io/posts/2026-02-05-declarative_reproducible.html",
         "timestamp": "2026-02-06T22:04:12.729483",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fiber – An Express-inspired web framework written in Go",
+        "url": "https://gofiber.io/",
+        "timestamp": "2026-02-06T22:04:12.729518",
+        "source": "Hacker News"
     }
 ]
