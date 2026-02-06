@@ -19828,5 +19828,11 @@
         "url": "https://www.robpanico.com/articles/display/?entry_short=mah-sakuwantar-a-book-about-what-civilization-forgot-how-to-notice",
         "timestamp": "2026-02-06T13:26:33.640016",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why my H100 cluster idled 130 hours/month (RoCEv2 and Storage bottlenecks)",
+        "url": "https://www.rack2cloud.com/h100-cluster-guide-adam-optimizer-tax/",
+        "timestamp": "2026-02-06T13:26:33.640052",
+        "source": "Hacker News"
     }
 ]
