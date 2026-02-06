@@ -23458,5 +23458,11 @@
         "url": "https://www.nytimes.com/2026/02/06/books/mass-market-paperback-books.html",
         "timestamp": "2026-02-06T23:51:52.477597",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Jinjatest – type-safe tests and branch coverage for Jinja templates",
+        "url": "https://github.com/SimplifyJobs/jinjatest",
+        "timestamp": "2026-02-06T23:51:52.477636",
+        "source": "Hacker News"
     }
 ]
