@@ -21844,5 +21844,11 @@
         "url": "https://news.ycombinator.com/item?id=46915937",
         "timestamp": "2026-02-06T18:14:23.224709",
         "source": "Hacker News"
+    },
+    {
+        "title": "Once Operations: Why Idempotency Belongs in the Business Layer",
+        "url": "https://equatorops.com/resources/blog/idempotency-business-layer",
+        "timestamp": "2026-02-06T18:14:23.224744",
+        "source": "Hacker News"
     }
 ]
