@@ -20608,5 +20608,11 @@
         "url": "https://www.washingtonpost.com/technology/2026/01/28/elon-musk-tesla-politics/",
         "timestamp": "2026-02-06T15:27:17.508319",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reduce Complexity of Matmul to O(N^2logN) by Asymptotically Optimal Quantum Algo",
+        "url": "https://arxiv.org/abs/2602.05541",
+        "timestamp": "2026-02-06T15:27:17.508369",
+        "source": "Hacker News"
     }
 ]
