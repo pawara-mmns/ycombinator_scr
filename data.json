@@ -17908,5 +17908,11 @@
         "url": "http://www.harrisblog.com/",
         "timestamp": "2026-02-06T03:36:07.690404",
         "source": "Hacker News"
+    },
+    {
+        "title": "Monty - A minimal, secure Python interpreter written in Rust",
+        "url": "https://github.com/pydantic/monty",
+        "timestamp": "2026-02-06T03:36:07.690438",
+        "source": "Hacker News"
     }
 ]
