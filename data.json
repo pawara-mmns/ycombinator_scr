@@ -20164,5 +20164,11 @@
         "url": "https://www.bbc.com/travel/article/20260202-inside-switzerlands-extraordinary-medieval-library",
         "timestamp": "2026-02-06T14:16:44.227186",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a hybrid Fuzzy/LLM pipeline to rank knife steels from Reddit",
+        "url": "https://new.knife.day/blog/reddit-steel-sentiment-analysis",
+        "timestamp": "2026-02-06T14:16:44.227319",
+        "source": "Hacker News"
     }
 ]
