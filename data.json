@@ -17896,5 +17896,11 @@
         "url": "https://www-cdn.anthropic.com/0dd865075ad3132672ee0ab40b05a53f14cf5288.pdf",
         "timestamp": "2026-02-06T03:36:07.690336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Onnx2fx: Yet another ONNX to PyTorch FX converter",
+        "url": "https://github.com/mshr-h/onnx2fx",
+        "timestamp": "2026-02-06T03:36:07.690371",
+        "source": "Hacker News"
     }
 ]
