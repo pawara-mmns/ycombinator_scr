@@ -20110,5 +20110,11 @@
         "url": "https://www.sendgate.io",
         "timestamp": "2026-02-06T13:51:20.291034",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adaptive Hashing: Faster Hash Functions with Fewer Collision",
+        "url": "https://arxiv.org/abs/2602.05925",
+        "timestamp": "2026-02-06T13:51:20.291073",
+        "source": "Hacker News"
     }
 ]
