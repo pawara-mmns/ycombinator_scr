@@ -20170,5 +20170,11 @@
         "url": "https://new.knife.day/blog/reddit-steel-sentiment-analysis",
         "timestamp": "2026-02-06T14:16:44.227319",
         "source": "Hacker News"
+    },
+    {
+        "title": "React Compiler and why class objects can work against memoization",
+        "url": "https://anita-app.com/blog/articles/react-compiler-and-why-class-objects-work-against-memoization.html",
+        "timestamp": "2026-02-06T14:16:44.227358",
+        "source": "Hacker News"
     }
 ]
