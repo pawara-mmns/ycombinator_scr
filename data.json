@@ -19228,5 +19228,11 @@
         "url": "https://www.exasol.com/blog/exasol-virtual-schemas/",
         "timestamp": "2026-02-06T10:30:37.191819",
         "source": "Hacker News"
+    },
+    {
+        "title": "LFortran Compiles Lapack",
+        "url": "https://lfortran.org/blog/2026/02/lfortran-compiles-lapack/",
+        "timestamp": "2026-02-06T10:30:37.191848",
+        "source": "Hacker News"
     }
 ]
