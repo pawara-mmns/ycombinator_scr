@@ -18646,5 +18646,11 @@
         "url": "https://news.ycombinator.com/item?id=46910027",
         "timestamp": "2026-02-06T07:33:10.618025",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agent-smith – Auto-generate AGENTS.md for AI coding assistants",
+        "url": "https://github.com/jpoindexter/agentsmith",
+        "timestamp": "2026-02-06T07:33:10.618060",
+        "source": "Hacker News"
     }
 ]
