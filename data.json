@@ -21886,5 +21886,11 @@
         "url": "https://d1gesto.blogspot.com/2026/02/rethinking-time-in-computation-from.html",
         "timestamp": "2026-02-06T18:31:57.791291",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zig on Windows: Prefer the Native API over Win32",
+        "url": "https://codeberg.org/ziglang/zig/issues/31131",
+        "timestamp": "2026-02-06T18:31:57.791368",
+        "source": "Hacker News"
     }
 ]
