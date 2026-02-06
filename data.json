@@ -20080,5 +20080,11 @@
         "url": "https://buduroiu.com/blog/openclaw-microvm/",
         "timestamp": "2026-02-06T13:51:20.290794",
         "source": "Hacker News"
+    },
+    {
+        "title": "VS Code config files abused to launch RCEs via GitHub Codespaces",
+        "url": "https://www.scworld.com/news/vs-code-config-files-abused-to-launch-rces-via-github-codespaces",
+        "timestamp": "2026-02-06T13:51:20.290828",
+        "source": "Hacker News"
     }
 ]
