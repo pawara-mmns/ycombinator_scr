@@ -21322,5 +21322,11 @@
         "url": "https://news.ycombinator.com/item?id=46915007",
         "timestamp": "2026-02-06T17:02:35.745392",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Daily-updated database of malicious browser extensions",
+        "url": "https://github.com/toborrm9/malicious_extension_sentry",
+        "timestamp": "2026-02-06T17:02:35.745426",
+        "source": "Hacker News"
     }
 ]
