@@ -19732,5 +19732,11 @@
         "url": "https://github.com/cenullum/Yet-Another-Open-File-Converter",
         "timestamp": "2026-02-06T12:46:53.435101",
         "source": "Hacker News"
+    },
+    {
+        "title": "API-based platform for hunting exposed secrets across GitHub repositories",
+        "url": "https://github.com/boringtools/git-alerts-api",
+        "timestamp": "2026-02-06T12:46:53.435149",
+        "source": "Hacker News"
     }
 ]
