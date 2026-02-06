@@ -20056,5 +20056,11 @@
         "url": "https://addyosmani.com/blog/claude-code-agent-teams/",
         "timestamp": "2026-02-06T13:51:20.290639",
         "source": "Hacker News"
+    },
+    {
+        "title": "ClickHouse chooses local NVMe backed Postgres powered by Ubicloud",
+        "url": "https://www.ubicloud.com/blog/clickhouse-postgresql-powered-by-ubicloud",
+        "timestamp": "2026-02-06T13:51:20.290688",
+        "source": "Hacker News"
     }
 ]
