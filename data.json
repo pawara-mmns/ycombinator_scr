@@ -18124,5 +18124,11 @@
         "url": "https://intentify.dev",
         "timestamp": "2026-02-06T05:01:43.972052",
         "source": "Hacker News"
+    },
+    {
+        "title": "HN Reposted – multiple posts about the same thing",
+        "url": "https://hn-related.dosaygo.com/?sort=discussions&p=1",
+        "timestamp": "2026-02-06T05:01:43.972086",
+        "source": "Hacker News"
     }
 ]
