@@ -23050,5 +23050,11 @@
         "url": "https://old.reddit.com/r/berlin/comments/1qxs3gh/in_the_early_20th_century_there_were_plans_to/",
         "timestamp": "2026-02-06T22:04:12.729412",
         "source": "Hacker News"
+    },
+    {
+        "title": "Speeding Up NumPy with Parallelism",
+        "url": "https://pythonspeed.com/articles/numpy-parallelism/",
+        "timestamp": "2026-02-06T22:04:12.729447",
+        "source": "Hacker News"
     }
 ]
