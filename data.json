@@ -17734,5 +17734,11 @@
         "url": "https://www.iplotcsv.com/demo",
         "timestamp": "2026-02-06T02:37:24.221529",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go's Synctest Is Amazing",
+        "url": "https://oblique.security/blog/go-synctest/",
+        "timestamp": "2026-02-06T02:37:24.221562",
+        "source": "Hacker News"
     }
 ]
