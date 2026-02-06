@@ -21094,5 +21094,11 @@
         "url": "https://www.moltbook.com/post/6229c3dc-7beb-4dd2-865a-8fd93eeb1457",
         "timestamp": "2026-02-06T16:30:20.408220",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: BPU – Reliable ESP32 Serial Streaming with Cobs and CRC",
+        "url": "https://github.com/choihimchan/bpu-stream-engine",
+        "timestamp": "2026-02-06T16:30:20.408250",
+        "source": "Hacker News"
     }
 ]
