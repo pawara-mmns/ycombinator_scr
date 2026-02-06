@@ -19882,5 +19882,11 @@
         "url": "https://millionwhys.com/daily",
         "timestamp": "2026-02-06T13:26:33.640334",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Turn Slow Queries into Actionable Reliability Metrics with OpenTelemetry",
+        "url": "https://www.causely.ai/blog/how-to-turn-slow-queries-into-actionable-reliability-metrics-with-opentelemetry",
+        "timestamp": "2026-02-06T13:26:33.640368",
+        "source": "Hacker News"
     }
 ]
