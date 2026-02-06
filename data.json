@@ -20398,5 +20398,11 @@
         "url": "https://matklad.github.io/2026/02/06/ci-in-a-box.html",
         "timestamp": "2026-02-06T14:45:00.034567",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Prometheus – A privacy-first system cleaner written in Rust",
+        "url": "https://prometheus-cleaner.vercel.app/",
+        "timestamp": "2026-02-06T14:45:00.034596",
+        "source": "Hacker News"
     }
 ]
