@@ -18430,5 +18430,11 @@
         "url": "https://github.com/2165187809-AXE/portfolio-monitor",
         "timestamp": "2026-02-06T06:32:30.556033",
         "source": "Hacker News"
+    },
+    {
+        "title": "Elfconv: AOT binary translator of Linux/ELF –> WebAssembly",
+        "url": "https://github.com/yomaytk/elfconv",
+        "timestamp": "2026-02-06T06:32:30.556067",
+        "source": "Hacker News"
     }
 ]
