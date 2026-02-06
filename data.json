@@ -18250,5 +18250,11 @@
         "url": "https://news.ycombinator.com/item?id=46909379",
         "timestamp": "2026-02-06T05:37:16.372205",
         "source": "Hacker News"
+    },
+    {
+        "title": "Guacamole in Rust? Here Tis",
+        "url": "https://github.com/sol1/rustguac/releases/tag/v0.1.0",
+        "timestamp": "2026-02-06T05:37:16.372240",
+        "source": "Hacker News"
     }
 ]
