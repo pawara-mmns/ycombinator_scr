@@ -19684,5 +19684,11 @@
         "url": "https://www.theregister.com/2026/02/05/asia_government_spies_hacked_37_critical_networks/",
         "timestamp": "2026-02-06T12:46:53.434789",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why RAG Failed Us for SRE and How We Built Dynamic Memory Retrieval Instead",
+        "url": "https://drdroid.io/dynamic-memory-retrieval",
+        "timestamp": "2026-02-06T12:46:53.434824",
+        "source": "Hacker News"
     }
 ]
