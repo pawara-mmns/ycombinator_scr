@@ -23140,5 +23140,11 @@
         "url": "https://dogdogfish.com/blog/2026/02/06/words-that-mean-nothing/",
         "timestamp": "2026-02-06T22:23:43.965916",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Falcon's Eye (isometric NetHack) running in the browser via WebAssembly",
+        "url": "https://rahuljaguste.github.io/Nethack_Falcons_Eye/",
+        "timestamp": "2026-02-06T22:23:43.965968",
+        "source": "Hacker News"
     }
 ]
