@@ -20548,5 +20548,11 @@
         "url": "https://antonz.org/interfaces-in-c/",
         "timestamp": "2026-02-06T15:04:32.359685",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Reverse Turing Test (convince an LLM that you are an LLM)",
+        "url": "https://github.com/empath-nirvana/reverse-turing",
+        "timestamp": "2026-02-06T15:04:32.359718",
+        "source": "Hacker News"
     }
 ]
