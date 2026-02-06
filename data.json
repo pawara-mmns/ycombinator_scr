@@ -19156,5 +19156,11 @@
         "url": "https://www.robpanico.com/articles/display/?entry_short=the-beast-that-promises-completion",
         "timestamp": "2026-02-06T10:30:37.191389",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nix-run: run Nix derivations without nix3 or flakes",
+        "url": "https://tangled.org/weethet.bsky.social/nix-run",
+        "timestamp": "2026-02-06T10:30:37.191435",
+        "source": "Hacker News"
     }
 ]
