@@ -20260,5 +20260,11 @@
         "url": "https://github.com/craihub/clawgpt",
         "timestamp": "2026-02-06T14:16:44.227963",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust's Serde Large Overhead",
+        "url": "https://github.com/codx-dev/msgpacker",
+        "timestamp": "2026-02-06T14:16:44.227998",
+        "source": "Hacker News"
     }
 ]
