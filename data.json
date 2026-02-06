@@ -21424,5 +21424,11 @@
         "url": "https://daax.dev/blogs/the-sandbox-explosion",
         "timestamp": "2026-02-06T17:29:45.803039",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Native macOS app to inject color themes into OpenAI Codex via CDP",
+        "url": "https://github.com/z0rgoyok/codex-theme-controller",
+        "timestamp": "2026-02-06T17:29:45.803076",
+        "source": "Hacker News"
     }
 ]
