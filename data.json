@@ -17590,5 +17590,11 @@
         "url": "https://arxiv.org/abs/2502.06258",
         "timestamp": "2026-02-06T02:37:24.220671",
         "source": "Hacker News"
+    },
+    {
+        "title": "X07: An agent-first compiled language with JSON AST and deterministic tooling",
+        "url": "https://x07lang.org/",
+        "timestamp": "2026-02-06T02:37:24.220709",
+        "source": "Hacker News"
     }
 ]
