@@ -21850,5 +21850,11 @@
         "url": "https://equatorops.com/resources/blog/idempotency-business-layer",
         "timestamp": "2026-02-06T18:14:23.224744",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Cbx – Local TTS CLI Wrapping Chatterbox ONNX (Single Rust Binary)",
+        "url": "https://github.com/srv1n/cbx",
+        "timestamp": "2026-02-06T18:14:23.224780",
+        "source": "Hacker News"
     }
 ]
