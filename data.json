@@ -17398,5 +17398,11 @@
         "url": "https://hn-related.dosaygo.com/?sort=comments&p=1",
         "timestamp": "2026-02-06T00:51:25.736875",
         "source": "Hacker News"
+    },
+    {
+        "title": "A First Course in Causal Inference",
+        "url": "https://arxiv.org/abs/2305.18793",
+        "timestamp": "2026-02-06T00:51:25.736909",
+        "source": "Hacker News"
     }
 ]
