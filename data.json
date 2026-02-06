@@ -18304,5 +18304,11 @@
         "url": "https://news.ycombinator.com/item?id=46909622",
         "timestamp": "2026-02-06T06:04:26.870359",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fylepad – A minimal, tabbed Markdown notepad built with Rust",
+        "url": "https://github.com/imrofayel/fylepad",
+        "timestamp": "2026-02-06T06:04:26.870396",
+        "source": "Hacker News"
     }
 ]
