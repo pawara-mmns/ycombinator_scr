@@ -22336,5 +22336,11 @@
         "url": "https://www.scientificamerican.com/article/these-two-habits-are-linked-to-more-than-a-third-of-all-cancer-cases",
         "timestamp": "2026-02-06T19:46:40.461240",
         "source": "Hacker News"
+    },
+    {
+        "title": "One API to Rule Them All: Migrating from Zod-OpenAPI to ConnectRPC",
+        "url": "https://www.openstatus.dev/blog/migrating-from-zod-openapi-to-connectrpc",
+        "timestamp": "2026-02-06T19:46:40.461274",
+        "source": "Hacker News"
     }
 ]
