@@ -18970,5 +18970,11 @@
         "url": "https://www.ipp.mpg.de/5125328/05_21",
         "timestamp": "2026-02-06T09:45:37.736122",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Axiom – C++ tensor library with NumPys API, optimized for Apple Silicon",
+        "url": "https://github.com/Frikallo/axiom",
+        "timestamp": "2026-02-06T09:45:37.736171",
+        "source": "Hacker News"
     }
 ]
