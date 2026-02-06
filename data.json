@@ -22780,5 +22780,11 @@
         "url": "https://memgraph.com/blog/security-gap-in-mcp-graphrag-context",
         "timestamp": "2026-02-06T20:59:07.497377",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bring receipts from your Claude Code sessions",
+        "url": "https://github.com/chrishutchinson/claude-receipts",
+        "timestamp": "2026-02-06T20:59:07.497413",
+        "source": "Hacker News"
     }
 ]
