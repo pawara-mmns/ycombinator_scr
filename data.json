@@ -22804,5 +22804,11 @@
         "url": "https://clawcard.ai",
         "timestamp": "2026-02-06T20:59:07.497524",
         "source": "Hacker News"
+    },
+    {
+        "title": "Auth0 Down",
+        "url": "https://manage.auth0.com/",
+        "timestamp": "2026-02-06T20:59:07.497560",
+        "source": "Hacker News"
     }
 ]
