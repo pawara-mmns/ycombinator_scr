@@ -18916,5 +18916,11 @@
         "url": "https://signoz.io/blog/otel-baggage/",
         "timestamp": "2026-02-06T09:15:41.400133",
         "source": "Hacker News"
+    },
+    {
+        "title": "Text classification with Python 3.14's ZSTD module",
+        "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+        "timestamp": "2026-02-06T09:15:41.400170",
+        "source": "Hacker News"
     }
 ]
