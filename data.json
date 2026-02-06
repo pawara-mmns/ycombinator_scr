@@ -19966,5 +19966,11 @@
         "url": "https://www.theregister.com/2026/02/04/nitrogen_ransomware_broken_decryptor/",
         "timestamp": "2026-02-06T13:26:33.640837",
         "source": "Hacker News"
+    },
+    {
+        "title": "Erlang ets",
+        "url": "https://www.erlang.org/doc/apps/stdlib/ets.html",
+        "timestamp": "2026-02-06T13:26:33.640872",
+        "source": "Hacker News"
     }
 ]
