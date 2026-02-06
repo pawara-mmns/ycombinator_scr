@@ -20722,5 +20722,11 @@
         "url": "https://news.ycombinator.com/item?id=46913755",
         "timestamp": "2026-02-06T15:27:17.509109",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hibana – An Affine MPST Runtime for Rust",
+        "url": "https://hibanaworks.dev",
+        "timestamp": "2026-02-06T15:27:17.509163",
+        "source": "Hacker News"
     }
 ]
