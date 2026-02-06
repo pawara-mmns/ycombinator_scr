@@ -20644,5 +20644,11 @@
         "url": "https://www.theargumentmag.com/p/twitter-is-not-real-life",
         "timestamp": "2026-02-06T15:27:17.508596",
         "source": "Hacker News"
+    },
+    {
+        "title": "0-Click Remote Code Execution in OpenClaw with GPT5.2 via Gmail Hook",
+        "url": "https://veganmosfet.github.io/2026/02/02/openclaw_mail_rce.html",
+        "timestamp": "2026-02-06T15:27:17.508631",
+        "source": "Hacker News"
     }
 ]
