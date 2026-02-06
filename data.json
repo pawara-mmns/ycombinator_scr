@@ -23020,5 +23020,11 @@
         "url": "https://linch.substack.com/p/how-stealth-works",
         "timestamp": "2026-02-06T21:45:28.176302",
         "source": "Hacker News"
+    },
+    {
+        "title": "Visualize MySQL query execution plans as interactive FlameGraphs",
+        "url": "https://github.com/vgrippa/myflames",
+        "timestamp": "2026-02-06T22:04:12.729250",
+        "source": "Hacker News"
     }
 ]
