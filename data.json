@@ -23074,5 +23074,11 @@
         "url": "https://twitter.com/WillManidis/status/2019850913599676524",
         "timestamp": "2026-02-06T22:04:12.729589",
         "source": "Hacker News"
+    },
+    {
+        "title": "Supporting ChatGPT on PostgreSQL in Azure",
+        "url": "https://techcommunity.microsoft.com/blog/adforpostgresql/supporting-chatgpt-on-postgresql-in-azure/4490247",
+        "timestamp": "2026-02-06T22:04:12.729625",
+        "source": "Hacker News"
     }
 ]
