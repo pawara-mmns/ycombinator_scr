@@ -18232,5 +18232,11 @@
         "url": "https://pytorch.org/blog/building-highly-efficient-inference-system-for-recommenders-using-pytorch/",
         "timestamp": "2026-02-06T05:37:16.372101",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dependency-free C compiler in Rust, written by Opus 4.6",
+        "url": "https://github.com/anthropics/claudes-c-compiler",
+        "timestamp": "2026-02-06T05:37:16.372135",
+        "source": "Hacker News"
     }
 ]
