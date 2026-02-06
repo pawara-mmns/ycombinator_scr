@@ -20062,5 +20062,11 @@
         "url": "https://www.ubicloud.com/blog/clickhouse-postgresql-powered-by-ubicloud",
         "timestamp": "2026-02-06T13:51:20.290688",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Gigacode – Use OpenCode's UI with Claude Code/Codex/Amp",
+        "url": "https://github.com/rivet-dev/sandbox-agent/tree/main/gigacode",
+        "timestamp": "2026-02-06T13:51:20.290724",
+        "source": "Hacker News"
     }
 ]
