@@ -22606,5 +22606,11 @@
         "url": "https://lore.kernel.org/lkml/20260206191136.2609767-1-slava@dubeyko.com/",
         "timestamp": "2026-02-06T20:25:00.573864",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to vibecode a functional terminal from scratch (hint: Rust)",
+        "url": "https://twitter.com/itsandrewgao/status/2019864488967872799",
+        "timestamp": "2026-02-06T20:25:00.573899",
+        "source": "Hacker News"
     }
 ]
