@@ -17740,5 +17740,11 @@
         "url": "https://oblique.security/blog/go-synctest/",
         "timestamp": "2026-02-06T02:37:24.221562",
         "source": "Hacker News"
+    },
+    {
+        "title": "Firesheep: Easy HTTP session hijacking from within Firefox (2010)",
+        "url": "https://codebutler.com/2010/10/24/firesheep/",
+        "timestamp": "2026-02-06T02:37:24.221597",
+        "source": "Hacker News"
     }
 ]
