@@ -23362,5 +23362,11 @@
         "url": "https://foxglove.dev/blog/turning-a-vlp-16-into-a-spherical-scanner",
         "timestamp": "2026-02-06T23:23:55.982817",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Improving Prompt Injection Detection with Weighted Ensembles",
+        "url": "https://github.com/appleroll-research/promptforest",
+        "timestamp": "2026-02-06T23:23:55.982893",
+        "source": "Hacker News"
     }
 ]
