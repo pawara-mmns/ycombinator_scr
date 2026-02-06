@@ -22588,5 +22588,11 @@
         "url": "https://www.9news.com/article/money/business/denver-tech-company-laying-off-hundreds-ai-efficiency/73-2b72d5ed-cdbe-4851-93f2-7ad353ca38ad",
         "timestamp": "2026-02-06T20:25:00.573724",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZMEM: Binary message format with minimal memory overhead and zero copy access",
+        "url": "https://github.com/zmem-org/ZMEM",
+        "timestamp": "2026-02-06T20:25:00.573760",
+        "source": "Hacker News"
     }
 ]
