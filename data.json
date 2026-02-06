@@ -17620,5 +17620,11 @@
         "url": "https://news.ycombinator.com/item?id=46908220",
         "timestamp": "2026-02-06T02:37:24.220856",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jim Roskind on C Ambiguity",
+        "url": "https://pdos.csail.mit.edu/archive/l/c/roskind.html",
+        "timestamp": "2026-02-06T02:37:24.220890",
+        "source": "Hacker News"
     }
 ]
