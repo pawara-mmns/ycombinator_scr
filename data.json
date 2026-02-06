@@ -21106,5 +21106,11 @@
         "url": "https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html",
         "timestamp": "2026-02-06T16:30:20.408279",
         "source": "Hacker News"
+    },
+    {
+        "title": "Technical Report: Exploring the Emerging Threats of the Agent Skill Ecosystem",
+        "url": "https://github.com/invariantlabs-ai/mcp-scan/blob/main/.github/reports/skills-report.pdf",
+        "timestamp": "2026-02-06T16:30:20.408309",
+        "source": "Hacker News"
     }
 ]
