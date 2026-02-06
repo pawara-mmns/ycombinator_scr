@@ -19180,5 +19180,11 @@
         "url": "https://govforms.co.uk/",
         "timestamp": "2026-02-06T10:30:37.191559",
         "source": "Hacker News"
+    },
+    {
+        "title": "mkincl: A simple way to reuse Makefiles and scripts across multiple repositories",
+        "url": "https://github.com/mkincl/mkincl",
+        "timestamp": "2026-02-06T10:30:37.191589",
+        "source": "Hacker News"
     }
 ]
