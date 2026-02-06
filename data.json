@@ -22600,5 +22600,11 @@
         "url": "https://simonschreibt.de/gat/fallout-4-the-mushroom-case/",
         "timestamp": "2026-02-06T20:25:00.573830",
         "source": "Hacker News"
+    },
+    {
+        "title": "Machine Learning library in Linux kernel",
+        "url": "https://lore.kernel.org/lkml/20260206191136.2609767-1-slava@dubeyko.com/",
+        "timestamp": "2026-02-06T20:25:00.573864",
+        "source": "Hacker News"
     }
 ]
