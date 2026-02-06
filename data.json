@@ -17554,5 +17554,11 @@
         "url": "https://github.com/synth-laboratories/Horizons",
         "timestamp": "2026-02-06T01:33:36.032711",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Very Small SAT Solver (From Haskell) Now in Dafny, Proved Correct with LLMs",
+        "url": "https://github.com/namin/dafny-sandbox/blob/master/Sat.dfy",
+        "timestamp": "2026-02-06T01:33:36.032746",
+        "source": "Hacker News"
     }
 ]
