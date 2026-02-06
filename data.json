@@ -18172,5 +18172,11 @@
         "url": "https://github.com/gitwalter/cursor-agent-factory",
         "timestamp": "2026-02-06T05:37:16.371646",
         "source": "Hacker News"
+    },
+    {
+        "title": "Things Unix can do atomically",
+        "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+        "timestamp": "2026-02-06T05:37:16.371687",
+        "source": "Hacker News"
     }
 ]
