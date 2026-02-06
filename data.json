@@ -18226,5 +18226,11 @@
         "url": "https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/",
         "timestamp": "2026-02-06T05:37:16.372067",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Highly Efficient Inference System for Recommenders Using PyTorch",
+        "url": "https://pytorch.org/blog/building-highly-efficient-inference-system-for-recommenders-using-pytorch/",
+        "timestamp": "2026-02-06T05:37:16.372101",
+        "source": "Hacker News"
     }
 ]
