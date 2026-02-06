@@ -22420,5 +22420,11 @@
         "url": "https://tomtunguz.com/the-scaffolding-shift/",
         "timestamp": "2026-02-06T20:07:15.357005",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Multiturn GRPO on the DGX Spark",
+        "url": "https://github.com/nathanjackson/spark-grpo",
+        "timestamp": "2026-02-06T20:07:15.357042",
+        "source": "Hacker News"
     }
 ]
