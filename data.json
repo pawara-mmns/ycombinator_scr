@@ -23320,5 +23320,11 @@
         "url": "https://github.com/arnavw/word2vec_jax",
         "timestamp": "2026-02-06T23:07:27.217756",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running Pydantic's Monty Rust Sandboxed Python Subset in WebAssembly",
+        "url": "https://simonwillison.net/2026/Feb/6/pydantic-monty/",
+        "timestamp": "2026-02-06T23:07:27.217786",
+        "source": "Hacker News"
     }
 ]
