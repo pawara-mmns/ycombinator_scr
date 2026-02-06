@@ -18520,5 +18520,11 @@
         "url": "https://www.paperbanana.xyz/",
         "timestamp": "2026-02-06T07:06:44.479323",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Dangerously-skip-permissions IFF it doesn't WRITE outside Sandbox",
+        "url": "https://github.com/ContextFort-AI/Runtime-Controls",
+        "timestamp": "2026-02-06T07:06:44.479356",
+        "source": "Hacker News"
     }
 ]
