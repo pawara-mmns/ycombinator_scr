@@ -19942,5 +19942,11 @@
         "url": "https://filecompress.org",
         "timestamp": "2026-02-06T13:26:33.640678",
         "source": "Hacker News"
+    },
+    {
+        "title": "Valkey Internals: The Architecture Behind Zero-Copy Command Propagation",
+        "url": "https://frostzt.com/blog/redis-valkey-replication-internals",
+        "timestamp": "2026-02-06T13:26:33.640712",
+        "source": "Hacker News"
     }
 ]
