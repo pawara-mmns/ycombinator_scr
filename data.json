@@ -17758,5 +17758,11 @@
         "url": "https://openclaw.ai/",
         "timestamp": "2026-02-06T02:37:24.221665",
         "source": "Hacker News"
+    },
+    {
+        "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
+        "url": "https://vespalec.com/blog/tower-of-flaws/",
+        "timestamp": "2026-02-06T03:36:07.424188",
+        "source": "Hacker News"
     }
 ]
