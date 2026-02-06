@@ -20152,5 +20152,11 @@
         "url": "https://www.cnbc.com/2026/02/06/us-asks-american-citizens-to-leave-iran-now-ahead-of-high-stakes-talks-with-tehran-.html",
         "timestamp": "2026-02-06T13:51:20.291279",
         "source": "Hacker News"
+    },
+    {
+        "title": "How a vLLM-style inference engine works: The model part",
+        "url": "https://neutree.ai/blog/nano-vllm-part-2",
+        "timestamp": "2026-02-06T14:16:44.227131",
+        "source": "Hacker News"
     }
 ]
