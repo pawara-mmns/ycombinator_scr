@@ -18052,5 +18052,11 @@
         "url": "https://news.slashdot.org/story/26/02/05/1924252/court-rules-that-ripping-youtube-clips-can-violate-the-dmca",
         "timestamp": "2026-02-06T04:25:32.750176",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unlocking high-performance PostgreSQL with key memory optimizations",
+        "url": "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations",
+        "timestamp": "2026-02-06T05:01:43.786166",
+        "source": "Hacker News"
     }
 ]
