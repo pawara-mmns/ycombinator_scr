@@ -27424,5 +27424,11 @@
         "url": "https://www.newyorker.com/magazine/1998/10/26/the-janitor-on-mars",
         "timestamp": "2026-02-07T21:24:15.522404",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bringing Polars to .NET",
+        "url": "https://github.com/ErrorLSC/Polars.NET",
+        "timestamp": "2026-02-07T21:24:15.522439",
+        "source": "Hacker News"
     }
 ]
