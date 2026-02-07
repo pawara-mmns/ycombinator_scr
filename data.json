@@ -23788,5 +23788,11 @@
         "url": "https://notifox.com/blog/bash-error-handling",
         "timestamp": "2026-02-07T01:33:18.963947",
         "source": "Hacker News"
+    },
+    {
+        "title": "WebView performance significantly slower than PWA",
+        "url": "https://issues.chromium.org/issues/40817676",
+        "timestamp": "2026-02-07T01:33:18.963982",
+        "source": "Hacker News"
     }
 ]
