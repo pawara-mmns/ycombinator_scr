@@ -24982,5 +24982,11 @@
         "url": "https://asadk.com/p/edge",
         "timestamp": "2026-02-07T11:49:42.755949",
         "source": "Hacker News"
+    },
+    {
+        "title": "RISC-V Vector Primer",
+        "url": "https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md",
+        "timestamp": "2026-02-07T11:49:42.755988",
+        "source": "Hacker News"
     }
 ]
