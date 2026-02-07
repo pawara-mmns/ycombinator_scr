@@ -24064,5 +24064,11 @@
         "url": "https://github.com/richardhapb/django-check",
         "timestamp": "2026-02-07T03:32:55.700945",
         "source": "Hacker News"
+    },
+    {
+        "title": "Emacs-tramp-RPC: High-performance TRAMP back end using JSON-RPC instead of shell",
+        "url": "https://github.com/ArthurHeymans/emacs-tramp-rpc",
+        "timestamp": "2026-02-07T03:32:55.700978",
+        "source": "Hacker News"
     }
 ]
