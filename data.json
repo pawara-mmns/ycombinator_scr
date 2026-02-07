@@ -23566,5 +23566,11 @@
         "url": "https://github.com/marktoflow/marktoflow",
         "timestamp": "2026-02-07T00:17:21.026844",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator",
+        "url": "https://www.iankduncan.com/engineering/2026-02-06-bash-is-not-enough/",
+        "timestamp": "2026-02-07T00:17:21.026879",
+        "source": "Hacker News"
     }
 ]
