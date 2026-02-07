@@ -25972,5 +25972,11 @@
         "url": "https://github.com/philipl/pifs",
         "timestamp": "2026-02-07T16:24:24.902501",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go-busybox: A sandboxable port of busybox for AI agents",
+        "url": "https://github.com/rcarmo/go-busybox",
+        "timestamp": "2026-02-07T16:24:24.902531",
+        "source": "Hacker News"
     }
 ]
