@@ -25534,5 +25534,11 @@
         "url": "https://github.com/commaai/minikeyvalue/tree/prod",
         "timestamp": "2026-02-07T14:41:11.644764",
         "source": "Hacker News"
+    },
+    {
+        "title": "Neomacs: GPU-accelerated Emacs with inline video, WebKit, and terminal via wgpu",
+        "url": "https://github.com/eval-exec/neomacs",
+        "timestamp": "2026-02-07T14:41:11.644816",
+        "source": "Hacker News"
     }
 ]
