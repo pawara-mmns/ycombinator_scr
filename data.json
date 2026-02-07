@@ -27496,5 +27496,11 @@
         "url": "https://lars.ingebrigtsen.no/2026/02/07/how-patient-are-ai-scrapers-anyway/",
         "timestamp": "2026-02-07T21:52:20.707874",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vouch: A contributor trust management system",
+        "url": "https://github.com/mitchellh/vouch",
+        "timestamp": "2026-02-07T21:52:20.707911",
+        "source": "Hacker News"
     }
 ]
