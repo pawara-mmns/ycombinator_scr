@@ -27676,5 +27676,11 @@
         "url": "https://gitblack.vercel.app/",
         "timestamp": "2026-02-07T22:42:05.534955",
         "source": "Hacker News"
+    },
+    {
+        "title": "Horizon-LM: A RAM-Centric Architecture for LLM Training",
+        "url": "https://arxiv.org/abs/2602.04816",
+        "timestamp": "2026-02-07T22:42:05.534992",
+        "source": "Hacker News"
     }
 ]
