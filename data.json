@@ -27256,5 +27256,11 @@
         "url": "https://news.ycombinator.com/item?id=46927634",
         "timestamp": "2026-02-07T20:41:34.907717",
         "source": "Hacker News"
+    },
+    {
+        "title": "KV Cache Transform Coding for Compact Storage in LLM Inference",
+        "url": "https://arxiv.org/abs/2511.01815",
+        "timestamp": "2026-02-07T20:41:34.907753",
+        "source": "Hacker News"
     }
 ]
