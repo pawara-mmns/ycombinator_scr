@@ -23836,5 +23836,11 @@
         "url": "https://nexvo.io/",
         "timestamp": "2026-02-07T01:33:18.964218",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Gohpts tproxy with arp spoofing and sniffing got a new update",
+        "url": "https://github.com/shadowy-pycoder/go-http-proxy-to-socks",
+        "timestamp": "2026-02-07T01:33:18.964283",
+        "source": "Hacker News"
     }
 ]
