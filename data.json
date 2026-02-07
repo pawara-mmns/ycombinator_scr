@@ -23782,5 +23782,11 @@
         "url": "https://www.youtube.com/watch?v=r2Tq8jdS6mY",
         "timestamp": "2026-02-07T01:33:18.963914",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bash scripts are brittle – simple error handling in bash",
+        "url": "https://notifox.com/blog/bash-error-handling",
+        "timestamp": "2026-02-07T01:33:18.963947",
+        "source": "Hacker News"
     }
 ]
