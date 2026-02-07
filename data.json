@@ -27964,5 +27964,11 @@
         "url": "https://devxt.com",
         "timestamp": "2026-02-07T23:42:38.765522",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Minimal OpenClaw Built with the OpenCode SDK",
+        "url": "https://github.com/CefBoud/MonClaw",
+        "timestamp": "2026-02-07T23:42:38.765558",
+        "source": "Hacker News"
     }
 ]
