@@ -27916,5 +27916,11 @@
         "url": "https://github.com/pgmq/pgmq",
         "timestamp": "2026-02-07T23:42:38.765150",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Django-rclone: Database and media backups for Django, powered by rclone",
+        "url": "https://github.com/kjnez/django-rclone",
+        "timestamp": "2026-02-07T23:42:38.765185",
+        "source": "Hacker News"
     }
 ]
