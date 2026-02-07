@@ -27910,5 +27910,11 @@
         "url": "https://news.ycombinator.com/item?id=46929545",
         "timestamp": "2026-02-07T23:42:38.765114",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres Message Queue (PGMQ)",
+        "url": "https://github.com/pgmq/pgmq",
+        "timestamp": "2026-02-07T23:42:38.765150",
+        "source": "Hacker News"
     }
 ]
