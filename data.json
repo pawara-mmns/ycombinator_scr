@@ -25486,5 +25486,11 @@
         "url": "https://github.com/zai-org/GLM-OCR",
         "timestamp": "2026-02-07T14:23:42.441144",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local Agent Bench: Test 11 small LLMs on tool-calling judgment, on CPU, no GPU",
+        "url": "https://github.com/MikeVeerman/tool-calling-benchmark",
+        "timestamp": "2026-02-07T14:23:42.441181",
+        "source": "Hacker News"
     }
 ]
