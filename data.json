@@ -27622,5 +27622,11 @@
         "url": "https://github.com/dshearer/misatay",
         "timestamp": "2026-02-07T22:23:36.647013",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Every R Package Wrapping External Tools Needs a Sitrep() Function",
+        "url": "https://drmowinckels.io/blog/2026/sitrep-functions/",
+        "timestamp": "2026-02-07T22:23:36.647050",
+        "source": "Hacker News"
     }
 ]
