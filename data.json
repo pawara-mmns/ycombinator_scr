@@ -23518,5 +23518,11 @@
         "url": "https://www.gilesthomas.com/2026/02/llm-from-scratch-32d-interventions-adding-attention-bias",
         "timestamp": "2026-02-07T00:17:21.026559",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Kubernetes Operator to Validate Jupyter Notebooks in MLOps",
+        "url": "https://github.com/tosin2013/jupyter-notebook-validator-operator",
+        "timestamp": "2026-02-07T00:17:21.026596",
+        "source": "Hacker News"
     }
 ]
