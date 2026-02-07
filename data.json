@@ -25978,5 +25978,11 @@
         "url": "https://github.com/rcarmo/go-busybox",
         "timestamp": "2026-02-07T16:24:24.902531",
         "source": "Hacker News"
+    },
+    {
+        "title": "Quantization-Aware Distillation for NVFP4 Inference Accuracy Recovery [pdf]",
+        "url": "https://research.nvidia.com/labs/nemotron/files/NVFP4-QAD-Report.pdf",
+        "timestamp": "2026-02-07T16:24:24.902561",
+        "source": "Hacker News"
     }
 ]
