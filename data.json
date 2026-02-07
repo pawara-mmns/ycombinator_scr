@@ -25420,5 +25420,11 @@
         "url": "https://news.ycombinator.com/item?id=46923884",
         "timestamp": "2026-02-07T14:06:50.142836",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Simple – a bytecode VM and language stack I built with AI",
+        "url": "https://github.com/JJLDonley/Simple",
+        "timestamp": "2026-02-07T14:06:50.142871",
+        "source": "Hacker News"
     }
 ]
