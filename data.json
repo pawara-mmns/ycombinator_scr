@@ -24898,5 +24898,11 @@
         "url": "https://www.haniri.com",
         "timestamp": "2026-02-07T10:54:39.790060",
         "source": "Hacker News"
+    },
+    {
+        "title": "Queueing Theory v2: DORA metrics, queue-of-queues, chi-alpha-beta-sigma notation",
+        "url": "https://github.com/joelparkerhenderson/queueing-theory",
+        "timestamp": "2026-02-07T11:04:53.189243",
+        "source": "Hacker News"
     }
 ]
