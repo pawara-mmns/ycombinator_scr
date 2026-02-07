@@ -27400,5 +27400,11 @@
         "url": "https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/",
         "timestamp": "2026-02-07T21:24:15.522259",
         "source": "Hacker News"
+    },
+    {
+        "title": "Implementing TCP Echo Server in Rust [video]",
+        "url": "https://www.youtube.com/watch?v=qjOBZ_Xzuio",
+        "timestamp": "2026-02-07T21:24:15.522295",
+        "source": "Hacker News"
     }
 ]
