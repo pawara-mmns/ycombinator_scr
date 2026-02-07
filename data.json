@@ -26596,5 +26596,11 @@
         "url": "https://rlhfbook.com/",
         "timestamp": "2026-02-07T18:24:42.537419",
         "source": "Hacker News"
+    },
+    {
+        "title": "AUR malware scanner written in Rust",
+        "url": "https://github.com/Sohimaster/traur",
+        "timestamp": "2026-02-07T18:24:42.857825",
+        "source": "Hacker News"
     }
 ]
