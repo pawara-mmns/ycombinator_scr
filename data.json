@@ -25306,5 +25306,11 @@
         "url": "https://www.youtube.com/playlist?list=PLyOro6vMGsP_xkW6FXxsaeHUkD5e-9AUa",
         "timestamp": "2026-02-07T13:45:41.576182",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MCP App to play backgammon with your LLM",
+        "url": "https://github.com/sam-mfb/backgammon-mcp",
+        "timestamp": "2026-02-07T13:45:41.576219",
+        "source": "Hacker News"
     }
 ]
