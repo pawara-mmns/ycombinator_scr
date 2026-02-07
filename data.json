@@ -26842,5 +26842,11 @@
         "url": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
         "timestamp": "2026-02-07T19:00:17.732776",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a <400ms latency voice agent that runs on a 4gb vram GTX 1650\"",
+        "url": "https://github.com/pheonix-delta/axiom-voice-agent",
+        "timestamp": "2026-02-07T19:00:17.732813",
+        "source": "Hacker News"
     }
 ]
