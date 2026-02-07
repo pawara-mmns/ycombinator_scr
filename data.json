@@ -25120,5 +25120,11 @@
         "url": "https://divvyai.app/",
         "timestamp": "2026-02-07T12:46:54.125747",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hot Reloading in Rust? Subsecond and Dioxus to the Rescue",
+        "url": "https://codethoughts.io/posts/2026-02-07-rust-hot-reloading/",
+        "timestamp": "2026-02-07T12:46:54.125781",
+        "source": "Hacker News"
     }
 ]
