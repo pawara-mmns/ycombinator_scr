@@ -24058,5 +24058,11 @@
         "url": "https://www.huckgutman.com/blog-1/shakespeare-sonnet-73",
         "timestamp": "2026-02-07T03:32:55.700910",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Django N+1 Queries Checker",
+        "url": "https://github.com/richardhapb/django-check",
+        "timestamp": "2026-02-07T03:32:55.700945",
+        "source": "Hacker News"
     }
 ]
