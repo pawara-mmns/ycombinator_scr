@@ -25954,5 +25954,11 @@
         "url": "https://www.asktog.com/columns/038MacUITrends.html",
         "timestamp": "2026-02-07T16:24:24.902395",
         "source": "Hacker News"
+    },
+    {
+        "title": "Azure: Virtual network routing appliance overview",
+        "url": "https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-routing-appliance-overview",
+        "timestamp": "2026-02-07T16:24:24.902439",
+        "source": "Hacker News"
     }
 ]
