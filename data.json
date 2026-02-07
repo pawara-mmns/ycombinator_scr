@@ -25708,5 +25708,11 @@
         "url": "https://fedoramagazine.org/how-to-make-a-local-open-source-ai-chatbot-who-has-access-to-fedora-documentation/",
         "timestamp": "2026-02-07T15:23:47.396503",
         "source": "Hacker News"
+    },
+    {
+        "title": "Introduce the Vouch/Denouncement Contribution Model by Mitchellh",
+        "url": "https://github.com/ghostty-org/ghostty/pull/10559",
+        "timestamp": "2026-02-07T15:23:47.396534",
+        "source": "Hacker News"
     }
 ]
