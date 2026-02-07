@@ -26518,5 +26518,11 @@
         "url": "https://clairefro.github.io/llm-of-babel/",
         "timestamp": "2026-02-07T18:06:20.247900",
         "source": "Hacker News"
+    },
+    {
+        "title": "A modern iperf3 alternative with a live TUI, multi-client server, QUIC support",
+        "url": "https://github.com/lance0/xfr",
+        "timestamp": "2026-02-07T18:06:20.247932",
+        "source": "Hacker News"
     }
 ]
