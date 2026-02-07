@@ -25060,5 +25060,11 @@
         "url": "https://nodee.co",
         "timestamp": "2026-02-07T12:25:29.137634",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bash parallel tasks and error handling",
+        "url": "https://github.com/themattrix/bash-concurrent",
+        "timestamp": "2026-02-07T12:25:29.137669",
+        "source": "Hacker News"
     }
 ]
