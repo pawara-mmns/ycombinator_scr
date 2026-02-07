@@ -25162,5 +25162,11 @@
         "url": "https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/",
         "timestamp": "2026-02-07T13:18:19.075192",
         "source": "Hacker News"
+    },
+    {
+        "title": "Browser-use for Node.js v0.2.0: TS AI browser automation parity with PY v0.5.11",
+        "url": "https://github.com/webllm/browser-use",
+        "timestamp": "2026-02-07T13:18:19.075227",
+        "source": "Hacker News"
     }
 ]
