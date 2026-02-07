@@ -24868,5 +24868,11 @@
         "url": "https://vercel.com/blog/introducing-geist-pixel",
         "timestamp": "2026-02-07T10:41:51.078010",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MCP to get latest dependency package and tool versions",
+        "url": "https://github.com/MShekow/package-version-check-mcp",
+        "timestamp": "2026-02-07T10:41:51.078047",
+        "source": "Hacker News"
     }
 ]
