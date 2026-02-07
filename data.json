@@ -25450,5 +25450,11 @@
         "url": "https://www.youtube.com/watch?v=Y3N9qlPZBc0",
         "timestamp": "2026-02-07T14:06:50.143046",
         "source": "Hacker News"
+    },
+    {
+        "title": "We interfaced single-threaded C++ with multi-threaded Rust",
+        "url": "https://antithesis.com/blog/2026/rust_cpp/",
+        "timestamp": "2026-02-07T14:06:50.143082",
+        "source": "Hacker News"
     }
 ]
