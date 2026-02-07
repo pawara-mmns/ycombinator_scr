@@ -27412,5 +27412,11 @@
         "url": "https://news.ycombinator.com/item?id=46928070",
         "timestamp": "2026-02-07T21:24:15.522332",
         "source": "Hacker News"
+    },
+    {
+        "title": "Service Degradation in West US Region",
+        "url": "https://azure.status.microsoft/en-gb/status?gsid=5616bb85-f380-4a04-85ed-95674eec3d87&utm_source=perplexity",
+        "timestamp": "2026-02-07T21:24:15.522368",
+        "source": "Hacker News"
     }
 ]
