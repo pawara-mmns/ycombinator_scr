@@ -26206,5 +26206,11 @@
         "url": "https://arnaud-carre.github.io/2022-12-30-amiga-ham/",
         "timestamp": "2026-02-07T17:10:53.201073",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google Translate apparently vulnerable to prompt injection",
+        "url": "https://www.lesswrong.com/posts/tAh2keDNEEHMXvLvz/prompt-injection-in-google-translate-reveals-base-model",
+        "timestamp": "2026-02-07T17:10:53.201108",
+        "source": "Hacker News"
     }
 ]
