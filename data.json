@@ -24400,5 +24400,11 @@
         "url": "https://www.bbc.com/news/articles/cy4gj71z0m0o",
         "timestamp": "2026-02-07T07:13:20.219573",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tiny Clippy – A native Office Assistant built in Rust and egui",
+        "url": "https://github.com/salva-imm/tiny-clippy",
+        "timestamp": "2026-02-07T07:13:20.219607",
+        "source": "Hacker News"
     }
 ]
