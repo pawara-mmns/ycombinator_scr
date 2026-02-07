@@ -24838,5 +24838,11 @@
         "url": "https://github.com/microclaw/microclaw",
         "timestamp": "2026-02-07T10:23:58.833422",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Omni-BLAS – 4x faster matrix multiplication via Monte Carlo sampling",
+        "url": "https://github.com/AleatorAI/OMNI-BLAS",
+        "timestamp": "2026-02-07T10:23:58.833458",
+        "source": "Hacker News"
     }
 ]
