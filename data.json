@@ -25264,5 +25264,11 @@
         "url": "https://skly.ai",
         "timestamp": "2026-02-07T13:45:41.575788",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A fast TUI for managing Azure Key Vault secrets written in Rust",
+        "url": "https://github.com/jkoessle/akv-tui-rs",
+        "timestamp": "2026-02-07T13:45:41.575837",
+        "source": "Hacker News"
     }
 ]
