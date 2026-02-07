@@ -25798,5 +25798,11 @@
         "url": "https://translate.kagi.com",
         "timestamp": "2026-02-07T15:39:51.497135",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Interactive C/C++ workflows in Jupyter through Clang-REPL [video]",
+        "url": "https://fosdem.org/2026/schedule/event/QX3RPH-building_interactive_cc_workflows_in_jupyter_through_clang-repl/",
+        "timestamp": "2026-02-07T15:39:51.497191",
+        "source": "Hacker News"
     }
 ]
