@@ -26086,5 +26086,11 @@
         "url": "https://familymemories.video",
         "timestamp": "2026-02-07T16:43:13.287172",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Meta Made Linux a Planet-Scale Load Balancer",
+        "url": "https://softwarefrontier.substack.com/p/how-meta-turned-the-linux-kernel",
+        "timestamp": "2026-02-07T16:43:13.287208",
+        "source": "Hacker News"
     }
 ]
