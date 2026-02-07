@@ -23956,5 +23956,11 @@
         "url": "https://twitter.com/HennaVirkkunen/status/2019730270279356658",
         "timestamp": "2026-02-07T02:37:19.763975",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking how well LLMs can play FizzBuzz",
+        "url": "https://huggingface.co/spaces/venkatasg/fizzbuzz-bench",
+        "timestamp": "2026-02-07T02:37:19.764010",
+        "source": "Hacker News"
     }
 ]
