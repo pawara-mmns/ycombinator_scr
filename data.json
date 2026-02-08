@@ -32434,5 +32434,11 @@
         "url": "https://github.com/wareya/pred_recdec",
         "timestamp": "2026-02-08T21:53:02.918479",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to run Firecracker without KVM on cloud VMs (2025)",
+        "url": "https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/",
+        "timestamp": "2026-02-08T21:53:02.918513",
+        "source": "Hacker News"
     }
 ]
