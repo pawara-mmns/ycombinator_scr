@@ -32716,5 +32716,11 @@
         "url": "https://phys.org/news/2026-02-quantum-twins-simulator-unveils-dots.html",
         "timestamp": "2026-02-08T23:10:40.846874",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Multi-tenant OpenClaw with isolated containers and encrypted vault",
+        "url": "https://github.com/jomafilms/openclaw-multitenant",
+        "timestamp": "2026-02-08T23:10:40.846905",
+        "source": "Hacker News"
     }
 ]
