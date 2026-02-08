@@ -31300,5 +31300,11 @@
         "url": "https://www.cam.ac.uk/stories/cannot-stop-eating",
         "timestamp": "2026-02-08T17:54:16.855301",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pilot Protocol – UDP overlay network stack for AI agents(Go, zero deps)",
+        "url": "https://github.com/TeoSlayer/pilotprotocol",
+        "timestamp": "2026-02-08T17:54:16.855336",
+        "source": "Hacker News"
     }
 ]
