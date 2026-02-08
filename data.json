@@ -29824,5 +29824,11 @@
         "url": "https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs",
         "timestamp": "2026-02-08T12:46:22.733257",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bounded Flexible Arrays in C",
+        "url": "https://people.kernel.org/kees/bounded-flexible-arrays-in-c",
+        "timestamp": "2026-02-08T12:46:22.733289",
+        "source": "Hacker News"
     }
 ]
