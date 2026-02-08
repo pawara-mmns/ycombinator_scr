@@ -31270,5 +31270,11 @@
         "url": "https://news.ycombinator.com/item?id=46936722",
         "timestamp": "2026-02-08T17:54:16.855112",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Surge – A TUI download manager written in Go that beats ara2 by ~1.4x",
+        "url": "https://github.com/surge-downloader/surge",
+        "timestamp": "2026-02-08T17:54:16.855156",
+        "source": "Hacker News"
     }
 ]
