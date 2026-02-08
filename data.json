@@ -30640,5 +30640,11 @@
         "url": "https://news.ycombinator.com/item?id=46935294",
         "timestamp": "2026-02-08T15:52:32.420675",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing a ledger-CLI Language Server Protocol with Claude",
+        "url": "https://www.frdmtoplay.com/ledger-lsp/",
+        "timestamp": "2026-02-08T15:52:32.420712",
+        "source": "Hacker News"
     }
 ]
