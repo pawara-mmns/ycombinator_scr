@@ -31672,5 +31672,11 @@
         "url": "https://zvis.com/cpg14/index.php?cat=23",
         "timestamp": "2026-02-08T19:23:43.492623",
         "source": "Hacker News"
+    },
+    {
+        "title": "Breaking Down CVE-2026-25049: How TypeScript Types Failed N8n's Security",
+        "url": "https://hetmehta.com/posts/n8n-type-confusion-rce/",
+        "timestamp": "2026-02-08T19:23:43.492658",
+        "source": "Hacker News"
     }
 ]
