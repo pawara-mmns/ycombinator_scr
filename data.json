@@ -32680,5 +32680,11 @@
         "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Inside-Japans-Controversial-Shift-Back-to-Nuclear-Energy.html",
         "timestamp": "2026-02-08T22:56:25.929589",
         "source": "Hacker News"
+    },
+    {
+        "title": "JSON-driven E2E test runner with built-in MCP server for Claude Code",
+        "url": "https://github.com/fastslack/mtw-e2e-runner",
+        "timestamp": "2026-02-08T22:56:25.929628",
+        "source": "Hacker News"
     }
 ]
