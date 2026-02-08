@@ -29266,5 +29266,11 @@
         "url": "https://github.com/DumbNoxx/goxe",
         "timestamp": "2026-02-08T09:45:09.060677",
         "source": "Hacker News"
+    },
+    {
+        "title": "The async builder pattern in Rust",
+        "url": "https://blog.yoshuawuyts.com/async-finalizers/",
+        "timestamp": "2026-02-08T09:45:09.060729",
+        "source": "Hacker News"
     }
 ]
