@@ -31642,5 +31642,11 @@
         "url": "https://kaelandt.github.io/posts/llm-prediction-machines.html",
         "timestamp": "2026-02-08T19:23:43.492395",
         "source": "Hacker News"
+    },
+    {
+        "title": "Guide for Installing PostgreSQL on TrueNAS",
+        "url": "https://github.com/emanueldonalds/guides/blob/master/install_postgresql_on_truenas.md",
+        "timestamp": "2026-02-08T19:23:43.492429",
+        "source": "Hacker News"
     }
 ]
