@@ -29950,5 +29950,11 @@
         "url": "https://news.ycombinator.com/item?id=46933827",
         "timestamp": "2026-02-08T13:18:12.109754",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: Would you use an ESLint-like tool for SEO that fails your CI/CD build?",
+        "url": "https://news.ycombinator.com/item?id=46933806",
+        "timestamp": "2026-02-08T13:18:12.109812",
+        "source": "Hacker News"
     }
 ]
