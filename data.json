@@ -28054,5 +28054,11 @@
         "url": "https://en.wikipedia.org/wiki/1980s_farm_crisis",
         "timestamp": "2026-02-08T00:45:39.081371",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: FSID - Identifier for files and directories (like ISBN for Books)",
+        "url": "https://github.com/skorotkiewicz/fsid",
+        "timestamp": "2026-02-08T00:45:39.081404",
+        "source": "Hacker News"
     }
 ]
