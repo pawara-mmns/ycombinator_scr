@@ -31726,5 +31726,11 @@
         "url": "https://www.youtube.com/watch?v=iF_BJNrt1I4",
         "timestamp": "2026-02-08T19:37:46.133720",
         "source": "Hacker News"
+    },
+    {
+        "title": "Turn any REST API with an OpenAPI spec into queryable Apache Spark tables",
+        "url": "https://github.com/Neutrinic/apilytics",
+        "timestamp": "2026-02-08T19:37:46.133789",
+        "source": "Hacker News"
     }
 ]
