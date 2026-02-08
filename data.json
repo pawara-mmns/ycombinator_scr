@@ -30892,5 +30892,11 @@
         "url": "https://news.ycombinator.com/item?id=46935899",
         "timestamp": "2026-02-08T16:43:47.191370",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fast Properties in V8 (2017)",
+        "url": "https://v8.dev/blog/fast-properties",
+        "timestamp": "2026-02-08T16:43:47.191406",
+        "source": "Hacker News"
     }
 ]
