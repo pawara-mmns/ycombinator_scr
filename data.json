@@ -28132,5 +28132,11 @@
         "url": "https://www.war.gov/News/News-Stories/Article/Article/4399812/war-department-cuts-ties-with-harvard-university/",
         "timestamp": "2026-02-08T01:34:22.441956",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+        "url": "https://github.com/localgpt-app/localgpt",
+        "timestamp": "2026-02-08T01:34:22.441997",
+        "source": "Hacker News"
     }
 ]
