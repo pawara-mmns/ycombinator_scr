@@ -28624,5 +28624,11 @@
         "url": "https://ryhl.io/blog/actors-with-tokio/",
         "timestamp": "2026-02-08T04:45:30.003316",
         "source": "Hacker News"
+    },
+    {
+        "title": "Can graph neural networks for biology realistically run on edge devices?",
+        "url": "https://doi.org/10.21203/rs.3.rs-8645211/v1",
+        "timestamp": "2026-02-08T04:45:30.003350",
+        "source": "Hacker News"
     }
 ]
