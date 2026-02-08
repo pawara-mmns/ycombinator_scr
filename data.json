@@ -30046,5 +30046,11 @@
         "url": "https://www.linuxjournal.com/article/8368",
         "timestamp": "2026-02-08T13:45:58.442391",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mvvmm – Firecracker-like mini virtual machine monitor in ~2000 LoC",
+        "url": "https://github.com/mistivia/mvvmm",
+        "timestamp": "2026-02-08T13:45:58.442425",
+        "source": "Hacker News"
     }
 ]
