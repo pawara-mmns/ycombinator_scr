@@ -29392,5 +29392,11 @@
         "url": "https://claude.com/blog/how-anthropic-uses-claude-marketing",
         "timestamp": "2026-02-08T10:24:16.094074",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
+        "url": "https://elysiajs.com/internal/jit-compiler",
+        "timestamp": "2026-02-08T10:24:16.094129",
+        "source": "Hacker News"
     }
 ]
