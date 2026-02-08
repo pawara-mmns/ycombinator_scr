@@ -28600,5 +28600,11 @@
         "url": "https://spectator.org/evs-are-a-failed-experiment/",
         "timestamp": "2026-02-08T04:45:30.003176",
         "source": "Hacker News"
+    },
+    {
+        "title": "MemAlign: Building Better LLM Judges from Human Feedback with Scalable Memory",
+        "url": "https://www.databricks.com/blog/memalign-building-better-llm-judges-human-feedback-scalable-memory",
+        "timestamp": "2026-02-08T04:45:30.003210",
+        "source": "Hacker News"
     }
 ]
