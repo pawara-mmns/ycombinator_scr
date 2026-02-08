@@ -31960,5 +31960,11 @@
         "url": "https://clawhatch.com/blog/state-of-ai-agent-security-2026",
         "timestamp": "2026-02-08T20:23:54.874419",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hacker News in Your Terminal",
+        "url": "https://github.com/bensadeh/circumflex",
+        "timestamp": "2026-02-08T20:23:54.874455",
+        "source": "Hacker News"
     }
 ]
