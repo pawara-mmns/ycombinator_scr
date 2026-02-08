@@ -30112,5 +30112,11 @@
         "url": "https://ellerushing.com/elles-blog/authentically-authoring-ai-slop",
         "timestamp": "2026-02-08T14:08:24.381601",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
+        "url": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
+        "timestamp": "2026-02-08T14:08:24.381648",
+        "source": "Hacker News"
     }
 ]
