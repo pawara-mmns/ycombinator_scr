@@ -31516,5 +31516,11 @@
         "url": "https://thoughts.jock.pl/p/ai-bubble-living-inside",
         "timestamp": "2026-02-08T19:01:16.869283",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Asterbot – AI agent built from sandboxed WASM components",
+        "url": "https://github.com/asterai-io/asterbot",
+        "timestamp": "2026-02-08T19:01:16.869323",
+        "source": "Hacker News"
     }
 ]
