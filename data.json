@@ -31282,5 +31282,11 @@
         "url": "https://notnotp.com/notes/valkey-as-a-message-broker-for-request-reply/",
         "timestamp": "2026-02-08T17:54:16.855194",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding the Go Compiler: The Linker",
+        "url": "https://internals-for-interns.com/posts/the-go-linker/",
+        "timestamp": "2026-02-08T17:54:16.855231",
+        "source": "Hacker News"
     }
 ]
