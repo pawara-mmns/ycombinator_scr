@@ -31870,5 +31870,11 @@
         "url": "https://subanalyzer.com",
         "timestamp": "2026-02-08T20:04:32.941584",
         "source": "Hacker News"
+    },
+    {
+        "title": "31-year old VT220 terminfo curses bug",
+        "url": "https://lists.gnu.org/archive/html/bug-ncurses/2026-02/msg00004.html",
+        "timestamp": "2026-02-08T20:04:32.941617",
+        "source": "Hacker News"
     }
 ]
