@@ -32350,5 +32350,11 @@
         "url": "https://github.com/tg1482/vizier",
         "timestamp": "2026-02-08T21:40:13.741279",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kwatch: Monitor and detect crashes in your Kubernetes(K8s) cluster instantly",
+        "url": "https://github.com/abahmed/kwatch",
+        "timestamp": "2026-02-08T21:40:13.741337",
+        "source": "Hacker News"
     }
 ]
