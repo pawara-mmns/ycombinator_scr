@@ -28606,5 +28606,11 @@
         "url": "https://www.databricks.com/blog/memalign-building-better-llm-judges-human-feedback-scalable-memory",
         "timestamp": "2026-02-08T04:45:30.003210",
         "source": "Hacker News"
+    },
+    {
+        "title": "CCC (Claude's C Compiler) on Compiler Explorer",
+        "url": "https://godbolt.org/z/asjc13sa6",
+        "timestamp": "2026-02-08T04:45:30.003245",
+        "source": "Hacker News"
     }
 ]
