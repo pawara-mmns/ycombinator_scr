@@ -28480,5 +28480,11 @@
         "url": "https://anvitra.ai/blog/vectors-and-hnsw/",
         "timestamp": "2026-02-08T03:46:16.421612",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sanskrit AI beats CleanRL SOTA by 125%",
+        "url": "https://huggingface.co/ParamTatva/sanskrit-ppo-hopper-v5/blob/main/docs/blog.md",
+        "timestamp": "2026-02-08T03:46:16.421648",
+        "source": "Hacker News"
     }
 ]
