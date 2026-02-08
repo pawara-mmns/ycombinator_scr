@@ -32722,5 +32722,11 @@
         "url": "https://github.com/jomafilms/openclaw-multitenant",
         "timestamp": "2026-02-08T23:10:40.846905",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Claude Dashboard – k9s-style TUI for managing Claude sessions via tmux",
+        "url": "https://github.com/seunggabi/claude-dashboard",
+        "timestamp": "2026-02-08T23:10:40.846934",
+        "source": "Hacker News"
     }
 ]
