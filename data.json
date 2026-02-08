@@ -32794,5 +32794,11 @@
         "url": "https://www.androidauthority.com/openclaw-ai-prompt-injection-3636904/",
         "timestamp": "2026-02-08T23:25:10.705227",
         "source": "Hacker News"
+    },
+    {
+        "title": "PRD-driven, dependency-aware agent workflow for Claude Code and Vibe Kanban",
+        "url": "https://github.com/ericblue/claude-vibekanban",
+        "timestamp": "2026-02-08T23:25:10.705264",
+        "source": "Hacker News"
     }
 ]
