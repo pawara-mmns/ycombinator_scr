@@ -28942,5 +28942,11 @@
         "url": "https://artisanforge.online/",
         "timestamp": "2026-02-08T07:28:44.444036",
         "source": "Hacker News"
+    },
+    {
+        "title": "DStack, a small Bash tool for managing Docker Compose projects",
+        "url": "https://github.com/KyanJeuring/dstack",
+        "timestamp": "2026-02-08T07:28:44.444125",
+        "source": "Hacker News"
     }
 ]
