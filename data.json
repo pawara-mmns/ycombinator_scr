@@ -30406,5 +30406,11 @@
         "url": "https://v2.tauri.app/",
         "timestamp": "2026-02-08T14:54:51.424540",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sediment – Local semantic memory for AI agents (Rust, single binary)",
+        "url": "https://github.com/rendro/sediment",
+        "timestamp": "2026-02-08T14:54:51.424647",
+        "source": "Hacker News"
     }
 ]
