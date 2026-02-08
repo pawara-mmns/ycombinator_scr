@@ -30022,5 +30022,11 @@
         "url": "https://alerio.app/",
         "timestamp": "2026-02-08T13:45:58.442253",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Comprehensive Benchmark for Document Parsing and Evaluation (2025)",
+        "url": "https://github.com/opendatalab/OmniDocBench",
+        "timestamp": "2026-02-08T13:45:58.442288",
+        "source": "Hacker News"
     }
 ]
