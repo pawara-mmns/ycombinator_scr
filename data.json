@@ -30100,5 +30100,11 @@
         "url": "https://znah.net/graphs/",
         "timestamp": "2026-02-08T13:45:58.442760",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: agent-ledger – prevent double side effects when AI agents retry",
+        "url": "https://github.com/rune0-dev/agent-ledger",
+        "timestamp": "2026-02-08T13:45:58.442795",
+        "source": "Hacker News"
     }
 ]
