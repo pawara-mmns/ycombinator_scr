@@ -31612,5 +31612,11 @@
         "url": "https://www.youtube.com/watch?v=Ir7wCAQINqw",
         "timestamp": "2026-02-08T19:23:43.492210",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Deterministic product idea generator (no AI APIs, works offline)",
+        "url": "https://github.com/CrazhHolmes/passive-gen",
+        "timestamp": "2026-02-08T19:23:43.492253",
+        "source": "Hacker News"
     }
 ]
