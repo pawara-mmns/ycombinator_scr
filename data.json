@@ -31204,5 +31204,11 @@
         "url": "https://www.pcmag.com/explainers/why-you-should-stop-using-face-id-right-now?test_uuid=04IpBmWGZleS0I0J3epvMrC&test_variant=B",
         "timestamp": "2026-02-08T17:42:04.280851",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fragno Forms, form builder and response collection as a library",
+        "url": "https://github.com/rejot-dev/fragno/tree/main/packages/forms",
+        "timestamp": "2026-02-08T17:42:04.280884",
+        "source": "Hacker News"
     }
 ]
