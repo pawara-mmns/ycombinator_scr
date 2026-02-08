@@ -29182,5 +29182,11 @@
         "url": "https://kybera.xyz",
         "timestamp": "2026-02-08T08:43:52.958024",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Jwtpeek – minimal, user-friendly JWT inspector in Go",
+        "url": "https://github.com/alesr/jwtpeek",
+        "timestamp": "2026-02-08T08:58:46.211954",
+        "source": "Hacker News"
     }
 ]
