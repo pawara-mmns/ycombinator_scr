@@ -30094,5 +30094,11 @@
         "url": "https://qntm.org/gorg",
         "timestamp": "2026-02-08T13:45:58.442725",
         "source": "Hacker News"
+    },
+    {
+        "title": "Like Game-of-Life, but on Growing Graphs, with WASM and WebGL",
+        "url": "https://znah.net/graphs/",
+        "timestamp": "2026-02-08T13:45:58.442760",
+        "source": "Hacker News"
     }
 ]
