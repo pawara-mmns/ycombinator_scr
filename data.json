@@ -29086,5 +29086,11 @@
         "url": "https://steve-yegge.blogspot.com/2007/02/next-big-language.html?2026",
         "timestamp": "2026-02-08T08:07:02.904947",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: brew changelog – find upstream changelogs for Homebrew packages",
+        "url": "https://github.com/pavel-voronin/homebrew-changelog",
+        "timestamp": "2026-02-08T08:24:28.951657",
+        "source": "Hacker News"
     }
 ]
