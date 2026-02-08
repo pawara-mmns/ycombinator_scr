@@ -29272,5 +29272,11 @@
         "url": "https://blog.yoshuawuyts.com/async-finalizers/",
         "timestamp": "2026-02-08T09:45:09.060729",
         "source": "Hacker News"
+    },
+    {
+        "title": "(Golang) Self referential functions and the design of options",
+        "url": "https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html",
+        "timestamp": "2026-02-08T09:45:09.060768",
+        "source": "Hacker News"
     }
 ]
