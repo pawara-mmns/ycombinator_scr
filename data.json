@@ -31216,5 +31216,11 @@
         "url": "https://github.com/bagnalla/sisyphus",
         "timestamp": "2026-02-08T17:42:04.280916",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lazy-pulling containers: 65x faster pulls, but 20x slower readiness",
+        "url": "https://blog.zmalik.dev/p/lazy-pulling-container-images-a-deep",
+        "timestamp": "2026-02-08T17:42:04.280946",
+        "source": "Hacker News"
     }
 ]
