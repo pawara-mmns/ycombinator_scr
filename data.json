@@ -30412,5 +30412,11 @@
         "url": "https://github.com/rendro/sediment",
         "timestamp": "2026-02-08T14:54:51.424647",
         "source": "Hacker News"
+    },
+    {
+        "title": "Exploiting signed bootloaders to circumvent UEFI Secure Boot",
+        "url": "https://habr.com/en/articles/446238/",
+        "timestamp": "2026-02-08T14:54:51.424681",
+        "source": "Hacker News"
     }
 ]
