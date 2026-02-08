@@ -31066,5 +31066,11 @@
         "url": "https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/",
         "timestamp": "2026-02-08T17:11:58.313780",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Let an AI Agent Migrate My Server While I Ate Dinner (Unsupervised)",
+        "url": "https://michaelchinen.com/2026/02/08/after-15-years-aws-started-charging-me-for-my-ec2-website-and-claude-code-to-migrate-me-to-a-more-secure-and-free-setup-while-i-went-to-a-restaurant/",
+        "timestamp": "2026-02-08T17:11:58.313817",
+        "source": "Hacker News"
     }
 ]
