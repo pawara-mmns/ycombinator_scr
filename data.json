@@ -32008,5 +32008,11 @@
         "url": "https://tfpk.github.io/lifetimekata/",
         "timestamp": "2026-02-08T20:41:33.937388",
         "source": "Hacker News"
+    },
+    {
+        "title": "Apple XNU: Clutch Scheduler",
+        "url": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
+        "timestamp": "2026-02-08T20:41:33.937426",
+        "source": "Hacker News"
     }
 ]
