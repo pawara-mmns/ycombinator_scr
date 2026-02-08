@@ -31546,5 +31546,11 @@
         "url": "https://github.com/wiggum-cc/chief-wiggum",
         "timestamp": "2026-02-08T19:01:16.869479",
         "source": "Hacker News"
+    },
+    {
+        "title": "Metafile-codecov-bundle: track bun/esbuild artifact bundles with codecov",
+        "url": "https://github.com/jbergstroem/metafile-codecov-bundle",
+        "timestamp": "2026-02-08T19:01:16.869519",
+        "source": "Hacker News"
     }
 ]
