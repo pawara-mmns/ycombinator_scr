@@ -29602,5 +29602,11 @@
         "url": "https://www.thequantumcat.space/p/how-to-destroy-a-space-station",
         "timestamp": "2026-02-08T11:37:49.666952",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a framework to benchmark LLMs on System Design and Architecture",
+        "url": "https://github.com/Ruhal-Doshi/hld-bench",
+        "timestamp": "2026-02-08T11:37:49.666985",
+        "source": "Hacker News"
     }
 ]
