@@ -37288,5 +37288,11 @@
         "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
         "timestamp": "2026-02-09T19:45:36.967269",
         "source": "Hacker News"
+    },
+    {
+        "title": "DirectStorage LLM Weight Streaming: 4x faster loading, MoE expert streaming",
+        "url": "https://github.com/kibbyd/llm_upper/blob/main/PROJECT_RECORD.md",
+        "timestamp": "2026-02-09T19:45:36.967305",
+        "source": "Hacker News"
     }
 ]
