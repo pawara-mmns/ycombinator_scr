@@ -37174,5 +37174,11 @@
         "url": "https://briefings.canaryiq.com/p/the-invisible-governor",
         "timestamp": "2026-02-09T19:45:36.966608",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linker Script Generation for Firmware Projects: A Primer",
+        "url": "https://dnedic.github.io/blog/firmware-linker-script-generation/",
+        "timestamp": "2026-02-09T19:45:36.966645",
+        "source": "Hacker News"
     }
 ]
