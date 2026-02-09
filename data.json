@@ -33946,5 +33946,11 @@
         "url": "https://invox-green.vercel.app",
         "timestamp": "2026-02-09T07:25:18.904654",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Operational Cost of Vacuuming in PostgreSQL",
+        "url": "https://mariadb.org/the-real-operational-cost-of-vacuuming-in-postgresql/",
+        "timestamp": "2026-02-09T07:25:18.904701",
+        "source": "Hacker News"
     }
 ]
