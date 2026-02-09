@@ -38230,5 +38230,11 @@
         "url": "https://blog.alexewerlof.com/p/ai-fluency-leveling",
         "timestamp": "2026-02-09T22:46:42.939991",
         "source": "Hacker News"
+    },
+    {
+        "title": "Implementing custom error types in Rust and Axum",
+        "url": "https://rup12.net/posts/learning-rust-custom-errors/",
+        "timestamp": "2026-02-09T22:46:42.940024",
+        "source": "Hacker News"
     }
 ]
