@@ -37660,5 +37660,11 @@
         "url": "https://blog.prosody.im/2026-letsencrypt-changes/",
         "timestamp": "2026-02-09T20:51:38.393388",
         "source": "Hacker News"
+    },
+    {
+        "title": "Matt Stoller: A web tool that shows how Federal bills change existing U.S. Code",
+        "url": "https://github.com/mattstoller/bill-diff-tool",
+        "timestamp": "2026-02-09T20:51:38.393422",
+        "source": "Hacker News"
     }
 ]
