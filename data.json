@@ -34840,5 +34840,11 @@
         "url": "https://queue.acm.org/detail.cfm?id=2655736",
         "timestamp": "2026-02-09T11:31:16.389355",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding the Go Runtime: The Bootstrap",
+        "url": "https://internals-for-interns.com/posts/understanding-go-runtime/",
+        "timestamp": "2026-02-09T11:31:16.389385",
+        "source": "Hacker News"
     }
 ]
