@@ -34318,5 +34318,11 @@
         "url": "https://news.ycombinator.com/item?id=46943047",
         "timestamp": "2026-02-09T09:05:29.288749",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Forge – 3MB Rust binary that coordinates multi-AI coding agents via MCP",
+        "url": "https://github.com/nxtg-ai/forge-orchestrator",
+        "timestamp": "2026-02-09T09:05:29.288783",
+        "source": "Hacker News"
     }
 ]
