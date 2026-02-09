@@ -33496,5 +33496,11 @@
         "url": "https://news.ycombinator.com/item?id=46941604",
         "timestamp": "2026-02-09T04:34:00.210739",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude's C Compiler vs. GCC",
+        "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+        "timestamp": "2026-02-09T04:34:00.210779",
+        "source": "Hacker News"
     }
 ]
