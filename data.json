@@ -34150,5 +34150,11 @@
         "url": "https://news.ycombinator.com/item?id=46942728",
         "timestamp": "2026-02-09T08:14:20.541666",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CPL – A categorical programming language that runs in the browser",
+        "url": "https://msakai.github.io/cpl/",
+        "timestamp": "2026-02-09T08:14:20.541701",
+        "source": "Hacker News"
     }
 ]
