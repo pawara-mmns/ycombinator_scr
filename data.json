@@ -37996,5 +37996,11 @@
         "url": "https://www.abc.net.au/news/2026-02-02/fossil-footprint-identified-sauropodomorph-brisbane/106284466",
         "timestamp": "2026-02-09T21:50:53.743101",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding How GIL Affects Checkpoint Performance in PyTorch Training",
+        "url": "https://www.shayon.dev/post/2026/38/understanding-how-gil-affects-checkpoint-performance-in-pytorch-training/",
+        "timestamp": "2026-02-09T21:50:53.743133",
+        "source": "Hacker News"
     }
 ]
