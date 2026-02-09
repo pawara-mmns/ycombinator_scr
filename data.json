@@ -34372,5 +34372,11 @@
         "url": "https://openai.com/blog/chatgpt-updates",
         "timestamp": "2026-02-09T09:36:31.568356",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Moonbuggy, a .NET alloc-free internationalization library",
+        "url": "https://github.com/intelligenthack/moonbuggy",
+        "timestamp": "2026-02-09T09:36:31.568391",
+        "source": "Hacker News"
     }
 ]
