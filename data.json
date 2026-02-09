@@ -34816,5 +34816,11 @@
         "url": "https://martinalderson.com/posts/self-improving-claude-md-files/",
         "timestamp": "2026-02-09T11:31:16.389229",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Bypassed query layer of SQLite,accessed b-tree APIs for KV store",
+        "url": "https://github.com/hash-anu/snkv",
+        "timestamp": "2026-02-09T11:31:16.389258",
+        "source": "Hacker News"
     }
 ]
