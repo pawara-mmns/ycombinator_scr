@@ -36034,5 +36034,11 @@
         "url": "https://compliance.getprobo.com/overview",
         "timestamp": "2026-02-09T15:34:17.754584",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Verify Your Kubernetes",
+        "url": "https://github.com/avkcode/verifier",
+        "timestamp": "2026-02-09T15:34:17.754617",
+        "source": "Hacker News"
     }
 ]
