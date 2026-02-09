@@ -35320,5 +35320,11 @@
         "url": "https://serefayar.substack.com/p/ocapn-and-structural-authority-in-agentic-ai",
         "timestamp": "2026-02-09T13:31:25.109898",
         "source": "Hacker News"
+    },
+    {
+        "title": "Added OTEL Observability to OpenClaw agents full GenAI spec support",
+        "url": "https://github.com/openclaw/openclaw/pull/11100",
+        "timestamp": "2026-02-09T13:31:25.109933",
+        "source": "Hacker News"
     }
 ]
