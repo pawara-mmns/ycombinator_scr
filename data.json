@@ -34378,5 +34378,11 @@
         "url": "https://github.com/intelligenthack/moonbuggy",
         "timestamp": "2026-02-09T09:36:31.568391",
         "source": "Hacker News"
+    },
+    {
+        "title": "I vibecoded a production grade internationalization library in 2 days",
+        "url": "https://sklivvz.com/posts/moonbuggy-zero-allocation-i18n-for-net",
+        "timestamp": "2026-02-09T09:36:31.568427",
+        "source": "Hacker News"
     }
 ]
