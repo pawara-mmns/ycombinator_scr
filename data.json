@@ -34330,5 +34330,11 @@
         "url": "https://www.youtube.com/watch?v=4qfsmE11Ejo",
         "timestamp": "2026-02-09T09:05:29.288817",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI SDK – Amazon Bedrock Provider",
+        "url": "https://github.com/vercel/ai/tree/main/packages/amazon-bedrock",
+        "timestamp": "2026-02-09T09:36:31.568120",
+        "source": "Hacker News"
     }
 ]
