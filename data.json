@@ -36868,5 +36868,11 @@
         "url": "https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu",
         "timestamp": "2026-02-09T18:33:25.569775",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tool to Visualize Claude Code and Agents SDK Executions",
+        "url": "https://www.npmjs.com/package/claudeye",
+        "timestamp": "2026-02-09T18:33:25.569812",
+        "source": "Hacker News"
     }
 ]
