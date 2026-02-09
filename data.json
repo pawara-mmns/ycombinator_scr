@@ -37402,5 +37402,11 @@
         "url": "https://www.gather.town/blog/new-chapter",
         "timestamp": "2026-02-09T20:12:35.219003",
         "source": "Hacker News"
+    },
+    {
+        "title": "MySQL Foreign Key Cascade Operations Hit the Binary Log",
+        "url": "https://readyset.io/blog/mysql-9-6-foreign-key-cascade-operations-finally-hit-the-binary-log",
+        "timestamp": "2026-02-09T20:12:35.219037",
+        "source": "Hacker News"
     }
 ]
