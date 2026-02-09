@@ -36310,5 +36310,11 @@
         "url": "https://www.rilldata.com/blog/data-modeling-for-the-agentic-era-semantics-speed-and-stewardship",
         "timestamp": "2026-02-09T16:36:52.878245",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Zero-Allocation, SIMD-Accelerated CSV Parser in Zig",
+        "url": "https://peymanmo.com/posts/1-csv-zero",
+        "timestamp": "2026-02-09T16:36:52.878283",
+        "source": "Hacker News"
     }
 ]
