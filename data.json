@@ -33130,5 +33130,11 @@
         "url": "https://deltazerolabs.dev/dataset",
         "timestamp": "2026-02-09T01:38:08.520959",
         "source": "Hacker News"
+    },
+    {
+        "title": "SecureShellClaw: A Prompt-Injection-Resistant Alternative Approach to OpenClaw",
+        "url": "https://www.jona.ca/2026/02/secureshellclaw-prompt-injection.html",
+        "timestamp": "2026-02-09T01:38:08.520994",
+        "source": "Hacker News"
     }
 ]
