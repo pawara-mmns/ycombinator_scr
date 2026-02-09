@@ -38242,5 +38242,11 @@
         "url": "https://www.ft.com/content/282c3faa-f0ab-4a9f-b6f7-698c6baab6ae",
         "timestamp": "2026-02-09T22:46:42.940057",
         "source": "Hacker News"
+    },
+    {
+        "title": "Better Python tests with inline-snapshot",
+        "url": "https://pydantic.dev/articles/inline-snapshot",
+        "timestamp": "2026-02-09T22:46:42.940090",
+        "source": "Hacker News"
     }
 ]
