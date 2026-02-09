@@ -38398,5 +38398,11 @@
         "url": "https://moltdb.io/",
         "timestamp": "2026-02-09T23:49:08.896556",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Reef – Bash compatibility layer for Fish shell, written in Rust",
+        "url": "https://github.com/ZStud/reef",
+        "timestamp": "2026-02-09T23:49:08.896594",
+        "source": "Hacker News"
     }
 ]
