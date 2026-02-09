@@ -35110,5 +35110,11 @@
         "url": "https://www.nytimes.com/2026/02/09/business/gravity-wave-conservation.html",
         "timestamp": "2026-02-09T12:28:22.166005",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ClawBands – Mitigating OpenClaw prompt injection via tool hooks",
+        "url": "https://github.com/SeyZ/clawbands",
+        "timestamp": "2026-02-09T12:28:22.166043",
+        "source": "Hacker News"
     }
 ]
