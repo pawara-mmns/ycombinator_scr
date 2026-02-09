@@ -37822,5 +37822,11 @@
         "url": "https://declawed.io/",
         "timestamp": "2026-02-09T21:30:04.459825",
         "source": "Hacker News"
+    },
+    {
+        "title": "John Carmack muses using a fiber line as as an L2 cache for streaming AI data",
+        "url": "https://www.tomshardware.com/pc-components/ram/john-carmack-muses-using-a-long-fiber-line-as-as-an-l2-cache-for-streaming-ai-data-programmer-imagines-fiber-as-alternative-to-dram",
+        "timestamp": "2026-02-09T21:30:04.459864",
+        "source": "Hacker News"
     }
 ]
