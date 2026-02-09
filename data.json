@@ -36664,5 +36664,11 @@
         "url": "https://www.politico.eu/article/us-is-dependent-on-european-tech-too-chips-bosses-warn/",
         "timestamp": "2026-02-09T18:02:39.067597",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A pipeline to render and serve web components dynamically via LLM",
+        "url": "https://github.com/pilifs/Terminal-Value",
+        "timestamp": "2026-02-09T18:02:39.067635",
+        "source": "Hacker News"
     }
 ]
