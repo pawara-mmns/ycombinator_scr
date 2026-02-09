@@ -36214,5 +36214,11 @@
         "url": "https://gist.github.com/jewe8ham",
         "timestamp": "2026-02-09T16:05:32.891513",
         "source": "Hacker News"
+    },
+    {
+        "title": "Signing JSON Web Tokens: Algorithm Tradeoffs, Performance, and Security",
+        "url": "https://ciamweekly.substack.com/p/signing-json-web-tokens-algorithm",
+        "timestamp": "2026-02-09T16:05:32.891550",
+        "source": "Hacker News"
     }
 ]
