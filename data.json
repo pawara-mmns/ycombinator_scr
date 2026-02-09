@@ -33820,5 +33820,11 @@
         "url": "https://www.palladiummag.com/2025/04/18/the-moon-should-be-a-computer/",
         "timestamp": "2026-02-09T05:54:58.639700",
         "source": "Hacker News"
+    },
+    {
+        "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
+        "url": "https://runxiyu.org/comp/doubleslash/",
+        "timestamp": "2026-02-09T05:54:58.639729",
+        "source": "Hacker News"
     }
 ]
