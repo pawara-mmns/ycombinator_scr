@@ -33442,5 +33442,11 @@
         "url": "https://ai.com/start",
         "timestamp": "2026-02-09T03:39:30.358404",
         "source": "Hacker News"
+    },
+    {
+        "title": "Concerns about low-quality PRs beeing merged into main",
+        "url": "https://discourse.llvm.org/t/concerns-about-low-quality-prs-beeing-merged-into-main/89748",
+        "timestamp": "2026-02-09T03:39:30.358454",
+        "source": "Hacker News"
     }
 ]
