@@ -33910,5 +33910,11 @@
         "url": "https://chizkidd.github.io//2026/01/22/neural-net-optimizers/",
         "timestamp": "2026-02-09T06:49:30.846487",
         "source": "Hacker News"
+    },
+    {
+        "title": "Adding Support for Qwen3.5",
+        "url": "https://github.com/huggingface/transformers/pull/43830",
+        "timestamp": "2026-02-09T06:49:30.846535",
+        "source": "Hacker News"
     }
 ]
