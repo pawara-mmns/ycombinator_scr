@@ -34180,5 +34180,11 @@
         "url": "https://poddley.com/guests/jordan-peterson/episodes",
         "timestamp": "2026-02-09T08:14:20.541928",
         "source": "Hacker News"
+    },
+    {
+        "title": "Parsing Database Traffic with eBPF and Finite State Machines (2026)",
+        "url": "https://akashmandal001.substack.com/p/ebpf-data-monitoring-protocol-intelligence-layer",
+        "timestamp": "2026-02-09T08:14:20.541966",
+        "source": "Hacker News"
     }
 ]
