@@ -35764,5 +35764,11 @@
         "url": "https://arseniy.wtf/writing/bad-people/",
         "timestamp": "2026-02-09T14:36:43.080822",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Finding stragglers in multi-GPU PyTorch (DDP) training",
+        "url": "https://github.com/traceopt-ai/traceml",
+        "timestamp": "2026-02-09T14:36:43.080857",
+        "source": "Hacker News"
     }
 ]
