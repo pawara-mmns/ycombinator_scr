@@ -37438,5 +37438,11 @@
         "url": "https://proofsandintuitions.net/2026/02/09/distributed-verification-veil/",
         "timestamp": "2026-02-09T20:12:35.219243",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nim's YRC: A safe multi-threaded cycle collector",
+        "url": "https://forum.nim-lang.org/t/13706",
+        "timestamp": "2026-02-09T20:12:35.219278",
+        "source": "Hacker News"
     }
 ]
