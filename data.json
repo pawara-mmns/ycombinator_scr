@@ -35074,5 +35074,11 @@
         "url": "https://codingsoul.org/2026/02/09/what-do-you-want-to-do-claude/",
         "timestamp": "2026-02-09T12:28:22.165754",
         "source": "Hacker News"
+    },
+    {
+        "title": "gRPC: From service definition to wire format",
+        "url": "https://kreya.app/blog/grpc-deep-dive/",
+        "timestamp": "2026-02-09T12:28:22.165789",
+        "source": "Hacker News"
     }
 ]
