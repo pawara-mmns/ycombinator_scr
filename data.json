@@ -37102,5 +37102,11 @@
         "url": "https://www.calc-verse.com/en",
         "timestamp": "2026-02-09T19:18:47.511502",
         "source": "Hacker News"
+    },
+    {
+        "title": "Designing a Low-Latency Multiplayer Stack on a Tight Budget",
+        "url": "https://dcastares.github.io/2025/12/15/Multi-region-highly-available-architecture-for-indie-budget.html",
+        "timestamp": "2026-02-09T19:18:47.511537",
+        "source": "Hacker News"
     }
 ]
