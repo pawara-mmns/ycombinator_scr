@@ -34522,5 +34522,11 @@
         "url": "https://www.youtube.com/watch?v=yL1DM0QWGSE",
         "timestamp": "2026-02-09T10:07:40.815773",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mutmut: A Python mutation testing system (2016)",
+        "url": "https://kodare.net/2016/12/01/mutmut-a-python-mutation-testing-system.html",
+        "timestamp": "2026-02-09T10:07:40.815806",
+        "source": "Hacker News"
     }
 ]
