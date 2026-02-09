@@ -37114,5 +37114,11 @@
         "url": "https://www.pubmed.ai/home",
         "timestamp": "2026-02-09T19:18:47.511572",
         "source": "Hacker News"
+    },
+    {
+        "title": "GCP Idle Resource Finder",
+        "url": "https://github.com/dasl-/gcp-waste",
+        "timestamp": "2026-02-09T19:18:47.511607",
+        "source": "Hacker News"
     }
 ]
