@@ -42196,5 +42196,11 @@
         "url": "https://theroadmapai.com",
         "timestamp": "2026-02-10T17:23:07.809648",
         "source": "Hacker News"
+    },
+    {
+        "title": "Emotive – An emoji picker for Telescope in Neovim",
+        "url": "https://github.com/techne98/emotive.nvim",
+        "timestamp": "2026-02-10T17:23:07.809686",
+        "source": "Hacker News"
     }
 ]
