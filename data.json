@@ -39952,5 +39952,11 @@
         "url": "https://github.com/getplumber/plumber",
         "timestamp": "2026-02-10T09:06:32.781514",
         "source": "Hacker News"
+    },
+    {
+        "title": "Feature Proposal: .gitallow – A native allowlist for Git tracking",
+        "url": "https://gist.github.com/s-celles/754728bbbe5312300982e2f2045f5f03",
+        "timestamp": "2026-02-10T09:06:32.781548",
+        "source": "Hacker News"
     }
 ]
