@@ -44314,5 +44314,11 @@
         "url": "https://www.nytimes.com/2026/02/10/health/fda-moderna-mrna-flu-vaccine.html",
         "timestamp": "2026-02-10T23:26:59.981307",
         "source": "Hacker News"
+    },
+    {
+        "title": "Experimental: Add xx-zones protocol for window positioning in zones",
+        "url": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/commit/81632409f6c80fd01b0f3e0284c7984a9d0b7fd0",
+        "timestamp": "2026-02-10T23:26:59.981342",
+        "source": "Hacker News"
     }
 ]
