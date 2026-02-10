@@ -40474,5 +40474,11 @@
         "url": "https://owain.bearblog.dev/why-shipping/",
         "timestamp": "2026-02-10T11:06:08.607352",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Deterministic linguistic enrichment pipeline for Node.js",
+        "url": "https://www.npmjs.com/package/linguistic-enricher",
+        "timestamp": "2026-02-10T11:33:23.694237",
+        "source": "Hacker News"
     }
 ]
