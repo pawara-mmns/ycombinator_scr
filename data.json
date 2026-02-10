@@ -41854,5 +41854,11 @@
         "url": "https://thaw.zip/",
         "timestamp": "2026-02-10T15:51:35.080903",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why \"Just Fine-Tune YOLO\" Often Fails",
+        "url": "https://one-ware.com/blog/why-generic-computer-vision-models-fail/",
+        "timestamp": "2026-02-10T15:51:35.080936",
+        "source": "Hacker News"
     }
 ]
