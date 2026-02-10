@@ -39238,5 +39238,11 @@
         "url": "https://helixnotes.com",
         "timestamp": "2026-02-10T04:56:04.718849",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security audit of Browser Use: prompt injection, credential exfil, domain bypass",
+        "url": "https://arxiv.org/abs/2505.13076",
+        "timestamp": "2026-02-10T04:56:04.718915",
+        "source": "Hacker News"
     }
 ]
