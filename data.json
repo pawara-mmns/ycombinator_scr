@@ -40180,5 +40180,11 @@
         "url": "https://www.enterprisedb.com/blog/replication-configuration-changes-postgresql-12",
         "timestamp": "2026-02-10T10:06:46.802104",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dijkstra's algorithm won't be replaced in production routers any time soon",
+        "url": "https://www.theregister.com/2026/02/10/dijkstras_algorithm_impact_on_networks/",
+        "timestamp": "2026-02-10T10:06:46.802138",
+        "source": "Hacker News"
     }
 ]
