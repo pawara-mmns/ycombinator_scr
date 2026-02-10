@@ -40378,5 +40378,11 @@
         "url": "https://news.ycombinator.com/item?id=46958011",
         "timestamp": "2026-02-10T11:06:08.606753",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DACP – governance gateway for AI coding agents",
+        "url": "https://github.com/elliot35/deterministic-agent-control-protocol",
+        "timestamp": "2026-02-10T11:06:08.606793",
+        "source": "Hacker News"
     }
 ]
