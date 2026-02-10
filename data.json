@@ -39112,5 +39112,11 @@
         "url": "https://shadows.ooousay.com/",
         "timestamp": "2026-02-10T04:10:13.728882",
         "source": "Hacker News"
+    },
+    {
+        "title": "Configuring Stripe using Terraform and AI agents",
+        "url": "https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure",
+        "timestamp": "2026-02-10T04:10:13.728915",
+        "source": "Hacker News"
     }
 ]
