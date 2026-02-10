@@ -39946,5 +39946,11 @@
         "url": "https://thedeveloper101.github.io/posts/2026/02/amerihac-experience/",
         "timestamp": "2026-02-10T09:06:32.781478",
         "source": "Hacker News"
+    },
+    {
+        "title": "Plumber: Open-Source Compliance Scanner for GitLab CI/CD Pipelines",
+        "url": "https://github.com/getplumber/plumber",
+        "timestamp": "2026-02-10T09:06:32.781514",
+        "source": "Hacker News"
     }
 ]
