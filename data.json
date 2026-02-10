@@ -43834,5 +43834,11 @@
         "url": "https://news.ycombinator.com/item?id=46966879",
         "timestamp": "2026-02-10T21:29:11.840148",
         "source": "Hacker News"
+    },
+    {
+        "title": "Add-MCP CLI: npx skills but for installing MCP servers",
+        "url": "https://github.com/neondatabase/add-mcp",
+        "timestamp": "2026-02-10T21:29:11.840182",
+        "source": "Hacker News"
     }
 ]
