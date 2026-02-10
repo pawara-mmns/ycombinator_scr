@@ -42592,5 +42592,11 @@
         "url": "https://www.creature.run/",
         "timestamp": "2026-02-10T18:22:08.877767",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Deidentify data before LLM with Go",
+        "url": "https://github.com/aliengiraffe/deidentify",
+        "timestamp": "2026-02-10T18:22:08.877840",
+        "source": "Hacker News"
     }
 ]
