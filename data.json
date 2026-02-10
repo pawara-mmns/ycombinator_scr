@@ -41020,5 +41020,11 @@
         "url": "https://news.ycombinator.com/item?id=46959070",
         "timestamp": "2026-02-10T13:09:07.608873",
         "source": "Hacker News"
+    },
+    {
+        "title": "JOVIAL(J73) compiler targeting LLVM, built from MIL-STD-1589C",
+        "url": "https://github.com/Zaneham/jovial-compiler",
+        "timestamp": "2026-02-10T13:09:07.608942",
+        "source": "Hacker News"
     }
 ]
