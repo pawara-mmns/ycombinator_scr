@@ -41242,5 +41242,11 @@
         "url": "https://themobileagent.substack.com/p/context-driven-development-meets",
         "timestamp": "2026-02-10T14:28:28.655954",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I replaced a 200MB JVM process with a 52KB binary that speaks Kafka",
+        "url": "https://github.com/awneesht/Strike-mq",
+        "timestamp": "2026-02-10T14:28:28.655989",
+        "source": "Hacker News"
     }
 ]
