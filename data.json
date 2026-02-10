@@ -42562,5 +42562,11 @@
         "url": "https://www.baen.com/Chapters/9781618249203/9781618249203___2.htm",
         "timestamp": "2026-02-10T18:22:08.877549",
         "source": "Hacker News"
+    },
+    {
+        "title": "An MCP server that lets AI agents sleep for a specified duration",
+        "url": "https://github.com/usamaasfar/isleep",
+        "timestamp": "2026-02-10T18:22:08.877607",
+        "source": "Hacker News"
     }
 ]
