@@ -38662,5 +38662,11 @@
         "url": "https://tinygrad.org/#worktiny",
         "timestamp": "2026-02-10T01:54:56.931299",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't use escaping closures in SwiftUI",
+        "url": "https://rensbr.eu/blog/swiftui-escaping-closures/",
+        "timestamp": "2026-02-10T01:54:56.931347",
+        "source": "Hacker News"
     }
 ]
