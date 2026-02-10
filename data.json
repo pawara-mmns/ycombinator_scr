@@ -39400,5 +39400,11 @@
         "url": "https://news.ycombinator.com/item?id=46955606",
         "timestamp": "2026-02-10T05:34:01.389795",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tailscale Domain Mgmt. Gateway",
+        "url": "https://github.com/adrianosela/tsdmg",
+        "timestamp": "2026-02-10T06:09:31.700524",
+        "source": "Hacker News"
     }
 ]
