@@ -43168,5 +43168,11 @@
         "url": "https://github.com/peacprotocol/peac/tree/main/examples/openclaw-capture",
         "timestamp": "2026-02-10T19:51:14.444142",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust Coreutils v0.6.0 Release: 96.28% GNU compatibility and safety improvements",
+        "url": "https://github.com/uutils/coreutils/releases/tag/0.6.0",
+        "timestamp": "2026-02-10T19:51:14.444176",
+        "source": "Hacker News"
     }
 ]
