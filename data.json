@@ -43684,5 +43684,11 @@
         "url": "https://twin.so/",
         "timestamp": "2026-02-10T21:00:49.961080",
         "source": "Hacker News"
+    },
+    {
+        "title": "Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site",
+        "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/",
+        "timestamp": "2026-02-10T21:00:49.961108",
+        "source": "Hacker News"
     }
 ]
