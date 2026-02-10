@@ -41332,5 +41332,11 @@
         "url": "https://planguessr.app/",
         "timestamp": "2026-02-10T14:28:28.656523",
         "source": "Hacker News"
+    },
+    {
+        "title": "We hid backdoors in binaries – Opus 4.6 found 49% of them",
+        "url": "https://quesma.com/blog/introducing-binaryaudit/",
+        "timestamp": "2026-02-10T14:28:28.656558",
+        "source": "Hacker News"
     }
 ]
