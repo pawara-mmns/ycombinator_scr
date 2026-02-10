@@ -40804,5 +40804,11 @@
         "url": "https://en.wikipedia.org/wiki/Bitchat",
         "timestamp": "2026-02-10T12:33:46.580467",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreeBSD Home NAS, part 10: monitoring with VictoriaMetrics and Grafana",
+        "url": "https://rtfm.co.ua/en/freebsd-home-nas-part-10-monitoring-with-victoriametrics-and-grafana/",
+        "timestamp": "2026-02-10T12:33:46.580501",
+        "source": "Hacker News"
     }
 ]
