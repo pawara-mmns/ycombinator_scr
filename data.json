@@ -38632,5 +38632,11 @@
         "url": "https://zulip.com/values/",
         "timestamp": "2026-02-10T01:01:44.111829",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Squish, a Single-binary bulk image optimizer in C++20 with AVX2 SIMD",
+        "url": "https://github.com/AGDNoob/squish",
+        "timestamp": "2026-02-10T01:01:44.111859",
+        "source": "Hacker News"
     }
 ]
