@@ -43348,5 +43348,11 @@
         "url": "https://news.ycombinator.com/item?id=46965941",
         "timestamp": "2026-02-10T20:14:15.893684",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a coding agent with safe write access to Postgres",
+        "url": "https://xata.io/blog/a-coding-agent-that-uses-postgres-branches",
+        "timestamp": "2026-02-10T20:14:15.893724",
+        "source": "Hacker News"
     }
 ]
