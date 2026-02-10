@@ -38950,5 +38950,11 @@
         "url": "https://remolt.dev",
         "timestamp": "2026-02-10T03:03:00.068617",
         "source": "Hacker News"
+    },
+    {
+        "title": "Some Thoughts on LLM Coding",
+        "url": "https://blog.dave.tf/post/coding-agents/",
+        "timestamp": "2026-02-10T03:03:00.068651",
+        "source": "Hacker News"
     }
 ]
