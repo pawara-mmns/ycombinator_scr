@@ -42418,5 +42418,11 @@
         "url": "https://gizmodo.com/dueling-ais-reconstruct-rules-of-mysterious-roman-era-board-game-2000719655",
         "timestamp": "2026-02-10T17:49:59.830544",
         "source": "Hacker News"
+    },
+    {
+        "title": "Deadlog – almost drop-in Mutex for debugging Go deadlocks",
+        "url": "https://github.com/stevenctl/deadlog",
+        "timestamp": "2026-02-10T17:49:59.830579",
+        "source": "Hacker News"
     }
 ]
