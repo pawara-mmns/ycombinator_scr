@@ -41722,5 +41722,11 @@
         "url": "https://www.askcli.ai",
         "timestamp": "2026-02-10T15:26:01.196869",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security Advisory Ivanti Endpoint Manager Mobile (EPMM) – Active Exploitation",
+        "url": "https://www.circl.lu/pub/tr-98/",
+        "timestamp": "2026-02-10T15:26:01.196903",
+        "source": "Hacker News"
     }
 ]
