@@ -43870,5 +43870,11 @@
         "url": "https://ragora.app",
         "timestamp": "2026-02-10T21:51:19.520484",
         "source": "Hacker News"
+    },
+    {
+        "title": "Debugging random slow writes with GIN indexes in PostgreSQL",
+        "url": "https://iamsafts.com/posts/postgres-gin-performance/",
+        "timestamp": "2026-02-10T21:51:19.520519",
+        "source": "Hacker News"
     }
 ]
