@@ -40462,5 +40462,11 @@
         "url": "https://www.wsj.com/business/autos/the-car-industry-is-racing-to-replace-chinese-code-6b939e1f",
         "timestamp": "2026-02-10T11:06:08.607267",
         "source": "Hacker News"
+    },
+    {
+        "title": "ClickHouse AI Policy",
+        "url": "https://github.com/ClickHouse/ClickHouse/blob/master/AI_POLICY.md",
+        "timestamp": "2026-02-10T11:06:08.607300",
+        "source": "Hacker News"
     }
 ]
