@@ -41524,5 +41524,11 @@
         "url": "https://news.ycombinator.com/item?id=46960245",
         "timestamp": "2026-02-10T14:52:47.030625",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Spring CRUD Generator – Maven Plugin to Generate CRUD from YAML",
+        "url": "https://github.com/mzivkovicdev/spring-crud-generator/releases/tag/v1.1.0",
+        "timestamp": "2026-02-10T14:52:47.030661",
+        "source": "Hacker News"
     }
 ]
