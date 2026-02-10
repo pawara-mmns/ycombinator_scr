@@ -38752,5 +38752,11 @@
         "url": "https://www.humation.ai/",
         "timestamp": "2026-02-10T01:54:56.931847",
         "source": "Hacker News"
+    },
+    {
+        "title": "Designing and Using Combinators: The Essence of Functional Programming",
+        "url": "https://www.cse.chalmers.se/~rjmh/Combinators/",
+        "timestamp": "2026-02-10T01:54:56.931880",
+        "source": "Hacker News"
     }
 ]
