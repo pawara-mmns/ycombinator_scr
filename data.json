@@ -42370,5 +42370,11 @@
         "url": "https://clackernews.com/",
         "timestamp": "2026-02-10T17:49:59.830178",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Standalone SEO library for PHP, v3 released",
+        "url": "https://github.com/melbahja/seo/releases/tag/v3.0.2",
+        "timestamp": "2026-02-10T17:49:59.830256",
+        "source": "Hacker News"
     }
 ]
