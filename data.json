@@ -41140,5 +41140,11 @@
         "url": "https://github.com/t0dorakis/murmur",
         "timestamp": "2026-02-10T13:49:27.555194",
         "source": "Hacker News"
+    },
+    {
+        "title": "A tool for automatic Haskell binding generation from C header files",
+        "url": "https://well-typed.com/blog/2026/02/hs-bindgen-alpha/",
+        "timestamp": "2026-02-10T13:49:27.555229",
+        "source": "Hacker News"
     }
 ]
