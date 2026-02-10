@@ -38938,5 +38938,11 @@
         "url": "https://blog.arcade.dev/mcp-tool-patterns",
         "timestamp": "2026-02-10T03:03:00.068544",
         "source": "Hacker News"
+    },
+    {
+        "title": "Strands agent deployed to Amazon Bedrock AgentCore to aid in the job hunt",
+        "url": "https://github.com/deeheber/job-search-agent",
+        "timestamp": "2026-02-10T03:03:00.068582",
+        "source": "Hacker News"
     }
 ]
