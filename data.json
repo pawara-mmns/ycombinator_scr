@@ -39646,5 +39646,11 @@
         "url": "https://github.com/puq-ai/claude-meter",
         "timestamp": "2026-02-10T07:38:27.674089",
         "source": "Hacker News"
+    },
+    {
+        "title": "MechaEpstein-8000",
+        "url": "https://huggingface.co/ortegaalfredo/MechaEpstein-8000-GGUF",
+        "timestamp": "2026-02-10T07:38:27.674127",
+        "source": "Hacker News"
     }
 ]
