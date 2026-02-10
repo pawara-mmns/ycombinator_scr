@@ -42538,5 +42538,11 @@
         "url": "https://livedocs.com",
         "timestamp": "2026-02-10T18:22:08.627894",
         "source": "Hacker News"
+    },
+    {
+        "title": "Markdown CLI viewer with VI keybindings",
+        "url": "https://github.com/taf2/mdvi",
+        "timestamp": "2026-02-10T18:22:08.627936",
+        "source": "Hacker News"
     }
 ]
