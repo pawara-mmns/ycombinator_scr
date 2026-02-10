@@ -41362,5 +41362,11 @@
         "url": "https://phys.org/news/2026-02-compleximer-plastic-glass-impact-resistance.html",
         "timestamp": "2026-02-10T14:28:28.656696",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SNKV and LiteFS – Distributed KV store with automatic replication",
+        "url": "https://github.com/hash-anu/snkv/blob/master/litefs_setup_guide_on_singlemachine.md",
+        "timestamp": "2026-02-10T14:28:28.656730",
+        "source": "Hacker News"
     }
 ]
