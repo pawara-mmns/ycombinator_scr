@@ -38530,5 +38530,11 @@
         "url": "https://github.com/Waraq-Labs/review-for-agent",
         "timestamp": "2026-02-10T00:23:09.399636",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Insurance AI Benchmark – 510 scenarios from production",
+        "url": "https://huggingface.co/datasets/pashas/insurance-ai-reliability-benchmark",
+        "timestamp": "2026-02-10T00:23:09.399675",
+        "source": "Hacker News"
     }
 ]
