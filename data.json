@@ -39610,5 +39610,11 @@
         "url": "https://www.piglei.com/articles/en-ai-coding-is-a-framework/",
         "timestamp": "2026-02-10T07:08:20.613362",
         "source": "Hacker News"
+    },
+    {
+        "title": "A one-prompt attack that breaks LLM safety alignment",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/",
+        "timestamp": "2026-02-10T07:08:20.613399",
+        "source": "Hacker News"
     }
 ]
