@@ -39838,5 +39838,11 @@
         "url": "https://imagej.net/software/imagej2/",
         "timestamp": "2026-02-10T08:30:20.914474",
         "source": "Hacker News"
+    },
+    {
+        "title": "PhysLean: Formalising Physics into Lean 4",
+        "url": "https://github.com/lean-phys-community/PhysLean",
+        "timestamp": "2026-02-10T08:30:20.914511",
+        "source": "Hacker News"
     }
 ]
