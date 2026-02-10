@@ -38644,5 +38644,11 @@
         "url": "https://www.japantimes.co.jp/culture/2026/01/23/film/black-ox-tetsuichiro-tsuta/",
         "timestamp": "2026-02-10T01:01:44.111887",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ZooCache:Dependency based cache invalidation for Python, Rust core",
+        "url": "https://github.com/albertobadia/zoocache",
+        "timestamp": "2026-02-10T01:01:44.111916",
+        "source": "Hacker News"
     }
 ]
