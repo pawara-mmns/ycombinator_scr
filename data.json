@@ -40912,5 +40912,11 @@
         "url": "https://enphase.com/blog/message-ceo-20-years-enphase",
         "timestamp": "2026-02-10T13:09:07.608114",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why JavaScript Needs Structured Concurrency",
+        "url": "https://frontside.com/effection/blog/2026-02-06-structured-concurrency-for-javascript/",
+        "timestamp": "2026-02-10T13:09:07.608152",
+        "source": "Hacker News"
     }
 ]
