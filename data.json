@@ -43294,5 +43294,11 @@
         "url": "https://retirenumber.com/",
         "timestamp": "2026-02-10T20:14:15.893417",
         "source": "Hacker News"
+    },
+    {
+        "title": "My setup for integration tests in Go with embedded-Postgres",
+        "url": "https://atlas9.dev/blog/embedded-postgres-go.html",
+        "timestamp": "2026-02-10T20:14:15.893447",
+        "source": "Hacker News"
     }
 ]
