@@ -41824,5 +41824,11 @@
         "url": "https://lissn.to",
         "timestamp": "2026-02-10T15:51:35.080698",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SyncKit – Open two browser tabs and watch CRDTs sync in real-time",
+        "url": "https://github.com/Dancode-188/synckit/releases/tag/v0.3.0",
+        "timestamp": "2026-02-10T15:51:35.080767",
+        "source": "Hacker News"
     }
 ]
