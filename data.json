@@ -39304,5 +39304,11 @@
         "url": "https://gradient.horse",
         "timestamp": "2026-02-10T04:56:04.719599",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A CLI tool to automate Git workflows using AI agents",
+        "url": "https://github.com/leochiu-a/git-pr-ai",
+        "timestamp": "2026-02-10T05:34:01.389195",
+        "source": "Hacker News"
     }
 ]
