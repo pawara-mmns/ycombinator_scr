@@ -43360,5 +43360,11 @@
         "url": "https://abandoned-by-me.dev/",
         "timestamp": "2026-02-10T20:14:15.893755",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A pre‑staging layer for organising multiple parallel changes in Git",
+        "url": "https://github.com/BHFock/git-cl/blob/main/docs/paper.md",
+        "timestamp": "2026-02-10T20:14:15.893786",
+        "source": "Hacker News"
     }
 ]
