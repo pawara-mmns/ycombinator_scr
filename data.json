@@ -40174,5 +40174,11 @@
         "url": "https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/",
         "timestamp": "2026-02-10T10:06:46.802036",
         "source": "Hacker News"
+    },
+    {
+        "title": "Replication configuration changes in PostgreSQL 12",
+        "url": "https://www.enterprisedb.com/blog/replication-configuration-changes-postgresql-12",
+        "timestamp": "2026-02-10T10:06:46.802104",
+        "source": "Hacker News"
     }
 ]
