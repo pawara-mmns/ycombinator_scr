@@ -42328,5 +42328,11 @@
         "url": "https://github.com/cheahjs/free-llm-api-resources",
         "timestamp": "2026-02-10T17:23:07.810438",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lokutor Orchestrator: A Go library for full-duplex, interruptible voice AI",
+        "url": "https://github.com/lokutor-ai/lokutor-orchestrator",
+        "timestamp": "2026-02-10T17:23:07.810472",
+        "source": "Hacker News"
     }
 ]
