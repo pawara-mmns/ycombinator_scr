@@ -39352,5 +39352,11 @@
         "url": "https://productfit.substack.com/p/why-speech-to-speech-apis-fail-when",
         "timestamp": "2026-02-10T05:34:01.389495",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: BlazeMQ – 52KB Kafka-compatible broker in C++20, zero dependencies",
+        "url": "https://github.com/awneesh123/Blaze-mq",
+        "timestamp": "2026-02-10T05:34:01.389529",
+        "source": "Hacker News"
     }
 ]
