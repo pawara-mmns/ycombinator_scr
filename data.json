@@ -43432,5 +43432,11 @@
         "url": "https://www.dotcom.press/archive/icann84",
         "timestamp": "2026-02-10T20:31:58.644732",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kokoro TTS Hook for Claude Code",
+        "url": "https://git.sr.ht/~cg/claude-code-tts",
+        "timestamp": "2026-02-10T20:31:58.644762",
+        "source": "Hacker News"
     }
 ]
