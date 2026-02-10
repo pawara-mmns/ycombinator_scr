@@ -40840,5 +40840,11 @@
         "url": "https://news.ycombinator.com/item?id=46958617",
         "timestamp": "2026-02-10T12:33:46.580836",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google Translate vulnerable to prompt injection",
+        "url": "https://twitter.com/i/status/2020930357974139029",
+        "timestamp": "2026-02-10T12:33:46.580871",
+        "source": "Hacker News"
     }
 ]
