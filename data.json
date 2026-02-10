@@ -44056,5 +44056,11 @@
         "url": "https://www.cnn.com/us/live-news/nancy-guthrie-savannah-missing-mom-02-10-26",
         "timestamp": "2026-02-10T22:31:40.895984",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mockingoose 3.0 – Mongoose mocking for Jest and Vitest, now in TypeScript",
+        "url": "https://github.com/alonronin/mockingoose",
+        "timestamp": "2026-02-10T22:31:40.896023",
+        "source": "Hacker News"
     }
 ]
