@@ -43546,5 +43546,11 @@
         "url": "https://news.ycombinator.com/item?id=46966201",
         "timestamp": "2026-02-10T20:31:58.645345",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
+        "url": "https://github.com/tambo-ai/tambo",
+        "timestamp": "2026-02-10T20:31:58.645376",
+        "source": "Hacker News"
     }
 ]
