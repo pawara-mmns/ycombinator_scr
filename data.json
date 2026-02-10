@@ -42220,5 +42220,11 @@
         "url": "https://vizops.ai/blog/agent-scaling-laws/",
         "timestamp": "2026-02-10T17:23:07.809812",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB",
+        "url": "https://github.com/pretzelai/stripe-no-webhooks",
+        "timestamp": "2026-02-10T17:23:07.809848",
+        "source": "Hacker News"
     }
 ]
