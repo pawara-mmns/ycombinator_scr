@@ -43006,5 +43006,11 @@
         "url": "https://docs.getpochi.com/tutorials/secure-db-access-in-pochi/",
         "timestamp": "2026-02-10T19:26:07.412445",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Deep Dive into Ruby C Extension Memory Management: embedded vs. separate (2025)",
+        "url": "https://medium.com/@m.mastrodonato/a-deep-dive-into-ruby-c-extension-memory-management-embedded-vs-separate-689bbdd04879",
+        "timestamp": "2026-02-10T19:26:07.412479",
+        "source": "Hacker News"
     }
 ]
