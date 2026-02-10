@@ -43828,5 +43828,11 @@
         "url": "https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/",
         "timestamp": "2026-02-10T21:29:11.840113",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cursor switches pay-per-token when your plan limit end. Calls \"On-Demand usage\"",
+        "url": "https://news.ycombinator.com/item?id=46966879",
+        "timestamp": "2026-02-10T21:29:11.840148",
+        "source": "Hacker News"
     }
 ]
