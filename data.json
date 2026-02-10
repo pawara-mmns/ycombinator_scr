@@ -40732,5 +40732,11 @@
         "url": "https://show.franzai.com/a/shoe-loud-clown",
         "timestamp": "2026-02-10T12:00:16.387580",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lets Encrypt DNS-Persist-01; Domain Control Validation",
+        "url": "https://scotthelme.co.uk/dns-persist-01-handling-domain-control-validation-in-a-short-lived-certificate-world/",
+        "timestamp": "2026-02-10T12:00:16.387625",
+        "source": "Hacker News"
     }
 ]
