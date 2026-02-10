@@ -40330,5 +40330,11 @@
         "url": "https://epsteinvisualizer.com/",
         "timestamp": "2026-02-10T10:34:12.064522",
         "source": "Hacker News"
+    },
+    {
+        "title": "PicoRuby is the smallest Ruby implementation for one-chip microcontrollers",
+        "url": "https://picoruby.org",
+        "timestamp": "2026-02-10T11:06:08.606441",
+        "source": "Hacker News"
     }
 ]
