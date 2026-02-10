@@ -44188,5 +44188,11 @@
         "url": "https://www.seangoedecke.com/screwing-up/",
         "timestamp": "2026-02-10T23:00:48.528328",
         "source": "Hacker News"
+    },
+    {
+        "title": "Replace software-properties-GTK by software-properties-common in desktop seed",
+        "url": "https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/2140527",
+        "timestamp": "2026-02-10T23:00:48.528363",
+        "source": "Hacker News"
     }
 ]
