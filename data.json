@@ -43228,5 +43228,11 @@
         "url": "https://aititus.com/presentations/superpower/",
         "timestamp": "2026-02-10T19:51:14.444484",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
+        "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
+        "timestamp": "2026-02-10T19:51:14.444520",
+        "source": "Hacker News"
     }
 ]
