@@ -40690,5 +40690,11 @@
         "url": "https://snapfridge.xyz/",
         "timestamp": "2026-02-10T12:00:16.387296",
         "source": "Hacker News"
+    },
+    {
+        "title": "RLHF from Scratch",
+        "url": "https://github.com/ashworks1706/rlhf-from-scratch",
+        "timestamp": "2026-02-10T12:00:16.387331",
+        "source": "Hacker News"
     }
 ]
