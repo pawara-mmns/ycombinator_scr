@@ -42772,5 +42772,11 @@
         "url": "https://github.com/mattv8/ragtime",
         "timestamp": "2026-02-10T18:48:49.363106",
         "source": "Hacker News"
+    },
+    {
+        "title": "Not so fast: the performance of WebAssembly vs. native code",
+        "url": "https://www.usenix.org/conference/atc19/presentation/jangda",
+        "timestamp": "2026-02-10T18:48:49.363146",
+        "source": "Hacker News"
     }
 ]
