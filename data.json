@@ -46630,5 +46630,11 @@
         "url": "https://news.ycombinator.com/item?id=46973427",
         "timestamp": "2026-02-11T11:17:24.689212",
         "source": "Hacker News"
+    },
+    {
+        "title": "A local task state manager for your projects. Designed for humans and LLMs",
+        "url": "https://github.com/BorisMolch/cli_todo",
+        "timestamp": "2026-02-11T11:17:24.689244",
+        "source": "Hacker News"
     }
 ]
