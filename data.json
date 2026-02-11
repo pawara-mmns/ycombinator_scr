@@ -48706,5 +48706,11 @@
         "url": "https://github.com/sadopc/gottp",
         "timestamp": "2026-02-11T18:19:47.117383",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating from Slurm to Kubernetes",
+        "url": "https://blog.skypilot.co/slurm-to-k8s-migration/",
+        "timestamp": "2026-02-11T18:19:47.117421",
+        "source": "Hacker News"
     }
 ]
