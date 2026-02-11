@@ -46558,5 +46558,11 @@
         "url": "https://en.wikipedia.org/wiki/Widmanstätten_pattern",
         "timestamp": "2026-02-11T11:17:24.688816",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: OpenClaw Kubernetes Operator",
+        "url": "https://github.com/OpenClaw-rocks/k8s-operator",
+        "timestamp": "2026-02-11T11:17:24.688848",
+        "source": "Hacker News"
     }
 ]
