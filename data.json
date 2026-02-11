@@ -45724,5 +45724,11 @@
         "url": "https://agent-tail.vercel.app/",
         "timestamp": "2026-02-11T07:36:52.395727",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude add-on turns Google Calendar into malware courier",
+        "url": "https://www.theregister.com/2026/02/11/claude_desktop_extensions_prompt_injection/",
+        "timestamp": "2026-02-11T07:36:52.395777",
+        "source": "Hacker News"
     }
 ]
