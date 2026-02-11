@@ -50188,5 +50188,11 @@
         "url": "https://vo2maxpro.com/blog/electrolytes-vs-water-training-zones",
         "timestamp": "2026-02-11T22:58:30.847089",
         "source": "Hacker News"
+    },
+    {
+        "title": "The curious case of binfmt for x86 emulation for ARM Docker",
+        "url": "https://gergely.imreh.net/blog/2025/04/the-curious-case-of-binfmt-for-x86-emulation-for-arm-docker/",
+        "timestamp": "2026-02-11T23:15:12.665446",
+        "source": "Hacker News"
     }
 ]
