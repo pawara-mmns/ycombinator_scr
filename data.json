@@ -46414,5 +46414,11 @@
         "url": "https://dullnote.com",
         "timestamp": "2026-02-11T10:18:01.303728",
         "source": "Hacker News"
+    },
+    {
+        "title": "Inline package – golang.org/x/tools/go/analysis/passes/inline – Go Packages",
+        "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis/passes/inline",
+        "timestamp": "2026-02-11T10:18:01.303764",
+        "source": "Hacker News"
     }
 ]
