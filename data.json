@@ -49972,5 +49972,11 @@
         "url": "https://www.augmentcode.com/blog/the-end-of-linear-work",
         "timestamp": "2026-02-11T22:07:15.607302",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making OpenClaw safe: Docker isolation, scoped identity, and JIT secrets",
+        "url": "https://rida.me/blog/why-i-finally-tried-openclaw/",
+        "timestamp": "2026-02-11T22:07:15.607337",
+        "source": "Hacker News"
     }
 ]
