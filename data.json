@@ -46774,5 +46774,11 @@
         "url": "https://twitter.com/theo/status/2018091358251372601",
         "timestamp": "2026-02-11T12:15:04.036721",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A live feed of commits authored by Claude Code across GitHub",
+        "url": "https://claude-commits.vercel.app/",
+        "timestamp": "2026-02-11T12:15:04.036761",
+        "source": "Hacker News"
     }
 ]
