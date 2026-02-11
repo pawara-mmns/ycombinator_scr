@@ -45610,5 +45610,11 @@
         "url": "https://news.speedata.de/2026/02/10/typesetting-benchmark/",
         "timestamp": "2026-02-11T06:39:09.105404",
         "source": "Hacker News"
+    },
+    {
+        "title": "Windows Notepad App Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+        "timestamp": "2026-02-11T06:39:09.105479",
+        "source": "Hacker News"
     }
 ]
