@@ -50092,5 +50092,11 @@
         "url": "https://oag.ca.gov/news/press-releases/california-wont-let-it-go-attorney-general-bonta-announces-275-million",
         "timestamp": "2026-02-11T22:43:02.591022",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Pastebin, Hardening Two Services – While Working",
+        "url": "https://www.smolkin.org/blog/2026/02/adding-api-auth-admin-panel-with-claude-code.html",
+        "timestamp": "2026-02-11T22:43:02.591075",
+        "source": "Hacker News"
     }
 ]
