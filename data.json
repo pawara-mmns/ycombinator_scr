@@ -45286,5 +45286,11 @@
         "url": "https://trackr-bay.vercel.app/welcome",
         "timestamp": "2026-02-11T04:55:41.719540",
         "source": "Hacker News"
+    },
+    {
+        "title": "(Rust) Tracking Issue for Generic Constant Arguments MVP",
+        "url": "https://github.com/rust-lang/rust/issues/132980",
+        "timestamp": "2026-02-11T04:55:41.719571",
+        "source": "Hacker News"
     }
 ]
