@@ -48052,5 +48052,11 @@
         "url": "https://alwaysasking.com/wp-content/uploads/2026/02/On-Becoming-by-Clarence.pdf",
         "timestamp": "2026-02-11T16:22:58.258648",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open-source SRE playbooks for AWS/Kubernetes incident response",
+        "url": "https://github.com/Scoutflo/Scoutflo-SRE-Playbooks",
+        "timestamp": "2026-02-11T16:22:58.258683",
+        "source": "Hacker News"
     }
 ]
