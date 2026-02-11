@@ -48190,5 +48190,11 @@
         "url": "https://www.mslinn.com/llm/7900-claude.html",
         "timestamp": "2026-02-11T16:48:36.167886",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMs Are Good at SQL. We Gave Ours Terabytes of CI Logs",
+        "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+        "timestamp": "2026-02-11T16:48:36.167920",
+        "source": "Hacker News"
     }
 ]
