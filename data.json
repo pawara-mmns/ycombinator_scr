@@ -45118,5 +45118,11 @@
         "url": "https://en.wikipedia.org/wiki/Lolong",
         "timestamp": "2026-02-11T04:09:27.198435",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Can Work on VMs",
+        "url": "https://www.fluid.sh/blog/how-fluid-reads-source-vms-safely",
+        "timestamp": "2026-02-11T04:09:27.198470",
+        "source": "Hacker News"
     }
 ]
