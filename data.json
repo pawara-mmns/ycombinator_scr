@@ -47086,5 +47086,11 @@
         "url": "https://stories.rivian.com/r2-final-validation-testing",
         "timestamp": "2026-02-11T13:08:46.970920",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Zero-Dependency secp256k1 CUDA Engine from Scratch (2.5B ops/SEC)",
+        "url": "https://github.com/shrec/UltrafastSecp256k1",
+        "timestamp": "2026-02-11T13:08:46.970955",
+        "source": "Hacker News"
     }
 ]
