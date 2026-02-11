@@ -46078,5 +46078,11 @@
         "url": "https://adaptive.bounded.cc",
         "timestamp": "2026-02-11T08:52:05.492505",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Copy-and-patch compiler for hard real-time Python",
+        "url": "https://github.com/Nonannet/copapy",
+        "timestamp": "2026-02-11T08:52:05.492577",
+        "source": "Hacker News"
     }
 ]
