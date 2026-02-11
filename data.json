@@ -50200,5 +50200,11 @@
         "url": "https://store.steampowered.com/app/2451190/Kebabstar/",
         "timestamp": "2026-02-11T23:15:12.665536",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-contained RTL to GDS flow for simple chip designs",
+        "url": "https://github.com/htfab/microlane",
+        "timestamp": "2026-02-11T23:15:12.665610",
+        "source": "Hacker News"
     }
 ]
