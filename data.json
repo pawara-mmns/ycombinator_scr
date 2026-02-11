@@ -44998,5 +44998,11 @@
         "url": "https://calcbin.com",
         "timestamp": "2026-02-11T03:02:58.559623",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gnome leaks thumbnails from encrypted and external drives",
+        "url": "https://gitlab.gnome.org/Teams/Design/whiteboards/-/issues/357",
+        "timestamp": "2026-02-11T03:02:58.559675",
+        "source": "Hacker News"
     }
 ]
