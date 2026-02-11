@@ -45616,5 +45616,11 @@
         "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
         "timestamp": "2026-02-11T06:39:09.105479",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic's 'anonymous' interviews cracked with an LLM",
+        "url": "https://techxplore.com/news/2026-02-anthropic-anonymous-llm.html",
+        "timestamp": "2026-02-11T06:39:09.105515",
+        "source": "Hacker News"
     }
 ]
