@@ -45784,5 +45784,11 @@
         "url": "https://news.ycombinator.com/item?id=46971878",
         "timestamp": "2026-02-11T07:36:52.396096",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Migrate away from Vue SFC's to native TSX",
+        "url": "https://www.npmjs.com/package/vue-to-tsx",
+        "timestamp": "2026-02-11T07:36:52.396129",
+        "source": "Hacker News"
     }
 ]
