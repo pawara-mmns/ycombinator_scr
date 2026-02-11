@@ -50062,5 +50062,11 @@
         "url": "https://news.ycombinator.com/item?id=46981925",
         "timestamp": "2026-02-11T22:24:41.238670",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-hosted, memory-augmented AI chat that works with any LLM",
+        "url": "https://github.com/PStryder/Cathedral",
+        "timestamp": "2026-02-11T22:24:41.238708",
+        "source": "Hacker News"
     }
 ]
