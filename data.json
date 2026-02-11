@@ -47194,5 +47194,11 @@
         "url": "https://taste-buddy.app",
         "timestamp": "2026-02-11T13:47:49.454630",
         "source": "Hacker News"
+    },
+    {
+        "title": "Weave, an entity-level semantic merge driver for Git",
+        "url": "https://github.com/Ataraxy-Labs/weave",
+        "timestamp": "2026-02-11T13:47:49.454665",
+        "source": "Hacker News"
     }
 ]
