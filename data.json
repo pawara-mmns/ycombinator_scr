@@ -48334,5 +48334,11 @@
         "url": "https://medium.com/@danielbentes/the-ai-product-engineer-0f02d7f08590",
         "timestamp": "2026-02-11T17:22:47.127483",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Protect Against Prompt Injection in OpenClaw",
+        "url": "https://www.npmjs.com/package/@mightyai/citadel-guard-openclaw",
+        "timestamp": "2026-02-11T17:22:47.127512",
+        "source": "Hacker News"
     }
 ]
