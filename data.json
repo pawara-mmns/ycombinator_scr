@@ -49288,5 +49288,11 @@
         "url": "https://www.goto10retro.com/p/video-a-brief-overview-of-the-atari",
         "timestamp": "2026-02-11T20:10:44.970123",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Yet another music player but written in Rust",
+        "url": "https://github.com/temidaradev/rusic",
+        "timestamp": "2026-02-11T20:10:44.970159",
+        "source": "Hacker News"
     }
 ]
