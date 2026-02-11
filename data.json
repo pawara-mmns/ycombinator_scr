@@ -49156,5 +49156,11 @@
         "url": "https://huggingface.co/spaces/huggingface/eleusis-benchmark",
         "timestamp": "2026-02-11T19:48:10.275949",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
+        "url": "https://github.com/adenhq/hive/blob/main/README.md",
+        "timestamp": "2026-02-11T19:48:10.275983",
+        "source": "Hacker News"
     }
 ]
