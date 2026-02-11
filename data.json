@@ -49486,5 +49486,11 @@
         "url": "https://github.com/craftreactnative/templates",
         "timestamp": "2026-02-11T20:46:59.248284",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenVPN 2.7.0 – An open source VPN daemon",
+        "url": "https://github.com/OpenVPN/openvpn/releases/tag/v2.7.0",
+        "timestamp": "2026-02-11T20:46:59.248319",
+        "source": "Hacker News"
     }
 ]
