@@ -48994,5 +48994,11 @@
         "url": "https://journals.sagepub.com/doi/10.1177/00197939251411263",
         "timestamp": "2026-02-11T19:23:36.239569",
         "source": "Hacker News"
+    },
+    {
+        "title": "Thread Safety Analysis in Clang",
+        "url": "https://clang.llvm.org/docs/ThreadSafetyAnalysis.html",
+        "timestamp": "2026-02-11T19:23:36.239603",
+        "source": "Hacker News"
     }
 ]
