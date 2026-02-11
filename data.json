@@ -47368,5 +47368,11 @@
         "url": "https://www.heise.de/en/blog/Software-as-a-tool-not-an-end-in-itself-A-plea-for-more-domain-expertise-11168756.html",
         "timestamp": "2026-02-11T14:24:04.457976",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vulnerabilities in 45 Open Source Projects (vLLM, Langfuse, Phase, NocoDB)",
+        "url": "https://www.kolega.dev/blog/why-we-found-225-security-flaws-in-45-open-source-projects-that-sast-missed/",
+        "timestamp": "2026-02-11T14:24:04.458012",
+        "source": "Hacker News"
     }
 ]
