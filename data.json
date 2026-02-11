@@ -44890,5 +44890,11 @@
         "url": "https://tidewave.ai/blog/the-future-of-coding-agents-is-vertical-integration",
         "timestamp": "2026-02-11T01:54:33.421953",
         "source": "Hacker News"
+    },
+    {
+        "title": "Built a Python Dependency Audit Tool Because Vulnerability Lists Weren't Enough",
+        "url": "https://github.com/0x5A65726F677275/AuditDeps",
+        "timestamp": "2026-02-11T01:54:33.421986",
+        "source": "Hacker News"
     }
 ]
