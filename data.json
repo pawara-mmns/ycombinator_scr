@@ -50170,5 +50170,11 @@
         "url": "https://www.cfr.org/articles/military-ai-adoption-is-outpacing-global-cooperation",
         "timestamp": "2026-02-11T22:58:30.846910",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust runtime for computer-use agents (native back end and conformance)",
+        "url": "https://github.com/xayhemLLC/computer-use-runtime",
+        "timestamp": "2026-02-11T22:58:30.846948",
+        "source": "Hacker News"
     }
 ]
