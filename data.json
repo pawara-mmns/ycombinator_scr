@@ -44722,5 +44722,11 @@
         "url": "https://huggingface.co/blog/MaziyarPanahi/sae-steering-json",
         "timestamp": "2026-02-11T01:00:26.186253",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nginx-lint – A linter for Nginx configs with plugin support and autofix",
+        "url": "https://github.com/walf443/nginx-lint",
+        "timestamp": "2026-02-11T01:00:26.186289",
+        "source": "Hacker News"
     }
 ]
