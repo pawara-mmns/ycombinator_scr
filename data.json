@@ -45430,5 +45430,11 @@
         "url": "https://www.youtube.com/watch?v=k9hPmp09ssc",
         "timestamp": "2026-02-11T05:32:35.705414",
         "source": "Hacker News"
+    },
+    {
+        "title": "GraphQLite, Graph Network Extension on Top of SQLite",
+        "url": "https://github.com/colliery-io/graphqlite",
+        "timestamp": "2026-02-11T05:32:35.705445",
+        "source": "Hacker News"
     }
 ]
