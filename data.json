@@ -47818,5 +47818,11 @@
         "url": "https://falsework.dev/",
         "timestamp": "2026-02-11T15:48:35.466610",
         "source": "Hacker News"
+    },
+    {
+        "title": "Functional Programming in M4",
+        "url": "https://minnie.tuhs.org/pipermail/tuhs/2020-August/022108.html",
+        "timestamp": "2026-02-11T15:48:35.466655",
+        "source": "Hacker News"
     }
 ]
