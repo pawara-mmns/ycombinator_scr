@@ -47278,5 +47278,11 @@
         "url": "https://www.theregister.com/2026/02/11/bma_palantir_nhs/",
         "timestamp": "2026-02-11T13:47:49.455133",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agent-team – A multi-agent CLI orchestrator via the ACP",
+        "url": "https://github.com/nekocode/agent-team",
+        "timestamp": "2026-02-11T13:47:49.455185",
+        "source": "Hacker News"
     }
 ]
