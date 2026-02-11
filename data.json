@@ -47560,5 +47560,11 @@
         "url": "https://triclock.franzai.com/",
         "timestamp": "2026-02-11T14:47:36.312961",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Eryx, a fast WASM-based Python sandbox with native extension support",
+        "url": "https://github.com/eryx-org/eryx",
+        "timestamp": "2026-02-11T14:47:36.313029",
+        "source": "Hacker News"
     }
 ]
