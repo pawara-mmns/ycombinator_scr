@@ -50248,5 +50248,11 @@
         "url": "https://CarDesk.net/",
         "timestamp": "2026-02-11T23:15:12.665861",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why Some Models Quantize Better Than Others",
+        "url": "https://ym2132.github.io/why_quantization_fails.html",
+        "timestamp": "2026-02-11T23:15:12.665895",
+        "source": "Hacker News"
     }
 ]
