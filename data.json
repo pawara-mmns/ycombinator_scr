@@ -49102,5 +49102,11 @@
         "url": "https://talkflow.substack.com/p/how-talking-to-a-rubber-duck-made",
         "timestamp": "2026-02-11T19:48:10.275552",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sam 3: a unified foundation model for promptable segmentation in images/videos",
+        "url": "https://github.com/facebookresearch/sam3",
+        "timestamp": "2026-02-11T19:48:10.275601",
+        "source": "Hacker News"
     }
 ]
