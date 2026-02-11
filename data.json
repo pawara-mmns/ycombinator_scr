@@ -46342,5 +46342,11 @@
         "url": "https://pvs-studio.com/en/webinar/",
         "timestamp": "2026-02-11T10:18:01.303220",
         "source": "Hacker News"
+    },
+    {
+        "title": "Golang textile parser, implemented using Codex as a \"clean room\" native parser",
+        "url": "https://github.com/rcarmo/go-textile",
+        "timestamp": "2026-02-11T10:18:01.303255",
+        "source": "Hacker News"
     }
 ]
