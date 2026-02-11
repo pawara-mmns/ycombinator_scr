@@ -48718,5 +48718,11 @@
         "url": "https://lwn.net/SubscriberLink/1057561/040a5b0283517773/",
         "timestamp": "2026-02-11T18:19:47.117459",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lightweight daemon to remap the Copilot keyboard key in Linux using libevdev",
+        "url": "https://github.com/m-bartlett/remap-copilot",
+        "timestamp": "2026-02-11T18:19:47.117495",
+        "source": "Hacker News"
     }
 ]
