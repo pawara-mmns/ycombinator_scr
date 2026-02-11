@@ -49606,5 +49606,11 @@
         "url": "https://en.wikipedia.org/wiki/Daemon_(novel)",
         "timestamp": "2026-02-11T21:12:22.780203",
         "source": "Hacker News"
+    },
+    {
+        "title": "Transforming a Clojure Database into a Library with GraalVM Native Image and FFI",
+        "url": "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/",
+        "timestamp": "2026-02-11T21:12:22.780239",
+        "source": "Hacker News"
     }
 ]
