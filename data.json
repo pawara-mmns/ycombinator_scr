@@ -45202,5 +45202,11 @@
         "url": "https://confer.to/blog/2025/12/passkey-encryption/",
         "timestamp": "2026-02-11T04:09:27.198995",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: UserPrompt – A Context Request Notification Tool for Coding Agents",
+        "url": "https://www.nuget.org/packages/UserPrompt/1.0.0",
+        "timestamp": "2026-02-11T04:09:27.199029",
+        "source": "Hacker News"
     }
 ]
