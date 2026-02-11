@@ -47854,5 +47854,11 @@
         "url": "https://the-ai-native.company/",
         "timestamp": "2026-02-11T15:48:35.466908",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Test ProxySQL Read/Write Split with Sysbench",
+        "url": "https://rendiment.io/mysql/proxysql/2026/02/03/sysbench-proxysql.html",
+        "timestamp": "2026-02-11T15:48:35.466972",
+        "source": "Hacker News"
     }
 ]
