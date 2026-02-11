@@ -49048,5 +49048,11 @@
         "url": "https://project.promo/",
         "timestamp": "2026-02-11T19:23:36.239877",
         "source": "Hacker News"
+    },
+    {
+        "title": "Decapod: A local, daemonless control plane for AI agents",
+        "url": "https://github.com/DecapodLabs/decapod",
+        "timestamp": "2026-02-11T19:23:36.239912",
+        "source": "Hacker News"
     }
 ]
