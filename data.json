@@ -49834,5 +49834,11 @@
         "url": "https://statusnow.dev",
         "timestamp": "2026-02-11T21:46:10.347835",
         "source": "Hacker News"
+    },
+    {
+        "title": "Train and inference GPT in 243 lines of pure, dependency-free Python",
+        "url": "https://twitter.com/karpathy/status/2021694437152157847",
+        "timestamp": "2026-02-11T21:46:10.347868",
+        "source": "Hacker News"
     }
 ]
