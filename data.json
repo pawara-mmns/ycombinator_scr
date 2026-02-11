@@ -47902,5 +47902,11 @@
         "url": "https://garrit.xyz/posts/2026-02-11-on-seeking-order-in-chaos",
         "timestamp": "2026-02-11T15:48:35.467414",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Funxy – A typed scripting language that embeds into Go apps",
+        "url": "https://github.com/funvibe/funxy",
+        "timestamp": "2026-02-11T15:48:35.467449",
+        "source": "Hacker News"
     }
 ]
