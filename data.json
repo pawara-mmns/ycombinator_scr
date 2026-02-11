@@ -46822,5 +46822,11 @@
         "url": "https://www.bbc.com/news/articles/c8rm8g43x40o",
         "timestamp": "2026-02-11T12:15:04.037011",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stripe now allows agents to make payments",
+        "url": "https://docs.stripe.com/payments/machine",
+        "timestamp": "2026-02-11T12:15:04.037046",
+        "source": "Hacker News"
     }
 ]
