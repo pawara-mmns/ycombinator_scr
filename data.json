@@ -45550,5 +45550,11 @@
         "url": "https://ansuz.sooke.bc.ca/entry/23",
         "timestamp": "2026-02-11T06:08:22.138311",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simple email API for proton bridge",
+        "url": "https://github.com/pgray/mayl",
+        "timestamp": "2026-02-11T06:08:22.138344",
+        "source": "Hacker News"
     }
 ]
