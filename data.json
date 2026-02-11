@@ -44716,5 +44716,11 @@
         "url": "https://www.kintsugihealth.com/blog/open-source",
         "timestamp": "2026-02-11T01:00:26.186203",
         "source": "Hacker News"
+    },
+    {
+        "title": "From Golden Gate Bridge to JSON: Why Anthropic's SAE Failed on JSON Output",
+        "url": "https://huggingface.co/blog/MaziyarPanahi/sae-steering-json",
+        "timestamp": "2026-02-11T01:00:26.186253",
+        "source": "Hacker News"
     }
 ]
