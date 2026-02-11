@@ -47176,5 +47176,11 @@
         "url": "https://tidycode.org",
         "timestamp": "2026-02-11T13:47:49.454524",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Gridpaper: Scientific figures in the browser, built on gnuplot via WASM",
+        "url": "https://gridpaper.org/examples/",
+        "timestamp": "2026-02-11T13:47:49.454559",
+        "source": "Hacker News"
     }
 ]
