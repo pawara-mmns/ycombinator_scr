@@ -50236,5 +50236,11 @@
         "url": "https://twitter.com/heydin_ai/status/2021529833197773204",
         "timestamp": "2026-02-11T23:15:12.665791",
         "source": "Hacker News"
+    },
+    {
+        "title": "Best Practices for Ownership in GLib",
+        "url": "https://blog.sebastianwick.net/posts/glib-ownership-best-practices/",
+        "timestamp": "2026-02-11T23:15:12.665826",
+        "source": "Hacker News"
     }
 ]
