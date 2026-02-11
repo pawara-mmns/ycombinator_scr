@@ -45076,5 +45076,11 @@
         "url": "https://twitter.com/palladiummag/status/2021272038770606250",
         "timestamp": "2026-02-11T03:02:58.560119",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bitcoin and post-quantum crypto (BIP-341 Taproot and ML-DSA/Falcon, 136 tests)",
+        "url": "https://github.com/emilianosolazzi/PQ-PSBT-WALLET",
+        "timestamp": "2026-02-11T03:02:58.560153",
+        "source": "Hacker News"
     }
 ]
