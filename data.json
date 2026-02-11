@@ -49936,5 +49936,11 @@
         "url": "https://www.youtube.com/watch?v=rwSJcZnKrg0",
         "timestamp": "2026-02-11T22:07:15.607090",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Send Claude Code tasks to the Batch API at 50% off",
+        "url": "https://github.com/s2-streamstore/claude-batch-toolkit",
+        "timestamp": "2026-02-11T22:07:15.607127",
+        "source": "Hacker News"
     }
 ]
