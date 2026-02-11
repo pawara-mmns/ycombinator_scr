@@ -45850,5 +45850,11 @@
         "url": "https://qronojs.dev/",
         "timestamp": "2026-02-11T08:01:15.890316",
         "source": "Hacker News"
+    },
+    {
+        "title": "RooDB: Now faster than MySQL (acc. to sysbench 1M rows)",
+        "url": "https://github.com/jgarzik/roodb/releases/tag/v0.7.0",
+        "timestamp": "2026-02-11T08:01:15.890351",
+        "source": "Hacker News"
     }
 ]
