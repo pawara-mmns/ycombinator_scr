@@ -48808,5 +48808,11 @@
         "url": "https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/",
         "timestamp": "2026-02-11T18:48:08.840475",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI agent sandboxing: how to choose between primitives, runtimes, and platforms",
+        "url": "https://manveerc.substack.com/p/ai-agent-sandboxing-guide",
+        "timestamp": "2026-02-11T18:48:08.840510",
+        "source": "Hacker News"
     }
 ]
