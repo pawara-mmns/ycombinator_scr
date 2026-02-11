@@ -49618,5 +49618,11 @@
         "url": "https://k.nyc/",
         "timestamp": "2026-02-11T21:12:22.780274",
         "source": "Hacker News"
+    },
+    {
+        "title": "AIST the 950-token protocol for preserving AI session state on any LLM",
+        "url": "https://github.com/RobIW-dev/aist-protocol",
+        "timestamp": "2026-02-11T21:12:22.780309",
+        "source": "Hacker News"
     }
 ]
