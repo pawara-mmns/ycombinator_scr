@@ -44950,5 +44950,11 @@
         "url": "https://www.scworld.com/news/sshstalker-botnet-hijacks-7000-linux-systems-using-irc-and-ssh",
         "timestamp": "2026-02-11T03:02:58.559315",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Discord Agent Gateway",
+        "url": "https://github.com/caesarnine/discord-agent-gateway",
+        "timestamp": "2026-02-11T03:02:58.559385",
+        "source": "Hacker News"
     }
 ]
