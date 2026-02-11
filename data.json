@@ -44500,5 +44500,11 @@
         "url": "https://github.com/VincentKaufmann/noapi-google-search-mcp",
         "timestamp": "2026-02-11T00:22:47.005912",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lockfiles Killed Vendoring",
+        "url": "https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html",
+        "timestamp": "2026-02-11T00:22:47.005971",
+        "source": "Hacker News"
     }
 ]
