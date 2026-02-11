@@ -45166,5 +45166,11 @@
         "url": "https://news.ycombinator.com/item?id=46970533",
         "timestamp": "2026-02-11T04:09:27.198708",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a semantic search engine in ±250 lines of code",
+        "url": "https://bart.degoe.de/building-a-semantic-search-engine-in-250-lines-of-python/",
+        "timestamp": "2026-02-11T04:09:27.198754",
+        "source": "Hacker News"
     }
 ]
