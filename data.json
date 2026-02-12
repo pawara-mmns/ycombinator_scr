@@ -52966,5 +52966,11 @@
         "url": "https://news.ycombinator.com/item?id=46988473",
         "timestamp": "2026-02-12T13:30:57.638084",
         "source": "Hacker News"
+    },
+    {
+        "title": "Porting an INT8 VHDL CNN from Intel Agilex 3 to Lattice Certus-NX",
+        "url": "https://news.ycombinator.com/item?id=46988464",
+        "timestamp": "2026-02-12T13:30:57.638119",
+        "source": "Hacker News"
     }
 ]
