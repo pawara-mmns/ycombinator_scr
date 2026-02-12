@@ -52006,5 +52006,11 @@
         "url": "https://cron-monitor.com/",
         "timestamp": "2026-02-12T09:03:38.734822",
         "source": "Hacker News"
+    },
+    {
+        "title": "Grok4 sabotages shutdown 97% of the time,even if instructed not in system prompt",
+        "url": "https://arxiv.org/abs/2509.14260",
+        "timestamp": "2026-02-12T09:03:38.734857",
+        "source": "Hacker News"
     }
 ]
