@@ -51898,5 +51898,11 @@
         "url": "https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html",
         "timestamp": "2026-02-12T08:12:49.723075",
         "source": "Hacker News"
+    },
+    {
+        "title": "An async HTTP server in ~80 lines of modern C++ (coroutines)",
+        "url": "https://vixcpp.com/docs/modules/async/example.html",
+        "timestamp": "2026-02-12T08:12:49.723110",
+        "source": "Hacker News"
     }
 ]
