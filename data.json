@@ -56290,5 +56290,11 @@
         "url": "https://news.ycombinator.com/item?id=46996357",
         "timestamp": "2026-02-12T22:48:08.235903",
         "source": "Hacker News"
+    },
+    {
+        "title": "AuthProbe – Fix MCP OAuth Gaps (CLI and CI Check)",
+        "url": "https://github.com/authprobe/authprobe",
+        "timestamp": "2026-02-12T22:48:08.236010",
+        "source": "Hacker News"
     }
 ]
