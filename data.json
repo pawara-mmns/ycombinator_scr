@@ -52348,5 +52348,11 @@
         "url": "https://karpathy.ai/microgpt.html",
         "timestamp": "2026-02-12T11:16:28.723409",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google says attackers used 100k prompts to try to clone AI chatbot Gemini",
+        "url": "https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657",
+        "timestamp": "2026-02-12T11:16:28.723446",
+        "source": "Hacker News"
     }
 ]
