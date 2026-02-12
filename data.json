@@ -50944,5 +50944,11 @@
         "url": "https://maester.dev/blog/maester-2-0/",
         "timestamp": "2026-02-12T03:39:25.862566",
         "source": "Hacker News"
+    },
+    {
+        "title": "ChatGPT Containers can now run bash, pip/NPM install packages and download files",
+        "url": "https://simonwillison.net/2026/Jan/26/chatgpt-container",
+        "timestamp": "2026-02-12T03:39:25.862613",
+        "source": "Hacker News"
     }
 ]
