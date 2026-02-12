@@ -51550,5 +51550,11 @@
         "url": "https://hudra.day",
         "timestamp": "2026-02-12T06:48:07.097825",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Docker Compose like process orchestrator for our agents dev environment",
+        "url": "https://github.com/maleus-ai/kepler",
+        "timestamp": "2026-02-12T06:48:07.097861",
+        "source": "Hacker News"
     }
 ]
