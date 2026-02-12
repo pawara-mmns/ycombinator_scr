@@ -50542,5 +50542,11 @@
         "url": "https://www.kdnuggets.com/ai-agents-explained-in-3-levels-of-difficulty",
         "timestamp": "2026-02-12T00:55:21.215341",
         "source": "Hacker News"
+    },
+    {
+        "title": "0.1% synthetic data is enough to degrade AI models (Nature, 2024)",
+        "url": "https://medium.com/ai-advances/model-collapse-when-ai-trains-on-ai-generated-data-2c4baf60a016",
+        "timestamp": "2026-02-12T00:55:21.215377",
+        "source": "Hacker News"
     }
 ]
