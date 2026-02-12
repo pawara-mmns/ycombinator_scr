@@ -51034,5 +51034,11 @@
         "url": "https://blog.vbuckenham.com/some-thoughts-about-tool-design-and-ai/",
         "timestamp": "2026-02-12T03:39:25.863172",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Carapace – A security-hardened Rust alternative to OpenClaw",
+        "url": "https://github.com/puremachinery/carapace",
+        "timestamp": "2026-02-12T03:39:25.863205",
+        "source": "Hacker News"
     }
 ]
