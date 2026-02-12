@@ -54598,5 +54598,11 @@
         "url": "https://hypeframe.ai",
         "timestamp": "2026-02-12T18:04:46.349981",
         "source": "Hacker News"
+    },
+    {
+        "title": "Memgraph 3.8: Atomic GraphRAG and Vector Single Store with Performance Upgrades",
+        "url": "https://memgraph.com/blog/memgraph-3-8-release-atomic-graphrag-vector-single-store-parallel-runtime",
+        "timestamp": "2026-02-12T18:04:46.350016",
+        "source": "Hacker News"
     }
 ]
