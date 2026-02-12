@@ -56020,5 +56020,11 @@
         "url": "https://promptmatch.app",
         "timestamp": "2026-02-12T21:44:14.577286",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google identifies over 100k prompts used in distillation attacks",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use",
+        "timestamp": "2026-02-12T21:44:14.577322",
+        "source": "Hacker News"
     }
 ]
