@@ -55558,5 +55558,11 @@
         "url": "https://arxiv.org/abs/2602.09447",
         "timestamp": "2026-02-12T20:44:25.183016",
         "source": "Hacker News"
+    },
+    {
+        "title": "Redka: Redis Re-Implemented with SQL",
+        "url": "https://github.com/nalgeon/redka",
+        "timestamp": "2026-02-12T20:44:25.183049",
+        "source": "Hacker News"
     }
 ]
