@@ -52582,5 +52582,11 @@
         "url": "https://www.westerninvestor.com/national-business/pentagon-let-cbp-use-anti-drone-laser-before-faa-closed-el-paso-airspace-ap-sources-say-11864654",
         "timestamp": "2026-02-12T12:01:04.264658",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A lightweight Identity Provider for local OAuth2/SAML testing",
+        "url": "https://github.com/cdelmonte-zg/nanoidp",
+        "timestamp": "2026-02-12T12:01:04.264744",
+        "source": "Hacker News"
     }
 ]
