@@ -54508,5 +54508,11 @@
         "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
         "timestamp": "2026-02-12T18:04:46.349445",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Android Notifications over MQTT",
+        "url": "https://github.com/firebadnofire/mqttmonitor",
+        "timestamp": "2026-02-12T18:04:46.349481",
+        "source": "Hacker News"
     }
 ]
