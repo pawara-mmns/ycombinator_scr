@@ -55960,5 +55960,11 @@
         "url": "https://www.ft.com/content/9b4f51ae-6d22-43d7-9d8c-6497b3995d08",
         "timestamp": "2026-02-12T21:44:14.576848",
         "source": "Hacker News"
+    },
+    {
+        "title": "Routing LLM queries using internal success predictions (70% cost reduction)",
+        "url": "https://arxiv.org/abs/2602.09924",
+        "timestamp": "2026-02-12T21:44:14.576918",
+        "source": "Hacker News"
     }
 ]
