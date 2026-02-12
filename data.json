@@ -54532,5 +54532,11 @@
         "url": "https://www.japantimes.co.jp/news/2026/01/27/japan/crime-legal/digital-content-piracy-damages/",
         "timestamp": "2026-02-12T18:04:46.349586",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Timefence – Python lib to detect temporal data leak in ML training",
+        "url": "https://github.com/gauthierpiarrette/timefence",
+        "timestamp": "2026-02-12T18:04:46.349620",
+        "source": "Hacker News"
     }
 ]
