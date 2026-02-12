@@ -53962,5 +53962,11 @@
         "url": "https://clawbot.cash/",
         "timestamp": "2026-02-12T16:35:24.375750",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Running an LLM Inside Scratch",
+        "url": "https://github.com/Broyojo/llm_from_scratch",
+        "timestamp": "2026-02-12T16:35:24.375793",
+        "source": "Hacker News"
     }
 ]
