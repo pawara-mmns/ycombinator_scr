@@ -55684,5 +55684,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-02-12/cargill-to-close-ground-beef-plant-in-milwaukee-amid-herd-woes",
         "timestamp": "2026-02-12T20:59:29.018112",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to build a distributed queue in a single JSON file on object storage",
+        "url": "https://turbopuffer.com/blog/object-storage-queue",
+        "timestamp": "2026-02-12T20:59:29.018152",
+        "source": "Hacker News"
     }
 ]
