@@ -52492,5 +52492,11 @@
         "url": "https://www.marinelink.com/news/molten-salt-technology-validated-535563",
         "timestamp": "2026-02-12T11:44:48.927101",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SC-NeuroCore – Rust neuromorphic compiler, 512× speedup",
+        "url": "https://github.com/anulum/sc-neurocore",
+        "timestamp": "2026-02-12T11:44:48.927167",
+        "source": "Hacker News"
     }
 ]
