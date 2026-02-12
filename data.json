@@ -50410,5 +50410,11 @@
         "url": "https://tostracker.app/analysis/algorithmic-liability",
         "timestamp": "2026-02-11T23:53:08.477206",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: RepoCrunch – Analyze any GitHub repo into structured JSON",
+        "url": "https://github.com/kimwwk/repocrunch",
+        "timestamp": "2026-02-12T00:17:41.707872",
+        "source": "Hacker News"
     }
 ]
