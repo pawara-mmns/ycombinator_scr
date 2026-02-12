@@ -50518,5 +50518,11 @@
         "url": "https://finance.neuy.io/swap/docs/neuyrouter_bankrbot.aspx",
         "timestamp": "2026-02-12T00:17:41.708769",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
+        "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+        "timestamp": "2026-02-12T00:55:21.122510",
+        "source": "Hacker News"
     }
 ]
