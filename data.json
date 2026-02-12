@@ -55240,5 +55240,11 @@
         "url": "https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/",
         "timestamp": "2026-02-12T19:55:34.204731",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fact-check AI output with /verify",
+        "url": "https://truthlayer.netlify.app",
+        "timestamp": "2026-02-12T19:55:34.204765",
+        "source": "Hacker News"
     }
 ]
