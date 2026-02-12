@@ -52834,5 +52834,11 @@
         "url": "https://arxiv.org/abs/2602.05400",
         "timestamp": "2026-02-12T12:54:11.746433",
         "source": "Hacker News"
+    },
+    {
+        "title": "Best practices for ACME client implementations",
+        "url": "https://docs.https.dev/acme-ops",
+        "timestamp": "2026-02-12T12:54:11.746468",
+        "source": "Hacker News"
     }
 ]
