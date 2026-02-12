@@ -56458,5 +56458,11 @@
         "url": "https://mashable.com/article/elon-musk-moon-catapult",
         "timestamp": "2026-02-12T23:24:13.644933",
         "source": "Hacker News"
+    },
+    {
+        "title": "System calls are slow. Run your code in the kernel",
+        "url": "https://over-yonder.tech/#articles/rstat",
+        "timestamp": "2026-02-12T23:24:13.644997",
+        "source": "Hacker News"
     }
 ]
