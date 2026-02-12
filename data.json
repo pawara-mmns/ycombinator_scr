@@ -53980,5 +53980,11 @@
         "url": "https://www.prom.dev/home",
         "timestamp": "2026-02-12T16:35:24.375875",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: PardusDB – SQLite-like vector database in Rust",
+        "url": "https://github.com/JasonHonKL/PardusDB",
+        "timestamp": "2026-02-12T16:35:24.375914",
+        "source": "Hacker News"
     }
 ]
