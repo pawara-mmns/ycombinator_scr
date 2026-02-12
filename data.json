@@ -53008,5 +53008,11 @@
         "url": "https://arstechnica.com/google/2026/02/tested-how-chromes-auto-browse-agent-handles-common-web-tasks/",
         "timestamp": "2026-02-12T13:30:57.638330",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A segmentation model client-side via WASM – free background removal",
+        "url": "https://qtoolkit.dev/tools/background-remover/",
+        "timestamp": "2026-02-12T13:30:57.638364",
+        "source": "Hacker News"
     }
 ]
