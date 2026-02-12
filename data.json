@@ -56158,5 +56158,11 @@
         "url": "https://www.youtube.com/watch?v=8UNG3cQoOEc",
         "timestamp": "2026-02-12T22:14:21.389772",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pwning Supercomputers — A 20 year old vulnerability in Munge",
+        "url": "https://blog.lexfo.fr/munge-heap-buffer-overflow.html",
+        "timestamp": "2026-02-12T22:14:21.389802",
+        "source": "Hacker News"
     }
 ]
