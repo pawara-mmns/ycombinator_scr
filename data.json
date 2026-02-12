@@ -53152,5 +53152,11 @@
         "url": "https://playground.nothing.tech/",
         "timestamp": "2026-02-12T14:09:20.710702",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MCP server for generating images directly in Claude Code",
+        "url": "https://github.com/maheshcr/image-gen-mcp",
+        "timestamp": "2026-02-12T14:09:20.710771",
+        "source": "Hacker News"
     }
 ]
