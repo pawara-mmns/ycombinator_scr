@@ -56200,5 +56200,11 @@
         "url": "https://ccbench.org/",
         "timestamp": "2026-02-12T22:30:04.434209",
         "source": "Hacker News"
+    },
+    {
+        "title": "I've built Googles LangExtract like libary on my own runtime",
+        "url": "https://github.com/jolovicdev/sourcery",
+        "timestamp": "2026-02-12T22:30:04.434241",
+        "source": "Hacker News"
     }
 ]
