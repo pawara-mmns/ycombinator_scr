@@ -53416,5 +53416,11 @@
         "url": "https://www.theregister.com/2026/02/12/suse_runs_ms/",
         "timestamp": "2026-02-12T14:33:46.920514",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Scan your codebase for off-brand copy (open source CLI)",
+        "url": "https://github.com/zeronelabs/brandlint-cli",
+        "timestamp": "2026-02-12T14:33:46.920549",
+        "source": "Hacker News"
     }
 ]
