@@ -54214,5 +54214,11 @@
         "url": "https://speedrun.substack.com/p/substack-ceo-chris-best-you-cant",
         "timestamp": "2026-02-12T17:07:30.560642",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Chatuino – A TUI Twitch chat client built with Go",
+        "url": "https://github.com/julez-dev/chatuino",
+        "timestamp": "2026-02-12T17:07:30.560676",
+        "source": "Hacker News"
     }
 ]
