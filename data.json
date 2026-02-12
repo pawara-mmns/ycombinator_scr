@@ -50674,5 +50674,11 @@
         "url": "https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft",
         "timestamp": "2026-02-12T01:34:51.481352",
         "source": "Hacker News"
+    },
+    {
+        "title": "20 Claude Code agents, one terminal: a tmux + AppleScript setup",
+        "url": "https://pkarnal.com/blog/parallel-ai-agents",
+        "timestamp": "2026-02-12T01:34:51.481390",
+        "source": "Hacker News"
     }
 ]
