@@ -52330,5 +52330,11 @@
         "url": "https://www.youtube.com/watch?v=FjtzCarSWgU",
         "timestamp": "2026-02-12T11:16:28.723241",
         "source": "Hacker News"
+    },
+    {
+        "title": "MinIO is now no longer maintained",
+        "url": "https://github.com/minio/minio/commit/bf50cdb59a54fb613462af8f330e0b2e4a883e5c",
+        "timestamp": "2026-02-12T11:16:28.723295",
+        "source": "Hacker News"
     }
 ]
