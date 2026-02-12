@@ -53650,5 +53650,11 @@
         "url": "https://drift.marquis.codes/",
         "timestamp": "2026-02-12T15:32:39.532563",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a zero-noise AI code review agent using Claude Code",
+        "url": "https://medium.com/riskified-technology/lgtm-2-0-zero-noise-ai-code-review-agents-857441ec4f1a",
+        "timestamp": "2026-02-12T15:32:39.532597",
+        "source": "Hacker News"
     }
 ]
