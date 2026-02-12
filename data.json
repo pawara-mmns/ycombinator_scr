@@ -52204,5 +52204,11 @@
         "url": "https://news.ycombinator.com/item?id=46986742",
         "timestamp": "2026-02-12T10:03:54.056676",
         "source": "Hacker News"
+    },
+    {
+        "title": "Majutsu An Emacs interface for Jujutsu / jj, like Magit",
+        "url": "https://github.com/0WD0/majutsu",
+        "timestamp": "2026-02-12T10:03:54.056711",
+        "source": "Hacker News"
     }
 ]
