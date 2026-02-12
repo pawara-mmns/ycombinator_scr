@@ -53260,5 +53260,11 @@
         "url": "https://www.nature.com/articles/s41550-026-02775-z",
         "timestamp": "2026-02-12T14:09:20.711405",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware",
+        "url": "https://lwn.net/Articles/1055590/",
+        "timestamp": "2026-02-12T14:33:46.815028",
+        "source": "Hacker News"
     }
 ]
