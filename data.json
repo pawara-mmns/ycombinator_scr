@@ -51196,5 +51196,11 @@
         "url": "https://www.npr.org/2026/02/11/nx-s1-5552216/james-van-der-beek-dead-dawsons-creek",
         "timestamp": "2026-02-12T04:31:40.171445",
         "source": "Hacker News"
+    },
+    {
+        "title": "ClawShield – Security audit tool for OpenClaw deployments",
+        "url": "https://github.com/policygate/clawshield",
+        "timestamp": "2026-02-12T04:31:40.171473",
+        "source": "Hacker News"
     }
 ]
