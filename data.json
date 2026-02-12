@@ -54796,5 +54796,11 @@
         "url": "https://www.nytimes.com/2026/02/11/us/trump-administration-el-paso-airspace-closure-questions.html",
         "timestamp": "2026-02-12T18:34:01.956364",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Proof of the Collatz Conjecture",
+        "url": "https://github.com/inem/collatz",
+        "timestamp": "2026-02-12T18:34:01.956401",
+        "source": "Hacker News"
     }
 ]
