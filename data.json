@@ -51130,5 +51130,11 @@
         "url": "https://molt-hub.org",
         "timestamp": "2026-02-12T04:31:40.171104",
         "source": "Hacker News"
+    },
+    {
+        "title": "Proof-Oriented Programming in F*",
+        "url": "https://fstar-lang.org/tutorial/",
+        "timestamp": "2026-02-12T04:31:40.171150",
+        "source": "Hacker News"
     }
 ]
