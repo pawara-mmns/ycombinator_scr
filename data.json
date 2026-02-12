@@ -52600,5 +52600,11 @@
         "url": "https://en.wikipedia.org/wiki/Ski_warfare",
         "timestamp": "2026-02-12T12:01:04.264813",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cross Compiling CGO with Dagger and Zig",
+        "url": "https://johncodes.com/archive/2026/02-11-cross-compiling-cgo/",
+        "timestamp": "2026-02-12T12:01:04.264847",
+        "source": "Hacker News"
     }
 ]
