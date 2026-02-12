@@ -54856,5 +54856,11 @@
         "url": "https://www.youtube.com/watch?v=Rn1w4MRHIhc",
         "timestamp": "2026-02-12T19:08:01.056964",
         "source": "Hacker News"
+    },
+    {
+        "title": "HDRify: True HDR image viewer, and tool set in pure JavaScript",
+        "url": "https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr",
+        "timestamp": "2026-02-12T19:08:01.056998",
+        "source": "Hacker News"
     }
 ]
