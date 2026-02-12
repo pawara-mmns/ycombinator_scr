@@ -56194,5 +56194,11 @@
         "url": "https://www.nytimes.com/video/opinion/100000010695648/is-claude-coding-us-into-irrelevance.html",
         "timestamp": "2026-02-12T22:30:04.434177",
         "source": "Hacker News"
+    },
+    {
+        "title": "CCBench: How do agents perform on codebases that aren't part of training data?",
+        "url": "https://ccbench.org/",
+        "timestamp": "2026-02-12T22:30:04.434209",
+        "source": "Hacker News"
     }
 ]
