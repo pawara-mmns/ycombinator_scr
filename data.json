@@ -52276,5 +52276,11 @@
         "url": "https://runos.com/blog/vibe-deploy.html",
         "timestamp": "2026-02-12T10:29:42.896467",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scripting on the JVM with Java, Scala, and Kotlin",
+        "url": "https://mill-build.org/blog/19-scripting-on-the-jvm.html",
+        "timestamp": "2026-02-12T10:29:42.896541",
+        "source": "Hacker News"
     }
 ]
