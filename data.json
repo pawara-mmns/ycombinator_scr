@@ -54964,5 +54964,11 @@
         "url": "https://juliahub.com/blog/announcing-dyad-2.0",
         "timestamp": "2026-02-12T19:08:01.057581",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres Indexes, Partitioning and LWLock:LockManager Scalability",
+        "url": "https://ardentperf.com/2024/03/03/postgres-indexes-partitioning-and-lwlocklockmanager-scalability/",
+        "timestamp": "2026-02-12T19:08:01.057615",
+        "source": "Hacker News"
     }
 ]
