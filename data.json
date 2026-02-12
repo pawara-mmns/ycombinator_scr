@@ -53530,5 +53530,11 @@
         "url": "https://jimmyislive.github.io/how-we-ai/",
         "timestamp": "2026-02-12T15:04:01.657443",
         "source": "Hacker News"
+    },
+    {
+        "title": "add kdoc for napi_consume_skb()",
+        "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cd18e8ac030e646ea88bad0200e0e4593a1b11b1",
+        "timestamp": "2026-02-12T15:04:01.657476",
+        "source": "Hacker News"
     }
 ]
