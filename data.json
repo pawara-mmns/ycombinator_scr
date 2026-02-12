@@ -54802,5 +54802,11 @@
         "url": "https://github.com/inem/collatz",
         "timestamp": "2026-02-12T18:34:01.956401",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pgclaw – A \"Clawdbot\" in every row with 400 lines of Postgres SQL",
+        "url": "https://github.com/calebwin/pgclaw",
+        "timestamp": "2026-02-12T19:08:00.668355",
+        "source": "Hacker News"
     }
 ]
