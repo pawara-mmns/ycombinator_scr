@@ -56596,5 +56596,11 @@
         "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
         "timestamp": "2026-02-12T23:54:41.729988",
         "source": "Hacker News"
+    },
+    {
+        "title": "Training LLMs on 1080 Tis without shadow weights",
+        "url": "https://github.com/batteryphil/Primal-Discrete-LLM-Training",
+        "timestamp": "2026-02-12T23:54:41.730038",
+        "source": "Hacker News"
     }
 ]
