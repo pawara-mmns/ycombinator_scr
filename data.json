@@ -55924,5 +55924,11 @@
         "url": "https://status.supabase.com",
         "timestamp": "2026-02-12T21:44:14.576634",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running the \"Reflections on Trusting Trust\" Compiler: Revisiting the Backdoor",
+        "url": "https://queue.acm.org/detail.cfm?id=3786614",
+        "timestamp": "2026-02-12T21:44:14.576671",
+        "source": "Hacker News"
     }
 ]
