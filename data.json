@@ -51244,5 +51244,11 @@
         "url": "https://developers.openai.com/cookbook/examples/skills_in_api/",
         "timestamp": "2026-02-12T04:31:40.171678",
         "source": "Hacker News"
+    },
+    {
+        "title": "MIT's new fine-tuning method lets LLMs learn new skills without losing old ones",
+        "url": "https://venturebeat.com/orchestration/mits-new-fine-tuning-method-lets-llms-learn-new-skills-without-losing-old",
+        "timestamp": "2026-02-12T04:31:40.171708",
+        "source": "Hacker News"
     }
 ]
