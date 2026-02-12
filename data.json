@@ -52924,5 +52924,11 @@
         "url": "https://www.philschmid.de/why-engineers-struggle-building-agents",
         "timestamp": "2026-02-12T13:30:57.637769",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rolling your own serverless OCR in 40 lines of code",
+        "url": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
+        "timestamp": "2026-02-12T13:30:57.637810",
+        "source": "Hacker News"
     }
 ]
