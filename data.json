@@ -54232,5 +54232,11 @@
         "url": "https://charlielabs.ai/blog/for-agents-there-really-are-dumb-questions/",
         "timestamp": "2026-02-12T17:07:30.560827",
         "source": "Hacker News"
+    },
+    {
+        "title": "Personal AI Infra: Agentic system with persistent memory and goal awareness",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+        "timestamp": "2026-02-12T17:07:30.560864",
+        "source": "Hacker News"
     }
 ]
