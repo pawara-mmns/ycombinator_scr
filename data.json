@@ -55744,5 +55744,11 @@
         "url": "https://rednegra.net/blog/20260212-virtual-scroll/",
         "timestamp": "2026-02-12T20:59:29.018495",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPT-5.3-Codex being silently routed to GPT-5.2",
+        "url": "https://github.com/openai/codex/issues/11561",
+        "timestamp": "2026-02-12T20:59:29.018529",
+        "source": "Hacker News"
     }
 ]
