@@ -51352,5 +51352,11 @@
         "url": "https://news.ycombinator.com/item?id=46984984",
         "timestamp": "2026-02-12T05:16:24.871874",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: NixOS flake for hardened OpenClaw deployment",
+        "url": "https://github.com/Scout-DJ/openclaw-nix",
+        "timestamp": "2026-02-12T05:16:24.871909",
+        "source": "Hacker News"
     }
 ]
