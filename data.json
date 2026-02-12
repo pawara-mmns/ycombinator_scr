@@ -52636,5 +52636,11 @@
         "url": "http://www.catb.org/~esr/jargon/html/K/kludge.html",
         "timestamp": "2026-02-12T12:29:44.653402",
         "source": "Hacker News"
+    },
+    {
+        "title": "20 Years of Varnish: A Cloud-Native Distribution (In-Core TLS, K8s Gateway API)",
+        "url": "https://info.varnish-software.com/blog/20-years-of-varnish-cache-the-new-cloud-native-distribution",
+        "timestamp": "2026-02-12T12:29:44.653433",
+        "source": "Hacker News"
     }
 ]
