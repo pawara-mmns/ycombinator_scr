@@ -51922,5 +51922,11 @@
         "url": "https://deadneurons.substack.com/p/ai-and-the-death-of-the-billable",
         "timestamp": "2026-02-12T08:30:44.372165",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A header-only C++ benchmark for predictive models on raw binary streams",
+        "url": "https://github.com/matejsprogar/agitb",
+        "timestamp": "2026-02-12T08:30:44.372203",
+        "source": "Hacker News"
     }
 ]
