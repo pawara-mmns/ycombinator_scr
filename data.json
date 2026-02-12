@@ -53602,5 +53602,11 @@
         "url": "https://www.uber.com/blog/ubers-rate-limiting-system/",
         "timestamp": "2026-02-12T15:32:39.532257",
         "source": "Hacker News"
+    },
+    {
+        "title": "Continuous Tensors",
+        "url": "https://dl.acm.org/doi/10.1145/3763146",
+        "timestamp": "2026-02-12T15:32:39.532313",
+        "source": "Hacker News"
     }
 ]
