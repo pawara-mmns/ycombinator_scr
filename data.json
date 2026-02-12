@@ -50770,5 +50770,11 @@
         "url": "https://medium.com/@jestey/sleeping-dogs-minimap-technical-fundamentals-43544aefc1e6",
         "timestamp": "2026-02-12T01:34:51.481903",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Solution to Prompt Injection: Mapping SSL/TLS Trust Architecture onto LLMs [pdf]",
+        "url": "https://solvingpromptinjection.com/wp-content/uploads/solution-to-prompt-injection.pdf",
+        "timestamp": "2026-02-12T02:37:46.446933",
+        "source": "Hacker News"
     }
 ]
