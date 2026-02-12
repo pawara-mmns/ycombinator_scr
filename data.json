@@ -50818,5 +50818,11 @@
         "url": "https://www.universetoday.com/articles/spacex-makes-a-huge-pivot-wants-to-build-on-the-moon-instead",
         "timestamp": "2026-02-12T02:37:46.447255",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Chess in about 350 lines of Clojure",
+        "url": "https://www.sammystraus.com/#building-chess-in-about-350-lines-of-clojure",
+        "timestamp": "2026-02-12T02:37:46.447297",
+        "source": "Hacker News"
     }
 ]
