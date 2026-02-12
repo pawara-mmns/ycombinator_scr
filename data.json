@@ -54838,5 +54838,11 @@
         "url": "https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History",
         "timestamp": "2026-02-12T19:08:01.056857",
         "source": "Hacker News"
+    },
+    {
+        "title": "Codex 0.100.0",
+        "url": "https://github.com/openai/codex/releases/tag/rust-v0.100.0",
+        "timestamp": "2026-02-12T19:08:01.056893",
+        "source": "Hacker News"
     }
 ]
