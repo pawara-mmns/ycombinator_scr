@@ -51502,5 +51502,11 @@
         "url": "https://apnews.com/article/global-teacher-prize-rouble-nagi-54a0fbd628ab062aba569457ff01d21d",
         "timestamp": "2026-02-12T06:23:36.063944",
         "source": "Hacker News"
+    },
+    {
+        "title": "ModernBERT in Jax/Flax",
+        "url": "https://github.com/arnavw/modernbert-flax",
+        "timestamp": "2026-02-12T06:23:36.063983",
+        "source": "Hacker News"
     }
 ]
