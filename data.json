@@ -53434,5 +53434,11 @@
         "url": "https://www.icij.org/news/2026/02/nearly-half-of-powerful-50-caliber-ammo-seized-by-mexican-government-came-from-us-army-plant-defense-minister-says/",
         "timestamp": "2026-02-12T15:04:01.332998",
         "source": "Hacker News"
+    },
+    {
+        "title": "Technical \"Whitepaper\" for Afl-Fuzz",
+        "url": "https://lcamtuf.coredump.cx/afl/technical_details.txt",
+        "timestamp": "2026-02-12T15:04:01.656781",
+        "source": "Hacker News"
     }
 ]
