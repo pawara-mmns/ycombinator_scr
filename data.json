@@ -52318,5 +52318,11 @@
         "url": "https://dak.dev/blog/working-yourself-out-of-a-job",
         "timestamp": "2026-02-12T10:52:13.950415",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A CODEOWNERS management cli in Rust",
+        "url": "https://github.com/code-input/cli",
+        "timestamp": "2026-02-12T10:52:13.950445",
+        "source": "Hacker News"
     }
 ]
