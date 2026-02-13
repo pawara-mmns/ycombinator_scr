@@ -61210,5 +61210,11 @@
         "url": "https://dotnetdevs.net/",
         "timestamp": "2026-02-13T18:52:33.919359",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rustbridge: A framework for Rust libraries callable from other languages",
+        "url": "https://github.com/jrobhoward/rustbridge",
+        "timestamp": "2026-02-13T18:52:33.919393",
+        "source": "Hacker News"
     }
 ]
