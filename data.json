@@ -59074,5 +59074,11 @@
         "url": "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html",
         "timestamp": "2026-02-13T13:27:13.706221",
         "source": "Hacker News"
+    },
+    {
+        "title": "The crt.sh web interface is implemented in SQL",
+        "url": "https://github.com/crtsh/certwatch_db/blob/master/fnc/web_apis.fnc",
+        "timestamp": "2026-02-13T13:27:13.823387",
+        "source": "Hacker News"
     }
 ]
