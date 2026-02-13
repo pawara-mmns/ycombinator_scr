@@ -62272,5 +62272,11 @@
         "url": "https://blog.andcake.dev/posts/regarding-junior-engineers/",
         "timestamp": "2026-02-13T22:08:16.814509",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ClawProxy: An HTTP proxy that injects auth tokens into API calls",
+        "url": "https://github.com/mlolson/clawproxy",
+        "timestamp": "2026-02-13T22:08:16.814543",
+        "source": "Hacker News"
     }
 ]
