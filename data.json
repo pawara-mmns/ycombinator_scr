@@ -58480,5 +58480,11 @@
         "url": "https://newsletter.pragmaticengineer.com/p/the-programming-language-after-kotlin",
         "timestamp": "2026-02-13T11:01:18.901449",
         "source": "Hacker News"
+    },
+    {
+        "title": "SeaweedFS: A simple and highly scalable distributed file system",
+        "url": "https://github.com/seaweedfs/seaweedfs",
+        "timestamp": "2026-02-13T11:01:18.901484",
+        "source": "Hacker News"
     }
 ]
