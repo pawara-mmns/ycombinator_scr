@@ -57214,5 +57214,11 @@
         "url": "https://www.jaronlanier.com/aichapter.html",
         "timestamp": "2026-02-13T02:40:35.169482",
         "source": "Hacker News"
+    },
+    {
+        "title": "A stack-buffer-overflow exercise with AddressSanitizer and PostgreSQL",
+        "url": "https://www.enterprisedb.com/blog/stack-buffer-overflow-exercise-addresssanitizer-and-postgresql",
+        "timestamp": "2026-02-13T02:40:35.169515",
+        "source": "Hacker News"
     }
 ]
