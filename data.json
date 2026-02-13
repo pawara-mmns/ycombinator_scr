@@ -61354,5 +61354,11 @@
         "url": "https://ghuntley.com/loop/",
         "timestamp": "2026-02-13T19:16:52.104019",
         "source": "Hacker News"
+    },
+    {
+        "title": "Custom Kernels for All from Codex and Claude",
+        "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+        "timestamp": "2026-02-13T19:16:52.104055",
+        "source": "Hacker News"
     }
 ]
