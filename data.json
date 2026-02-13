@@ -60568,5 +60568,11 @@
         "url": "https://blog.sebastiansastre.co/posts/your-turn/",
         "timestamp": "2026-02-13T17:29:51.240206",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a Claude.md that solves the compaction/context loss problem",
+        "url": "https://github.com/Arkya-AI/claude-context-os",
+        "timestamp": "2026-02-13T17:29:51.240242",
+        "source": "Hacker News"
     }
 ]
