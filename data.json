@@ -61810,5 +61810,11 @@
         "url": "https://fair-weather.query-farm.services",
         "timestamp": "2026-02-13T20:45:26.787434",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenAI GPT-5.3-Codex-Spark Now Running at 1K Tokens per Second on Cerebras Chips",
+        "url": "https://www.servethehome.com/openai-gpt-5-3-codex-spark-now-running-at-1k-tokens-per-secondon-big-cerebras-chips/",
+        "timestamp": "2026-02-13T20:45:26.787487",
+        "source": "Hacker News"
     }
 ]
