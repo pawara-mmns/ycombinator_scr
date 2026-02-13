@@ -58588,5 +58588,11 @@
         "url": "https://www.exasol.com/blog/exasol-kafka-connector/",
         "timestamp": "2026-02-13T11:24:50.701527",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pure Python Rdkit Alternative",
+        "url": "https://github.com/levlai/chiralipy",
+        "timestamp": "2026-02-13T11:24:50.701555",
+        "source": "Hacker News"
     }
 ]
