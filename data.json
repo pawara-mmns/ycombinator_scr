@@ -58648,5 +58648,11 @@
         "url": "https://www.metaculus.com/tournament/jetbrains/",
         "timestamp": "2026-02-13T11:24:50.701804",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building an Embedding API with Rust, Arm, and EmbeddingGemma on AWS Lambda",
+        "url": "https://sobolev.substack.com/p/embeddinggemma-inference-on-aws-lambda",
+        "timestamp": "2026-02-13T11:24:50.701846",
+        "source": "Hacker News"
     }
 ]
