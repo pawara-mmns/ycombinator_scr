@@ -58390,5 +58390,11 @@
         "url": "https://www.bbc.com/news/articles/cy4wnw04e8wo",
         "timestamp": "2026-02-13T10:31:31.590598",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Decoder – Static call graph analysis for Python",
+        "url": "https://github.com/maryamtb/decoder",
+        "timestamp": "2026-02-13T10:31:31.590640",
+        "source": "Hacker News"
     }
 ]
