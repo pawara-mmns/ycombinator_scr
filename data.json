@@ -57904,5 +57904,11 @@
         "url": "https://diffs.com/",
         "timestamp": "2026-02-13T07:58:48.720912",
         "source": "Hacker News"
+    },
+    {
+        "title": "MinIO repository is no longer maintained",
+        "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+        "timestamp": "2026-02-13T07:58:48.720946",
+        "source": "Hacker News"
     }
 ]
