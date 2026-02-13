@@ -59272,5 +59272,11 @@
         "url": "https://euclid.jamesweber.dev/",
         "timestamp": "2026-02-13T13:52:10.004509",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: One repo with Nginx,iptables and UFW conf 4 every major cloud prov IP",
+        "url": "https://github.com/rezmoss/cloud-provider-ip-addresses",
+        "timestamp": "2026-02-13T13:52:10.004546",
+        "source": "Hacker News"
     }
 ]
