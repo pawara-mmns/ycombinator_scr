@@ -62518,5 +62518,11 @@
         "url": "https://sensecall.co.uk/writing/side-projects-instead/",
         "timestamp": "2026-02-13T23:15:37.429630",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Koala Diff – High-performance local data comparison (Rust and Polars)",
+        "url": "https://github.com/godalida/koala-diff",
+        "timestamp": "2026-02-13T23:15:37.429700",
+        "source": "Hacker News"
     }
 ]
