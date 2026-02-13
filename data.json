@@ -60724,5 +60724,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-02-12/openai-accuses-deepseek-of-distilling-us-models-to-gain-an-edge",
         "timestamp": "2026-02-13T17:49:54.937773",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg_stat_ch: We built low-overhead Postgres metrics exporter to ClickHouse",
+        "url": "https://clickhouse.com/blog/pg_stat_ch-postgres-extension-stats-to-clickhouse",
+        "timestamp": "2026-02-13T17:49:54.937811",
+        "source": "Hacker News"
     }
 ]
