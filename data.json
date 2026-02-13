@@ -59800,5 +59800,11 @@
         "url": "https://github.com/Cocabadger/saferun-guard",
         "timestamp": "2026-02-13T15:15:19.051012",
         "source": "Hacker News"
+    },
+    {
+        "title": "PyTorch Now Uses Pyrefly for Type Checking",
+        "url": "https://pytorch.org/blog/pyrefly-now-type-checks-pytorch/",
+        "timestamp": "2026-02-13T15:15:19.051049",
+        "source": "Hacker News"
     }
 ]
