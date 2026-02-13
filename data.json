@@ -61282,5 +61282,11 @@
         "url": "https://newsletter.pricepertoken.com/p/something-is-happening",
         "timestamp": "2026-02-13T19:16:52.103526",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pg_stat_ch, a Postgres extension to export every metric to ClickHouse",
+        "url": "https://github.com/ClickHouse/pg_stat_ch",
+        "timestamp": "2026-02-13T19:16:52.103563",
+        "source": "Hacker News"
     }
 ]
