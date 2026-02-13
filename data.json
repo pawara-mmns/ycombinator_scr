@@ -57664,5 +57664,11 @@
         "url": "https://joshtuddenham.dev/blog/petri-nets/",
         "timestamp": "2026-02-13T06:07:06.326924",
         "source": "Hacker News"
+    },
+    {
+        "title": "A recursive and authoritative DNS resolver from scratch in Go",
+        "url": "https://news.ycombinator.com/item?id=46999307",
+        "timestamp": "2026-02-13T06:07:06.326958",
+        "source": "Hacker News"
     }
 ]
