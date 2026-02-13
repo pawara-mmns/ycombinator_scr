@@ -59794,5 +59794,11 @@
         "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
         "timestamp": "2026-02-13T15:15:19.050975",
         "source": "Hacker News"
+    },
+    {
+        "title": "SafeRun Guard- Runtime safety firewall for AI coding agents (bash+jq, zero deps)",
+        "url": "https://github.com/Cocabadger/saferun-guard",
+        "timestamp": "2026-02-13T15:15:19.051012",
+        "source": "Hacker News"
     }
 ]
