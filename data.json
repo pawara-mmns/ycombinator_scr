@@ -61054,5 +61054,11 @@
         "url": "https://www.devtoolsacademy.com/blog/eloqdoc-vs-mongodb-feature-comparison/",
         "timestamp": "2026-02-13T18:29:45.879919",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postgres Locks Explained: From Theory to Advanced Troubleshooting",
+        "url": "https://postgreslocksexplained.com/",
+        "timestamp": "2026-02-13T18:29:45.879953",
+        "source": "Hacker News"
     }
 ]
