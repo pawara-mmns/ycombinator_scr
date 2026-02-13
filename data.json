@@ -59314,5 +59314,11 @@
         "url": "https://news.ycombinator.com/item?id=47002611",
         "timestamp": "2026-02-13T13:52:10.004795",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Macrograd – Micrograd, but with Tensors",
+        "url": "https://github.com/polyrhachis/macrograd",
+        "timestamp": "2026-02-13T13:52:10.004831",
+        "source": "Hacker News"
     }
 ]
