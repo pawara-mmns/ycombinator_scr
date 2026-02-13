@@ -59986,5 +59986,11 @@
         "url": "https://datesky.app",
         "timestamp": "2026-02-13T15:45:41.890455",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZIO-OpenFeature – Feature Flag Evaluation for Scala with ZIO",
+        "url": "https://github.com/EtaCassiopeia/zio-openfeature",
+        "timestamp": "2026-02-13T15:45:41.890488",
+        "source": "Hacker News"
     }
 ]
