@@ -60580,5 +60580,11 @@
         "url": "https://fastpaca.com/blog/build-ai-assistant-that-remembers/",
         "timestamp": "2026-02-13T17:29:51.240279",
         "source": "Hacker News"
+    },
+    {
+        "title": "OMLX – LLM Inference Server for Apple Silicon (Ollama for MLX)",
+        "url": "https://github.com/jundot/omlx",
+        "timestamp": "2026-02-13T17:29:51.240313",
+        "source": "Hacker News"
     }
 ]
