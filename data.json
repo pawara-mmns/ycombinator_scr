@@ -57742,5 +57742,11 @@
         "url": "https://github.com/rokyed/busca",
         "timestamp": "2026-02-13T06:36:54.319844",
         "source": "Hacker News"
+    },
+    {
+        "title": "Manage Ralph loops in a DAG pipeline with a Docker-like CLI",
+        "url": "https://github.com/mj1618/swarm-cli",
+        "timestamp": "2026-02-13T06:36:54.319886",
+        "source": "Hacker News"
     }
 ]
