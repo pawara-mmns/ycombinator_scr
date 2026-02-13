@@ -60040,5 +60040,11 @@
         "url": "https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html",
         "timestamp": "2026-02-13T15:45:41.890784",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fine-Tune Moe Models 12x Faster with Unsloth",
+        "url": "https://unsloth.ai/docs/new/faster-moe",
+        "timestamp": "2026-02-13T15:45:41.890817",
+        "source": "Hacker News"
     }
 ]
