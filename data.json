@@ -59446,5 +59446,11 @@
         "url": "https://www.bbc.com/news/articles/c78x9256pn7o",
         "timestamp": "2026-02-13T14:16:42.635255",
         "source": "Hacker News"
+    },
+    {
+        "title": "Docker Is Considered Harmful, but it doesn't have to be",
+        "url": "https://kubekattle.github.io/ktl/blog/ktl-build-safe-builds.html",
+        "timestamp": "2026-02-13T14:16:42.635292",
+        "source": "Hacker News"
     }
 ]
