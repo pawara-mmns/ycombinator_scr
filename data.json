@@ -58606,5 +58606,11 @@
         "url": "https://cappu.app/",
         "timestamp": "2026-02-13T11:24:50.701610",
         "source": "Hacker News"
+    },
+    {
+        "title": "Chip Design – New Open Source LEC(Logic Equivalence Checking)",
+        "url": "https://github.com/keplertech/kepler-formal",
+        "timestamp": "2026-02-13T11:24:50.701638",
+        "source": "Hacker News"
     }
 ]
