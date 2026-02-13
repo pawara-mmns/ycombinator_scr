@@ -62350,5 +62350,11 @@
         "url": "https://www.theguardian.com/lifeandstyle/2026/feb/13/experience-im-a-professional-chef-in-antarctica",
         "timestamp": "2026-02-13T22:24:48.519096",
         "source": "Hacker News"
+    },
+    {
+        "title": "How DSQL makes sure sequences scale",
+        "url": "https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html",
+        "timestamp": "2026-02-13T22:24:48.519125",
+        "source": "Hacker News"
     }
 ]
