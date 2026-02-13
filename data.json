@@ -60802,5 +60802,11 @@
         "url": "https://www.tumblr.com/archive-is/806832066465497088/ladies-and-gentlemen-in-the-autumn-of-2025-i",
         "timestamp": "2026-02-13T17:49:54.938264",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero-Downtime Ingress Controller Migration in Kubernetes",
+        "url": "https://georg-schwarz.com/blog/zero-downtime-ingress-controller-migration-kubernetes/",
+        "timestamp": "2026-02-13T17:49:54.938299",
+        "source": "Hacker News"
     }
 ]
