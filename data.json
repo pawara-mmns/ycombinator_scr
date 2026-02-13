@@ -59122,5 +59122,11 @@
         "url": "https://twitter.com/arscontexta/status/2013045749580259680",
         "timestamp": "2026-02-13T13:27:13.823663",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prompts and responses from DeepMind's Aletheia on research level math problems",
+        "url": "https://github.com/google-deepmind/superhuman/tree/main/aletheia",
+        "timestamp": "2026-02-13T13:27:13.823699",
+        "source": "Hacker News"
     }
 ]
