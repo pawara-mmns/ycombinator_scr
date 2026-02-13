@@ -56704,5 +56704,11 @@
         "url": "https://github.com/obsfx/promptscout",
         "timestamp": "2026-02-13T00:20:14.348609",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS Adds support for nested virtualization",
+        "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+        "timestamp": "2026-02-13T00:20:14.348642",
+        "source": "Hacker News"
     }
 ]
