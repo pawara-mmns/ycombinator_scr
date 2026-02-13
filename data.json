@@ -60622,5 +60622,11 @@
         "url": "https://dansitu.substack.com/p/building-physical-agentic-ai",
         "timestamp": "2026-02-13T17:29:51.240531",
         "source": "Hacker News"
+    },
+    {
+        "title": "PyTorch on ROCm Inside a Litterbox",
+        "url": "https://www.rustyelectrons.com/posts/9-pytorch-rocm-litterbox/",
+        "timestamp": "2026-02-13T17:29:51.240566",
+        "source": "Hacker News"
     }
 ]
