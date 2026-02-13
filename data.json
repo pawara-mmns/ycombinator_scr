@@ -61360,5 +61360,11 @@
         "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
         "timestamp": "2026-02-13T19:16:52.104055",
         "source": "Hacker News"
+    },
+    {
+        "title": "Analyzing How System Prompts Define Agent Behavior",
+        "url": "https://www.dbreunig.com/2026/02/10/system-prompts-define-the-agent-as-much-as-the-model.html",
+        "timestamp": "2026-02-13T19:16:52.104091",
+        "source": "Hacker News"
     }
 ]
