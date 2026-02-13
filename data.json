@@ -57832,5 +57832,11 @@
         "url": "https://news.ycombinator.com/item?id=46999872",
         "timestamp": "2026-02-13T07:34:26.268722",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Claude Code skill that gives the AI a \"therapy session\" when it gets stuck",
+        "url": "https://github.com/zeahoo/hugme",
+        "timestamp": "2026-02-13T07:34:26.268759",
+        "source": "Hacker News"
     }
 ]
