@@ -60490,5 +60490,11 @@
         "url": "https://github.com/michalarent/claude-sounds",
         "timestamp": "2026-02-13T17:03:54.360380",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)",
+        "url": "https://github.com/matt1398/claude-devtools",
+        "timestamp": "2026-02-13T17:03:54.360416",
+        "source": "Hacker News"
     }
 ]
