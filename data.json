@@ -58420,5 +58420,11 @@
         "url": "https://campedersen.com/idle",
         "timestamp": "2026-02-13T10:31:31.590818",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS EKS VPC CNI Prefix Delegation: More Pods in Your Nodes",
+        "url": "https://oschvr.com/2026/02/13/aws-eks-vpc-cni-prefix-delegation/",
+        "timestamp": "2026-02-13T10:31:31.590855",
+        "source": "Hacker News"
     }
 ]
