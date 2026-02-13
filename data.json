@@ -61678,5 +61678,11 @@
         "url": "https://manveerc.substack.com/p/webmcp-false-economy-server-side-mcp-browser-apis",
         "timestamp": "2026-02-13T20:09:54.469963",
         "source": "Hacker News"
+    },
+    {
+        "title": "How a single typo led to RCE in Firefox",
+        "url": "https://kqx.io/post/firefox0day/",
+        "timestamp": "2026-02-13T20:09:54.470000",
+        "source": "Hacker News"
     }
 ]
