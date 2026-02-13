@@ -60934,5 +60934,11 @@
         "url": "https://zenodo.org/records/18634987",
         "timestamp": "2026-02-13T18:12:51.189727",
         "source": "Hacker News"
+    },
+    {
+        "title": "Shedding old code with ecdysis: graceful restarts for Rust services",
+        "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
+        "timestamp": "2026-02-13T18:12:51.189762",
+        "source": "Hacker News"
     }
 ]
