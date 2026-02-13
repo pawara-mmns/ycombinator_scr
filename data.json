@@ -57184,5 +57184,11 @@
         "url": "https://www.federalreserve.gov/econres/notes/feds-notes/why-have-far-forward-nominal-treasury-rates-increased-so-much-in-the-past-few-years-20260212.html",
         "timestamp": "2026-02-13T02:40:35.169312",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code bug forces users to restart chat, wasting tokens",
+        "url": "https://old.reddit.com/r/claude/comments/1o1csrq/api_error_400_due_to_tool_use_concurrency_issues/",
+        "timestamp": "2026-02-13T02:40:35.169347",
+        "source": "Hacker News"
     }
 ]
