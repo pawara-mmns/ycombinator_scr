@@ -59806,5 +59806,11 @@
         "url": "https://pytorch.org/blog/pyrefly-now-type-checks-pytorch/",
         "timestamp": "2026-02-13T15:15:19.051049",
         "source": "Hacker News"
+    },
+    {
+        "title": "DiffSwarm: Multi-agent code review from your terminal (BYOK, runs locally)",
+        "url": "https://diffswarm.com/",
+        "timestamp": "2026-02-13T15:15:19.051085",
+        "source": "Hacker News"
     }
 ]
