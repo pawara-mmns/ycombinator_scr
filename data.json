@@ -61762,5 +61762,11 @@
         "url": "https://agentsift.ai",
         "timestamp": "2026-02-13T20:25:38.664146",
         "source": "Hacker News"
+    },
+    {
+        "title": "Coregex: Pure Go regex engine. Up to 3-3000x+ faster than stdlib",
+        "url": "https://github.com/coregx/coregex",
+        "timestamp": "2026-02-13T20:25:38.664182",
+        "source": "Hacker News"
     }
 ]
