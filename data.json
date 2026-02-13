@@ -59854,5 +59854,11 @@
         "url": "https://charlielabs.ai/blog/the-task-supply-problem/",
         "timestamp": "2026-02-13T15:15:19.051341",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unified API Proxy for OpenAI, Anthropic, and Compatible LLM Providers",
+        "url": "https://github.com/mylxsw/llm-gateway",
+        "timestamp": "2026-02-13T15:15:19.051377",
+        "source": "Hacker News"
     }
 ]
