@@ -58354,5 +58354,11 @@
         "url": "http://www.catb.org/jargon/chaff.html",
         "timestamp": "2026-02-13T10:14:39.167028",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Exact Hamiltonian Path solver (N=63) in 0.11s on mobile ARM (No RAM)",
+        "url": "https://zenodo.org/records/18629528",
+        "timestamp": "2026-02-13T10:14:39.167060",
+        "source": "Hacker News"
     }
 ]
