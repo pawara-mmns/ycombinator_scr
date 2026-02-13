@@ -60898,5 +60898,11 @@
         "url": "https://cursor.com/changelog/02-12-26",
         "timestamp": "2026-02-13T18:12:51.189516",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLMs Don't Read Code. Neither Do I. So I Wrote Redis in Machine Code",
+        "url": "https://gist.github.com/aydinnyunus/7beef428ca91fb7eb8aa2965086998d8",
+        "timestamp": "2026-02-13T18:12:51.189551",
+        "source": "Hacker News"
     }
 ]
