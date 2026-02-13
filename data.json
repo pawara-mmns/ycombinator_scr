@@ -56842,5 +56842,11 @@
         "url": "https://doppelgangerdev.com",
         "timestamp": "2026-02-13T00:57:57.095183",
         "source": "Hacker News"
+    },
+    {
+        "title": "EXT4 in Linux 7.0 Improves Write Performance for Concurrent Direct I/O Writes",
+        "url": "https://www.phoronix.com/news/Linux-7.0-EXT4",
+        "timestamp": "2026-02-13T00:57:57.095215",
+        "source": "Hacker News"
     }
 ]
