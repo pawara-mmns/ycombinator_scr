@@ -62416,5 +62416,11 @@
         "url": "https://www.heise.de/en/news/Posteo-and-Mailbox-org-Many-authorities-do-not-create-encrypted-requests-11175462.html",
         "timestamp": "2026-02-13T22:43:39.026143",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TrustVector – Trust evaluations for AI models, agents, & MCP",
+        "url": "https://github.com/guard0-ai/TrustVector",
+        "timestamp": "2026-02-13T22:43:39.026212",
+        "source": "Hacker News"
     }
 ]
