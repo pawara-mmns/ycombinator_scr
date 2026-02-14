@@ -64240,5 +64240,11 @@
         "url": "https://arxiv.org/abs/2602.10177",
         "timestamp": "2026-02-14T11:37:14.362034",
         "source": "Hacker News"
+    },
+    {
+        "title": "idf.py flashless: preview esp-idf web frontends without flashing",
+        "url": "https://github.com/matterizelabs/esp-flashless-ui",
+        "timestamp": "2026-02-14T11:37:14.362072",
+        "source": "Hacker News"
     }
 ]
