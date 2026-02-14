@@ -65590,5 +65590,11 @@
         "url": "https://medium.com/reading-sh/github-finally-acknowledged-open-sources-spam-crisis-a32b22a6699c",
         "timestamp": "2026-02-14T17:10:18.790216",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Buildcage – Restrict outbound network access during Docker builds",
+        "url": "https://github.com/dash14/buildcage",
+        "timestamp": "2026-02-14T17:10:18.790249",
+        "source": "Hacker News"
     }
 ]
