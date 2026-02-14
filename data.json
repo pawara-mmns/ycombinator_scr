@@ -66646,5 +66646,11 @@
         "url": "https://www.youtube.com/watch?v=XkTtzzbXUHw",
         "timestamp": "2026-02-14T21:38:41.751184",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Draw a polygon on Google Maps and bulk-export matching places to CSV",
+        "url": "https://github.com/rbbydotdev/mapthing",
+        "timestamp": "2026-02-14T21:38:41.751222",
+        "source": "Hacker News"
     }
 ]
