@@ -63196,5 +63196,11 @@
         "url": "https://www.goamaru.com/toolkit",
         "timestamp": "2026-02-14T03:34:32.241592",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentRE-Bench: Can LLM Agents Reverse Engineer Malware?",
+        "url": "https://www.agentre-bench.ai/",
+        "timestamp": "2026-02-14T03:34:32.241628",
+        "source": "Hacker News"
     }
 ]
