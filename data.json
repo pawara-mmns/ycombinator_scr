@@ -64174,5 +64174,11 @@
         "url": "https://news.ycombinator.com/item?id=47013612",
         "timestamp": "2026-02-14T11:23:10.707175",
         "source": "Hacker News"
+    },
+    {
+        "title": "Embeddable R7RS Scheme interpreter for Go – compiler, stack VM, hygienic macros",
+        "url": "https://github.com/aalpar/wile",
+        "timestamp": "2026-02-14T11:23:10.707226",
+        "source": "Hacker News"
     }
 ]
