@@ -64492,5 +64492,11 @@
         "url": "https://github.com/DatanoiseTV/meeting-assistant",
         "timestamp": "2026-02-14T12:46:00.935440",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Scrape 25 yrs of HKEx filings into SurrealDB (graph database)",
+        "url": "https://github.com/simonplmak-cloud/hkex-filing-scraper",
+        "timestamp": "2026-02-14T13:18:14.873202",
+        "source": "Hacker News"
     }
 ]
