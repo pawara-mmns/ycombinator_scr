@@ -66730,5 +66730,11 @@
         "url": "https://lukasniessen.medium.com/micro-frontends-when-they-make-sense-and-when-they-dont-a1a06b726065",
         "timestamp": "2026-02-14T22:04:04.537069",
         "source": "Hacker News"
+    },
+    {
+        "title": "BLang LLVM-based B Compiler",
+        "url": "https://github.com/wgibbs-rs/blang",
+        "timestamp": "2026-02-14T22:04:04.537105",
+        "source": "Hacker News"
     }
 ]
