@@ -64702,5 +64702,11 @@
         "url": "https://patrickmccanna.net/giving-coding-agents-ssh-access-to-other-systems-without-giving-disclosing-secrets/",
         "timestamp": "2026-02-14T13:45:32.171517",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CC Wiretap – intercepting and visualizing Claude Code traffic real-time",
+        "url": "https://github.com/wierdbytes/cc-wiretap",
+        "timestamp": "2026-02-14T13:45:32.171546",
+        "source": "Hacker News"
     }
 ]
