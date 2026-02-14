@@ -64696,5 +64696,11 @@
         "url": "https://www.bbc.com/news/articles/cwyk4lz4e3eo",
         "timestamp": "2026-02-14T13:45:32.171489",
         "source": "Hacker News"
+    },
+    {
+        "title": "Giving AI agents SSH access without giving up your keys",
+        "url": "https://patrickmccanna.net/giving-coding-agents-ssh-access-to-other-systems-without-giving-disclosing-secrets/",
+        "timestamp": "2026-02-14T13:45:32.171517",
+        "source": "Hacker News"
     }
 ]
