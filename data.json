@@ -63358,5 +63358,11 @@
         "url": "https://news.ycombinator.com/item?id=47011649",
         "timestamp": "2026-02-14T04:57:49.212609",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ReviewStack – API that aggregates reviews from YouTube and Reddit",
+        "url": "https://reviewstack.vercel.app/demo",
+        "timestamp": "2026-02-14T04:57:49.212639",
+        "source": "Hacker News"
     }
 ]
