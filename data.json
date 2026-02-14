@@ -64726,5 +64726,11 @@
         "url": "http://worldtimeapi.org/",
         "timestamp": "2026-02-14T14:07:33.882801",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pydantic validation just hit 10B downloads – Pydantic",
+        "url": "https://pydantic.dev/articles/pydantic-validation-10-billion-downloads",
+        "timestamp": "2026-02-14T14:07:33.882848",
+        "source": "Hacker News"
     }
 ]
