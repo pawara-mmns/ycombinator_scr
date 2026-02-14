@@ -65068,5 +65068,11 @@
         "url": "https://github.com/Materialious/Materialious",
         "timestamp": "2026-02-14T15:39:19.772349",
         "source": "Hacker News"
+    },
+    {
+        "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+        "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+        "timestamp": "2026-02-14T15:39:19.772387",
+        "source": "Hacker News"
     }
 ]
