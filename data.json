@@ -66538,5 +66538,11 @@
         "url": "https://midigen.app/",
         "timestamp": "2026-02-14T20:40:04.027559",
         "source": "Hacker News"
+    },
+    {
+        "title": "Retrieve and Rerank: Personalized search without leaving Postgres",
+        "url": "https://www.paradedb.com/blog/personalized-search-in-postgresql",
+        "timestamp": "2026-02-14T20:52:07.539607",
+        "source": "Hacker News"
     }
 ]
