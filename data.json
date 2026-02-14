@@ -64912,5 +64912,11 @@
         "url": "https://news.ycombinator.com/item?id=47014917",
         "timestamp": "2026-02-14T14:53:54.755535",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Vibe-coded 32-bit OS from scratch – multitasking, windowing, networking",
+        "url": "https://github.com/dmateos/mateOS",
+        "timestamp": "2026-02-14T14:53:54.755573",
+        "source": "Hacker News"
     }
 ]
