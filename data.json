@@ -64354,5 +64354,11 @@
         "url": "https://news.ycombinator.com/item?id=47013804",
         "timestamp": "2026-02-14T12:06:16.720560",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open-source trading journal in Ruby on Rails",
+        "url": "https://github.com/roberthopman/trade-tracking-and-journaling",
+        "timestamp": "2026-02-14T12:06:16.720606",
+        "source": "Hacker News"
     }
 ]
