@@ -66508,5 +66508,11 @@
         "url": "https://news.ycombinator.com/item?id=47018093",
         "timestamp": "2026-02-14T20:40:04.027347",
         "source": "Hacker News"
+    },
+    {
+        "title": "NVD – CVE-2026-2070",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-2070",
+        "timestamp": "2026-02-14T20:40:04.027381",
+        "source": "Hacker News"
     }
 ]
