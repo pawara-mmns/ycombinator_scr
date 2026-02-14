@@ -65164,5 +65164,11 @@
         "url": "https://codspeed.io/blog/unrelated-benchmark-regression",
         "timestamp": "2026-02-14T15:51:11.112190",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing C with indent-based syntax similar to CoffeeScript or Python, via Guile",
+        "url": "https://sph.mn/computer/guides/c/c-indent.html",
+        "timestamp": "2026-02-14T15:51:11.112262",
+        "source": "Hacker News"
     }
 ]
