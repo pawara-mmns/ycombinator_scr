@@ -64378,5 +64378,11 @@
         "url": "https://www.youtube.com/watch?v=twm99YQiN8E",
         "timestamp": "2026-02-14T12:25:08.187547",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Agent in VS Code: no extension required, Copilot subscription supported",
+        "url": "https://code.visualstudio.com/docs/copilot/agents/third-party-agents#_claude-agent-preview",
+        "timestamp": "2026-02-14T12:25:08.187596",
+        "source": "Hacker News"
     }
 ]
