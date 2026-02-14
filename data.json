@@ -64282,5 +64282,11 @@
         "url": "https://news.ycombinator.com/item?id=47013759",
         "timestamp": "2026-02-14T11:50:01.927635",
         "source": "Hacker News"
+    },
+    {
+        "title": "Computer Vision Agent",
+        "url": "https://www.npmjs.com/package/croak-cv",
+        "timestamp": "2026-02-14T11:50:01.927670",
+        "source": "Hacker News"
     }
 ]
