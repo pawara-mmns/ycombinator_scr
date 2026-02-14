@@ -63208,5 +63208,11 @@
         "url": "https://www.medicaidopendata.org/",
         "timestamp": "2026-02-14T03:34:32.241664",
         "source": "Hacker News"
+    },
+    {
+        "title": "CLI tool for live communication between agents in different TUIs and subagents",
+        "url": "https://github.com/aannoo/hcom",
+        "timestamp": "2026-02-14T03:34:32.241700",
+        "source": "Hacker News"
     }
 ]
