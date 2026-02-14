@@ -64156,5 +64156,11 @@
         "url": "https://news.ycombinator.com/item?id=47013531",
         "timestamp": "2026-02-14T11:05:31.983195",
         "source": "Hacker News"
+    },
+    {
+        "title": "Moss-kernel: Rust Linux-compatible kernel",
+        "url": "https://github.com/hexagonal-sun/moss-kernel",
+        "timestamp": "2026-02-14T11:05:31.983235",
+        "source": "Hacker News"
     }
 ]
