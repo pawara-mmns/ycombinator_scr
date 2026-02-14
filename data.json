@@ -66130,5 +66130,11 @@
         "url": "https://ntaylor.ca/posts/proving-the-coding-interview-lean/",
         "timestamp": "2026-02-14T19:13:02.517904",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Azazel – Lightweight eBPF-based malware analysis sandbox using Docker",
+        "url": "https://github.com/beelzebub-labs/azazel",
+        "timestamp": "2026-02-14T19:13:02.517957",
+        "source": "Hacker News"
     }
 ]
