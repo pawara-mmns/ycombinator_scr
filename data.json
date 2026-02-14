@@ -66424,5 +66424,11 @@
         "url": "https://news.ycombinator.com/item?id=47017930",
         "timestamp": "2026-02-14T20:23:41.672940",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dbt-Workbench, an open-source UI for working with dbt projects",
+        "url": "https://github.com/rezer-bleede/dbt-Workbench",
+        "timestamp": "2026-02-14T20:23:41.672974",
+        "source": "Hacker News"
     }
 ]
