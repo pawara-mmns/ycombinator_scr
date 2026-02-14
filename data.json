@@ -64270,5 +64270,11 @@
         "url": "https://mropert.github.io/2026/02/13/profiling_on_windows/",
         "timestamp": "2026-02-14T11:50:01.927553",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentProf – A profiler for agentic coding tools",
+        "url": "https://github.com/kitaisreal/agentprof",
+        "timestamp": "2026-02-14T11:50:01.927594",
+        "source": "Hacker News"
     }
 ]
