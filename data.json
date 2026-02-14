@@ -64030,5 +64030,11 @@
         "url": "https://github.com/rcarmo/go-te",
         "timestamp": "2026-02-14T10:05:00.490052",
         "source": "Hacker News"
+    },
+    {
+        "title": "Decision Guardian: Enforce ADRs in PRs Using Regex and JSONPath",
+        "url": "https://news.ycombinator.com/item?id=47013210",
+        "timestamp": "2026-02-14T10:05:00.490098",
+        "source": "Hacker News"
     }
 ]
