@@ -64450,5 +64450,11 @@
         "url": "https://arxiv.org/abs/2602.09982",
         "timestamp": "2026-02-14T12:46:00.935143",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a personal news-curating AI using Ruby and Claude",
+        "url": "https://github.com/ashishra0/news-curator",
+        "timestamp": "2026-02-14T12:46:00.935181",
+        "source": "Hacker News"
     }
 ]
