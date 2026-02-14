@@ -65056,5 +65056,11 @@
         "url": "https://termote.agi.build",
         "timestamp": "2026-02-14T15:23:47.899064",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Bit-packed segmented prime sieve in Rust, 32KB working memory, 0 deps",
+        "url": "https://news.ycombinator.com/item?id=47015066",
+        "timestamp": "2026-02-14T15:23:47.899102",
+        "source": "Hacker News"
     }
 ]
