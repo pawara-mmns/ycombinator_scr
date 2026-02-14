@@ -64924,5 +64924,11 @@
         "url": "https://austinsnerdythings.com/2026/02/13/training-yolox-aircraft-detection-mit-license/",
         "timestamp": "2026-02-14T14:53:54.755644",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running Async WebAssembly on Seastar's Reactor",
+        "url": "https://rockwotj.com/blog/async-wasm-in-seastar/",
+        "timestamp": "2026-02-14T15:05:32.834246",
+        "source": "Hacker News"
     }
 ]
