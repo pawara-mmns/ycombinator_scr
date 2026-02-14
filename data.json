@@ -65338,5 +65338,11 @@
         "url": "https://paulkrugman.substack.com/p/talking-again-with-jon-gruber",
         "timestamp": "2026-02-14T16:24:01.606468",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sound and Practical Points-To Analysis for Incomplete C Programs [pdf]",
+        "url": "https://www.sjalander.com/research/pdf/sjalander-cgo2026-pip.pdf",
+        "timestamp": "2026-02-14T16:43:16.164350",
+        "source": "Hacker News"
     }
 ]
