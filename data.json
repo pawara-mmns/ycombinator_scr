@@ -64486,5 +64486,11 @@
         "url": "https://news.ycombinator.com/item?id=47014042",
         "timestamp": "2026-02-14T12:46:00.935400",
         "source": "Hacker News"
+    },
+    {
+        "title": "Meeting-Assistant, Local meeting notes assistant and AI analysis in C++",
+        "url": "https://github.com/DatanoiseTV/meeting-assistant",
+        "timestamp": "2026-02-14T12:46:00.935440",
+        "source": "Hacker News"
     }
 ]
