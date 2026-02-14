@@ -63400,5 +63400,11 @@
         "url": "https://www.newscientist.com/article/2514600-why-exercise-isnt-much-help-if-you-are-trying-to-lose-weight/",
         "timestamp": "2026-02-14T04:57:49.212847",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+        "url": "https://github.com/mickamy/sql-tap",
+        "timestamp": "2026-02-14T04:57:49.212876",
+        "source": "Hacker News"
     }
 ]
