@@ -66376,5 +66376,11 @@
         "url": "http://juggling.org",
         "timestamp": "2026-02-14T20:04:21.614253",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dune II written in HTML5/JS",
+        "url": "https://github.com/oklemenz/Dune2JS",
+        "timestamp": "2026-02-14T20:23:41.672625",
+        "source": "Hacker News"
     }
 ]
