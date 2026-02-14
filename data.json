@@ -65782,5 +65782,11 @@
         "url": "https://play.google.com/store/apps/details?id=io.cyberfly.edgedox&hl=en_US",
         "timestamp": "2026-02-14T17:51:52.437893",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AV1 encoder in 66 KB of safe Rust WASM",
+        "url": "https://rafaelcaricio.github.io/wav1c_demo/",
+        "timestamp": "2026-02-14T17:51:52.437931",
+        "source": "Hacker News"
     }
 ]
