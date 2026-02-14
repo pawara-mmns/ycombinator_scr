@@ -66256,5 +66256,11 @@
         "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
         "timestamp": "2026-02-14T19:49:40.869336",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tori Terminal-native Docker monitoring with alerting in a single binary",
+        "url": "https://github.com/thobiasn/tori-cli",
+        "timestamp": "2026-02-14T19:49:40.869373",
+        "source": "Hacker News"
     }
 ]
