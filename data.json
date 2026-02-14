@@ -66052,5 +66052,11 @@
         "url": "https://drycast.app/",
         "timestamp": "2026-02-14T18:44:41.560679",
         "source": "Hacker News"
+    },
+    {
+        "title": "Manage, freeze and restore GPU processes quickly",
+        "url": "https://github.com/shayonj/gpusched",
+        "timestamp": "2026-02-14T18:44:41.560718",
+        "source": "Hacker News"
     }
 ]
