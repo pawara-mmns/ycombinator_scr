@@ -65368,5 +65368,11 @@
         "url": "https://en.wikipedia.org/wiki/100-year_flood",
         "timestamp": "2026-02-14T16:43:16.263671",
         "source": "Hacker News"
+    },
+    {
+        "title": "Karpathy's microgpt as a book via Claude Code",
+        "url": "https://github.com/savarin/microgpt/tree/main/docs/chapters",
+        "timestamp": "2026-02-14T16:43:16.263706",
+        "source": "Hacker News"
     }
 ]
