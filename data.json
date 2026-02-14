@@ -65626,5 +65626,11 @@
         "url": "https://www.screenkite.com/en",
         "timestamp": "2026-02-14T17:23:51.267675",
         "source": "Hacker News"
+    },
+    {
+        "title": "One line of code, 102 blocked threads",
+        "url": "https://medium.com/@nik6/a-deep-dive-into-classloader-contention-in-java-a0415039b0c1",
+        "timestamp": "2026-02-14T17:23:51.267710",
+        "source": "Hacker News"
     }
 ]
