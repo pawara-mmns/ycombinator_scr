@@ -66196,5 +66196,11 @@
         "url": "https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/",
         "timestamp": "2026-02-14T19:38:47.172391",
         "source": "Hacker News"
+    },
+    {
+        "title": "Borrowed Tuple Indexing for HashMap",
+        "url": "https://traxys.me/tuple_borrow.html",
+        "timestamp": "2026-02-14T19:38:47.172436",
+        "source": "Hacker News"
     }
 ]
