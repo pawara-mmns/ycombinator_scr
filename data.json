@@ -64024,5 +64024,11 @@
         "url": "https://news.ycombinator.com/item?id=47013256",
         "timestamp": "2026-02-14T10:05:00.489978",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rcarmo/go-te: A terminal emulation library for Go",
+        "url": "https://github.com/rcarmo/go-te",
+        "timestamp": "2026-02-14T10:05:00.490052",
+        "source": "Hacker News"
     }
 ]
