@@ -71308,5 +71308,11 @@
         "url": "https://github.com/theMachineClay/skillsandbox",
         "timestamp": "2026-02-15T21:38:41.776417",
         "source": "Hacker News"
+    },
+    {
+        "title": "Privacy Preserving DNS Telemetry in Debian PHP Packages",
+        "url": "https://salsa.debian.org/php-team/php/-/blob/6578625708ff60a6bfd911e800e2479140cc58b9/debian/patches/0047-Add-minimal-privacy-preserving-secure-DNS-telemetry-.patch",
+        "timestamp": "2026-02-15T21:38:41.776492",
+        "source": "Hacker News"
     }
 ]
