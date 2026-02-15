@@ -68494,5 +68494,11 @@
         "url": "https://psyche.co/ideas/no-willpower-isnt-a-muscle-heres-a-better-way-to-think-of-it",
         "timestamp": "2026-02-15T10:05:11.055090",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Goutils – 70 type-safe generic functions for async/functional Go",
+        "url": "https://github.com/skatiyar/goutils",
+        "timestamp": "2026-02-15T10:05:11.055165",
+        "source": "Hacker News"
     }
 ]
