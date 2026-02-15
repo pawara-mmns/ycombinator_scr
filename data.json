@@ -70252,5 +70252,11 @@
         "url": "https://github.com/gottebp/alan_parsons_project",
         "timestamp": "2026-02-15T17:25:56.317424",
         "source": "Hacker News"
+    },
+    {
+        "title": "Real-time PathTracing with global illumination in WebGL",
+        "url": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
+        "timestamp": "2026-02-15T17:41:30.815397",
+        "source": "Hacker News"
     }
 ]
