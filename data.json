@@ -71536,5 +71536,11 @@
         "url": "https://huggingface.co/blog/continuous_batching",
         "timestamp": "2026-02-15T22:53:22.894460",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vox – Local Voice AI Framework in Rust (STT and TTS and VAD)",
+        "url": "https://github.com/mrtozner/vox",
+        "timestamp": "2026-02-15T22:53:23.189880",
+        "source": "Hacker News"
     }
 ]
