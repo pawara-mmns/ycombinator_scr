@@ -70930,5 +70930,11 @@
         "url": "https://economist.com/culture/2026/02/15/addicted-to-your-phone-try-bricking-it",
         "timestamp": "2026-02-15T20:04:19.544280",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Claude-relais – A plan/build/judge loop mixing Claude with Cursor",
+        "url": "https://github.com/clementrog/claude-relais",
+        "timestamp": "2026-02-15T20:04:19.544351",
+        "source": "Hacker News"
     }
 ]
