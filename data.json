@@ -71338,5 +71338,11 @@
         "url": "https://www.youtube.com/watch?v=aA7oQ5A3KQc",
         "timestamp": "2026-02-15T21:50:46.833695",
         "source": "Hacker News"
+    },
+    {
+        "title": "From 3 Minutes to 7.8 Seconds: Improving on RocksDB performance",
+        "url": "https://blog.serenedb.com/building-faster-ingestion",
+        "timestamp": "2026-02-15T21:50:46.833771",
+        "source": "Hacker News"
     }
 ]
