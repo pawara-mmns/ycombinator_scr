@@ -67804,5 +67804,11 @@
         "url": "https://www.letta.com/",
         "timestamp": "2026-02-15T04:30:38.871271",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mimir: GPU Computational Kernels in Rust",
+        "url": "https://github.com/ccleavinger/mimir",
+        "timestamp": "2026-02-15T04:30:38.871306",
+        "source": "Hacker News"
     }
 ]
