@@ -68014,5 +68014,11 @@
         "url": "https://github.com/ConflictHQ/PlanOpticon",
         "timestamp": "2026-02-15T06:31:23.546322",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AI-optimized x86-64 assembly vs. GCC -O3 on three production kernels",
+        "url": "https://github.com/cleonard2341/ai-kernel-optimizer/blob/main/blog/ai-assembly-vs-gcc-o3.md",
+        "timestamp": "2026-02-15T07:04:00.814250",
+        "source": "Hacker News"
     }
 ]
