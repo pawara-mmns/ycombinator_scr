@@ -71596,5 +71596,11 @@
         "url": "https://news.ycombinator.com/item?id=47028623",
         "timestamp": "2026-02-15T23:06:11.997426",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ManasPDF – GPU-accelerated PDF renderer built from scratch in C++",
+        "url": "https://github.com/Informal061/ManasPDF",
+        "timestamp": "2026-02-15T23:06:11.997465",
+        "source": "Hacker News"
     }
 ]
