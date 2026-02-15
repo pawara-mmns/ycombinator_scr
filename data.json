@@ -70822,5 +70822,11 @@
         "url": "https://www.forbes.com/sites/jayadkisson/2024/10/07/california-drastically-reduces-creditor-exemptions-for-qualified-accounts/",
         "timestamp": "2026-02-15T19:38:17.420119",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A tool to keep dotfiles and system configs in sync with a Git repo",
+        "url": "https://github.com/senotrusov/etcdotica",
+        "timestamp": "2026-02-15T19:38:17.420155",
+        "source": "Hacker News"
     }
 ]
