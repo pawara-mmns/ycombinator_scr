@@ -68848,5 +68848,11 @@
         "url": "https://pluma.ink/",
         "timestamp": "2026-02-15T12:25:25.417366",
         "source": "Hacker News"
+    },
+    {
+        "title": "Go and Versioning: Minimal Version Selection",
+        "url": "https://research.swtch.com/vgo-mvs",
+        "timestamp": "2026-02-15T12:25:25.417402",
+        "source": "Hacker News"
     }
 ]
