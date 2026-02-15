@@ -71062,5 +71062,11 @@
         "url": "https://www.cnbc.com/2026/02/15/navarro-trump-data-centers-affordability.html",
         "timestamp": "2026-02-15T20:40:45.191393",
         "source": "Hacker News"
+    },
+    {
+        "title": "GGML GGUF File Format Vulnerabilities",
+        "url": "https://www.databricks.com/blog/ggml-gguf-file-format-vulnerabilities",
+        "timestamp": "2026-02-15T20:40:45.191428",
+        "source": "Hacker News"
     }
 ]
