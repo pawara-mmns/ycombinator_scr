@@ -69628,5 +69628,11 @@
         "url": "https://news.ycombinator.com/item?id=47024266",
         "timestamp": "2026-02-15T15:23:32.878255",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gwtar: A static efficient single-file HTML format",
+        "url": "https://gwern.net/gwtar",
+        "timestamp": "2026-02-15T15:39:14.836402",
+        "source": "Hacker News"
     }
 ]
