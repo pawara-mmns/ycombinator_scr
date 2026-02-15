@@ -68740,5 +68740,11 @@
         "url": "https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration",
         "timestamp": "2026-02-15T11:37:15.240498",
         "source": "Hacker News"
+    },
+    {
+        "title": "AgentProbe – adversarial security testing for AI agents (134 attack patterns)",
+        "url": "https://github.com/alexmelges/agentprobe",
+        "timestamp": "2026-02-15T11:37:15.240533",
+        "source": "Hacker News"
     }
 ]
