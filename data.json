@@ -71530,5 +71530,11 @@
         "url": "https://ziva.sh/blogs/llm-pricing-decline-analysis",
         "timestamp": "2026-02-15T22:40:50.845727",
         "source": "Hacker News"
+    },
+    {
+        "title": "Continuous batching from first principles (2025)",
+        "url": "https://huggingface.co/blog/continuous_batching",
+        "timestamp": "2026-02-15T22:53:22.894460",
+        "source": "Hacker News"
     }
 ]
