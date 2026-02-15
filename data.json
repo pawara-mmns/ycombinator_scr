@@ -70240,5 +70240,11 @@
         "url": "https://jonathas.com/how-i-made-my-physical-mailbox-send-me-real-time-push-notifications/",
         "timestamp": "2026-02-15T17:25:56.317281",
         "source": "Hacker News"
+    },
+    {
+        "title": "DCP: Git for PDFs – Immutable document editing via deterministic overlays",
+        "url": "https://github.com/SergiuLeonard/delta-pdf-mvp",
+        "timestamp": "2026-02-15T17:25:56.317317",
+        "source": "Hacker News"
     }
 ]
