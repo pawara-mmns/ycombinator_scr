@@ -69868,5 +69868,11 @@
         "url": "https://news.ycombinator.com/item?id=47024806",
         "timestamp": "2026-02-15T16:24:09.155033",
         "source": "Hacker News"
+    },
+    {
+        "title": "PersonaPlex-7B: full-duplex voice model that listens and talks at the same time",
+        "url": "https://huggingface.co/nvidia/personaplex-7b-v1",
+        "timestamp": "2026-02-15T16:24:09.155069",
+        "source": "Hacker News"
     }
 ]
