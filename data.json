@@ -69022,5 +69022,11 @@
         "url": "https://kagi.com/smallweb/",
         "timestamp": "2026-02-15T13:18:51.953339",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)",
+        "url": "https://github.com/denisepattenson/perlin-terminal",
+        "timestamp": "2026-02-15T13:18:51.953374",
+        "source": "Hacker News"
     }
 ]
