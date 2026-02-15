@@ -70600,5 +70600,11 @@
         "url": "https://maalla.dev/posts/dont-add-ai-to-your-app/",
         "timestamp": "2026-02-15T18:44:42.263308",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linux kernel 7.0 abandons the 28-year-old Intel 440BX chipset",
+        "url": "https://www.tomshardware.com/software/linux/linux-kernel-7-0-finally-abandons-intel-440bx-edac-driver-removal-marks-another-goodbye-to-the-legendary-motherboard-chipset",
+        "timestamp": "2026-02-15T18:44:42.263342",
+        "source": "Hacker News"
     }
 ]
