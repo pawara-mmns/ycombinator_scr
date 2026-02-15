@@ -68644,5 +68644,11 @@
         "url": "https://storepage.app",
         "timestamp": "2026-02-15T10:42:01.083253",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Visual state tracking for AI agents in tmux",
+        "url": "https://github.com/accessd/tmux-agent-indicator",
+        "timestamp": "2026-02-15T10:42:01.083287",
+        "source": "Hacker News"
     }
 ]
