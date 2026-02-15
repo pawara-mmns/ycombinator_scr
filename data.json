@@ -67360,5 +67360,11 @@
         "url": "https://www.autodidacts.io/sonder/",
         "timestamp": "2026-02-15T01:41:19.220665",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a bot to grab Berlinale film festival tickets that sell out in seconds",
+        "url": "https://github.com/Rswcf/berlinale-ticket-buyer",
+        "timestamp": "2026-02-15T01:41:19.220702",
+        "source": "Hacker News"
     }
 ]
