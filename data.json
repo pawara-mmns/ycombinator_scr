@@ -70786,5 +70786,11 @@
         "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
         "timestamp": "2026-02-15T19:23:31.921557",
         "source": "Hacker News"
+    },
+    {
+        "title": "USB overclock Linux kernel module",
+        "url": "https://github.com/p0358/usb_oc-dkms",
+        "timestamp": "2026-02-15T19:23:31.921589",
+        "source": "Hacker News"
     }
 ]
