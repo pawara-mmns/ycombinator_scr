@@ -67972,5 +67972,11 @@
         "url": "https://www.fast.ai/posts/2025-12-03-boredom/",
         "timestamp": "2026-02-15T06:05:13.797367",
         "source": "Hacker News"
+    },
+    {
+        "title": "Understanding Std:Shared_mutex from C++17",
+        "url": "https://www.cppstories.com/2026/shared_mutex/",
+        "timestamp": "2026-02-15T06:05:13.797402",
+        "source": "Hacker News"
     }
 ]
