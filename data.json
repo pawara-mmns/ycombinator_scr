@@ -67480,5 +67480,11 @@
         "url": "https://www.minotauris.app/waitlist",
         "timestamp": "2026-02-15T02:39:14.470670",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Using subliminal channels to hide data in TLS handshakes",
+        "url": "https://github.com/cattl3ya/tls-subliminal-channel",
+        "timestamp": "2026-02-15T02:39:14.470716",
+        "source": "Hacker News"
     }
 ]
