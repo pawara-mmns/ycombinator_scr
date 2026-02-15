@@ -67750,5 +67750,11 @@
         "url": "https://www.provos.org/p/had-to-write-a-script-to-submit-to-cigna/",
         "timestamp": "2026-02-15T04:30:38.870953",
         "source": "Hacker News"
+    },
+    {
+        "title": "C# implementation of state machine declared using fluent syntax",
+        "url": "https://github.com/leeoades/FunctionalStateMachine",
+        "timestamp": "2026-02-15T04:30:38.870989",
+        "source": "Hacker News"
     }
 ]
