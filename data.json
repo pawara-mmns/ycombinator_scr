@@ -69712,5 +69712,11 @@
         "url": "https://lowninstitute.org/projects/shkreli-awards/2025-shkreli-awards/",
         "timestamp": "2026-02-15T15:50:57.313171",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nautilus, high-performance algorithmic trading platform, event-driven backtester",
+        "url": "https://github.com/nautechsystems/nautilus_trader",
+        "timestamp": "2026-02-15T15:50:57.313206",
+        "source": "Hacker News"
     }
 ]
