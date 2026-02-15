@@ -71026,5 +71026,11 @@
         "url": "https://webmachinelearning.github.io/webmcp/",
         "timestamp": "2026-02-15T20:40:45.191089",
         "source": "Hacker News"
+    },
+    {
+        "title": "How bad can Python stop-the-world pauses get?",
+        "url": "https://lemire.me/blog/2026/02/15/how-bad-can-python-stop-the-world-pauses-get/",
+        "timestamp": "2026-02-15T20:40:45.191179",
+        "source": "Hacker News"
     }
 ]
