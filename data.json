@@ -68446,5 +68446,11 @@
         "url": "https://news.ycombinator.com/item?id=47022410",
         "timestamp": "2026-02-15T09:46:20.180345",
         "source": "Hacker News"
+    },
+    {
+        "title": "Changes in MySQL 9.6.0",
+        "url": "https://dev.mysql.com/doc/relnotes/mysql/9.6/en/news-9-6-0.html",
+        "timestamp": "2026-02-15T09:46:20.180395",
+        "source": "Hacker News"
     }
 ]
