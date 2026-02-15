@@ -69298,5 +69298,11 @@
         "url": "https://www.hooktrace.xyz",
         "timestamp": "2026-02-15T14:08:15.174174",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A universal code formatter using Rust, Tree-sitter, and Rhai",
+        "url": "https://github.com/neatify-tech/neatify",
+        "timestamp": "2026-02-15T14:08:15.174207",
+        "source": "Hacker News"
     }
 ]
