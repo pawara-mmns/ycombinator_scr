@@ -68902,5 +68902,11 @@
         "url": "https://age-of-product.com/a3-handoff-canvas/",
         "timestamp": "2026-02-15T12:46:36.182099",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: 500x faster string matching for Linux Netfilter (O(1) vs. O(N))",
+        "url": "https://github.com/landerrosette/strider",
+        "timestamp": "2026-02-15T12:46:36.182136",
+        "source": "Hacker News"
     }
 ]
