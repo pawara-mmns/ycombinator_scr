@@ -68272,5 +68272,11 @@
         "url": "https://news.ycombinator.com/item?id=47022004",
         "timestamp": "2026-02-15T08:44:08.572771",
         "source": "Hacker News"
+    },
+    {
+        "title": "ImpactCheck – CLI to detect risky configuration changes before deploy",
+        "url": "https://github.com/fede456/ImpactCheck-v1.0.0-Windows/releases/tag/v1.0.0",
+        "timestamp": "2026-02-15T08:58:40.609266",
+        "source": "Hacker News"
     }
 ]
