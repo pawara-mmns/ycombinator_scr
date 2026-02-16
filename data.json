@@ -74656,5 +74656,11 @@
         "url": "https://www.theguardian.com/music/2026/feb/16/stephen-spencer-daughter-three-year-old-instagram",
         "timestamp": "2026-02-16T14:19:17.263610",
         "source": "Hacker News"
+    },
+    {
+        "title": "-fbounds-safety: Enforcing bounds safety for C",
+        "url": "https://clang.llvm.org/docs/BoundsSafety.html",
+        "timestamp": "2026-02-16T14:19:17.263644",
+        "source": "Hacker News"
     }
 ]
