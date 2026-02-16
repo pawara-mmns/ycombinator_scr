@@ -77128,5 +77128,11 @@
         "url": "https://www.youtube.com/watch?v=NVX6vq0RSnY",
         "timestamp": "2026-02-16T20:56:36.549331",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Scrappy – Open-source browser scraper written in Go",
+        "url": "https://github.com/sunergos-ro/scrappy",
+        "timestamp": "2026-02-16T20:56:36.549366",
+        "source": "Hacker News"
     }
 ]
