@@ -73804,5 +73804,11 @@
         "url": "https://dindon.one/@henry/116080083150509978",
         "timestamp": "2026-02-16T11:49:09.294066",
         "source": "Hacker News"
+    },
+    {
+        "title": "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
+        "url": "https://github.com/nineties/planckforth",
+        "timestamp": "2026-02-16T11:49:09.294111",
+        "source": "Hacker News"
     }
 ]
