@@ -77590,5 +77590,11 @@
         "url": "https://news.ycombinator.com/item?id=47041324",
         "timestamp": "2026-02-16T22:42:35.595039",
         "source": "Hacker News"
+    },
+    {
+        "title": "ETH Zurich audits Bitwarden cryptography against malicious server scenarios",
+        "url": "https://bitwarden.com/blog/security-through-transparency-eth-zurich-audits-bitwarden-cryptography/",
+        "timestamp": "2026-02-16T22:42:35.595075",
+        "source": "Hacker News"
     }
 ]
