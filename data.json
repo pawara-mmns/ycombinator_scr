@@ -73516,5 +73516,11 @@
         "url": "https://qwen.ai/blog?id=qwen3.5",
         "timestamp": "2026-02-16T10:05:20.350916",
         "source": "Hacker News"
+    },
+    {
+        "title": "MessageFormat: Unicode standard for localizable message strings",
+        "url": "https://github.com/unicode-org/message-format-wg",
+        "timestamp": "2026-02-16T10:32:40.774669",
+        "source": "Hacker News"
     }
 ]
