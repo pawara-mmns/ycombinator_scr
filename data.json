@@ -76216,5 +76216,11 @@
         "url": "https://sniffnet.net/news/process-identification/",
         "timestamp": "2026-02-16T18:20:00.061147",
         "source": "Hacker News"
+    },
+    {
+        "title": "SBoM Diff and Analysis",
+        "url": "https://github.com/rezmoss/sbomlyze",
+        "timestamp": "2026-02-16T18:20:00.061182",
+        "source": "Hacker News"
     }
 ]
