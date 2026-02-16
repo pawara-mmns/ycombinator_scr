@@ -77578,5 +77578,11 @@
         "url": "https://mastodon.online/@mwichary/116071993928892953",
         "timestamp": "2026-02-16T22:42:35.594960",
         "source": "Hacker News"
+    },
+    {
+        "title": "An attempt to make MicroVMs more accessible (SmolVM – Python SDK)",
+        "url": "https://github.com/CelestoAI/SmolVM",
+        "timestamp": "2026-02-16T22:42:35.595002",
+        "source": "Hacker News"
     }
 ]
