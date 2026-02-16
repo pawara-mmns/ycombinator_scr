@@ -76714,5 +76714,11 @@
         "url": "https://thenewstack.io/curls-daniel-stenberg-ai-is-ddosing-open-source-and-fixing-its-bugs/",
         "timestamp": "2026-02-16T19:30:01.419833",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dewdrops – Turn your Git repo into a single Markdown file for LLMs",
+        "url": "https://github.com/MedUnes/dewdrops",
+        "timestamp": "2026-02-16T19:45:43.083767",
+        "source": "Hacker News"
     }
 ]
