@@ -71806,5 +71806,11 @@
         "url": "https://eradman.com/posts/zfs-quickstart.html",
         "timestamp": "2026-02-16T00:18:24.331664",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreeBSD Bhyve and iPXE",
+        "url": "https://eradman.com/posts/bhyve-ipxe.html",
+        "timestamp": "2026-02-16T00:18:24.331694",
+        "source": "Hacker News"
     }
 ]
