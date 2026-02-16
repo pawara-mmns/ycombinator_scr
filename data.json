@@ -76354,5 +76354,11 @@
         "url": "https://dl.acm.org/doi/10.1145/146585.146605",
         "timestamp": "2026-02-16T18:45:38.861483",
         "source": "Hacker News"
+    },
+    {
+        "title": "Type-based alias analysis in the Toy Optimizer",
+        "url": "https://bernsteinbear.com/blog/toy-tbaa/",
+        "timestamp": "2026-02-16T18:45:38.861518",
+        "source": "Hacker News"
     }
 ]
