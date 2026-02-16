@@ -73624,5 +73624,11 @@
         "url": "https://huggingface.co/collections/Qwen/qwen35",
         "timestamp": "2026-02-16T11:03:45.756597",
         "source": "Hacker News"
+    },
+    {
+        "title": "The current state of LLM-based multi-agent systems for software engineering",
+        "url": "https://chuniversiteit.nl/papers/llm-based-multi-agent-systems-for-software-engineering",
+        "timestamp": "2026-02-16T11:03:45.756633",
+        "source": "Hacker News"
     }
 ]
