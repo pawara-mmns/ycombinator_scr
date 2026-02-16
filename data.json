@@ -77068,5 +77068,11 @@
         "url": "https://github.com/alns0dev/runescapecn",
         "timestamp": "2026-02-16T20:43:05.192181",
         "source": "Hacker News"
+    },
+    {
+        "title": "Testing Postgres race conditions with synchronization barriers",
+        "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+        "timestamp": "2026-02-16T20:43:05.192216",
+        "source": "Hacker News"
     }
 ]
