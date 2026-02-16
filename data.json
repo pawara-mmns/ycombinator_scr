@@ -72640,5 +72640,11 @@
         "url": "https://github.com/webtoon-today/jsiphon",
         "timestamp": "2026-02-16T05:18:21.652806",
         "source": "Hacker News"
+    },
+    {
+        "title": "Netflix optimized its petabyte-scale logging system with ClickHouse",
+        "url": "https://clickhouse.com/blog/netflix-petabyte-scale-logging",
+        "timestamp": "2026-02-16T05:18:21.652846",
+        "source": "Hacker News"
     }
 ]
