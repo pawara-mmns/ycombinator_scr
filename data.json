@@ -77968,5 +77968,11 @@
         "url": "https://www.aleksagordic.com/blog/oura",
         "timestamp": "2026-02-16T23:54:44.292018",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Journey – A Custom 2D ECS Game Engine Written in Rust and WGPU",
+        "url": "https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md",
+        "timestamp": "2026-02-16T23:54:44.292052",
+        "source": "Hacker News"
     }
 ]
