@@ -73864,5 +73864,11 @@
         "url": "https://fersab.github.io/pixelforge/",
         "timestamp": "2026-02-16T12:11:43.546521",
         "source": "Hacker News"
+    },
+    {
+        "title": "SQL vs. NoSQL vs. Columnar: Choosing the Right Database for Your Go Service",
+        "url": "https://skoredin.pro/blog/golang/sql-nosql-columnar-comparison",
+        "timestamp": "2026-02-16T12:11:43.546559",
+        "source": "Hacker News"
     }
 ]
