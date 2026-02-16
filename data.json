@@ -72838,5 +72838,11 @@
         "url": "https://mastodon.world/@knowmadd/116072773118828295",
         "timestamp": "2026-02-16T06:48:20.753151",
         "source": "Hacker News"
+    },
+    {
+        "title": "Varnish HTTP Cache: The last usable commit on GitHub",
+        "url": "https://github.com/varnishcache/varnish-cache/releases/tag/last",
+        "timestamp": "2026-02-16T06:48:20.753185",
+        "source": "Hacker News"
     }
 ]
