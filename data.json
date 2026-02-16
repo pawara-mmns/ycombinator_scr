@@ -76450,5 +76450,11 @@
         "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
         "timestamp": "2026-02-16T18:45:38.862042",
         "source": "Hacker News"
+    },
+    {
+        "title": "Memory Plugin for Claude Code",
+        "url": "https://github.com/zilliztech/memsearch/tree/main/ccplugin",
+        "timestamp": "2026-02-16T18:45:38.862076",
+        "source": "Hacker News"
     }
 ]
