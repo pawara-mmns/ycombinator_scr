@@ -75898,5 +75898,11 @@
         "url": "https://mercurialsolo.substack.com/p/we-are-the-average-of-our-models",
         "timestamp": "2026-02-16T17:32:16.081722",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Synrix local-first memory engine (O(k) retrieval, no vectors, no cloud)",
+        "url": "https://github.com/RYJOX-Technologies/Synrix-Memory-Engine",
+        "timestamp": "2026-02-16T17:32:16.081761",
+        "source": "Hacker News"
     }
 ]
