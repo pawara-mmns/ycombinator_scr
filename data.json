@@ -77542,5 +77542,11 @@
         "url": "https://gitar.ai/blog/make-your-codebase-agent-ready",
         "timestamp": "2026-02-16T22:23:58.100729",
         "source": "Hacker News"
+    },
+    {
+        "title": "Soft Contamination Means Benchmarks Test Shallow Generalization",
+        "url": "https://arxiv.org/abs/2602.12413",
+        "timestamp": "2026-02-16T22:23:58.100759",
+        "source": "Hacker News"
     }
 ]
