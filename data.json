@@ -73456,5 +73456,11 @@
         "url": "https://github.com/ts-ign0re/jira-mcp-api",
         "timestamp": "2026-02-16T10:05:20.350466",
         "source": "Hacker News"
+    },
+    {
+        "title": "How Michael Abrash doubled Quake framerate",
+        "url": "https://fabiensanglard.net/quake_asm_optimizations/",
+        "timestamp": "2026-02-16T10:05:20.350580",
+        "source": "Hacker News"
     }
 ]
