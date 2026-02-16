@@ -75172,5 +75172,11 @@
         "url": "https://www.vincentsitzmann.com/blog/bitter_lesson_of_cv/",
         "timestamp": "2026-02-16T15:32:21.061136",
         "source": "Hacker News"
+    },
+    {
+        "title": "Clean: High Performance Prompt Injection Detection and Mitigation",
+        "url": "https://github.com/sibyllinesoft/clean",
+        "timestamp": "2026-02-16T15:32:21.061172",
+        "source": "Hacker News"
     }
 ]
