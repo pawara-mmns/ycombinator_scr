@@ -72220,5 +72220,11 @@
         "url": "https://www.forbes.com/sites/alexknapp/2026/02/11/forbes-250-americas-greatest-innovators",
         "timestamp": "2026-02-16T02:37:34.754060",
         "source": "Hacker News"
+    },
+    {
+        "title": "I made the first iMessage API that can change chat background",
+        "url": "https://github.com/photon-hq/advanced-imessage-kit/blob/main/examples/background-set.ts",
+        "timestamp": "2026-02-16T02:37:34.754122",
+        "source": "Hacker News"
     }
 ]
