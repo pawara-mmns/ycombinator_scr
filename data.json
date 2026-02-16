@@ -75142,5 +75142,11 @@
         "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260214_02/",
         "timestamp": "2026-02-16T15:32:21.060949",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: API authentication assumes the caller decides – agents break that",
+        "url": "https://github.com/theaniketgiri/aip",
+        "timestamp": "2026-02-16T15:32:21.060982",
+        "source": "Hacker News"
     }
 ]
