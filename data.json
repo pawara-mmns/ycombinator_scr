@@ -76222,5 +76222,11 @@
         "url": "https://github.com/rezmoss/sbomlyze",
         "timestamp": "2026-02-16T18:20:00.061182",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hardware-signed photos with C2PA on mobile",
+        "url": "https://github.com/RoloBits/attestation-photo-mobile",
+        "timestamp": "2026-02-16T18:20:00.061218",
+        "source": "Hacker News"
     }
 ]
