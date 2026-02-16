@@ -75442,5 +75442,11 @@
         "url": "https://arxiv.org/abs/2510.26702",
         "timestamp": "2026-02-16T16:21:40.970622",
         "source": "Hacker News"
+    },
+    {
+        "title": "Write your own LOTR story with LORA BLOOM-3B (2023)",
+        "url": "https://github.com/jeremyarancio/llm-tolkien",
+        "timestamp": "2026-02-16T16:21:40.970657",
+        "source": "Hacker News"
     }
 ]
