@@ -77614,5 +77614,11 @@
         "url": "https://vmfunc.gg/blog/persona/",
         "timestamp": "2026-02-16T22:42:35.595178",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SIMD-accelerated, zero allocation CSV library in Zig",
+        "url": "https://github.com/peymanmortazavi/csv-zero",
+        "timestamp": "2026-02-16T22:42:35.595213",
+        "source": "Hacker News"
     }
 ]
