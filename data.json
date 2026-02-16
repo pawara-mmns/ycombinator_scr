@@ -73936,5 +73936,11 @@
         "url": "https://github.com/f/check-ai",
         "timestamp": "2026-02-16T12:11:43.546986",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hardware TOTP authenticator with 8-layer security architecture (ESP32)",
+        "url": "https://github.com/makepkg/SecureGen",
+        "timestamp": "2026-02-16T12:11:43.547020",
+        "source": "Hacker News"
     }
 ]
