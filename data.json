@@ -77518,5 +77518,11 @@
         "url": "https://brianschrader.com/archive/words-are-a-leaky-abstraction/",
         "timestamp": "2026-02-16T22:23:58.100607",
         "source": "Hacker News"
+    },
+    {
+        "title": "Six Signs That Postgres Tuning Won't Fix Your Performance Problem",
+        "url": "https://www.tigerdata.com/blog/six-signs-postgres-tuning-wont-fix-performance-problems",
+        "timestamp": "2026-02-16T22:23:58.100639",
+        "source": "Hacker News"
     }
 ]
