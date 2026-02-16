@@ -76924,5 +76924,11 @@
         "url": "https://irondiff.com",
         "timestamp": "2026-02-16T20:24:12.862914",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Telescope now queries Kubernetes logs directly",
+        "url": "https://github.com/iamtelescope/telescope/releases/tag/v0.0.24",
+        "timestamp": "2026-02-16T20:24:12.862948",
+        "source": "Hacker News"
     }
 ]
