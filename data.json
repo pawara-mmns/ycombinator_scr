@@ -74722,5 +74722,11 @@
         "url": "https://qwenlm.github.io/blog/qwen3.5/",
         "timestamp": "2026-02-16T14:45:15.489999",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Axel – native macOS app with a Rust CLI to orchestrate agents",
+        "url": "https://github.com/txtx/axel-app",
+        "timestamp": "2026-02-16T14:45:15.490039",
+        "source": "Hacker News"
     }
 ]
