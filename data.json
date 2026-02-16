@@ -72568,5 +72568,11 @@
         "url": "https://news.ycombinator.com/item?id=47031137",
         "timestamp": "2026-02-16T05:18:21.652264",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenReview MCP server with Cursor integration",
+        "url": "https://github.com/anyakors/openreview-mcp-server",
+        "timestamp": "2026-02-16T05:18:21.652322",
+        "source": "Hacker News"
     }
 ]
