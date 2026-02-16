@@ -72964,5 +72964,11 @@
         "url": "https://www.youtube.com/watch?v=njos57IJf-0",
         "timestamp": "2026-02-16T07:24:27.362056",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LLM AuthZ Audit – find auth gaps and prompt injection in LLM apps",
+        "url": "https://github.com/aiauthz/llm-authz-audit",
+        "timestamp": "2026-02-16T07:24:27.362090",
+        "source": "Hacker News"
     }
 ]
