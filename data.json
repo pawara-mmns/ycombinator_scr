@@ -76336,5 +76336,11 @@
         "url": "https://blog.documentfoundation.org/blog/2026/02/16/why-odf-and-not-ooxml/",
         "timestamp": "2026-02-16T18:45:38.861375",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security audit for LLM skill files: skillaudit.sh",
+        "url": "https://skillaudit.sh/",
+        "timestamp": "2026-02-16T18:45:38.861411",
+        "source": "Hacker News"
     }
 ]
