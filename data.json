@@ -75106,5 +75106,11 @@
         "url": "https://en.wikipedia.org/wiki/Timation",
         "timestamp": "2026-02-16T15:32:21.060747",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making MCP Servers Work with Microsoft Entra ID on Azure",
+        "url": "https://ignitionai.xyz/blog/making-mcp-servers-work-with-microsoft-entra-id-on-azure/",
+        "timestamp": "2026-02-16T15:32:21.060781",
+        "source": "Hacker News"
     }
 ]
