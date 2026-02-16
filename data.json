@@ -76540,5 +76540,11 @@
         "url": "https://news.ycombinator.com/item?id=47038871",
         "timestamp": "2026-02-16T19:14:11.076092",
         "source": "Hacker News"
+    },
+    {
+        "title": "Linear plugin for OpenClaw (with managed/ordered queue)",
+        "url": "https://github.com/stepandel/openclaw-linear",
+        "timestamp": "2026-02-16T19:14:11.076165",
+        "source": "Hacker News"
     }
 ]
