@@ -76912,5 +76912,11 @@
         "url": "https://apify.com/original_xenomorph/business-lead-finder",
         "timestamp": "2026-02-16T20:24:12.862843",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust CLI Generate and validate .env files from one spec – self-documenting envs",
+        "url": "https://crates.io/crates/envgen/1.0.0",
+        "timestamp": "2026-02-16T20:24:12.862878",
+        "source": "Hacker News"
     }
 ]
