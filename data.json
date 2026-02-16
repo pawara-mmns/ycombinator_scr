@@ -74344,5 +74344,11 @@
         "url": "https://any2k.com",
         "timestamp": "2026-02-16T13:28:32.706408",
         "source": "Hacker News"
+    },
+    {
+        "title": "Writing a native VLC plugin in C#",
+        "url": "https://mfkl.github.io/2026/02/11/vlc-plugin-csharp.html",
+        "timestamp": "2026-02-16T13:28:32.706441",
+        "source": "Hacker News"
     }
 ]
