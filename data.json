@@ -74518,5 +74518,11 @@
         "url": "https://blog.davemo.com/posts/2026-02-14-deterministic-core-agentic-shell.html",
         "timestamp": "2026-02-16T13:55:30.982823",
         "source": "Hacker News"
+    },
+    {
+        "title": "A DataFrame Library Which Runs on GPUs, Accelerators and More",
+        "url": "https://github.com/ronfriedhaber/autark/blob/main/extra/notebooks/data_gov_ev_analysis_1.ipynb",
+        "timestamp": "2026-02-16T13:55:30.982862",
+        "source": "Hacker News"
     }
 ]
