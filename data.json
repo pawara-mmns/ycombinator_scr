@@ -73054,5 +73054,11 @@
         "url": "https://github.com/ghost-in-a-jar-00/LockFS",
         "timestamp": "2026-02-16T08:13:29.907048",
         "source": "Hacker News"
+    },
+    {
+        "title": "picol: A Tcl interpreter in 500 lines of code",
+        "url": "https://github.com/antirez/picol",
+        "timestamp": "2026-02-16T08:13:29.907083",
+        "source": "Hacker News"
     }
 ]
