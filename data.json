@@ -72190,5 +72190,11 @@
         "url": "http://edwardfeser.blogspot.com/2019/03/artificial-intelligence-and-magical.html",
         "timestamp": "2026-02-16T02:37:34.753810",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a 3D racing engine that runs on an ESP32-S3 (8MB PSRAM)",
+        "url": "https://medium.com/@davidmonterocrespo24/how-i-built-the-first-3d-racing-game-for-esp32-s3-because-someone-said-ai-could-do-it-better-50236a02286f",
+        "timestamp": "2026-02-16T02:37:34.753845",
+        "source": "Hacker News"
     }
 ]
