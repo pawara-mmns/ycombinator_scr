@@ -74560,5 +74560,11 @@
         "url": "https://postshield.xyz/",
         "timestamp": "2026-02-16T14:19:17.263027",
         "source": "Hacker News"
+    },
+    {
+        "title": "I proved my AI agent can't skip the approval step (196 states, zero bypasses)",
+        "url": "https://joshtuddenham.dev/blog/agent-safety/",
+        "timestamp": "2026-02-16T14:19:17.263063",
+        "source": "Hacker News"
     }
 ]
