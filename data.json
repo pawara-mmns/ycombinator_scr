@@ -76834,5 +76834,11 @@
         "url": "https://liftoffmvp.io/",
         "timestamp": "2026-02-16T20:06:18.923296",
         "source": "Hacker News"
+    },
+    {
+        "title": "Amazon EC2 supports nested virtualization on virtual Amazon EC2 instances",
+        "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-nested-virtualization-on-virtual/",
+        "timestamp": "2026-02-16T20:06:18.923330",
+        "source": "Hacker News"
     }
 ]
