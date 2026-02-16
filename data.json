@@ -77956,5 +77956,11 @@
         "url": "https://www.actorrise.com",
         "timestamp": "2026-02-16T23:54:44.291948",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A simple CLI to stop copying repos for LLM reference",
+        "url": "https://github.com/tspader/dotllm",
+        "timestamp": "2026-02-16T23:54:44.291983",
+        "source": "Hacker News"
     }
 ]
