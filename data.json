@@ -77692,5 +77692,11 @@
         "url": "https://blog.ericgoldman.org/archives/2026/02/fair-use-blocks-privacy-motivated-copyright-lawsuit-mcm-v-perry.htm",
         "timestamp": "2026-02-16T22:57:00.886001",
         "source": "Hacker News"
+    },
+    {
+        "title": "Route every OpenClaw request to the cheapest Claude model that can handle it",
+        "url": "https://github.com/iblai/iblai-openclaw-router",
+        "timestamp": "2026-02-16T22:57:00.886038",
+        "source": "Hacker News"
     }
 ]
