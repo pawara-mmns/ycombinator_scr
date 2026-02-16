@@ -75652,5 +75652,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-02-16/fund-beating-99-of-peers-sees-few-software-firms-surviving-ai",
         "timestamp": "2026-02-16T16:45:42.233989",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dropin replacement datum-diff available for the deep-diff JavaScript library",
+        "url": "https://github.com/therohk/datum-merge/blob/main/src/diff-lib/README.md",
+        "timestamp": "2026-02-16T16:45:42.234130",
+        "source": "Hacker News"
     }
 ]
