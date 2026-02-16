@@ -74572,5 +74572,11 @@
         "url": "https://news.ycombinator.com/item?id=47035214",
         "timestamp": "2026-02-16T14:19:17.263119",
         "source": "Hacker News"
+    },
+    {
+        "title": "DBSafe: Pre-execution safety analysis for MySQL DDL/DML operations",
+        "url": "https://github.com/nethalo/dbsafe",
+        "timestamp": "2026-02-16T14:19:17.263157",
+        "source": "Hacker News"
     }
 ]
