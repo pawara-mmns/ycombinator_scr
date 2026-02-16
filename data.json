@@ -76084,5 +76084,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/",
         "timestamp": "2026-02-16T17:57:40.462113",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gobii vs. OpenClaw: Timeline, Architecture, and Always-On Agents",
+        "url": "https://gobii.ai/blog/gobii-vs-openclaw/",
+        "timestamp": "2026-02-16T17:57:40.462147",
+        "source": "Hacker News"
     }
 ]
