@@ -73030,5 +73030,11 @@
         "url": "https://news.ycombinator.com/item?id=47031953",
         "timestamp": "2026-02-16T07:47:18.497118",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MLX-Ruby – Ruby Bindings for Apple's MLX ML Framework",
+        "url": "https://github.com/skryl/mlx-ruby",
+        "timestamp": "2026-02-16T08:13:29.906890",
+        "source": "Hacker News"
     }
 ]
