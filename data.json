@@ -73912,5 +73912,11 @@
         "url": "https://news.ycombinator.com/item?id=47033985",
         "timestamp": "2026-02-16T12:11:43.546845",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwen3.5",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
+        "timestamp": "2026-02-16T12:11:43.546882",
+        "source": "Hacker News"
     }
 ]
