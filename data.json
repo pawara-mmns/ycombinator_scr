@@ -75676,5 +75676,11 @@
         "url": "https://www.cleveland.com/news/2026/02/journalism-schools-are-teaching-fear-of-the-future-letter-from-the-editor.html",
         "timestamp": "2026-02-16T16:45:42.234345",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Kuberoku, A CLI to treat vanilla Kubernetes like Heroku",
+        "url": "https://github.com/amanjain/kuberoku",
+        "timestamp": "2026-02-16T16:45:42.234406",
+        "source": "Hacker News"
     }
 ]
