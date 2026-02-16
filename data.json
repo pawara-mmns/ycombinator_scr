@@ -73690,5 +73690,11 @@
         "url": "https://vocalinux.com/",
         "timestamp": "2026-02-16T11:03:45.757034",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero-Knowledge Encryption Claims of Password Managers Don't Hold Up",
+        "url": "https://eprint.iacr.org/2026/058",
+        "timestamp": "2026-02-16T11:29:12.156936",
+        "source": "Hacker News"
     }
 ]
