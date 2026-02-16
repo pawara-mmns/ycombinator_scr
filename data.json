@@ -73924,5 +73924,11 @@
         "url": "https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally",
         "timestamp": "2026-02-16T12:11:43.546917",
         "source": "Hacker News"
+    },
+    {
+        "title": "An AI CVE scanner that adjusts CVSS scores based on actual code usage",
+        "url": "https://github.com/IzzyMaroder/contextual-cve-engine",
+        "timestamp": "2026-02-16T12:11:43.546952",
+        "source": "Hacker News"
     }
 ]
