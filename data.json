@@ -83788,5 +83788,11 @@
         "url": "https://layerv.ai/",
         "timestamp": "2026-02-17T22:48:04.793902",
         "source": "Hacker News"
+    },
+    {
+        "title": "pg_background: Make Postgres do the long work (while your session stays light)",
+        "url": "https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/",
+        "timestamp": "2026-02-17T22:48:04.793938",
+        "source": "Hacker News"
     }
 ]
