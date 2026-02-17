@@ -79222,5 +79222,11 @@
         "url": "https://www.theregister.com/2026/02/16/refurbished_pcs_memory_crunch/",
         "timestamp": "2026-02-17T07:07:15.428560",
         "source": "Hacker News"
+    },
+    {
+        "title": "JWasm: Masm Compatible Assembler",
+        "url": "https://github.com/Baron-von-Riedesel/JWasm",
+        "timestamp": "2026-02-17T07:07:15.428611",
+        "source": "Hacker News"
     }
 ]
