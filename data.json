@@ -83182,5 +83182,11 @@
         "url": "https://raypherlabs.tech/",
         "timestamp": "2026-02-17T21:10:44.316250",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: callonce-go – singleflight and per-request caching for Go services",
+        "url": "https://github.com/probablyArth/callonce-go",
+        "timestamp": "2026-02-17T21:10:44.316326",
+        "source": "Hacker News"
     }
 ]
