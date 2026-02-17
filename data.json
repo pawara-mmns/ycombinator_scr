@@ -81466,5 +81466,11 @@
         "url": "https://news.ycombinator.com/item?id=47049030",
         "timestamp": "2026-02-17T16:19:00.875074",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sentinel – watch over your Tailscale network and notify of changes",
+        "url": "https://github.com/jaxxstorm/sentinel",
+        "timestamp": "2026-02-17T16:19:00.875108",
+        "source": "Hacker News"
     }
 ]
