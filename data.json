@@ -80116,5 +80116,11 @@
         "url": "https://usefox.ai",
         "timestamp": "2026-02-17T11:44:22.792740",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Ratunit – A TUI for browsing JUnit XML test reports written in Rust",
+        "url": "https://github.com/rupert648/ratunit",
+        "timestamp": "2026-02-17T11:44:22.792775",
+        "source": "Hacker News"
     }
 ]
