@@ -80614,5 +80614,11 @@
         "url": "https://theredline.versionstory.com/p/dont-trust-people-who-dont-use-claude",
         "timestamp": "2026-02-17T13:56:25.493898",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hpke-HTTP – End-to-end encrypt HTTP API bodies, even behind Cloudflare",
+        "url": "https://github.com/dualeai/hpke-http",
+        "timestamp": "2026-02-17T13:56:25.493932",
+        "source": "Hacker News"
     }
 ]
