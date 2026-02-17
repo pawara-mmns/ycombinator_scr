@@ -79180,5 +79180,11 @@
         "url": "https://www.youtube.com/watch?v=Q6E6OaWb7LQ",
         "timestamp": "2026-02-17T07:07:15.428267",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: My attempt to make Vector search engine in Rust(350k Items, ~3.5ms Qs)",
+        "url": "https://github.com/ronakgh97/blaze-db",
+        "timestamp": "2026-02-17T07:07:15.428307",
+        "source": "Hacker News"
     }
 ]
