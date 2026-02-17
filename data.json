@@ -82120,5 +82120,11 @@
         "url": "https://www.raysmets.com/blog/yolo-cli-vs-kiro-cli",
         "timestamp": "2026-02-17T18:18:21.351391",
         "source": "Hacker News"
+    },
+    {
+        "title": "Route 5k MCP endpoints through a single LLM tool",
+        "url": "https://github.com/vinkius-labs/mcp-fusion",
+        "timestamp": "2026-02-17T18:18:21.351421",
+        "source": "Hacker News"
     }
 ]
