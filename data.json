@@ -78148,5 +78148,11 @@
         "url": "https://moonrepo.dev/blog/moon-v2-rc",
         "timestamp": "2026-02-17T00:54:34.586434",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Envref – separating secrets from config in .env files",
+        "url": "https://xcke.github.io/envref/",
+        "timestamp": "2026-02-17T00:54:34.586468",
+        "source": "Hacker News"
     }
 ]
