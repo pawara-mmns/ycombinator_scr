@@ -84130,5 +84130,11 @@
         "url": "https://news.ycombinator.com/item?id=47055119",
         "timestamp": "2026-02-17T23:54:05.162165",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: GPU-hot Dashboard for monitoring Nvidia GPUs on remote servers",
+        "url": "https://psalias2006.github.io/gpu-hot/",
+        "timestamp": "2026-02-17T23:54:05.162200",
+        "source": "Hacker News"
     }
 ]
