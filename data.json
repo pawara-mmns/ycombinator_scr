@@ -81418,5 +81418,11 @@
         "url": "https://www.science.org/doi/10.1126/science.aec6413",
         "timestamp": "2026-02-17T16:19:00.874691",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dev implements HDMI FRL in AMDGPU, hence HDMI 2.1 on AMD Linux driver",
+        "url": "https://github.com/mkopec/linux/tree/hdmi_frl_amd_staging",
+        "timestamp": "2026-02-17T16:19:00.874761",
+        "source": "Hacker News"
     }
 ]
