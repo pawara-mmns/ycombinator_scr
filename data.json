@@ -79984,5 +79984,11 @@
         "url": "https://news.ycombinator.com/item?id=47046068",
         "timestamp": "2026-02-17T11:16:30.843658",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cascade standalone DNSSEC signer in Rust from NLnet",
+        "url": "https://blog.nlnetlabs.nl/cascade/",
+        "timestamp": "2026-02-17T11:16:30.843691",
+        "source": "Hacker News"
     }
 ]
