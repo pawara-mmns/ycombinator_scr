@@ -81376,5 +81376,11 @@
         "url": "https://nicholas.carlini.com/writing/2024/why-i-attack.html",
         "timestamp": "2026-02-17T15:47:17.440714",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Built an S3 Interface for Git (and Why It Makes More Sense Than You Think)",
+        "url": "https://bored-dev.com/posts/i-built-an-s3-interface-for-git-and-why-it-makes-more-sense-than-you-think/",
+        "timestamp": "2026-02-17T15:47:17.440748",
+        "source": "Hacker News"
     }
 ]
