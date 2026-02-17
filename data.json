@@ -79468,5 +79468,11 @@
         "url": "https://servo.org/slides/2026-02-fosdem-servo-web-platform/",
         "timestamp": "2026-02-17T08:46:11.202860",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lessons learned from rebuilding a 19-year-old platform in one week with Claude",
+        "url": "https://gist.github.com/janit/6559e97ceb00e444b9aecb3c00dfdf16",
+        "timestamp": "2026-02-17T08:46:11.202898",
+        "source": "Hacker News"
     }
 ]
