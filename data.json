@@ -81430,5 +81430,11 @@
         "url": "https://saleae.com/logic-mso",
         "timestamp": "2026-02-17T16:19:00.874797",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Wit-ts – A type-level WIT parser for TypeScript",
+        "url": "https://github.com/mattmarcello/wit-ts",
+        "timestamp": "2026-02-17T16:19:00.874867",
+        "source": "Hacker News"
     }
 ]
