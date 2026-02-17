@@ -78316,5 +78316,11 @@
         "url": "https://blog.inconsistentrecords.co.uk/blog/the-claws-are-open-until-they-close-around-you/",
         "timestamp": "2026-02-17T01:34:19.294026",
         "source": "Hacker News"
+    },
+    {
+        "title": "Friday CLI: The first multi-modal CLI Agent (chat/voice/video/images)",
+        "url": "https://www.npmjs.com/package/@tryfridayai/cli",
+        "timestamp": "2026-02-17T01:34:19.294062",
+        "source": "Hacker News"
     }
 ]
