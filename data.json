@@ -79084,5 +79084,11 @@
         "url": "https://www.wallacecorp.ai/content",
         "timestamp": "2026-02-17T06:05:09.774862",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: How does the cost of CPU-bound computations scale in cloud computing?",
+        "url": "https://news.ycombinator.com/item?id=47044151",
+        "timestamp": "2026-02-17T06:05:09.774893",
+        "source": "Hacker News"
     }
 ]
