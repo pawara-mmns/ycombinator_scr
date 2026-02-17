@@ -84118,5 +84118,11 @@
         "url": "https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/",
         "timestamp": "2026-02-17T23:54:05.162092",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ollama vs. vLLM: When to Start Scaling Your Local AI Stack",
+        "url": "https://www.sitepoint.com/ollama-vs-vllm-scaling-local-ai-stack/",
+        "timestamp": "2026-02-17T23:54:05.162130",
+        "source": "Hacker News"
     }
 ]
