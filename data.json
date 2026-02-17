@@ -78916,5 +78916,11 @@
         "url": "https://github.com/al1-nasir/codegraph-cli",
         "timestamp": "2026-02-17T05:07:47.592693",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: How do you reliably benchmark sub-100ns code paths in Rust",
+        "url": "https://github.com/abokhalill/cuttlefish",
+        "timestamp": "2026-02-17T05:07:47.592760",
+        "source": "Hacker News"
     }
 ]
