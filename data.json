@@ -80962,5 +80962,11 @@
         "url": "https://news.ycombinator.com/item?id=47047951",
         "timestamp": "2026-02-17T14:46:13.948459",
         "source": "Hacker News"
+    },
+    {
+        "title": "The Evolution of x86 SIMD: From SSE to AVX-512",
+        "url": "https://bgslabs.org/blog/evolution-of-x86-simd/",
+        "timestamp": "2026-02-17T14:46:13.948496",
+        "source": "Hacker News"
     }
 ]
