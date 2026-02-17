@@ -78634,5 +78634,11 @@
         "url": "https://web-production-71423.up.railway.app/mcp-server",
         "timestamp": "2026-02-17T03:37:29.599644",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Forage – MCP server that lets AI agents find and install their own MCPs",
+        "url": "https://github.com/isaac-levine/forage",
+        "timestamp": "2026-02-17T03:37:29.599680",
+        "source": "Hacker News"
     }
 ]
