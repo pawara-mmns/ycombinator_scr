@@ -79168,5 +79168,11 @@
         "url": "https://news.ycombinator.com/item?id=47044274",
         "timestamp": "2026-02-17T06:35:10.280245",
         "source": "Hacker News"
+    },
+    {
+        "title": "Learning State-Tracking from Code Using Linear RNNs",
+        "url": "https://arxiv.org/abs/2602.14814",
+        "timestamp": "2026-02-17T07:07:15.428214",
+        "source": "Hacker News"
     }
 ]
