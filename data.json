@@ -78256,5 +78256,11 @@
         "url": "https://news.ycombinator.com/item?id=47042455",
         "timestamp": "2026-02-17T01:34:19.293613",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vulnerabilities in cloud-based password managers [pdf]",
+        "url": "https://eprint.iacr.org/2026/058.pdf",
+        "timestamp": "2026-02-17T01:34:19.293647",
+        "source": "Hacker News"
     }
 ]
