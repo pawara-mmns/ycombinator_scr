@@ -83068,5 +83068,11 @@
         "url": "https://www.mongodb.com/company/blog/engineering/formal-methods-beyond-correctness-isolation-permissiveness-distributed-transactions",
         "timestamp": "2026-02-17T20:45:23.929870",
         "source": "Hacker News"
+    },
+    {
+        "title": "Polyglot – a Rust/WASM SQL transpilation library",
+        "url": "https://tobilg.com/posts/introducing-polyglot-a-rust-wasm-sql-transpilation-library/",
+        "timestamp": "2026-02-17T20:45:23.929906",
+        "source": "Hacker News"
     }
 ]
