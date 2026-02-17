@@ -81970,5 +81970,11 @@
         "url": "https://clickhouse.com/blog/ai-powered-migraiton-from-postgres-to-clickhouse-with-fiveonefour",
         "timestamp": "2026-02-17T17:47:41.542284",
         "source": "Hacker News"
+    },
+    {
+        "title": "My Blog History as Calendar Events",
+        "url": "https://www.joshbeckman.org/blog/ical-feeds-for-a-jekyll-site",
+        "timestamp": "2026-02-17T17:47:41.542319",
+        "source": "Hacker News"
     }
 ]
