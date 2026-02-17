@@ -80866,5 +80866,11 @@
         "url": "https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/",
         "timestamp": "2026-02-17T14:22:39.462487",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Deploy OpenClaw on Kubernetes (K8s Operator)",
+        "url": "https://openclaw.rocks/blog/deploy-openclaw-kubernetes",
+        "timestamp": "2026-02-17T14:22:39.462521",
+        "source": "Hacker News"
     }
 ]
