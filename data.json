@@ -82324,5 +82324,11 @@
         "url": "https://simplepdf.com/forms",
         "timestamp": "2026-02-17T18:47:09.498129",
         "source": "Hacker News"
+    },
+    {
+        "title": "Write Transactions Are a Footgun with Rust's SQLx and SQLite",
+        "url": "https://emschwartz.me/psa-write-transactions-are-a-footgun-with-sqlx-and-sqlite/",
+        "timestamp": "2026-02-17T18:47:09.498158",
+        "source": "Hacker News"
     }
 ]
