@@ -83110,5 +83110,11 @@
         "url": "https://blog.lambdaclass.com/amo-lean-towards-formally-verified-optimization-via-equality-saturation-in-lean-4/",
         "timestamp": "2026-02-17T20:45:23.930123",
         "source": "Hacker News"
+    },
+    {
+        "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+        "url": "https://github.com/Zaneham/BarraCUDA",
+        "timestamp": "2026-02-17T20:45:23.930153",
+        "source": "Hacker News"
     }
 ]
