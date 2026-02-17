@@ -82828,5 +82828,11 @@
         "url": "https://outplane.com/blog/cloud-native-architecture-small-teams",
         "timestamp": "2026-02-17T20:10:17.970520",
         "source": "Hacker News"
+    },
+    {
+        "title": "Automated Least Privilege for Coding Agents",
+        "url": "https://www.osohq.com/post/coding-agents-hold-the-api-keys-to-the-kingdom-were-working-with-tailscale-to-make-them-safer",
+        "timestamp": "2026-02-17T20:10:17.970549",
+        "source": "Hacker News"
     }
 ]
