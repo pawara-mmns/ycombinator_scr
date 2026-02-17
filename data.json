@@ -82714,5 +82714,11 @@
         "url": "https://www.youtube.com/watch?v=cxcb55zr2Q8",
         "timestamp": "2026-02-17T19:46:16.196885",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reducing the cost of breaking RSA-2048 to 100000 physical qubits",
+        "url": "https://arxiv.org/abs/2602.11457",
+        "timestamp": "2026-02-17T19:46:16.196919",
+        "source": "Hacker News"
     }
 ]
