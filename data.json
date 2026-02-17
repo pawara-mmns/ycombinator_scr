@@ -82510,5 +82510,11 @@
         "url": "https://www.pnas.org/doi/10.1073/pnas.2522563123",
         "timestamp": "2026-02-17T19:20:35.267127",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust bindings for SQLite's internal VM API",
+        "url": "https://github.com/el-yawd/sqlite-vdbe",
+        "timestamp": "2026-02-17T19:20:35.267159",
+        "source": "Hacker News"
     }
 ]
