@@ -81640,5 +81640,11 @@
         "url": "https://stackgen.com/blog/the-broken-equilibrium",
         "timestamp": "2026-02-17T16:47:29.265175",
         "source": "Hacker News"
+    },
+    {
+        "title": "Don't Trip[Wire] Yourself: Testing Error Recovery in Zig",
+        "url": "https://mitchellh.com/writing/tripwire",
+        "timestamp": "2026-02-17T16:47:29.265208",
+        "source": "Hacker News"
     }
 ]
