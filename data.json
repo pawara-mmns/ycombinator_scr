@@ -81178,5 +81178,11 @@
         "url": "https://news.ycombinator.com/item?id=47048239",
         "timestamp": "2026-02-17T15:17:25.789213",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Visualizing persistent vectors in the browser using Rust and WASM",
+        "url": "https://pvec-rs.abishov.com/web-vis/",
+        "timestamp": "2026-02-17T15:17:25.789246",
+        "source": "Hacker News"
     }
 ]
