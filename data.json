@@ -83704,5 +83704,11 @@
         "url": "https://news.ycombinator.com/item?id=47054299",
         "timestamp": "2026-02-17T22:28:55.645223",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Preference-aware routing for OpenClaw via Plano",
+        "url": "https://github.com/katanemo/plano/tree/main/demos/llm_routing/openclaw_routing",
+        "timestamp": "2026-02-17T22:28:55.645263",
+        "source": "Hacker News"
     }
 ]
