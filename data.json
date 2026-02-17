@@ -78694,5 +78694,11 @@
         "url": "https://www.tomshardware.com/software/windows/rufus-developers-blame-microsoft-for-blocking-access-to-the-latest-windows-11-isos-windows-insiders-met-with-an-ip-ban-after-attempting-to-download-latest-builds",
         "timestamp": "2026-02-17T04:28:29.535316",
         "source": "Hacker News"
+    },
+    {
+        "title": "The quality cost of vibe coding: an audit of OpenClaw's 180K-star codebase",
+        "url": "https://medium.com/@erashu212/i-ran-quality-gates-against-openclaw-180k-stars-2-080-violations-score-zero-7b9911d0a678",
+        "timestamp": "2026-02-17T04:28:29.535352",
+        "source": "Hacker News"
     }
 ]
