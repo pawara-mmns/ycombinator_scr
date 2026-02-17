@@ -79798,5 +79798,11 @@
         "url": "https://www.arthurcnops.blog/death-of-show-hn/",
         "timestamp": "2026-02-17T10:46:08.802074",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fast Sorting, Branchless by Design",
+        "url": "https://00f.net/2026/02/17/sorting-without-leaking-secrets/",
+        "timestamp": "2026-02-17T10:46:08.983695",
+        "source": "Hacker News"
     }
 ]
