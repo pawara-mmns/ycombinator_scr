@@ -82606,5 +82606,11 @@
         "url": "https://vistaley.com/",
         "timestamp": "2026-02-17T19:46:16.196245",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rethinking Data Ingestion as a DAG",
+        "url": "https://falconer.com/notes/rethinking-data-ingestion-dag/",
+        "timestamp": "2026-02-17T19:46:16.196282",
+        "source": "Hacker News"
     }
 ]
