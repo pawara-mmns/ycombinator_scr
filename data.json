@@ -82084,5 +82084,11 @@
         "url": "https://autify.com/products/aximo",
         "timestamp": "2026-02-17T18:18:21.351210",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
+        "url": "https://github.com/n-e/pg-typesafe",
+        "timestamp": "2026-02-17T18:18:21.351241",
+        "source": "Hacker News"
     }
 ]
