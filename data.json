@@ -83338,5 +83338,11 @@
         "url": "https://www.tomshardware.com/pc-components/hdds/western-digital-is-already-sold-out-of-hard-drives-for-all-of-2026-chief-says-some-long-term-agreements-for-2027-and-2028-already-in-place",
         "timestamp": "2026-02-17T21:25:56.979152",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Persistent memory for Claude Code with self-hosted Qdrant and Ollama",
+        "url": "https://github.com/elvismdev/mem0-mcp-selfhosted",
+        "timestamp": "2026-02-17T21:25:56.979190",
+        "source": "Hacker News"
     }
 ]
