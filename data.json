@@ -82342,5 +82342,11 @@
         "url": "https://www.mcindi.com/webutils/",
         "timestamp": "2026-02-17T18:47:09.498247",
         "source": "Hacker News"
+    },
+    {
+        "title": "I wasn't satisfied with existing cloud coding agents, so I built my own",
+        "url": "https://github.com/angristan/netclode",
+        "timestamp": "2026-02-17T18:47:09.498277",
+        "source": "Hacker News"
     }
 ]
