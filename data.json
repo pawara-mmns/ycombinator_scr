@@ -83746,5 +83746,11 @@
         "url": "https://kodiak64.co.uk/blog/future-of-VSP-scrolling",
         "timestamp": "2026-02-17T22:48:04.793644",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Writing a C++20M:N Scheduler from Scratch (EBR, Work-Stealing)",
+        "url": "https://github.com/lixiasky-back/tiny_coro-build_your_own_MN_scheduler",
+        "timestamp": "2026-02-17T22:48:04.793684",
+        "source": "Hacker News"
     }
 ]
