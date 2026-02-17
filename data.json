@@ -79582,5 +79582,11 @@
         "url": "https://news.ycombinator.com/item?id=47045186",
         "timestamp": "2026-02-17T09:17:21.804384",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gitas – A tool for Git account switching",
+        "url": "https://github.com/letmutex/gitas",
+        "timestamp": "2026-02-17T09:17:21.804453",
+        "source": "Hacker News"
     }
 ]
