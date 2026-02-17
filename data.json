@@ -83812,5 +83812,11 @@
         "url": "https://privatiser.net",
         "timestamp": "2026-02-17T22:48:04.794044",
         "source": "Hacker News"
+    },
+    {
+        "title": "Local memory for any LLM agent",
+        "url": "https://github.com/jmuncor/mumpu",
+        "timestamp": "2026-02-17T22:48:04.794079",
+        "source": "Hacker News"
     }
 ]
