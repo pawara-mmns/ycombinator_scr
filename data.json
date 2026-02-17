@@ -80950,5 +80950,11 @@
         "url": "https://news.ycombinator.com/item?id=47047963",
         "timestamp": "2026-02-17T14:46:13.948383",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: JVM hot-path execution analysis for Java in the age of vibe coding",
+        "url": "https://github.com/sfkamath/jvm-hotpath",
+        "timestamp": "2026-02-17T14:46:13.948420",
+        "source": "Hacker News"
     }
 ]
