@@ -83722,5 +83722,11 @@
         "url": "https://www.bbc.com/news/articles/cx2d9yk2kpjo",
         "timestamp": "2026-02-17T22:28:55.645407",
         "source": "Hacker News"
+    },
+    {
+        "title": "GraphQLite: SQLite graph extension supporting Cypher",
+        "url": "https://colliery-io.github.io/graphqlite/latest/",
+        "timestamp": "2026-02-17T22:28:55.645442",
+        "source": "Hacker News"
     }
 ]
