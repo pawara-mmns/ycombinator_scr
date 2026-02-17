@@ -83944,5 +83944,11 @@
         "url": "https://github.com/anthropics/claude-code/issues/24055",
         "timestamp": "2026-02-17T23:07:26.944413",
         "source": "Hacker News"
+    },
+    {
+        "title": "An educational fork of OpenClaw in which ALL safety guardrails have been removed",
+        "url": "https://github.com/kenm47/yoloclaw",
+        "timestamp": "2026-02-17T23:07:26.944446",
+        "source": "Hacker News"
     }
 ]
