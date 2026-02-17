@@ -82984,5 +82984,11 @@
         "url": "https://arxiv.org/abs/2510.08191",
         "timestamp": "2026-02-17T20:25:37.432171",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Konpeito – A gradually typed Ruby compiler with LLVM/JVM backends",
+        "url": "https://github.com/i2y/konpeito",
+        "timestamp": "2026-02-17T20:25:37.432241",
+        "source": "Hacker News"
     }
 ]
