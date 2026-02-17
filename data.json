@@ -80998,5 +80998,11 @@
         "url": "https://francescovigni.com/blog/spontaneous-hri/",
         "timestamp": "2026-02-17T14:46:13.948678",
         "source": "Hacker News"
+    },
+    {
+        "title": "MiniCPM-o 4.5: A Gemini Level MLLM for On-Device Mulitmodal Streaming",
+        "url": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
+        "timestamp": "2026-02-17T14:46:13.948750",
+        "source": "Hacker News"
     }
 ]
