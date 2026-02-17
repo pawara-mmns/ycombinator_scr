@@ -81754,5 +81754,11 @@
         "url": "https://trypillar.com/tools/agent-score",
         "timestamp": "2026-02-17T17:22:11.881107",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security Hardened OpenClaw",
+        "url": "https://github.com/redscaresu/hardened-scaleway-openclaw",
+        "timestamp": "2026-02-17T17:22:11.881144",
+        "source": "Hacker News"
     }
 ]
