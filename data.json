@@ -80848,5 +80848,11 @@
         "url": "https://owl.billpg.com/ipv4x/",
         "timestamp": "2026-02-17T14:22:39.462385",
         "source": "Hacker News"
+    },
+    {
+        "title": "Red Hat build of Podman Desktop: Enterprise-ready local container development",
+        "url": "https://www.redhat.com/en/blog/introducing-red-hat-build-podman-desktop-enterprise-ready-local-container-development-environments",
+        "timestamp": "2026-02-17T14:22:39.462419",
+        "source": "Hacker News"
     }
 ]
