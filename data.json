@@ -83140,5 +83140,11 @@
         "url": "https://largedatabank.com/yolomode/",
         "timestamp": "2026-02-17T20:45:23.930268",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Kanoniv – Identity resolution in 170 lines of YAML Built in Rust",
+        "url": "https://github.com/kanoniv/kanoniv",
+        "timestamp": "2026-02-17T20:45:23.930325",
+        "source": "Hacker News"
     }
 ]
