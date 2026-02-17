@@ -79282,5 +79282,11 @@
         "url": "https://www.ft.com/content/92dfd571-8d34-42f1-8be8-dce126998e37",
         "timestamp": "2026-02-17T07:34:35.698075",
         "source": "Hacker News"
+    },
+    {
+        "title": "Automated exploration of execution paths in LLM-backed applications",
+        "url": "https://asari.ai/blog/enabling-intelligent-search-for-ai-agents",
+        "timestamp": "2026-02-17T07:34:35.698110",
+        "source": "Hacker News"
     }
 ]
