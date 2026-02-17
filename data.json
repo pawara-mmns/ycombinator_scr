@@ -80098,5 +80098,11 @@
         "url": "https://www.open-clawbot.com/",
         "timestamp": "2026-02-17T11:44:22.792638",
         "source": "Hacker News"
+    },
+    {
+        "title": "Long-term vision for improving build times on Clang/LLVM",
+        "url": "https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828",
+        "timestamp": "2026-02-17T11:44:22.792672",
+        "source": "Hacker News"
     }
 ]
