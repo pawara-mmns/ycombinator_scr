@@ -83176,5 +83176,11 @@
         "url": "https://atproto.com/blog/new-site-2026",
         "timestamp": "2026-02-17T21:10:44.316199",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Raypher – a Rust-Based Kernel Driver to Sandbox \"Bare Metal\" AI Agents",
+        "url": "https://raypherlabs.tech/",
+        "timestamp": "2026-02-17T21:10:44.316250",
+        "source": "Hacker News"
     }
 ]
