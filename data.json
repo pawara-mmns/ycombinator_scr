@@ -81604,5 +81604,11 @@
         "url": "https://twitter.com/LemmySmackett/status/2020194094690042009",
         "timestamp": "2026-02-17T16:47:29.264947",
         "source": "Hacker News"
+    },
+    {
+        "title": "Benchmarking CDC Tools: Supermetal vs. Debezium vs. Flink CDC",
+        "url": "https://www.streamingdata.tech/p/benchmarking-cdc-tools",
+        "timestamp": "2026-02-17T16:47:29.264980",
+        "source": "Hacker News"
     }
 ]
