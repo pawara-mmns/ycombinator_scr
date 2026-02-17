@@ -79594,5 +79594,11 @@
         "url": "https://whokilledkerouac.com/mission",
         "timestamp": "2026-02-17T09:46:24.441978",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MCP Storage Map – One MCP Server for MySQL, MongoDB, and Athena",
+        "url": "https://github.com/cyhoon/mcp-storage-map",
+        "timestamp": "2026-02-17T09:46:24.442027",
+        "source": "Hacker News"
     }
 ]
