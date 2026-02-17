@@ -81610,5 +81610,11 @@
         "url": "https://www.streamingdata.tech/p/benchmarking-cdc-tools",
         "timestamp": "2026-02-17T16:47:29.264980",
         "source": "Hacker News"
+    },
+    {
+        "title": "GStreamer 1.28 brings AI inference to your media pipeline",
+        "url": "https://www.collabora.com/news-and-blog/news-and-events/gstreamer-1.28,-ready-for-ai.html",
+        "timestamp": "2026-02-17T16:47:29.265014",
+        "source": "Hacker News"
     }
 ]
