@@ -80620,5 +80620,11 @@
         "url": "https://github.com/dualeai/hpke-http",
         "timestamp": "2026-02-17T13:56:25.493932",
         "source": "Hacker News"
+    },
+    {
+        "title": "Omniscient – Never forget a CLI command again (AI-assisted, local-only)",
+        "url": "https://crates.io/crates/omniscient",
+        "timestamp": "2026-02-17T13:56:25.493966",
+        "source": "Hacker News"
     }
 ]
