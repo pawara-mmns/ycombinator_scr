@@ -79714,5 +79714,11 @@
         "url": "https://twitter.com/charliebcurran/status/2022463429823598999",
         "timestamp": "2026-02-17T10:16:57.653260",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Low-rank approximation for 3x3 FPGA convolutions (33% less DSP usage)",
+        "url": "https://www.dockerr.blog/blog/lowrank-hardware-approximation",
+        "timestamp": "2026-02-17T10:16:57.653296",
+        "source": "Hacker News"
     }
 ]
