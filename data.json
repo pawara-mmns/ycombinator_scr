@@ -83308,5 +83308,11 @@
         "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13396",
         "timestamp": "2026-02-17T21:10:44.317088",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Env-gen – Rust CLI tool to generate .env files",
+        "url": "https://github.com/brysonbw/env-gen",
+        "timestamp": "2026-02-17T21:10:44.317121",
+        "source": "Hacker News"
     }
 ]
