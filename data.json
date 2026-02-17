@@ -81652,5 +81652,11 @@
         "url": "https://sot-navigator.com/",
         "timestamp": "2026-02-17T16:47:29.265242",
         "source": "Hacker News"
+    },
+    {
+        "title": "phyz: Differentiable Physics Engine for Rust",
+        "url": "https://phyz.dev",
+        "timestamp": "2026-02-17T16:47:29.265277",
+        "source": "Hacker News"
     }
 ]
