@@ -80164,5 +80164,11 @@
         "url": "https://paulkrugman.substack.com/p/how-the-kakistocracy-became-a-quackistocracy",
         "timestamp": "2026-02-17T11:59:51.781118",
         "source": "Hacker News"
+    },
+    {
+        "title": "We replaced ClickHouse with PostgreSQL and got faster",
+        "url": "https://reflag.com/blog/we-replaced-clickhouse-with-postgresql-and-got-faster",
+        "timestamp": "2026-02-17T11:59:51.781155",
+        "source": "Hacker News"
     }
 ]
