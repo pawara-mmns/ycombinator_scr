@@ -82012,5 +82012,11 @@
         "url": "https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html",
         "timestamp": "2026-02-17T17:47:41.542566",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bitcoin oracle that sells cryptographically signed price data for micropayments",
+        "url": "https://github.com/jonathanbulkeley/sovereign-lightning-oracle",
+        "timestamp": "2026-02-17T17:47:41.542636",
+        "source": "Hacker News"
     }
 ]
