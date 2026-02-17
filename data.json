@@ -81676,5 +81676,11 @@
         "url": "https://www.theregister.com/2026/02/16/password_managers/",
         "timestamp": "2026-02-17T16:47:29.265446",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lightweight tmux session and project manager written in Bash",
+        "url": "https://github.com/rgcr/t-mux-manager",
+        "timestamp": "2026-02-17T16:47:29.265481",
+        "source": "Hacker News"
     }
 ]
