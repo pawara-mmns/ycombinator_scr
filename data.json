@@ -81568,5 +81568,11 @@
         "url": "https://www.docker.com/blog/deploy-surrealdb-docker-desktop-extension/",
         "timestamp": "2026-02-17T16:47:29.264708",
         "source": "Hacker News"
+    },
+    {
+        "title": "Using go fix to modernize Go code",
+        "url": "https://go.dev/blog/gofix",
+        "timestamp": "2026-02-17T16:47:29.264745",
+        "source": "Hacker News"
     }
 ]
