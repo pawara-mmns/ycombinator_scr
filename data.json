@@ -83242,5 +83242,11 @@
         "url": "https://deadneurons.substack.com/p/forget-mcp-bash-is-all-you-need",
         "timestamp": "2026-02-17T21:10:44.316730",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Trace tRPC Procedures with OpenTelemetry",
+        "url": "https://oneuptime.com/blog/post/2026-02-06-trace-trpc-procedures-opentelemetry/view",
+        "timestamp": "2026-02-17T21:10:44.316762",
+        "source": "Hacker News"
     }
 ]
