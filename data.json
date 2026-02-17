@@ -82624,5 +82624,11 @@
         "url": "https://www.usatoday.com/story/travel/2026/02/12/canadian-tourism-us-decline/88632515007/",
         "timestamp": "2026-02-17T19:46:16.196354",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: NBA-API-ts – Zero-dep TypeScript client for 138 NBA stats endpoints",
+        "url": "https://github.com/gek0z/nba-api-ts",
+        "timestamp": "2026-02-17T19:46:16.196403",
+        "source": "Hacker News"
     }
 ]
