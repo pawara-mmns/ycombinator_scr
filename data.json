@@ -83062,5 +83062,11 @@
         "url": "https://mood2know.com/",
         "timestamp": "2026-02-17T20:45:23.929823",
         "source": "Hacker News"
+    },
+    {
+        "title": "Isolation and Permissiveness of Distributed Transactions in MongoDB",
+        "url": "https://www.mongodb.com/company/blog/engineering/formal-methods-beyond-correctness-isolation-permissiveness-distributed-transactions",
+        "timestamp": "2026-02-17T20:45:23.929870",
+        "source": "Hacker News"
     }
 ]
