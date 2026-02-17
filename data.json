@@ -79744,5 +79744,11 @@
         "url": "https://news.ycombinator.com/item?id=47045604",
         "timestamp": "2026-02-17T10:16:57.653454",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Mcpd – MCP Server SDK for Microcontrollers (ESP32/RP2040)",
+        "url": "https://github.com/redbasecap-buiss/mcpd",
+        "timestamp": "2026-02-17T10:16:57.653491",
+        "source": "Hacker News"
     }
 ]
