@@ -78910,5 +78910,11 @@
         "url": "https://simonwillison.net/2026/Feb/17/qwen35/",
         "timestamp": "2026-02-17T05:07:47.592660",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: CodeGraph CLI – Chat with your codebase using graph-augmented RAG",
+        "url": "https://github.com/al1-nasir/codegraph-cli",
+        "timestamp": "2026-02-17T05:07:47.592693",
+        "source": "Hacker News"
     }
 ]
