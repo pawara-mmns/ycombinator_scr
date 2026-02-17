@@ -80254,5 +80254,11 @@
         "url": "https://www.anthropic.com/news/anthropic-rwanda-mou",
         "timestamp": "2026-02-17T12:24:49.709036",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Snowflake Emulator in Rust – Test locally without cloud credits",
+        "url": "https://github.com/sivchari/snowflake-emulator",
+        "timestamp": "2026-02-17T12:24:49.709072",
+        "source": "Hacker News"
     }
 ]
