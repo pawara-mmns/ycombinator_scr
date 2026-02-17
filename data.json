@@ -83938,5 +83938,11 @@
         "url": "https://nicholasdecker.substack.com/p/the-buses-really-should-be-free",
         "timestamp": "2026-02-17T23:07:26.944380",
         "source": "Hacker News"
+    },
+    {
+        "title": "API Error: Claude's response exceeded the 32000 output token maximum",
+        "url": "https://github.com/anthropics/claude-code/issues/24055",
+        "timestamp": "2026-02-17T23:07:26.944413",
+        "source": "Hacker News"
     }
 ]
