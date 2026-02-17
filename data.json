@@ -80344,5 +80344,11 @@
         "url": "https://news.ycombinator.com/item?id=47046851",
         "timestamp": "2026-02-17T12:46:59.449725",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ergo Framework v3.2.0 Released – Actor Model for Go",
+        "url": "https://github.com/ergo-services/ergo",
+        "timestamp": "2026-02-17T12:46:59.449784",
+        "source": "Hacker News"
     }
 ]
