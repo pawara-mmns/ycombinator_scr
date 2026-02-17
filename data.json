@@ -82528,5 +82528,11 @@
         "url": "https://polydistortion.net/doc/ssh.html",
         "timestamp": "2026-02-17T19:20:35.267226",
         "source": "Hacker News"
+    },
+    {
+        "title": "A reasonable and simple Git client",
+        "url": "https://github.com/lihail/neat-git",
+        "timestamp": "2026-02-17T19:20:35.267259",
+        "source": "Hacker News"
     }
 ]
