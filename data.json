@@ -83104,5 +83104,11 @@
         "url": "https://signalresume.com",
         "timestamp": "2026-02-17T20:45:23.930093",
         "source": "Hacker News"
+    },
+    {
+        "title": "AMO-Lean: Towards Formally Verified Optimization via Equality Saturation in Lean",
+        "url": "https://blog.lambdaclass.com/amo-lean-towards-formally-verified-optimization-via-equality-saturation-in-lean-4/",
+        "timestamp": "2026-02-17T20:45:23.930123",
+        "source": "Hacker News"
     }
 ]
