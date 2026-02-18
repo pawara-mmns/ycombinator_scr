@@ -90082,5 +90082,11 @@
         "url": "https://models.dev/",
         "timestamp": "2026-02-18T22:43:32.550185",
         "source": "Hacker News"
+    },
+    {
+        "title": "LeafKit HTML Escaping Vulnerability",
+        "url": "https://blog.vapor.codes/posts/leafkit-xss-vulnerability/",
+        "timestamp": "2026-02-18T22:43:32.550218",
+        "source": "Hacker News"
     }
 ]
