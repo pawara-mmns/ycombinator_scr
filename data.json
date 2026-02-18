@@ -85966,5 +85966,11 @@
         "url": "https://www.shmelo.io/",
         "timestamp": "2026-02-18T10:45:45.118705",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cline Supply Chain Attack: Cline 2.3.0 Silently Installs OpenClaw",
+        "url": "https://www.stepsecurity.io/blog/cline-supply-chain-attack-detected-cline-2-3-0-silently-installs-openclaw",
+        "timestamp": "2026-02-18T10:45:45.118739",
+        "source": "Hacker News"
     }
 ]
