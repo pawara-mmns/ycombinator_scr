@@ -88348,5 +88348,11 @@
         "url": "https://www.newyorker.com/culture/annals-of-inquiry/why-some-people-thrive-on-four-hours-of-sleep",
         "timestamp": "2026-02-18T18:14:59.562119",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reproducible and traceable configuration for Conan C and C++ package manager",
+        "url": "https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html",
+        "timestamp": "2026-02-18T18:14:59.562153",
+        "source": "Hacker News"
     }
 ]
