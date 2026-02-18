@@ -87814,5 +87814,11 @@
         "url": "https://www.moderntreasury.com",
         "timestamp": "2026-02-18T16:48:12.159502",
         "source": "Hacker News"
+    },
+    {
+        "title": "We scaled our AI assistant to use virtually unlimited number of tools",
+        "url": "https://gaia-fork-k7yngvswe-gaias-projects-2dead09b.vercel.app/blog/how-tool-calling-works",
+        "timestamp": "2026-02-18T16:48:12.159540",
+        "source": "Hacker News"
     }
 ]
