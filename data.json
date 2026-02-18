@@ -85600,5 +85600,11 @@
         "url": "https://news.ycombinator.com/item?id=47058885",
         "timestamp": "2026-02-18T09:16:48.964085",
         "source": "Hacker News"
+    },
+    {
+        "title": "Alternative Kubernetes CSI Driver for TrueNAS Scale",
+        "url": "https://github.com/fenio/tns-csi",
+        "timestamp": "2026-02-18T09:16:48.964123",
+        "source": "Hacker News"
     }
 ]
