@@ -88744,5 +88744,11 @@
         "url": "https://www.wsj.com/economy/over-65-congratulations-you-own-the-economy-5acea4c4",
         "timestamp": "2026-02-18T19:33:14.082227",
         "source": "Hacker News"
+    },
+    {
+        "title": "R3forth: A Concatenative Language Derived from ColorForth",
+        "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+        "timestamp": "2026-02-18T19:33:14.082258",
+        "source": "Hacker News"
     }
 ]
