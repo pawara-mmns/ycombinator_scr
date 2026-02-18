@@ -84874,5 +84874,11 @@
         "url": "https://start.boldvoice.com/accent-oracle",
         "timestamp": "2026-02-18T05:09:41.434021",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: m6502, a 6502 CPU for FPGAs and Tiny Tapeout",
+        "url": "https://github.com/chrismoos/m6502",
+        "timestamp": "2026-02-18T05:09:41.434066",
+        "source": "Hacker News"
     }
 ]
