@@ -87598,5 +87598,11 @@
         "url": "https://github.com/KafClaw/KafClaw",
         "timestamp": "2026-02-18T16:19:50.938539",
         "source": "Hacker News"
+    },
+    {
+        "title": "Flickzeug: a Rust crate for applying messy real-world patches",
+        "url": "https://prefix.dev/blog/flickzeug-because-patching-source-code-is-hard",
+        "timestamp": "2026-02-18T16:19:50.938573",
+        "source": "Hacker News"
     }
 ]
