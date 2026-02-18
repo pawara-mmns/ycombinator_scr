@@ -89884,5 +89884,11 @@
         "url": "https://www.grand-seiko.com/us-en/collections/movement/springdrive",
         "timestamp": "2026-02-18T22:08:24.827089",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: VectorJSON – O(n) streaming parser to handle LLM JSON outputs",
+        "url": "https://github.com/teamchong/vectorjson",
+        "timestamp": "2026-02-18T22:08:24.827124",
+        "source": "Hacker News"
     }
 ]
