@@ -84442,5 +84442,11 @@
         "url": "https://downdetector.com/status/youtube/",
         "timestamp": "2026-02-18T01:34:25.202873",
         "source": "Hacker News"
+    },
+    {
+        "title": "ZeroClaw – Rust-native agent that runs on your Rpi",
+        "url": "https://zeroclaw.bot/",
+        "timestamp": "2026-02-18T01:34:25.202906",
+        "source": "Hacker News"
     }
 ]
