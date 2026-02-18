@@ -86848,5 +86848,11 @@
         "url": "https://lwn.net/SubscriberLink/1058643/f7ba3383d584a3ea/",
         "timestamp": "2026-02-18T13:57:23.206638",
         "source": "Hacker News"
+    },
+    {
+        "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
+        "url": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
+        "timestamp": "2026-02-18T14:24:15.909236",
+        "source": "Hacker News"
     }
 ]
