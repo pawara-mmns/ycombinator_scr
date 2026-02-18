@@ -88630,5 +88630,11 @@
         "url": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
         "timestamp": "2026-02-18T19:06:58.879886",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open Slop – A GitHub Action to Triage AI-Generated PR Slop",
+        "url": "https://github.com/dr-alberto/open_slop",
+        "timestamp": "2026-02-18T19:06:58.879920",
+        "source": "Hacker News"
     }
 ]
