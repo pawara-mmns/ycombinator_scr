@@ -86008,5 +86008,11 @@
         "url": "https://github.com/HavenOverflow/gscemu",
         "timestamp": "2026-02-18T11:15:54.247243",
         "source": "Hacker News"
+    },
+    {
+        "title": "Late Chunking: Balancing Precision and Cost in Long Context Retrieval",
+        "url": "https://weaviate.io/blog/late-chunking",
+        "timestamp": "2026-02-18T11:15:54.247277",
+        "source": "Hacker News"
     }
 ]
