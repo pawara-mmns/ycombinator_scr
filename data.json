@@ -88642,5 +88642,11 @@
         "url": "https://otherfunc.com/",
         "timestamp": "2026-02-18T19:06:58.879954",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MCGrad – Fix ML Calibration in Subgroups (Open Source from Meta)",
+        "url": "https://github.com/facebookincubator/MCGrad",
+        "timestamp": "2026-02-18T19:06:58.880024",
+        "source": "Hacker News"
     }
 ]
