@@ -84586,5 +84586,11 @@
         "url": "https://mixio.ai",
         "timestamp": "2026-02-18T02:37:36.949169",
         "source": "Hacker News"
+    },
+    {
+        "title": "6502 Emulation – The Jump Indirect Bug",
+        "url": "https://markjames.dev/blog/6502-jump-indirect-bug",
+        "timestamp": "2026-02-18T02:37:36.949200",
+        "source": "Hacker News"
     }
 ]
