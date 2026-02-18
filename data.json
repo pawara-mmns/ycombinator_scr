@@ -85762,5 +85762,11 @@
         "url": "https://web-production-71423.up.railway.app/dashboard",
         "timestamp": "2026-02-18T10:16:03.810916",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building Next.js for an Agentic Future",
+        "url": "https://nextjs.org/blog/agentic-future",
+        "timestamp": "2026-02-18T10:16:03.810951",
+        "source": "Hacker News"
     }
 ]
