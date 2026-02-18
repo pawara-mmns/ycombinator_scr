@@ -86002,5 +86002,11 @@
         "url": "https://www.recraft.ai/blog/introducing-recraft-v4-design-taste-meets-image-generation",
         "timestamp": "2026-02-18T11:15:54.247207",
         "source": "Hacker News"
+    },
+    {
+        "title": "An emulator for Google's Titan C chip",
+        "url": "https://github.com/HavenOverflow/gscemu",
+        "timestamp": "2026-02-18T11:15:54.247243",
+        "source": "Hacker News"
     }
 ]
