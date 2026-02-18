@@ -85792,5 +85792,11 @@
         "url": "https://www.theregister.com/2026/02/18/linus_torvalds_and_friends/",
         "timestamp": "2026-02-18T10:16:03.811111",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LedgerSync – A cross-agent shared-memory protocol for AI coding",
+        "url": "https://github.com/Metacog-AI/ledgersync",
+        "timestamp": "2026-02-18T10:16:03.811145",
+        "source": "Hacker News"
     }
 ]
