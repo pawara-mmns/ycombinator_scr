@@ -89080,5 +89080,11 @@
         "url": "https://www.afr.com/technology/atlassian-freezes-hiring-amid-global-software-sell-off-20260216-p5o2r4",
         "timestamp": "2026-02-18T20:19:10.165062",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hashgrid MCP – Discovery Network for Agents",
+        "url": "https://github.com/hashgrid-labs/sdk/tree/main/mcp",
+        "timestamp": "2026-02-18T20:19:10.165099",
+        "source": "Hacker News"
     }
 ]
