@@ -86836,5 +86836,11 @@
         "url": "https://www.youtube.com/watch?v=6QryFk4RYaM",
         "timestamp": "2026-02-18T13:57:23.206502",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cargo B(inary)Install: Binary installation for rust projects",
+        "url": "https://github.com/cargo-bins/cargo-binstall",
+        "timestamp": "2026-02-18T13:57:23.206570",
+        "source": "Hacker News"
     }
 ]
