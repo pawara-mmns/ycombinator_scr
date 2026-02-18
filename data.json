@@ -89806,5 +89806,11 @@
         "url": "https://www.noemamag.com/the-last-yak-herder-of-ladakh/",
         "timestamp": "2026-02-18T22:08:24.826575",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LLM Gateway for OpenAI/Anthropic Written in Golang",
+        "url": "https://github.com/ongoingai/gateway",
+        "timestamp": "2026-02-18T22:08:24.826612",
+        "source": "Hacker News"
     }
 ]
