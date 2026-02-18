@@ -90124,5 +90124,11 @@
         "url": "https://focal.ablg.io/",
         "timestamp": "2026-02-18T22:59:36.940919",
         "source": "Hacker News"
+    },
+    {
+        "title": "Harrier: A high-performance Rust hashmap using SIMD-accelerated cuckoo hashing",
+        "url": "https://github.com/kushalthaman/harrier",
+        "timestamp": "2026-02-18T22:59:36.940970",
+        "source": "Hacker News"
     }
 ]
