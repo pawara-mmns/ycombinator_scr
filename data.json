@@ -84754,5 +84754,11 @@
         "url": "https://www.testingcatalog.com/microsoft-tests-researcher-and-analyst-agents-in-copilot-tasks/",
         "timestamp": "2026-02-18T03:38:06.518527",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agent Audit Kit v0.1 – deterministic replay + stress for LLM agents",
+        "url": "https://github.com/helpfuldolphin/AgentAuditKit/releases/tag/aak-v0.1.0-e3",
+        "timestamp": "2026-02-18T03:38:06.518561",
+        "source": "Hacker News"
     }
 ]
