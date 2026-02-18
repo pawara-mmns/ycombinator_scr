@@ -88354,5 +88354,11 @@
         "url": "https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html",
         "timestamp": "2026-02-18T18:14:59.562153",
         "source": "Hacker News"
+    },
+    {
+        "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+        "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+        "timestamp": "2026-02-18T18:14:59.562187",
+        "source": "Hacker News"
     }
 ]
