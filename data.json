@@ -85048,5 +85048,11 @@
         "url": "https://gitlab.com/bztsrc/posix-uefi",
         "timestamp": "2026-02-18T05:41:50.511924",
         "source": "Hacker News"
+    },
+    {
+        "title": "Migrating from Postgres to ClickHouse for faster dashboards",
+        "url": "https://docs.fiveonefour.com/guides/performant-dashboards/tutorial?lang=typescript",
+        "timestamp": "2026-02-18T05:41:50.511952",
+        "source": "Hacker News"
     }
 ]
