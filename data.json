@@ -87280,5 +87280,11 @@
         "url": "https://scicloj.github.io/clojure-jam-2026/",
         "timestamp": "2026-02-18T15:17:19.925996",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels",
+        "url": "https://github.com/Park07/amradio",
+        "timestamp": "2026-02-18T15:17:19.926029",
+        "source": "Hacker News"
     }
 ]
