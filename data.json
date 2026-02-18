@@ -86476,5 +86476,11 @@
         "url": "https://huggingface.co/papers/2602.15763",
         "timestamp": "2026-02-18T12:47:10.050961",
         "source": "Hacker News"
+    },
+    {
+        "title": "Semantic closure: why compilers know when they are right and LLMs do not",
+        "url": "https://sderosiaux.substack.com/p/semantic-closure-why-compilers-know",
+        "timestamp": "2026-02-18T12:47:10.050995",
+        "source": "Hacker News"
     }
 ]
