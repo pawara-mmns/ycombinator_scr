@@ -88000,5 +88000,11 @@
         "url": "https://jacobin.com/2026/02/hyperpolitics-jager-institutions-media-review",
         "timestamp": "2026-02-18T17:24:04.847503",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic bans OAuth tokens (including Agent SDK) in 3P tools",
+        "url": "https://code.claude.com/docs/en/legal-and-compliance",
+        "timestamp": "2026-02-18T17:24:04.847539",
+        "source": "Hacker News"
     }
 ]
