@@ -89428,5 +89428,11 @@
         "url": "https://github.com/ArturGrandi/gt2-research-track/blob/main/docs/CONTROLLED_DEMO_BLUEPRINT.md",
         "timestamp": "2026-02-18T21:12:27.284017",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sqlx4k: A couroutine-first SQL toolkit for Kotlin Multiplatform",
+        "url": "https://github.com/smyrgeorge/sqlx4k",
+        "timestamp": "2026-02-18T21:12:27.284050",
+        "source": "Hacker News"
     }
 ]
