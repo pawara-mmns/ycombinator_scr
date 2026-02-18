@@ -89638,5 +89638,11 @@
         "url": "https://zenstat.app/",
         "timestamp": "2026-02-18T21:28:14.106030",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kernel-enforced sandbox App and SDK for AI agents, MCP and LLM workloads",
+        "url": "https://github.com/always-further/nono",
+        "timestamp": "2026-02-18T21:28:14.106064",
+        "source": "Hacker News"
     }
 ]
