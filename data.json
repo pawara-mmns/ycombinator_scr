@@ -89500,5 +89500,11 @@
         "url": "https://www.theregister.com/2026/02/18/microsoft_copilot_data_loss_prevention/",
         "timestamp": "2026-02-18T21:12:27.284422",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Black Hole Simulator in CUDA C++",
+        "url": "https://github.com/anwoy/MyCudaProject",
+        "timestamp": "2026-02-18T21:12:27.284463",
+        "source": "Hacker News"
     }
 ]
