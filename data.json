@@ -88498,5 +88498,11 @@
         "url": "https://www.worldlabs.ai/blog/funding-2026",
         "timestamp": "2026-02-18T18:33:48.820394",
         "source": "Hacker News"
+    },
+    {
+        "title": "Python All the Way Down: Speed-of-Light CUDA Without Leaving Python",
+        "url": "https://www.nvidia.com/gtc/session-catalog/sessions/gtc26-s81531/",
+        "timestamp": "2026-02-18T18:33:48.820423",
+        "source": "Hacker News"
     }
 ]
