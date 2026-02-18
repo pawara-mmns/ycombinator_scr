@@ -84268,5 +84268,11 @@
         "url": "https://www.lucasfcosta.com/blog/design-docs",
         "timestamp": "2026-02-18T00:55:28.945515",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: GreedyPhrase – 1.21x better compression than GPT-4o tiktoken, 6x faster",
+        "url": "https://github.com/rayonnant-ai/greedyphrase",
+        "timestamp": "2026-02-18T00:55:28.945578",
+        "source": "Hacker News"
     }
 ]
