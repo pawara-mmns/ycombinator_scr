@@ -85042,5 +85042,11 @@
         "url": "https://github.com/AhmedAllam0/ghosttrace",
         "timestamp": "2026-02-18T05:41:50.511895",
         "source": "Hacker News"
+    },
+    {
+        "title": "POSIX-UEF POSIX compatibility layer and build environment for UEFI",
+        "url": "https://gitlab.com/bztsrc/posix-uefi",
+        "timestamp": "2026-02-18T05:41:50.511924",
+        "source": "Hacker News"
     }
 ]
