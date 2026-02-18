@@ -84202,5 +84202,11 @@
         "url": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
         "timestamp": "2026-02-18T00:18:54.772910",
         "source": "Hacker News"
+    },
+    {
+        "title": "Minimal x86 Kernel Zig",
+        "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+        "timestamp": "2026-02-18T00:18:54.772947",
+        "source": "Hacker News"
     }
 ]
