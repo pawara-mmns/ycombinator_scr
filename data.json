@@ -85522,5 +85522,11 @@
         "url": "https://news.ycombinator.com/item?id=47058763",
         "timestamp": "2026-02-18T08:46:00.363805",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: PowerBasilisk: Open x64 PowerBASIC in Rust generates LLVM",
+        "url": "https://github.com/benstopics/powerbasilisk",
+        "timestamp": "2026-02-18T08:46:00.363842",
+        "source": "Hacker News"
     }
 ]
