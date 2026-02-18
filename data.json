@@ -87058,5 +87058,11 @@
         "url": "https://github.com/shakecodeslikecray/promptc",
         "timestamp": "2026-02-18T14:45:55.958629",
         "source": "Hacker News"
+    },
+    {
+        "title": "Identity-aware SSH proxy using your OS native SSH client",
+        "url": "https://www.pomerium.com/docs/capabilities/native-ssh-access",
+        "timestamp": "2026-02-18T14:45:55.958699",
+        "source": "Hacker News"
     }
 ]
