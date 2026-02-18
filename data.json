@@ -88090,5 +88090,11 @@
         "url": "https://www.nature.com/articles/s41586-025-10021-1",
         "timestamp": "2026-02-18T17:47:40.481604",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Fory C++ Serialization – Polymorphism, Circular Refs, 12x vs. Protobuf",
+        "url": "https://fory.apache.org/blog/fory_cpp_blazing_fast_serialization_framework/",
+        "timestamp": "2026-02-18T17:47:40.481640",
+        "source": "Hacker News"
     }
 ]
