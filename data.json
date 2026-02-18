@@ -87958,5 +87958,11 @@
         "url": "https://christianheilmann.com/2026/02/16/webmcp-a-much-needed-way-to-make-agents-play-with-rather-than-against-the-web/",
         "timestamp": "2026-02-18T17:24:04.847248",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pg_ClickHouse: Fastest Postgres Extension on ClickBench",
+        "url": "https://clickhouse.com/blog/pg_clickhouse-fastest-analytics-for-postgres",
+        "timestamp": "2026-02-18T17:24:04.847281",
+        "source": "Hacker News"
     }
 ]
