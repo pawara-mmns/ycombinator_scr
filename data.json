@@ -88324,5 +88324,11 @@
         "url": "https://www.onecontext.dev/",
         "timestamp": "2026-02-18T18:14:59.561983",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Slimg – Fast Image Optimizer CLI in Rust with Kotlin/Python Bindings",
+        "url": "https://github.com/clroot/slimg",
+        "timestamp": "2026-02-18T18:14:59.562018",
+        "source": "Hacker News"
     }
 ]
