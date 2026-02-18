@@ -86326,5 +86326,11 @@
         "url": "https://treechain.ai/white-papers/unicode-homoglyph-path-injection-in-chromium-native-messaging/",
         "timestamp": "2026-02-18T12:24:59.696647",
         "source": "Hacker News"
+    },
+    {
+        "title": "BrowserPod: Universal in-browser sandbox powered by WASM (starting with Node.js)",
+        "url": "https://labs.leaningtech.com/blog/browserpod-10",
+        "timestamp": "2026-02-18T12:24:59.696698",
+        "source": "Hacker News"
     }
 ]
