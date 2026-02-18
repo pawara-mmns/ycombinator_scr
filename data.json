@@ -87460,5 +87460,11 @@
         "url": "https://nik.art/what-cooking-tells-us-about-ai/",
         "timestamp": "2026-02-18T15:47:23.918260",
         "source": "Hacker News"
+    },
+    {
+        "title": "Extracting Financial Data Using LLMs Without Reading Every Email",
+        "url": "https://github.com/brainless/dwata/blob/feature/reverse-template-based-financial-data-extraction/docs/05-blog-financial-email-extraction.md",
+        "timestamp": "2026-02-18T15:47:23.918295",
+        "source": "Hacker News"
     }
 ]
