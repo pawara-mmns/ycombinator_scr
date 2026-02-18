@@ -85684,5 +85684,11 @@
         "url": "https://vmfunc.re/blog/persona/",
         "timestamp": "2026-02-18T09:46:11.929195",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google image URLs allow arbitrary upscaling via size parameter",
+        "url": "https://news.ycombinator.com/item?id=47059117",
+        "timestamp": "2026-02-18T09:46:11.929231",
+        "source": "Hacker News"
     }
 ]
