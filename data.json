@@ -90328,5 +90328,11 @@
         "url": "https://bottemple.com/",
         "timestamp": "2026-02-18T23:41:47.453373",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reverse-Engineering the OpenAI's GPT-5 Tokenizer",
+        "url": "https://metehan.ai/blog/reverse-engineering-the-gpt-5-tokenizer-aeo-geo/",
+        "timestamp": "2026-02-18T23:41:47.453408",
+        "source": "Hacker News"
     }
 ]
