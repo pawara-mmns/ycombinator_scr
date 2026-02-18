@@ -84346,5 +84346,11 @@
         "url": "https://dw1.io/blog/2026/02/17/sandboxec/",
         "timestamp": "2026-02-18T00:55:28.946151",
         "source": "Hacker News"
+    },
+    {
+        "title": "An assembler that compiles to a printf loop",
+        "url": "https://git.sr.ht/~sebsite/printfasm",
+        "timestamp": "2026-02-18T00:55:28.946186",
+        "source": "Hacker News"
     }
 ]
