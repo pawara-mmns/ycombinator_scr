@@ -86182,5 +86182,11 @@
         "url": "https://twitter.com/LiorNn/status/2023385552548946324",
         "timestamp": "2026-02-18T11:44:36.077770",
         "source": "Hacker News"
+    },
+    {
+        "title": "28M Tokens for One Simple OpenClaw Prompt",
+        "url": "https://github.com/simple10/openclaude/blob/main/notes/logs/runaway-openclaw-prompt-hack.md",
+        "timestamp": "2026-02-18T11:44:36.077804",
+        "source": "Hacker News"
     }
 ]
