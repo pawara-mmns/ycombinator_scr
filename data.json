@@ -85738,5 +85738,11 @@
         "url": "http://ternarysearch.blogspot.com/2026/02/triton-language.html",
         "timestamp": "2026-02-18T09:46:11.929597",
         "source": "Hacker News"
+    },
+    {
+        "title": "Model-context-shell: Unix-style pipelines for MCP. Deterministic tool calls",
+        "url": "https://github.com/StacklokLabs/model-context-shell",
+        "timestamp": "2026-02-18T10:16:03.810753",
+        "source": "Hacker News"
     }
 ]
