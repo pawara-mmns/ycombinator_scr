@@ -90130,5 +90130,11 @@
         "url": "https://github.com/kushalthaman/harrier",
         "timestamp": "2026-02-18T22:59:36.940970",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Generate baseline Kubernetes NetworkPolicies from rendered manifests",
+        "url": "https://github.com/dormstern/segspec",
+        "timestamp": "2026-02-18T22:59:36.941007",
+        "source": "Hacker News"
     }
 ]
