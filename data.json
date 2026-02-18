@@ -88102,5 +88102,11 @@
         "url": "https://www.nytimes.com/2023/08/05/world/europe/neville-roy-singham-china-propaganda.html",
         "timestamp": "2026-02-18T17:47:40.481677",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero Agent Gate: Agent-to-Service Auth That Keeps Secrets Out of the LLM",
+        "url": "https://shivekkhurana.com/blog/zag/",
+        "timestamp": "2026-02-18T17:47:40.481714",
+        "source": "Hacker News"
     }
 ]
