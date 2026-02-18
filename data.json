@@ -85852,5 +85852,11 @@
         "url": "https://shiro.computer",
         "timestamp": "2026-02-18T10:45:45.117951",
         "source": "Hacker News"
+    },
+    {
+        "title": "A way to manage your versioning and changelogs with a focus on monorepos",
+        "url": "https://github.com/changesets/changesets",
+        "timestamp": "2026-02-18T10:45:45.117989",
+        "source": "Hacker News"
     }
 ]
