@@ -87052,5 +87052,11 @@
         "url": "https://github.com/chitralabs/sheetz",
         "timestamp": "2026-02-18T14:45:55.958591",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Prompts are coupled to LLMs and nobody builds tooling for it",
+        "url": "https://github.com/shakecodeslikecray/promptc",
+        "timestamp": "2026-02-18T14:45:55.958629",
+        "source": "Hacker News"
     }
 ]
