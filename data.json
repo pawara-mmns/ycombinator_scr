@@ -87832,5 +87832,11 @@
         "url": "https://github.com/d99kris/nchat",
         "timestamp": "2026-02-18T16:48:12.159608",
         "source": "Hacker News"
+    },
+    {
+        "title": "Qwen3.5-397B-A17B-FP8 weights are now available",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B-FP8",
+        "timestamp": "2026-02-18T16:48:12.159641",
+        "source": "Hacker News"
     }
 ]
