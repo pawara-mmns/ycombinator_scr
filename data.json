@@ -85144,5 +85144,11 @@
         "url": "https://www.youtube.com/watch?v=eIoohUmYpGI",
         "timestamp": "2026-02-18T06:38:23.212567",
         "source": "Hacker News"
+    },
+    {
+        "title": "A DuckDB-based metabase alternative",
+        "url": "https://github.com/taleshape-com/shaper",
+        "timestamp": "2026-02-18T06:38:23.212602",
+        "source": "Hacker News"
     }
 ]
