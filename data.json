@@ -90052,5 +90052,11 @@
         "url": "https://www.mdpi.com/2227-7099/14/1/34",
         "timestamp": "2026-02-18T22:43:32.550021",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scaling Job Execution: From Cron to Distributed Schedulers for Thousands Per",
+        "url": "https://animeshgaitonde.medium.com/from-cron-to-distributed-schedulers-scaling-job-execution-to-thousands-of-jobs-per-second-ef05955bf3d9",
+        "timestamp": "2026-02-18T22:43:32.550054",
+        "source": "Hacker News"
     }
 ]
