@@ -89902,5 +89902,11 @@
         "url": "https://flowingdata.com/2024/01/30/world-railway-map/",
         "timestamp": "2026-02-18T22:08:24.827262",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Env-rx – Catch missing .env variables before they break your CI",
+        "url": "https://github.com/xserhio/env-rx",
+        "timestamp": "2026-02-18T22:08:24.827296",
+        "source": "Hacker News"
     }
 ]
