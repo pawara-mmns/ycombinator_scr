@@ -84676,5 +84676,11 @@
         "url": "https://news.ycombinator.com/item?id=47056759",
         "timestamp": "2026-02-18T03:38:06.517881",
         "source": "Hacker News"
+    },
+    {
+        "title": "PEP 814 – Add frozendict built-in type",
+        "url": "https://peps.python.org/pep-0814/",
+        "timestamp": "2026-02-18T03:38:06.517921",
+        "source": "Hacker News"
     }
 ]
