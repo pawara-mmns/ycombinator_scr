@@ -85384,5 +85384,11 @@
         "url": "https://www.historytoday.com/archive/first-global-empire",
         "timestamp": "2026-02-18T07:59:30.504578",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft .NET on Linux Patches Use IO_uring for Performance Benefits",
+        "url": "https://www.phoronix.com/news/Microsoft-dotNET-IO-uring",
+        "timestamp": "2026-02-18T07:59:30.504614",
+        "source": "Hacker News"
     }
 ]
