@@ -85912,5 +85912,11 @@
         "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
         "timestamp": "2026-02-18T10:45:45.118397",
         "source": "Hacker News"
+    },
+    {
+        "title": "A simple dead man's switch in Rust",
+        "url": "https://storopoli.com/posts/2024-03-23-dead-man-switch.html",
+        "timestamp": "2026-02-18T10:45:45.118432",
+        "source": "Hacker News"
     }
 ]
