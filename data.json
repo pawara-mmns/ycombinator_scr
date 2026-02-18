@@ -85072,5 +85072,11 @@
         "url": "https://settlerisk.com",
         "timestamp": "2026-02-18T05:41:50.512065",
         "source": "Hacker News"
+    },
+    {
+        "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
+        "url": "https://github.com/DatanoiseTV/tinyice",
+        "timestamp": "2026-02-18T06:08:28.560600",
+        "source": "Hacker News"
     }
 ]
