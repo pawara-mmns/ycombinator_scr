@@ -86110,5 +86110,11 @@
         "url": "https://vvterm.com/",
         "timestamp": "2026-02-18T11:15:54.247835",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Benchmarking Apple Silicon unified mem for GPU-accelerated SQL analysis",
+        "url": "https://github.com/sadopc/unified-db-2",
+        "timestamp": "2026-02-18T11:15:54.247907",
+        "source": "Hacker News"
     }
 ]
