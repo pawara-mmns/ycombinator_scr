@@ -87694,5 +87694,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-02-18/social-media-addiction-trial-what-it-means-for-meta-google",
         "timestamp": "2026-02-18T16:19:50.939090",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+        "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+        "timestamp": "2026-02-18T16:48:11.860474",
+        "source": "Hacker News"
     }
 ]
