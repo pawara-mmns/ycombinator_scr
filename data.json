@@ -95326,5 +95326,11 @@
         "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260219_21/",
         "timestamp": "2026-02-19T20:15:14.474726",
         "source": "Hacker News"
+    },
+    {
+        "title": "Malicious NPM Package Hides Pulsar .NET Malware Inside PNG Images",
+        "url": "https://www.veracode.com/blog/malicious-npm-package-hiding-in-plain-pixels/",
+        "timestamp": "2026-02-19T20:15:14.474760",
+        "source": "Hacker News"
     }
 ]
