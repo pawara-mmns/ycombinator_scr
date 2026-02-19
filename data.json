@@ -91774,5 +91774,11 @@
         "url": "https://dokasto.com/blog/we-are-letting-llms-decide/",
         "timestamp": "2026-02-19T08:22:59.784501",
         "source": "Hacker News"
+    },
+    {
+        "title": "My website is now ~2.8x faster after converting it to a Django LiveView SPA",
+        "url": "https://en.andros.dev/blog/dd5a0746/my-website-is-now-28x-faster-after-converting-it-to-a-django-liveview-spa/",
+        "timestamp": "2026-02-19T08:22:59.784541",
+        "source": "Hacker News"
     }
 ]
