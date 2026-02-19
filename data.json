@@ -94642,5 +94642,11 @@
         "url": "https://arxiv.org/abs/2602.15322",
         "timestamp": "2026-02-19T18:46:39.876402",
         "source": "Hacker News"
+    },
+    {
+        "title": "A CLI for managing FIDO2 security keys",
+        "url": "https://github.com/mohammadv184/skm",
+        "timestamp": "2026-02-19T18:46:39.876440",
+        "source": "Hacker News"
     }
 ]
