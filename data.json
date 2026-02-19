@@ -90526,5 +90526,11 @@
         "url": "https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/",
         "timestamp": "2026-02-19T00:18:51.989090",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Local \"incident bundle\" for AI/agent failures (offline rep and CI JSON)",
+        "url": "https://github.com/Tanyayvr/agent-qa-toolkit",
+        "timestamp": "2026-02-19T00:18:51.989126",
+        "source": "Hacker News"
     }
 ]
