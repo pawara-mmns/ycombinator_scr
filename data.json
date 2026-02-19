@@ -94360,5 +94360,11 @@
         "url": "https://news.ycombinator.com/item?id=47076396",
         "timestamp": "2026-02-19T17:46:50.952832",
         "source": "Hacker News"
+    },
+    {
+        "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+        "url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+        "timestamp": "2026-02-19T17:46:50.952866",
+        "source": "Hacker News"
     }
 ]
