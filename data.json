@@ -94330,5 +94330,11 @@
         "url": "https://semanticapi.dev",
         "timestamp": "2026-02-19T17:46:50.952627",
         "source": "Hacker News"
+    },
+    {
+        "title": "Tspo: A zero-dependency TypeScript utility library for plain-object workflows",
+        "url": "https://github.com/seanpmaxwell/tspo",
+        "timestamp": "2026-02-19T17:46:50.952660",
+        "source": "Hacker News"
     }
 ]
