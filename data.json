@@ -95272,5 +95272,11 @@
         "url": "https://www.theguardian.com/technology/2026/feb/19/us-builds-website-that-will-allow-europeans-to-view-blocked-content",
         "timestamp": "2026-02-19T20:15:14.474412",
         "source": "Hacker News"
+    },
+    {
+        "title": "Implementing a secure sandbox for local agents",
+        "url": "https://cursor.com/blog/agent-sandboxing",
+        "timestamp": "2026-02-19T20:15:14.474447",
+        "source": "Hacker News"
     }
 ]
