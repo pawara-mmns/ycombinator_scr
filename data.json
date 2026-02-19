@@ -95524,5 +95524,11 @@
         "url": "https://github.com/testflows/Examples/tree/v2.0/SuperMario",
         "timestamp": "2026-02-19T20:44:09.611101",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prompt Injection Is a LangSec Problem: Unsolvable in the General Case",
+        "url": "https://jhugman.com/posts/prompt-injection-langsec/",
+        "timestamp": "2026-02-19T20:44:09.611135",
+        "source": "Hacker News"
     }
 ]
