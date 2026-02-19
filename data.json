@@ -94192,5 +94192,11 @@
         "url": "https://news.ycombinator.com/item?id=47076058",
         "timestamp": "2026-02-19T17:19:57.715262",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A/B test your own VLMs for document parsing (Self-hosted Arena)",
+        "url": "https://github.com/Bae-ChangHyun/DocParse_Arena",
+        "timestamp": "2026-02-19T17:19:57.715291",
+        "source": "Hacker News"
     }
 ]
