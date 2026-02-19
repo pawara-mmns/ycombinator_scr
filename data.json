@@ -91516,5 +91516,11 @@
         "url": "https://fedoramagazine.org/fedora-syria/",
         "timestamp": "2026-02-19T06:37:25.316042",
         "source": "Hacker News"
+    },
+    {
+        "title": "On-demand Kafka sinks on your K8s cluster",
+        "url": "https://tech.trivago.com/post/2026-02-18-from-always-on-to-on-demand-scaling-kafka-sinks-with-keda",
+        "timestamp": "2026-02-19T06:37:25.316072",
+        "source": "Hacker News"
     }
 ]
