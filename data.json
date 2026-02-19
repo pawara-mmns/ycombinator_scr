@@ -94930,5 +94930,11 @@
         "url": "https://investment-calculator.net/inflation-calculator/",
         "timestamp": "2026-02-19T19:43:04.100236",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI helps unlock 50-80x improvement in Linux's io_uring",
+        "url": "https://lore.kernel.org/qemu-devel/20260213143225.161043-1-axboe@kernel.dk/#t",
+        "timestamp": "2026-02-19T19:43:04.100288",
+        "source": "Hacker News"
     }
 ]
