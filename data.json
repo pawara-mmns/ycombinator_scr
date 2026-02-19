@@ -92086,5 +92086,11 @@
         "url": "https://github.com/michaloo/flarepilot",
         "timestamp": "2026-02-19T10:16:05.685307",
         "source": "Hacker News"
+    },
+    {
+        "title": "Zuna: A 380M-parameter foundation model for EEG signals",
+        "url": "https://huggingface.co/Zyphra/ZUNA",
+        "timestamp": "2026-02-19T10:16:05.685342",
+        "source": "Hacker News"
     }
 ]
