@@ -93730,5 +93730,11 @@
         "url": "https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale",
         "timestamp": "2026-02-19T16:17:31.720618",
         "source": "Hacker News"
+    },
+    {
+        "title": "Measuring Input-to-Photon Latency (Because 'Wayland Feels Off' Isn't a Metric)",
+        "url": "https://davidjusto.com/articles/m2p-latency/",
+        "timestamp": "2026-02-19T16:17:32.025465",
+        "source": "Hacker News"
     }
 ]
