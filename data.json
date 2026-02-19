@@ -90754,5 +90754,11 @@
         "url": "https://dashboard-xi-taupe-75.vercel.app/",
         "timestamp": "2026-02-19T01:34:03.744214",
         "source": "Hacker News"
+    },
+    {
+        "title": "RustyClaw: Open-source multi-agent AI orchestration in Rust",
+        "url": "https://github.com/jurgen-siegel/rusty-claw",
+        "timestamp": "2026-02-19T01:34:03.744281",
+        "source": "Hacker News"
     }
 ]
