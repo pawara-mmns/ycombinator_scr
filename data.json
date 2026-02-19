@@ -92764,5 +92764,11 @@
         "url": "https://claudebin.com/",
         "timestamp": "2026-02-19T13:30:08.323033",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Carbon-aware scheduler for batch ETL jobs (Python)",
+        "url": "https://github.com/ramkdataeng-lab/greenops-carbon-scheduler",
+        "timestamp": "2026-02-19T13:30:08.323070",
+        "source": "Hacker News"
     }
 ]
