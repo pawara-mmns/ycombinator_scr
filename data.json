@@ -93010,5 +93010,11 @@
         "url": "https://www.syntacticbrownsugar.tech/posts/what-size-queue/",
         "timestamp": "2026-02-19T13:59:05.138848",
         "source": "Hacker News"
+    },
+    {
+        "title": "One-Shot Any Web App with Gradio's Gr.HTML",
+        "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+        "timestamp": "2026-02-19T13:59:05.138884",
+        "source": "Hacker News"
     }
 ]
