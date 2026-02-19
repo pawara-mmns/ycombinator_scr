@@ -96322,5 +96322,11 @@
         "url": "https://www.phoronix.com/news/Ubuntu-26.04-OpenJDK-25",
         "timestamp": "2026-02-19T22:58:39.576839",
         "source": "Hacker News"
+    },
+    {
+        "title": "GPT-OSS-20B-Vision: First Community VLM for GPT-OSS, Trained on a DGX Spark",
+        "url": "https://huggingface.co/vincentkaufmann/gpt-oss-20b-vision-preview",
+        "timestamp": "2026-02-19T22:58:39.576890",
+        "source": "Hacker News"
     }
 ]
