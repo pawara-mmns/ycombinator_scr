@@ -94390,5 +94390,11 @@
         "url": "https://github.com/obsessiondb/signoz-obsessiondb",
         "timestamp": "2026-02-19T17:46:50.953033",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: BLite a Document embedded database for .NET (AOT, no deps)",
+        "url": "https://github.com/EntglDb/BLite",
+        "timestamp": "2026-02-19T17:46:50.953066",
+        "source": "Hacker News"
     }
 ]
