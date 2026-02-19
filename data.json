@@ -93334,5 +93334,11 @@
         "url": "https://dispatch.techoversight.org/email/23724686-b700-489a-9677-327799e75e5e/",
         "timestamp": "2026-02-19T14:50:14.648659",
         "source": "Hacker News"
+    },
+    {
+        "title": "56% of PyPI malware runs at install, so I sandboxed pip with eBPF",
+        "url": "https://news.ycombinator.com/item?id=47074155",
+        "timestamp": "2026-02-19T14:50:14.648693",
+        "source": "Hacker News"
     }
 ]
