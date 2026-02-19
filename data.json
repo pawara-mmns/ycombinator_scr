@@ -94234,5 +94234,11 @@
         "url": "https://barts.space/getting-started-with-claude-code-the-practical-version/",
         "timestamp": "2026-02-19T17:19:57.715503",
         "source": "Hacker News"
+    },
+    {
+        "title": "Porting barcode scanning library ZXing to Go with Claude Code",
+        "url": "https://levine.tech/blog/porting-zxing",
+        "timestamp": "2026-02-19T17:19:57.715533",
+        "source": "Hacker News"
     }
 ]
