@@ -91264,5 +91264,11 @@
         "url": "https://news.ycombinator.com/item?id=47070071",
         "timestamp": "2026-02-19T05:08:03.231304",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Built Local Memory for Coding Agents Because They Keep Forgetting Everything",
+        "url": "https://muhammadraza.me/2026/building-local-memory-for-coding-agents/",
+        "timestamp": "2026-02-19T05:08:03.231345",
+        "source": "Hacker News"
     }
 ]
