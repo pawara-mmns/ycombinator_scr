@@ -90802,5 +90802,11 @@
         "url": "https://news.ycombinator.com/item?id=47068547",
         "timestamp": "2026-02-19T01:34:03.744544",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
+        "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+        "timestamp": "2026-02-19T02:37:27.510507",
+        "source": "Hacker News"
     }
 ]
