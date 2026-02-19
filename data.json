@@ -93490,5 +93490,11 @@
         "url": "https://offerlog.io",
         "timestamp": "2026-02-19T15:16:41.929519",
         "source": "Hacker News"
+    },
+    {
+        "title": "A hidden prompt can steal your SSH keys",
+        "url": "https://grith.ai/blog/your-ai-agent-has-broad-access",
+        "timestamp": "2026-02-19T15:16:41.929555",
+        "source": "Hacker News"
     }
 ]
