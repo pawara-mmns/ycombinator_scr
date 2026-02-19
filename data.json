@@ -91084,5 +91084,11 @@
         "url": "https://philippdubach.com/posts/the-impossible-backhand/",
         "timestamp": "2026-02-19T03:37:47.842111",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: DeskMic a Rust based hyper-light continuous transcriber/AI summarizer",
+        "url": "https://github.com/varunr89/deskmic",
+        "timestamp": "2026-02-19T03:37:47.842185",
+        "source": "Hacker News"
     }
 ]
