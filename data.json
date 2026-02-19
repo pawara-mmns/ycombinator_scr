@@ -92266,5 +92266,11 @@
         "url": "https://telemetryagent.dev/blog/theoretical-view-something-big",
         "timestamp": "2026-02-19T11:16:10.241398",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bridging Elixir and Python with Oban",
+        "url": "https://oban.pro/articles/bridging-with-oban",
+        "timestamp": "2026-02-19T11:16:10.241434",
+        "source": "Hacker News"
     }
 ]
