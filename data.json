@@ -91030,5 +91030,11 @@
         "url": "https://www.kevinlondon.com/2026/02/15/not-faster-but-wider/",
         "timestamp": "2026-02-19T03:37:47.841401",
         "source": "Hacker News"
+    },
+    {
+        "title": "LongCLI-Bench: Benchmark and Study for Long-Horizon Agentic Programming in CLIs",
+        "url": "https://arxiv.org/abs/2602.14337",
+        "timestamp": "2026-02-19T03:37:47.841470",
+        "source": "Hacker News"
     }
 ]
