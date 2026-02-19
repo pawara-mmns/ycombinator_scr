@@ -93748,5 +93748,11 @@
         "url": "https://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops",
         "timestamp": "2026-02-19T16:17:32.025559",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP Guardian – Let your LLM audit its own MCP tools for prompt injection",
+        "url": "https://github.com/alexandriashai/mcp-guardian",
+        "timestamp": "2026-02-19T16:17:32.025618",
+        "source": "Hacker News"
     }
 ]
