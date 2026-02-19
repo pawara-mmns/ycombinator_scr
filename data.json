@@ -93940,5 +93940,11 @@
         "url": "https://yinsuboaster.substack.com/p/im-glad-the-internet-wasnt-watching",
         "timestamp": "2026-02-19T16:46:44.952222",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: High-performance Hex editor in C# with a custom DSL for binary patching",
+        "url": "https://github.com/pumpkin-bit/EUVA",
+        "timestamp": "2026-02-19T16:46:44.952260",
+        "source": "Hacker News"
     }
 ]
