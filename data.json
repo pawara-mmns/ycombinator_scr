@@ -93676,5 +93676,11 @@
         "url": "https://phys.org/news/2026-02-world-smallest-qr-code-electron.html",
         "timestamp": "2026-02-19T15:46:24.595712",
         "source": "Hacker News"
+    },
+    {
+        "title": "Crates.io: an update to the malicious crate notification policy",
+        "url": "https://blog.rust-lang.org/2026/02/13/crates.io-malicious-crate-update/",
+        "timestamp": "2026-02-19T15:46:24.595748",
+        "source": "Hacker News"
     }
 ]
