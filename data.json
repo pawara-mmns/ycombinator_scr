@@ -91894,5 +91894,11 @@
         "url": "https://fluo.dev",
         "timestamp": "2026-02-19T09:16:08.799742",
         "source": "Hacker News"
+    },
+    {
+        "title": "Evaluating AI agents: Real-world lessons from building agentic systems at Amazon",
+        "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/",
+        "timestamp": "2026-02-19T09:16:08.799777",
+        "source": "Hacker News"
     }
 ]
