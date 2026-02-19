@@ -91312,5 +91312,11 @@
         "url": "https://sprites.dev/",
         "timestamp": "2026-02-19T05:08:03.231674",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google Trust Services: Outdated BR version in some validation records",
+        "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2017747",
+        "timestamp": "2026-02-19T05:40:09.904039",
+        "source": "Hacker News"
     }
 ]
