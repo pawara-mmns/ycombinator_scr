@@ -92248,5 +92248,11 @@
         "url": "https://www.wsj.com/world/uk/former-prince-andrew-arrested-over-epstein-probe-bbc-reports-7779cc1e",
         "timestamp": "2026-02-19T11:16:10.241280",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Aegis.rs, the first open source Rust-based LLM security proxy",
+        "url": "https://github.com/ParzivalHack/Aegis.rs",
+        "timestamp": "2026-02-19T11:16:10.241326",
+        "source": "Hacker News"
     }
 ]
