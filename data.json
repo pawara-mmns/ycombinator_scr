@@ -94108,5 +94108,11 @@
         "url": "https://www.checklyhq.com/blog/state-of-ai-agent-content-negotation/",
         "timestamp": "2026-02-19T17:19:57.714860",
         "source": "Hacker News"
+    },
+    {
+        "title": "Valkey is now outperforming Redis in benchmarks: 37% higher write throughput",
+        "url": "https://andrewbaker.ninja/2026/01/04/redis-vs-valkey-a-deep-dive-for-enterprise-architects/",
+        "timestamp": "2026-02-19T17:19:57.714889",
+        "source": "Hacker News"
     }
 ]
