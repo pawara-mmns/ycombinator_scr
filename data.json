@@ -94426,5 +94426,11 @@
         "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
         "timestamp": "2026-02-19T18:17:25.755928",
         "source": "Hacker News"
+    },
+    {
+        "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+        "url": "https://github.com/Veirt/weathr",
+        "timestamp": "2026-02-19T18:17:25.756326",
+        "source": "Hacker News"
     }
 ]
