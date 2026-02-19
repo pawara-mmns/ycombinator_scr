@@ -93994,5 +93994,11 @@
         "url": "https://twitter.com/i/status/2024433646661451875",
         "timestamp": "2026-02-19T16:46:44.952572",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Use SQL to Query Your Claude/Copilot Data via DuckDB",
+        "url": "https://duckdb.org/community_extensions/extensions/agent_data",
+        "timestamp": "2026-02-19T16:46:44.952608",
+        "source": "Hacker News"
     }
 ]
