@@ -92464,5 +92464,11 @@
         "url": "https://freedom.gov",
         "timestamp": "2026-02-19T11:44:19.816632",
         "source": "Hacker News"
+    },
+    {
+        "title": "ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory",
+        "url": "https://github.com/sstraust/shannonmax",
+        "timestamp": "2026-02-19T11:44:19.816667",
+        "source": "Hacker News"
     }
 ]
