@@ -92344,5 +92344,11 @@
         "url": "https://pv.wtf/posts/taming-the-beast",
         "timestamp": "2026-02-19T11:16:10.241876",
         "source": "Hacker News"
+    },
+    {
+        "title": "New inference engine faster than vLLM, SGLang, TRT-LLM",
+        "url": "https://layerscale.ai/",
+        "timestamp": "2026-02-19T11:16:10.241909",
+        "source": "Hacker News"
     }
 ]
