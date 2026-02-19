@@ -90634,5 +90634,11 @@
         "url": "https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/",
         "timestamp": "2026-02-19T00:55:13.329752",
         "source": "Hacker News"
+    },
+    {
+        "title": "S3lite – A SQLite-like database engine with S3-compatible storage back end",
+        "url": "https://github.com/sjcotto/s3lite",
+        "timestamp": "2026-02-19T00:55:13.329786",
+        "source": "Hacker News"
     }
 ]
