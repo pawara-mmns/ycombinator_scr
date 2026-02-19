@@ -90916,5 +90916,11 @@
         "url": "https://thresholdiq.app/",
         "timestamp": "2026-02-19T02:37:27.700475",
         "source": "Hacker News"
+    },
+    {
+        "title": "PicoLM: Run a 1B parameter LLM on a $10 board",
+        "url": "https://github.com/RightNow-AI/picolm",
+        "timestamp": "2026-02-19T02:37:27.700505",
+        "source": "Hacker News"
     }
 ]
