@@ -96088,5 +96088,11 @@
         "url": "https://henry.codes/writing/the-first-thing-i-did-last-year-was-run/",
         "timestamp": "2026-02-19T22:07:46.547489",
         "source": "Hacker News"
+    },
+    {
+        "title": "Moving my personal infrastructure to Kubernetes (single-node k3s)",
+        "url": "https://stanislas.blog/2025/04/moving-to-k8s/",
+        "timestamp": "2026-02-19T22:07:46.547525",
+        "source": "Hacker News"
     }
 ]
