@@ -92920,5 +92920,11 @@
         "url": "https://www.youtube.com/watch?v=TsoFrer-IOA",
         "timestamp": "2026-02-19T13:59:05.138192",
         "source": "Hacker News"
+    },
+    {
+        "title": "Libinput smooth scroll Lua plugin",
+        "url": "https://github.com/KD-MM2/libinput-smoothscroll",
+        "timestamp": "2026-02-19T13:59:05.138286",
+        "source": "Hacker News"
     }
 ]
