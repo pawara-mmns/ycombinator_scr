@@ -93022,5 +93022,11 @@
         "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
         "timestamp": "2026-02-19T13:59:05.138937",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Erxi – A Fast EXI (Efficient XML Interchange) Implementation in Rust",
+        "url": "https://github.com/schachmadinejad/erxi",
+        "timestamp": "2026-02-19T13:59:05.139015",
+        "source": "Hacker News"
     }
 ]
