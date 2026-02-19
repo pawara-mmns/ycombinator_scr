@@ -91822,5 +91822,11 @@
         "url": "https://www.youtube.com/watch?v=VuqR3RPArJA",
         "timestamp": "2026-02-19T08:45:52.198358",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security Analysis of Forward Secure Log Sealing in Journald [pdf]",
+        "url": "https://eprint.iacr.org/2023/867.pdf",
+        "timestamp": "2026-02-19T08:45:52.198401",
+        "source": "Hacker News"
     }
 ]
