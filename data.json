@@ -92722,5 +92722,11 @@
         "url": "https://news.ycombinator.com/item?id=47073060",
         "timestamp": "2026-02-19T12:47:25.889932",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source voice cloning app using Qwen3-TTS",
+        "url": "https://github.com/jamiepine/voicebox",
+        "timestamp": "2026-02-19T12:47:25.889965",
+        "source": "Hacker News"
     }
 ]
