@@ -96496,5 +96496,11 @@
         "url": "https://randomwrites.com/networking/07-Gateway-API-Fundamentals.html",
         "timestamp": "2026-02-19T23:14:43.491358",
         "source": "Hacker News"
+    },
+    {
+        "title": "Self-Hosting LLMs with Ollama and Docker",
+        "url": "https://www.sitepoint.com/ollama-local-llm-production-deployment-docker/",
+        "timestamp": "2026-02-19T23:30:02.951294",
+        "source": "Hacker News"
     }
 ]
