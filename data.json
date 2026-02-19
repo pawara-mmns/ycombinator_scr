@@ -92002,5 +92002,11 @@
         "url": "https://www.aisi.gov.uk/blog/boundary-point-jailbreaking-a-new-way-to-break-the-strongest-ai-defences",
         "timestamp": "2026-02-19T09:45:59.507264",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nanbeige 4.1-3B running in the browser via WebGPU",
+        "url": "https://huggingface.co/spaces/victor/nanbeige",
+        "timestamp": "2026-02-19T09:45:59.507294",
+        "source": "Hacker News"
     }
 ]
