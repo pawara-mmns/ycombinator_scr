@@ -95518,5 +95518,11 @@
         "url": "https://tkanarsky.com/qwendirstat",
         "timestamp": "2026-02-19T20:44:09.611066",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reproducing autonomous Super Mario play with a genetic algorithm (open source)",
+        "url": "https://github.com/testflows/Examples/tree/v2.0/SuperMario",
+        "timestamp": "2026-02-19T20:44:09.611101",
+        "source": "Hacker News"
     }
 ]
