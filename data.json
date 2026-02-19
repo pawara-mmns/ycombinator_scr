@@ -90604,5 +90604,11 @@
         "url": "https://www.whatwesee.space/",
         "timestamp": "2026-02-19T00:55:13.329543",
         "source": "Hacker News"
+    },
+    {
+        "title": "Model collapse – how LLMs become worse when trained on their own output",
+        "url": "https://www.ibm.com/think/topics/model-collapse",
+        "timestamp": "2026-02-19T00:55:13.329577",
+        "source": "Hacker News"
     }
 ]
