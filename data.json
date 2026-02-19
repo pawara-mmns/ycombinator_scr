@@ -92740,5 +92740,11 @@
         "url": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
         "timestamp": "2026-02-19T12:47:25.890032",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a Cost-Efficient and Reliable Spark Platform on K8s (60–90% Savings)",
+        "url": "https://www.notion.com/blog/balancing-cost-and-reliability-for-spark-on-kubernetes",
+        "timestamp": "2026-02-19T13:30:08.322901",
+        "source": "Hacker News"
     }
 ]
