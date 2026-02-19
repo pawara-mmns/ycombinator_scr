@@ -94816,5 +94816,11 @@
         "url": "https://www.ft.com/content/9c6a1daf-3c36-4035-bf74-1bedbc3e960d",
         "timestamp": "2026-02-19T19:17:30.263456",
         "source": "Hacker News"
+    },
+    {
+        "title": "RooDB: The fastest SQL database on a single machine",
+        "url": "https://github.com/jgarzik/roodb",
+        "timestamp": "2026-02-19T19:17:30.263491",
+        "source": "Hacker News"
     }
 ]
