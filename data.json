@@ -95542,5 +95542,11 @@
         "url": "https://developers.openai.com/cookbook/examples/prompt_caching_201/",
         "timestamp": "2026-02-19T20:44:09.611202",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenAI Codex PSA on Malicious Config Files",
+        "url": "https://www.promptarmor.com/resources/openai-codex-psa-on-malicious-config-files",
+        "timestamp": "2026-02-19T20:44:09.611237",
+        "source": "Hacker News"
     }
 ]
