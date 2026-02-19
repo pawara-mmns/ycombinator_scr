@@ -93406,5 +93406,11 @@
         "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
         "timestamp": "2026-02-19T15:16:41.928962",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running Cosmos-Reason2-2B on 8GB Jetson Orin Nano",
+        "url": "https://huggingface.co/embedl/Cosmos-Reason2-2B-W4A16",
+        "timestamp": "2026-02-19T15:16:41.928996",
+        "source": "Hacker News"
     }
 ]
