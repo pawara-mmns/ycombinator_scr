@@ -93736,5 +93736,11 @@
         "url": "https://davidjusto.com/articles/m2p-latency/",
         "timestamp": "2026-02-19T16:17:32.025465",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why IP Address Certificates Are Dangerous and Usually Unnecessary",
+        "url": "https://www.agwa.name/blog/post/ip_address_certs",
+        "timestamp": "2026-02-19T16:17:32.025518",
+        "source": "Hacker News"
     }
 ]
