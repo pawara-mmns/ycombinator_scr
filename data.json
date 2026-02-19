@@ -91198,5 +91198,11 @@
         "url": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
         "timestamp": "2026-02-19T04:28:45.095728",
         "source": "Hacker News"
+    },
+    {
+        "title": "TimesFM (Time Series Foundation Model)",
+        "url": "https://github.com/google-research/timesfm",
+        "timestamp": "2026-02-19T04:28:45.095848",
+        "source": "Hacker News"
     }
 ]
