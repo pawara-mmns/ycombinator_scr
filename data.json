@@ -90850,5 +90850,11 @@
         "url": "https://www.evendeals.com",
         "timestamp": "2026-02-19T02:37:27.700073",
         "source": "Hacker News"
+    },
+    {
+        "title": "MariaDB innovation: binlog_storage_engine, small server, Insert Benchmark",
+        "url": "http://smalldatum.blogspot.com/2026/02/mariadb-innovation-binlogstorageengine_17.html",
+        "timestamp": "2026-02-19T02:37:27.700102",
+        "source": "Hacker News"
     }
 ]
