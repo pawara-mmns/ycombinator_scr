@@ -92284,5 +92284,11 @@
         "url": "https://www.krisdigital.com/en/blog/2026/02/18/technical-intro-fediverse/",
         "timestamp": "2026-02-19T11:16:10.241505",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Schema Sentry – Type-Safe JSON-LD for Next.js with CI-Grade Validation",
+        "url": "https://github.com/arindamdawn/schema-sentry",
+        "timestamp": "2026-02-19T11:16:10.241539",
+        "source": "Hacker News"
     }
 ]
