@@ -96112,5 +96112,11 @@
         "url": "https://sander.ai/2024/06/14/noise-schedules.html",
         "timestamp": "2026-02-19T22:07:46.547634",
         "source": "Hacker News"
+    },
+    {
+        "title": "Towards Industrial-Scale Verification: LLM-Driven Theorem Proving on SeL4",
+        "url": "https://arxiv.org/abs/2602.08384",
+        "timestamp": "2026-02-19T22:07:46.547670",
+        "source": "Hacker News"
     }
 ]
