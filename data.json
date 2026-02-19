@@ -94348,5 +94348,11 @@
         "url": "https://liorpachter.wordpress.com/2026/02/19/the-quickening/",
         "timestamp": "2026-02-19T17:46:50.952764",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making large Postgres migrations practical: 1TB in 2 hours",
+        "url": "https://clickhouse.com/blog/practical-postgres-migrations-at-scale-peerdb",
+        "timestamp": "2026-02-19T17:46:50.952798",
+        "source": "Hacker News"
     }
 ]
