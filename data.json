@@ -92950,5 +92950,11 @@
         "url": "https://jesse.id/blog/posts/using-karabiner-elements-for-sudo-authentication-via-1password",
         "timestamp": "2026-02-19T13:59:05.138431",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: IC-AGI – Threshold auth for AI agents, formally verified in TLA+",
+        "url": "https://github.com/saezbaldo/ic-agi",
+        "timestamp": "2026-02-19T13:59:05.138466",
+        "source": "Hacker News"
     }
 ]
