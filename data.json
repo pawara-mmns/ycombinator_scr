@@ -96124,5 +96124,11 @@
         "url": "https://jonasanksher.substack.com/p/the-best-legal-framework-around-embryo",
         "timestamp": "2026-02-19T22:07:46.547705",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building a faster YARA engine in pure Go",
+        "url": "https://sansec.io/research/yargo",
+        "timestamp": "2026-02-19T22:07:46.547740",
+        "source": "Hacker News"
     }
 ]
