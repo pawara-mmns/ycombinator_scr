@@ -92542,5 +92542,11 @@
         "url": "https://bloomberg-terminal-nine.vercel.app/",
         "timestamp": "2026-02-19T12:25:18.713525",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Agents discovered a cache deception bug affecting SvelteKit on Vercel",
+        "url": "https://www.aikido.dev/blog/sveltespill-cache-deception-sveltekit-vercel",
+        "timestamp": "2026-02-19T12:25:18.713561",
+        "source": "Hacker News"
     }
 ]
