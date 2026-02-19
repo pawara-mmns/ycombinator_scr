@@ -92212,5 +92212,11 @@
         "url": "https://news.ycombinator.com/item?id=47072265",
         "timestamp": "2026-02-19T10:45:41.984419",
         "source": "Hacker News"
+    },
+    {
+        "title": "Running local LLMs and VLMs on the Arduino UNO Q with yzma",
+        "url": "https://projecthub.arduino.cc/marc-edgeimpulse/running-local-llms-and-vlms-on-the-arduino-uno-q-with-yzma-74e288",
+        "timestamp": "2026-02-19T10:45:41.984453",
+        "source": "Hacker News"
     }
 ]
