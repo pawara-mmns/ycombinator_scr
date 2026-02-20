@@ -100534,5 +100534,11 @@
         "url": "https://codeberg.org/sstephenson/brat",
         "timestamp": "2026-02-20T17:13:50.064430",
         "source": "Hacker News"
+    },
+    {
+        "title": "romforth: Ultra Portable, Small, Baremetal Forth for Various Processors",
+        "url": "https://github.com/romforth/romforth",
+        "timestamp": "2026-02-20T17:13:50.064466",
+        "source": "Hacker News"
     }
 ]
