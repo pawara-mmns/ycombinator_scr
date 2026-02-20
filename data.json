@@ -100258,5 +100258,11 @@
         "url": "https://aseemshrey.in/blog/claude-codex-iterative-plan-review/",
         "timestamp": "2026-02-20T16:27:07.054601",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: GitHub Action to deploy to Portainer over Tailscale (no open ports)",
+        "url": "https://github.com/HackStrix/Portainer-Tailscale-Deployment-Action",
+        "timestamp": "2026-02-20T16:27:07.054635",
+        "source": "Hacker News"
     }
 ]
