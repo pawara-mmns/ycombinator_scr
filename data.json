@@ -101206,5 +101206,11 @@
         "url": "https://www.danielcorin.com/posts/2026/stateful-agents/",
         "timestamp": "2026-02-20T18:45:56.224162",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: SQL Query Optimizer",
+        "url": "https://github.com/SubhanHakverdiyev/OptimizeQL/blob/main/README.md",
+        "timestamp": "2026-02-20T18:45:56.224195",
+        "source": "Hacker News"
     }
 ]
