@@ -96724,5 +96724,11 @@
         "url": "https://news.ycombinator.com/item?id=47081691",
         "timestamp": "2026-02-20T00:17:05.601771",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hacking a NutriBullet blender via BLE: reverse-engineering the protocol",
+        "url": "https://it4sec.substack.com/p/hacking-a-nutribullet-blender-via",
+        "timestamp": "2026-02-20T00:17:05.601882",
+        "source": "Hacker News"
     }
 ]
