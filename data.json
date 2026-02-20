@@ -97978,5 +97978,11 @@
         "url": "https://kiss-and-solid.com/blog/keep-it-simple",
         "timestamp": "2026-02-20T07:58:30.156383",
         "source": "Hacker News"
+    },
+    {
+        "title": "The 8KB Page: PostgreSQL Page Layout Visualized",
+        "url": "https://boringsql.com/visualizers/8kb-page/",
+        "timestamp": "2026-02-20T07:58:30.156416",
+        "source": "Hacker News"
     }
 ]
