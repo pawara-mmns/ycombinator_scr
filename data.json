@@ -101158,5 +101158,11 @@
         "url": "https://www.clawduck.com/",
         "timestamp": "2026-02-20T18:45:56.223896",
         "source": "Hacker News"
+    },
+    {
+        "title": "A collection of scripts to modernize CLI file management",
+        "url": "https://github.com/terpinedream/Bashd",
+        "timestamp": "2026-02-20T18:45:56.223928",
+        "source": "Hacker News"
     }
 ]
