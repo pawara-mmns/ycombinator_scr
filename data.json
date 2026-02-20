@@ -97864,5 +97864,11 @@
         "url": "https://news.ycombinator.com/item?id=47084793",
         "timestamp": "2026-02-20T07:34:05.599601",
         "source": "Hacker News"
+    },
+    {
+        "title": "RFC 2295 – Transparent Content Negotiation in HTTP",
+        "url": "https://datatracker.ietf.org/doc/html/rfc2295",
+        "timestamp": "2026-02-20T07:34:05.599637",
+        "source": "Hacker News"
     }
 ]
