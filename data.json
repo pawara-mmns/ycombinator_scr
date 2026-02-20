@@ -99532,5 +99532,11 @@
         "url": "https://iban.link/",
         "timestamp": "2026-02-20T14:44:50.551065",
         "source": "Hacker News"
+    },
+    {
+        "title": "Developers Discussed Abandon Office.js – Stability, Security, Trust Crisis",
+        "url": "https://github.com/OfficeDev/office-js/issues/6513",
+        "timestamp": "2026-02-20T14:44:50.551106",
+        "source": "Hacker News"
     }
 ]
