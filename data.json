@@ -100552,5 +100552,11 @@
         "url": "https://www.goodeyelabs.com/insights/november-2025-ai-coding-surprise",
         "timestamp": "2026-02-20T17:13:50.064536",
         "source": "Hacker News"
+    },
+    {
+        "title": "LLM Compare – side-by-side benchmark viewer for 250 models (static, no back end)",
+        "url": "https://broskees.github.io/llm-compare/",
+        "timestamp": "2026-02-20T17:13:50.064571",
+        "source": "Hacker News"
     }
 ]
