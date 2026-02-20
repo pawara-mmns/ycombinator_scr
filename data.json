@@ -98140,5 +98140,11 @@
         "url": "https://spanora.ai",
         "timestamp": "2026-02-20T08:45:15.636982",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nvshmem from Scratch – RDMA, GPUDirect, and GPU Networking Demystified",
+        "url": "https://cppcheatsheet.com/notes/blog/nvshmem.html",
+        "timestamp": "2026-02-20T08:45:15.637016",
+        "source": "Hacker News"
     }
 ]
