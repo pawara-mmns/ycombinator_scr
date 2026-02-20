@@ -99946,5 +99946,11 @@
         "url": "https://bastiangruber.ca/posts/how-i-built-a-minimal-knowledge-sync-for-workledger/",
         "timestamp": "2026-02-20T15:46:23.542700",
         "source": "Hacker News"
+    },
+    {
+        "title": "Banish: A declarative DSL embedded in Rust, for defining rule-based state machin",
+        "url": "https://github.com/LoganFlaherty/banish",
+        "timestamp": "2026-02-20T15:46:23.542731",
+        "source": "Hacker News"
     }
 ]
