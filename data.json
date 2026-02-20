@@ -98542,5 +98542,11 @@
         "url": "https://www.cnbc.com/2026/02/20/three-engineers-charged-stealing-google-trade-secrets-data-iran-soc-snapdragon.html",
         "timestamp": "2026-02-20T11:02:08.324200",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reproducing Anthropic's \"Counting Manifold\"",
+        "url": "https://huggingface.co/spaces/t-tech/manifolds",
+        "timestamp": "2026-02-20T11:02:08.324236",
+        "source": "Hacker News"
     }
 ]
