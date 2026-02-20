@@ -101296,5 +101296,11 @@
         "url": "https://news.ycombinator.com/item?id=47092313",
         "timestamp": "2026-02-20T19:15:36.050255",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simple Web Server for Docker",
+        "url": "https://github.com/melbv/docker-logs-web-server",
+        "timestamp": "2026-02-20T19:15:36.050293",
+        "source": "Hacker News"
     }
 ]
