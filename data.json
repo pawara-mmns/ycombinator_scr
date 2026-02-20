@@ -100816,5 +100816,11 @@
         "url": "https://sonicstandard.com",
         "timestamp": "2026-02-20T17:57:40.700304",
         "source": "Hacker News"
+    },
+    {
+        "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+        "url": "https://huggingface.co/blog/ggml-joins-hf",
+        "timestamp": "2026-02-20T17:57:40.700340",
+        "source": "Hacker News"
     }
 ]
