@@ -98950,5 +98950,11 @@
         "url": "https://isonomiaquarterly.com/wp-content/uploads/2026/02/iq-4.1-spring-2026-bassi-conquest-and-the-americas.pdf",
         "timestamp": "2026-02-20T12:48:32.444652",
         "source": "Hacker News"
+    },
+    {
+        "title": "Epoll and Kqueue: How Operating Systems Learned to Wait Efficiently",
+        "url": "https://thecodinggopher.substack.com/p/epoll-and-kqueue-how-operating-systems",
+        "timestamp": "2026-02-20T12:48:32.444686",
+        "source": "Hacker News"
     }
 ]
