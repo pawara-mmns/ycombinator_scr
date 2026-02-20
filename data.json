@@ -100930,5 +100930,11 @@
         "url": "https://www.lemonde.fr/en/economy/article/2026/02/20/italy-the-united-kingdom-and-japan-hope-to-bring-germany-on-board-their-next-generation-fighter-jet-project_6750673_19.html",
         "timestamp": "2026-02-20T18:21:19.482634",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pico-ML: A toy programming language which is a subset of OCaml",
+        "url": "https://github.com/Quramy/pico-ml",
+        "timestamp": "2026-02-20T18:21:19.482685",
+        "source": "Hacker News"
     }
 ]
