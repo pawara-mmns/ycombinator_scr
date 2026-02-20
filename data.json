@@ -98428,5 +98428,11 @@
         "url": "https://sklivvz.com/posts/i-finally-emulated-my-childhood",
         "timestamp": "2026-02-20T10:19:17.733133",
         "source": "Hacker News"
+    },
+    {
+        "title": "How to Fix Circular Imports in a React/TypeScript Application",
+        "url": "https://jsdev.space/howto/circular-imports-ts/",
+        "timestamp": "2026-02-20T10:44:57.724297",
+        "source": "Hacker News"
     }
 ]
