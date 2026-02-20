@@ -99172,5 +99172,11 @@
         "url": "https://neocities.org/browse",
         "timestamp": "2026-02-20T13:50:09.594577",
         "source": "Hacker News"
+    },
+    {
+        "title": "Continuations and Transducer Composition (2006) [pdf]",
+        "url": "https://matt.might.net/papers/might2006transducers.pdf",
+        "timestamp": "2026-02-20T13:50:09.594667",
+        "source": "Hacker News"
     }
 ]
