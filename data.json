@@ -99448,5 +99448,11 @@
         "url": "https://news.ycombinator.com/item?id=47088065",
         "timestamp": "2026-02-20T14:15:33.212071",
         "source": "Hacker News"
+    },
+    {
+        "title": "A refined collection of Hypervelocity Engineering components",
+        "url": "https://github.com/microsoft/hve-core",
+        "timestamp": "2026-02-20T14:15:33.212113",
+        "source": "Hacker News"
     }
 ]
