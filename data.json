@@ -98338,5 +98338,11 @@
         "url": "https://en.wikipedia.org/wiki/Wikipedia:Archive.today_guidance",
         "timestamp": "2026-02-20T09:59:04.793715",
         "source": "Hacker News"
+    },
+    {
+        "title": "TamboUI: A Modern Terminal UI Framework for Java (GraalVM Native)",
+        "url": "https://github.com/tamboui/tamboui",
+        "timestamp": "2026-02-20T09:59:04.793749",
+        "source": "Hacker News"
     }
 ]
