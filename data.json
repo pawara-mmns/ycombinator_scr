@@ -100756,5 +100756,11 @@
         "url": "https://puresteelco.com/",
         "timestamp": "2026-02-20T17:57:40.699916",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I vibed a better OCaml parser than Jane Street in 69 steps",
+        "url": "https://github.com/hdresearch/parsexp",
+        "timestamp": "2026-02-20T17:57:40.699967",
+        "source": "Hacker News"
     }
 ]
