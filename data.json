@@ -100528,5 +100528,11 @@
         "url": "https://github.com/janitrai/acpx",
         "timestamp": "2026-02-20T17:13:50.064395",
         "source": "Hacker News"
+    },
+    {
+        "title": "Brat, a parallel TAP testing harness for the POSIX shell",
+        "url": "https://codeberg.org/sstephenson/brat",
+        "timestamp": "2026-02-20T17:13:50.064430",
+        "source": "Hacker News"
     }
 ]
