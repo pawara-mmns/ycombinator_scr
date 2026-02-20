@@ -98644,5 +98644,11 @@
         "url": "https://morningcoffee.io/git-compare",
         "timestamp": "2026-02-20T11:24:49.616144",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built Google Bigtable in Go. Single file, zero dependencies",
+        "url": "https://jitesh117.github.io/blog/implementing-google-bigtable-in-golang/",
+        "timestamp": "2026-02-20T11:24:49.616179",
+        "source": "Hacker News"
     }
 ]
