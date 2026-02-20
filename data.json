@@ -96772,5 +96772,11 @@
         "url": "https://github.com/clawdata/clawdata",
         "timestamp": "2026-02-20T00:17:05.602160",
         "source": "Hacker News"
+    },
+    {
+        "title": "Content Security Policy (CSP)",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP",
+        "timestamp": "2026-02-20T00:51:48.924069",
+        "source": "Hacker News"
     }
 ]
