@@ -96832,5 +96832,11 @@
         "url": "https://news.ycombinator.com/item?id=47081981",
         "timestamp": "2026-02-20T00:51:48.924356",
         "source": "Hacker News"
+    },
+    {
+        "title": "PEP 747 – Annotating Type Forms",
+        "url": "https://peps.python.org/pep-0747/",
+        "timestamp": "2026-02-20T00:51:48.924385",
+        "source": "Hacker News"
     }
 ]
