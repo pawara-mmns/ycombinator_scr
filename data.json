@@ -98068,5 +98068,11 @@
         "url": "https://news.ycombinator.com/item?id=47085076",
         "timestamp": "2026-02-20T08:21:52.662377",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI Desktop Agent over VNC – your AI connects to your desktop like a remote user",
+        "url": "https://github.com/AmrDab/clawd-cursor",
+        "timestamp": "2026-02-20T08:21:52.662412",
+        "source": "Hacker News"
     }
 ]
