@@ -100894,5 +100894,11 @@
         "url": "https://taylor.town/scrapscript-000",
         "timestamp": "2026-02-20T17:57:40.700883",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I made a Linux driver for WCH BLE Analyzer PRO",
+        "url": "https://github.com/xecaz/BLE-Analyzer-pro-linux-capture",
+        "timestamp": "2026-02-20T17:57:40.700918",
+        "source": "Hacker News"
     }
 ]
