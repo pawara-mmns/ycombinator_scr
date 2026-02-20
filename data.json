@@ -99064,5 +99064,11 @@
         "url": "https://www.youtube.com/watch?v=4haFPDNSuPY",
         "timestamp": "2026-02-20T13:25:50.758768",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Docdex – A local tool to reduce LLM tokens and make agents smarter",
+        "url": "https://github.com/bekirdag/docdex",
+        "timestamp": "2026-02-20T13:25:50.758802",
+        "source": "Hacker News"
     }
 ]
