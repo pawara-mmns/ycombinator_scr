@@ -96898,5 +96898,11 @@
         "url": "https://twitter.com/DimitrisPapail/status/2024555561199480918",
         "timestamp": "2026-02-20T01:33:57.316117",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I maintain Valkey GLIDE – built a Node queue doing 48k jobs/s",
+        "url": "https://github.com/avifenesh/glide-mq",
+        "timestamp": "2026-02-20T01:33:57.316157",
+        "source": "Hacker News"
     }
 ]
