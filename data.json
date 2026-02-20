@@ -99598,5 +99598,11 @@
         "url": "https://github.com/jbingen/tnnl",
         "timestamp": "2026-02-20T14:44:50.551617",
         "source": "Hacker News"
+    },
+    {
+        "title": "Introducing hipThreads: A C++ - Style Concurrency Library for AMD GPUs",
+        "url": "https://rocm.blogs.amd.com/software-tools-optimization/hipthreads-introduction/README.html",
+        "timestamp": "2026-02-20T14:44:50.551660",
+        "source": "Hacker News"
     }
 ]
