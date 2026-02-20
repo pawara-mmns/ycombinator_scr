@@ -96910,5 +96910,11 @@
         "url": "https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-635.pdf",
         "timestamp": "2026-02-20T01:33:57.316195",
         "source": "Hacker News"
+    },
+    {
+        "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+        "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+        "timestamp": "2026-02-20T01:33:57.316232",
+        "source": "Hacker News"
     }
 ]
