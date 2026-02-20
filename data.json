@@ -100012,5 +100012,11 @@
         "url": "https://github.com/acheronfail/repgrep",
         "timestamp": "2026-02-20T15:46:23.543110",
         "source": "Hacker News"
+    },
+    {
+        "title": "CircleCI study: code throughput up, delivery down, reliability slipping",
+        "url": "https://circleci.com/blog/five-takeaways-2026-software-delivery-report/",
+        "timestamp": "2026-02-20T15:46:23.543140",
+        "source": "Hacker News"
     }
 ]
