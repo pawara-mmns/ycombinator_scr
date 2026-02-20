@@ -100858,5 +100858,11 @@
         "url": "https://news.ycombinator.com/item?id=47091166",
         "timestamp": "2026-02-20T17:57:40.700638",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Urich – Async DDD framework for microservices on Starlette",
+        "url": "https://github.com/KashN9sh/urich",
+        "timestamp": "2026-02-20T17:57:40.700673",
+        "source": "Hacker News"
     }
 ]
