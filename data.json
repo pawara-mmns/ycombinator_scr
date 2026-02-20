@@ -97066,5 +97066,11 @@
         "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
         "timestamp": "2026-02-20T02:37:16.102630",
         "source": "Hacker News"
+    },
+    {
+        "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
+        "url": "https://cormullion.github.io/Lindenmayer.jl/stable/",
+        "timestamp": "2026-02-20T02:37:16.103479",
+        "source": "Hacker News"
     }
 ]
