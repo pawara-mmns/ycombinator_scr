@@ -98152,5 +98152,11 @@
         "url": "https://news.ycombinator.com/item?id=47085255",
         "timestamp": "2026-02-20T08:45:15.637049",
         "source": "Hacker News"
+    },
+    {
+        "title": "El-init – A statically compiled Emacs init PID1 patchset and service supervisor",
+        "url": "https://github.com/emacs-os/el-init",
+        "timestamp": "2026-02-20T08:45:15.637082",
+        "source": "Hacker News"
     }
 ]
