@@ -101104,5 +101104,11 @@
         "url": "http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/",
         "timestamp": "2026-02-20T18:45:56.223593",
         "source": "Hacker News"
+    },
+    {
+        "title": "Michael Abrash's Zen of Assembly Language (1990)",
+        "url": "https://github.com/jagregory/abrash-zen-of-asm",
+        "timestamp": "2026-02-20T18:45:56.223632",
+        "source": "Hacker News"
     }
 ]
