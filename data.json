@@ -97540,5 +97540,11 @@
         "url": "https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/",
         "timestamp": "2026-02-20T05:01:41.331150",
         "source": "Hacker News"
+    },
+    {
+        "title": "OpenClaw container image with 99% less vulnerabilities",
+        "url": "https://www.minimus.io/post/stop-running-openclaw-with-2-000-vulnerabilities-why-minimus-openclaw-image-has-99-fewer-cves",
+        "timestamp": "2026-02-20T05:01:41.331180",
+        "source": "Hacker News"
     }
 ]
