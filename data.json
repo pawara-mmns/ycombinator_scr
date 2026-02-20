@@ -99928,5 +99928,11 @@
         "url": "https://jatindotpy.substack.com/p/how-a-zomato-feature-enables-stalking-which-they-call-working-as-intended-4372ccf56a77",
         "timestamp": "2026-02-20T15:46:23.542604",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MetaTrader 5 in Windows via Docker and QEMU/KVM with a REST API",
+        "url": "https://github.com/psyb0t/mt5-httpapi",
+        "timestamp": "2026-02-20T15:46:23.542636",
+        "source": "Hacker News"
     }
 ]
