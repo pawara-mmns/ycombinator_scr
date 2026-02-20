@@ -97162,5 +97162,11 @@
         "url": "https://news.ycombinator.com/item?id=47082761",
         "timestamp": "2026-02-20T02:37:16.354348",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic legal request: OpenCode removes Claude subscription support",
+        "url": "https://github.com/anomalyco/opencode/commit/973715f3da1839ef2eba62d4140fe7441d539411",
+        "timestamp": "2026-02-20T02:37:16.354381",
+        "source": "Hacker News"
     }
 ]
