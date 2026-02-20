@@ -97516,5 +97516,11 @@
         "url": "https://huggingface.co/spaces/fabiosuizu/pronunciation-assessment",
         "timestamp": "2026-02-20T04:25:02.281151",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Desktop on Windows Broke MCP",
+        "url": "https://github.com/anthropics/claude-code/issues/26073",
+        "timestamp": "2026-02-20T04:25:02.281186",
+        "source": "Hacker News"
     }
 ]
