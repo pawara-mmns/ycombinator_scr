@@ -96850,5 +96850,11 @@
         "url": "https://news.ycombinator.com/item?id=47081967",
         "timestamp": "2026-02-20T00:51:48.924443",
         "source": "Hacker News"
+    },
+    {
+        "title": "Use digests, not tags, in your Dockerfiles",
+        "url": "https://interrupt.sh/blog/dockerfile-tags/",
+        "timestamp": "2026-02-20T00:51:48.924471",
+        "source": "Hacker News"
     }
 ]
