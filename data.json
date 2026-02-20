@@ -99352,5 +99352,11 @@
         "url": "https://feyor.sh/blog/ebpf-the-hard-way/",
         "timestamp": "2026-02-20T14:15:33.211340",
         "source": "Hacker News"
+    },
+    {
+        "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+        "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+        "timestamp": "2026-02-20T14:15:33.211378",
+        "source": "Hacker News"
     }
 ]
