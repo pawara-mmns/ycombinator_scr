@@ -99562,5 +99562,11 @@
         "url": "https://arnika.org/en/publications/the-sound-of-contamination",
         "timestamp": "2026-02-20T14:44:50.551312",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a serverless API for automated website screenshots",
+        "url": "https://www.npmjs.com/package/flashcapture-node",
+        "timestamp": "2026-02-20T14:44:50.551394",
+        "source": "Hacker News"
     }
 ]
