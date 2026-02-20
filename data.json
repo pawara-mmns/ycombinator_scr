@@ -99412,5 +99412,11 @@
         "url": "https://huggingface.co/blog/unsloth-jobs",
         "timestamp": "2026-02-20T14:15:33.211796",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Claude Code plugin – Telegram notifications when it needs your input",
+        "url": "https://github.com/mikhailrojo/claude-telegram-notifications",
+        "timestamp": "2026-02-20T14:15:33.211853",
+        "source": "Hacker News"
     }
 ]
