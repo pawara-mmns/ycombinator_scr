@@ -99592,5 +99592,11 @@
         "url": "https://www.ft.com/content/4310f010-2b3c-493e-ba0a-26dc6d156b2e",
         "timestamp": "2026-02-20T14:44:50.551561",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: tnnl - Self-hosted ngrok alternative with request inspection and replay",
+        "url": "https://github.com/jbingen/tnnl",
+        "timestamp": "2026-02-20T14:44:50.551617",
+        "source": "Hacker News"
     }
 ]
