@@ -100570,5 +100570,11 @@
         "url": "https://news.ycombinator.com/item?id=47090622",
         "timestamp": "2026-02-20T17:13:50.064642",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Trained an LLM to predict \"What will Trump do?\"",
+        "url": "https://huggingface.co/LightningRodLabs/Trump-Forecaster",
+        "timestamp": "2026-02-20T17:13:50.064677",
+        "source": "Hacker News"
     }
 ]
