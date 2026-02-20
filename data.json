@@ -99970,5 +99970,11 @@
         "url": "https://www.kidhubb.com",
         "timestamp": "2026-02-20T15:46:23.542856",
         "source": "Hacker News"
+    },
+    {
+        "title": "Faster PlanetScale Postgres Connections with Cloudflare Hyperdrive",
+        "url": "https://planetscale.com/blog/cloudflare-hyperdrive-real-time",
+        "timestamp": "2026-02-20T15:46:23.542886",
+        "source": "Hacker News"
     }
 ]
