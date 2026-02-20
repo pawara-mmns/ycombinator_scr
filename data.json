@@ -97342,5 +97342,11 @@
         "url": "https://github.com/gepa-ai/gepa",
         "timestamp": "2026-02-20T03:36:39.170853",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Local TTS for OpenClaw on Apple Silicon (MLX-Powered, Zero Setup)",
+        "url": "https://github.com/cosformula/openclaw-mlx-audio",
+        "timestamp": "2026-02-20T03:36:39.170977",
+        "source": "Hacker News"
     }
 ]
