@@ -99616,5 +99616,11 @@
         "url": "https://sherwood.news/tech/report-amazons-ai-bots-have-been-behind-multiple-aws-outages/",
         "timestamp": "2026-02-20T14:44:50.551743",
         "source": "Hacker News"
+    },
+    {
+        "title": "Flathub is experiencing signing outage; new builds cannot be published",
+        "url": "https://status.flathub.org/issues/2026-02-17-publish/",
+        "timestamp": "2026-02-20T14:44:50.551786",
+        "source": "Hacker News"
     }
 ]
