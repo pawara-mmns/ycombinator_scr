@@ -98476,5 +98476,11 @@
         "url": "https://news.ycombinator.com/item?id=47086128",
         "timestamp": "2026-02-20T10:44:57.724619",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: One async PHP process serving web, REST API, and MCP for AI agents",
+        "url": "https://pascualmg.dev/blog/pascual/one-async-php-process-web-server-rest-api-and-mcp-for-ai-agents",
+        "timestamp": "2026-02-20T10:44:57.724688",
+        "source": "Hacker News"
     }
 ]
