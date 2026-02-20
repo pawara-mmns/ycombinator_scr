@@ -98764,5 +98764,11 @@
         "url": "https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove",
         "timestamp": "2026-02-20T12:10:08.078125",
         "source": "Hacker News"
+    },
+    {
+        "title": "Django ORM Standalone⁽¹⁾: Querying a real-world SQLite database",
+        "url": "https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/",
+        "timestamp": "2026-02-20T12:10:08.168088",
+        "source": "Hacker News"
     }
 ]
