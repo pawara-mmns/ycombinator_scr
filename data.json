@@ -99634,5 +99634,11 @@
         "url": "https://apicombat.com/",
         "timestamp": "2026-02-20T15:03:48.436700",
         "source": "Hacker News"
+    },
+    {
+        "title": "We Used CRDTs to Build Real-Time Collaborative Retrospectives",
+        "url": "https://rootly.com/blog/how-we-used-crdts-to-build-real-time-collaborative-retrospectives",
+        "timestamp": "2026-02-20T15:03:48.436738",
+        "source": "Hacker News"
     }
 ]
