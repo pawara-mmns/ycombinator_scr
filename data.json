@@ -97510,5 +97510,11 @@
         "url": "https://www.theguardian.com/environment/2026/feb/19/why-iowa-farmers-swapped-pigs-mushrooms",
         "timestamp": "2026-02-20T04:25:02.281117",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: 17MB model beats human experts at pronunciation scoring",
+        "url": "https://huggingface.co/spaces/fabiosuizu/pronunciation-assessment",
+        "timestamp": "2026-02-20T04:25:02.281151",
+        "source": "Hacker News"
     }
 ]
