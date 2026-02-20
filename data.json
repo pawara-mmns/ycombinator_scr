@@ -98866,5 +98866,11 @@
         "url": "https://ieeexplore.ieee.org/document/10148905",
         "timestamp": "2026-02-20T12:26:31.130136",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fault tolerant message passing C# with NATS.io: Use Distributed Object Store",
+        "url": "https://nats-io.github.io/nats.net/documentation/object-store/intro.html",
+        "timestamp": "2026-02-20T12:26:31.130172",
+        "source": "Hacker News"
     }
 ]
