@@ -487612,5 +487612,11 @@
         "url": "https://minimal.bearblog.dev/i-bought-an-analog-watch-and-i-love-it/",
         "timestamp": "2026-05-07T17:07:16.316381",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Model Context Protocol server for driving AmigaOS 4.1 machines",
+        "url": "https://github.com/derfsss/MCP-AmigaOS4",
+        "timestamp": "2026-05-07T17:07:16.316417",
+        "source": "Hacker News"
     }
 ]
