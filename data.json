@@ -487780,5 +487780,11 @@
         "url": "https://github.com/ReviewStage/stage-cli",
         "timestamp": "2026-05-07T17:52:14.174270",
         "source": "Hacker News"
+    },
+    {
+        "title": "Security analysis of Velociraptor DFIR platform (6 findings, vendor responses)",
+        "url": "https://medium.com/@sreejith.gopinath/velociraptor-security-analysis-six-findings-and-a-conversation-with-rapid7-2b428a83069c",
+        "timestamp": "2026-05-07T17:52:14.458595",
+        "source": "Hacker News"
     }
 ]
