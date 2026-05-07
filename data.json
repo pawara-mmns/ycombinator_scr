@@ -488050,5 +488050,11 @@
         "url": "https://www.youtube.com/watch?v=B6rKUf9DWRI",
         "timestamp": "2026-05-07T18:33:25.028136",
         "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft reiterates that it's fine with Edge storing pwds in cleartext",
+        "url": "https://www.pcgamer.com/hardware/microsoft-reiterates-that-its-totally-fine-with-edge-storing-passwords-in-cleartext-despite-security-researchers-concerns/",
+        "timestamp": "2026-05-07T18:33:25.028171",
+        "source": "Hacker News"
     }
 ]
