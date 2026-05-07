@@ -488170,5 +488170,11 @@
         "url": "https://getgrav.org/blog/state-of-grav-2026",
         "timestamp": "2026-05-07T19:17:36.553773",
         "source": "Hacker News"
+    },
+    {
+        "title": "Making cross-platform SIMD code pleasant",
+        "url": "https://bkaradzic.github.io/posts/typeless-simd/",
+        "timestamp": "2026-05-07T19:17:36.553807",
+        "source": "Hacker News"
     }
 ]
