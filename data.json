@@ -488656,5 +488656,11 @@
         "url": "https://www.nbcnews.com/news/us-news/florida-surgeon-removed-wrong-organ-traumatized-deposition-rcna343833",
         "timestamp": "2026-05-07T21:09:48.791103",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-42511 Breakdown: RCE in FreeBSD",
+        "url": "https://aisle.com/blog/aisle-discovers-cve-2026-42511-a-21-year-old-freebsd-remote-command-execution-vulnerability",
+        "timestamp": "2026-05-07T21:09:48.791139",
+        "source": "Hacker News"
     }
 ]
