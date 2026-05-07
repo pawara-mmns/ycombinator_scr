@@ -488494,5 +488494,11 @@
         "url": "https://davidslv.uk/2026/05/05/why-architecture-matters.html",
         "timestamp": "2026-05-07T20:42:08.020561",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built open-source auth for AI agents (Go, single binary)",
+        "url": "https://github.com/shark-auth/shark",
+        "timestamp": "2026-05-07T20:42:08.020595",
+        "source": "Hacker News"
     }
 ]
