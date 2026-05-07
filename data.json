@@ -488794,5 +488794,11 @@
         "url": "https://www.royalalberthall.com/tickets/events/2026/david-attenboroughs-100-years-on-planet-earth",
         "timestamp": "2026-05-07T21:33:37.617974",
         "source": "Hacker News"
+    },
+    {
+        "title": "cuda-oxide: a custom rustc backend for compiling GPU kernels in pure Rust",
+        "url": "https://github.com/NVlabs/cuda-oxide",
+        "timestamp": "2026-05-07T21:33:37.618012",
+        "source": "Hacker News"
     }
 ]
