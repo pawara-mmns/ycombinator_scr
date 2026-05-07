@@ -488686,5 +488686,11 @@
         "url": "https://github.com/eblanshey/DiffCAD",
         "timestamp": "2026-05-07T21:09:48.791281",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cpp2Rust: Automatic Translation of C++ to Safe Rust",
+        "url": "https://github.com/Cpp2Rust/cpp2rust",
+        "timestamp": "2026-05-07T21:09:48.791315",
+        "source": "Hacker News"
     }
 ]
