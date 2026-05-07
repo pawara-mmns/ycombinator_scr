@@ -487696,5 +487696,11 @@
         "url": "https://barmag.github.io/2026/05/07/your-wearable-is-a-witness-not-a-judge/",
         "timestamp": "2026-05-07T17:07:16.316880",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reggie: Hybrid Compile-Time and Runtime Optimized Regex for Java",
+        "url": "https://github.com/DataDog/java-reggie",
+        "timestamp": "2026-05-07T17:07:16.316930",
+        "source": "Hacker News"
     }
 ]
