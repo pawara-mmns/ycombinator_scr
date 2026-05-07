@@ -488662,5 +488662,11 @@
         "url": "https://aisle.com/blog/aisle-discovers-cve-2026-42511-a-21-year-old-freebsd-remote-command-execution-vulnerability",
         "timestamp": "2026-05-07T21:09:48.791139",
         "source": "Hacker News"
+    },
+    {
+        "title": "PLUR: Persistent memory for AI agents. Local-first, zero-cost",
+        "url": "https://github.com/plur-ai/plur",
+        "timestamp": "2026-05-07T21:09:48.791173",
+        "source": "Hacker News"
     }
 ]
