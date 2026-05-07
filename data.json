@@ -487708,5 +487708,11 @@
         "url": "https://e360.yale.edu/features/amoc-climate-change",
         "timestamp": "2026-05-07T17:07:16.316970",
         "source": "Hacker News"
+    },
+    {
+        "title": "Profile guided compiler optimization leads to 47% lower p99.9 in Redpanda",
+        "url": "https://www.redpanda.com/blog/supercharging-streaming-profile-guided-optimization",
+        "timestamp": "2026-05-07T17:07:16.317004",
+        "source": "Hacker News"
     }
 ]
