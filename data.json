@@ -489064,5 +489064,11 @@
         "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
         "timestamp": "2026-05-07T22:36:45.371954",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS gives AI agents wallets to pay for APIs and web content",
+        "url": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
+        "timestamp": "2026-05-07T22:36:45.371982",
+        "source": "Hacker News"
     }
 ]
