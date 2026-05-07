@@ -487996,5 +487996,11 @@
         "url": "https://github.com/aevyraai/verdict",
         "timestamp": "2026-05-07T18:33:25.027671",
         "source": "Hacker News"
+    },
+    {
+        "title": "Build Reliable Notifications with Postgres",
+        "url": "https://www.dbos.dev/blog/low-latency-reliable-messaging-with-postgres",
+        "timestamp": "2026-05-07T18:33:25.027707",
+        "source": "Hacker News"
     }
 ]
