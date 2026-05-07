@@ -488182,5 +488182,11 @@
         "url": "https://www.theregister.com/cyber-crime/2026/05/07/state-backed-hackers-hammer-palo-alto-firewall-zero-day-before-patch-lands/5234737",
         "timestamp": "2026-05-07T19:17:36.553842",
         "source": "Hacker News"
+    },
+    {
+        "title": "60% of MD5 password hashes are crackable in under an hour",
+        "url": "https://www.theregister.com/security/2026/05/07/60-of-md5-password-hashes-are-crackable-in-under-an-hour/5234954",
+        "timestamp": "2026-05-07T19:17:36.553911",
+        "source": "Hacker News"
     }
 ]
