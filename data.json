@@ -487516,5 +487516,11 @@
         "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
         "timestamp": "2026-05-07T16:22:33.234068",
         "source": "Hacker News"
+    },
+    {
+        "title": "AI helps translate one OpenAPI spec into seven idiomatic SDKs",
+        "url": "https://workos.com/blog/autogenerating-sdks-with-ai",
+        "timestamp": "2026-05-07T16:22:33.234098",
+        "source": "Hacker News"
     }
 ]
