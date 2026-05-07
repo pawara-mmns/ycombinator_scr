@@ -488734,5 +488734,11 @@
         "url": "https://www.ft.com/content/8c691499-5aaf-42e4-a765-4b676baa91d6",
         "timestamp": "2026-05-07T21:09:48.791588",
         "source": "Hacker News"
+    },
+    {
+        "title": "CLI Printing Press – create go CLI tool from any API",
+        "url": "https://github.com/mvanhorn/cli-printing-press",
+        "timestamp": "2026-05-07T21:09:48.791623",
+        "source": "Hacker News"
     }
 ]
