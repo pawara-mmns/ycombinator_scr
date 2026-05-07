@@ -489172,5 +489172,11 @@
         "url": "https://hantavirus-production.up.railway.app/",
         "timestamp": "2026-05-07T23:05:47.849857",
         "source": "Hacker News"
+    },
+    {
+        "title": "HTTP/3 over QUIC in Node.js",
+        "url": "http://www.jasnell.me/posts/quic-part-4",
+        "timestamp": "2026-05-07T23:05:47.849886",
+        "source": "Hacker News"
     }
 ]
