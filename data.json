@@ -487636,5 +487636,11 @@
         "url": "https://news.ycombinator.com/item?id=48051820",
         "timestamp": "2026-05-07T17:07:16.316520",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cleaner QML Controller Wiring with Singleton Instances in Qt 6.12",
+        "url": "https://www.kdab.com/singleton-controllers-in-times-of-declarative-qml/",
+        "timestamp": "2026-05-07T17:07:16.316555",
+        "source": "Hacker News"
     }
 ]
