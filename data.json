@@ -489184,5 +489184,11 @@
         "url": "https://news.ycombinator.com/item?id=48056114",
         "timestamp": "2026-05-07T23:05:47.849918",
         "source": "Hacker News"
+    },
+    {
+        "title": "New security vulnerabilities disclosed in Next.js (patches released)",
+        "url": "https://github.com/vercel/next.js/releases/tag/v16.2.6",
+        "timestamp": "2026-05-07T23:05:47.849947",
+        "source": "Hacker News"
     }
 ]
