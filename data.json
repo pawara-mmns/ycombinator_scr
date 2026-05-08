@@ -489664,5 +489664,11 @@
         "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
         "timestamp": "2026-05-08T03:04:09.796512",
         "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic response to 1-click pwn: Shouldn't have clicked 'ok'",
+        "url": "https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319",
+        "timestamp": "2026-05-08T03:04:09.796553",
+        "source": "Hacker News"
     }
 ]
