@@ -490660,5 +490660,11 @@
         "url": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
         "timestamp": "2026-05-08T10:11:37.055288",
         "source": "Hacker News"
+    },
+    {
+        "title": "Asami: A flexible graph store, written in Clojure",
+        "url": "https://github.com/quoll/asami",
+        "timestamp": "2026-05-08T10:11:37.234995",
+        "source": "Hacker News"
     }
 ]
