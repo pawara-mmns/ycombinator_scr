@@ -492208,5 +492208,11 @@
         "url": "https://blankline.org/research/hope",
         "timestamp": "2026-05-08T16:45:00.301193",
         "source": "Hacker News"
+    },
+    {
+        "title": "Capsules: Compile-time lock discipline in OxCaml",
+        "url": "https://kcsrk.info/ocaml/oxcaml/modes/blogging/2026/05/08/capsules-in-oxcaml/",
+        "timestamp": "2026-05-08T16:45:00.301228",
+        "source": "Hacker News"
     }
 ]
