@@ -491818,5 +491818,11 @@
         "url": "https://en.wikipedia.org/wiki/List_of_films_with_the_longest_production_time",
         "timestamp": "2026-05-08T15:32:42.651483",
         "source": "Hacker News"
+    },
+    {
+        "title": "Unbounded connection churn issue in gRPC-go",
+        "url": "https://github.com/grpc/grpc-go/issues/8888",
+        "timestamp": "2026-05-08T15:32:42.651557",
+        "source": "Hacker News"
     }
 ]
