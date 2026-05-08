@@ -490702,5 +490702,11 @@
         "url": "https://geojson.org/",
         "timestamp": "2026-05-08T10:11:37.235226",
         "source": "Hacker News"
+    },
+    {
+        "title": "go-libghostty: Go bindings for libghostty-vt",
+        "url": "https://tangled.org/mitchellh.com/go-libghostty",
+        "timestamp": "2026-05-08T10:11:37.235265",
+        "source": "Hacker News"
     }
 ]
