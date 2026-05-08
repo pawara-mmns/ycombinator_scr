@@ -490696,5 +490696,11 @@
         "url": "https://status.claude.com/incidents/378dqscjgghp",
         "timestamp": "2026-05-08T10:11:37.235191",
         "source": "Hacker News"
+    },
+    {
+        "title": "GeoJSON",
+        "url": "https://geojson.org/",
+        "timestamp": "2026-05-08T10:11:37.235226",
+        "source": "Hacker News"
     }
 ]
