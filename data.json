@@ -492802,5 +492802,11 @@
         "url": "https://www.empirical.health/blog/lpa-lowering-medications/",
         "timestamp": "2026-05-08T18:57:41.199964",
         "source": "Hacker News"
+    },
+    {
+        "title": "JavaScript implementation of the Knuth-Plass linebreaking algorithm",
+        "url": "https://github.com/robertknight/tex-linebreak",
+        "timestamp": "2026-05-08T18:57:41.199992",
+        "source": "Hacker News"
     }
 ]
