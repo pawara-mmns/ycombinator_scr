@@ -492040,5 +492040,11 @@
         "url": "https://www.egu.eu/news/1777/new-research-proposes-dantes-inferno-modelled-a-planetary-impact-500-years-before-modern-science/",
         "timestamp": "2026-05-08T16:09:50.682913",
         "source": "Hacker News"
+    },
+    {
+        "title": "5x perf increase on writes with FPW disabled in Postgres",
+        "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+        "timestamp": "2026-05-08T16:09:50.682952",
+        "source": "Hacker News"
     }
 ]
