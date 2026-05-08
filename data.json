@@ -491092,5 +491092,11 @@
         "url": "https://hexgl.bkcore.com/#press",
         "timestamp": "2026-05-08T11:59:02.587104",
         "source": "Hacker News"
+    },
+    {
+        "title": "I lost track of which Claude Code tab needed me, so I built this",
+        "url": "https://github.com/dgr8akki/claude-tab-watcher",
+        "timestamp": "2026-05-08T11:59:02.587135",
+        "source": "Hacker News"
     }
 ]
