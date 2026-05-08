@@ -489724,5 +489724,11 @@
         "url": "https://archive.fo",
         "timestamp": "2026-05-08T03:04:09.796890",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AnamDB – An AI-native, differentiable Datalog engine written in Rust",
+        "url": "https://github.com/jam5991/anam",
+        "timestamp": "2026-05-08T03:04:09.796923",
+        "source": "Hacker News"
     }
 ]
