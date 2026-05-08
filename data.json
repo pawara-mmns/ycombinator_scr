@@ -492460,5 +492460,11 @@
         "url": "https://www.kqed.org/science/2000835/the-view-inside-californias-last-nuclear-power-plant",
         "timestamp": "2026-05-08T17:55:17.895348",
         "source": "Hacker News"
+    },
+    {
+        "title": "Kerncap: Automated Kernel Extraction and Isolation for AMD GPUs",
+        "url": "https://arxiv.org/abs/2605.03208",
+        "timestamp": "2026-05-08T17:55:17.895382",
+        "source": "Hacker News"
     }
 ]
