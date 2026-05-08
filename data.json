@@ -493456,5 +493456,11 @@
         "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
         "timestamp": "2026-05-08T22:36:25.450463",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nomad-state-metrics – kube-state-metrics for Nomad",
+        "url": "https://developer.hashicorp.com/nomad/integrations",
+        "timestamp": "2026-05-08T22:36:25.845876",
+        "source": "Hacker News"
     }
 ]
