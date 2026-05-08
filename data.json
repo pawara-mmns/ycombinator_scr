@@ -493198,5 +493198,11 @@
         "url": "https://talkingpostgres.com/episodes/from-memsql-to-horizondb-an-engineers-journey-with-adam-prout",
         "timestamp": "2026-05-08T20:35:45.680755",
         "source": "Hacker News"
+    },
+    {
+        "title": "When is your birthday? – The Math Behind Hash Collisions",
+        "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+        "timestamp": "2026-05-08T20:35:45.680786",
+        "source": "Hacker News"
     }
 ]
