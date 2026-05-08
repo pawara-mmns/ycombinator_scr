@@ -490864,5 +490864,11 @@
         "url": "https://gist.github.com/tamnd/11665e492d7a3b91ce54e26ecbd97248",
         "timestamp": "2026-05-08T11:29:50.115262",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+        "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+        "timestamp": "2026-05-08T11:29:50.115296",
+        "source": "Hacker News"
     }
 ]
