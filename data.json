@@ -491746,5 +491746,11 @@
         "url": "https://lookoutapp.ai",
         "timestamp": "2026-05-08T15:32:42.651137",
         "source": "Hacker News"
+    },
+    {
+        "title": "CUDA-oxide, a Rust-to-CUDA compiler",
+        "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+        "timestamp": "2026-05-08T15:32:42.651168",
+        "source": "Hacker News"
     }
 ]
