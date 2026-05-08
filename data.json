@@ -492610,5 +492610,11 @@
         "url": "https://www.instructure.com/incident_update",
         "timestamp": "2026-05-08T18:29:03.497309",
         "source": "Hacker News"
+    },
+    {
+        "title": "Everyone gets faster writes: We turned off FPW's in Neon [PostgreSQL]",
+        "url": "https://neon.com/blog/turning-off-fpw-for-faster-writes",
+        "timestamp": "2026-05-08T18:29:03.497370",
+        "source": "Hacker News"
     }
 ]
