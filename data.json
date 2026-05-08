@@ -489622,5 +489622,11 @@
         "url": "https://research.csiro.au/hyresource/australian-renewable-energy-hub/",
         "timestamp": "2026-05-08T03:04:09.796059",
         "source": "Hacker News"
+    },
+    {
+        "title": "Critical RCE found in Obsidian Tasks plugin",
+        "url": "https://zeroquarry.com/research/obsidian-tasks-rce/",
+        "timestamp": "2026-05-08T03:04:09.796105",
+        "source": "Hacker News"
     }
 ]
