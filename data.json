@@ -492700,5 +492700,11 @@
         "url": "https://kouh.me/tells",
         "timestamp": "2026-05-08T18:29:03.497881",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Agent-isolated remote envs with full Docker Compose support",
+        "url": "https://github.com/qosha1/remote-compose",
+        "timestamp": "2026-05-08T18:29:03.497910",
+        "source": "Hacker News"
     }
 ]
