@@ -490012,5 +490012,11 @@
         "url": "https://www.modernperlbooks.com/mt/2009/11/from-novice-to-adept-pronouns-in-perl",
         "timestamp": "2026-05-08T06:08:31.885610",
         "source": "Hacker News"
+    },
+    {
+        "title": "Discussion on Fsnotify Maintainer Removal",
+        "url": "https://github.com/fsnotify/fsnotify/issues/757",
+        "timestamp": "2026-05-08T06:08:31.885645",
+        "source": "Hacker News"
     }
 ]
