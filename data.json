@@ -491866,5 +491866,11 @@
         "url": "https://www.silive.com/news/2026/05/staten-island-deer-count-drops-nearly-50-since-start-of-vasectomy-program.html",
         "timestamp": "2026-05-08T15:32:42.651787",
         "source": "Hacker News"
+    },
+    {
+        "title": "Feat: Disable kernel modules to mitigate dirtyfrag",
+        "url": "https://github.com/secureblue/secureblue/pull/2212",
+        "timestamp": "2026-05-08T15:32:42.651815",
+        "source": "Hacker News"
     }
 ]
