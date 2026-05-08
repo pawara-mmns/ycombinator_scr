@@ -489286,5 +489286,11 @@
         "url": "https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions",
         "timestamp": "2026-05-08T00:03:14.120817",
         "source": "Hacker News"
+    },
+    {
+        "title": "WAF and framework adapter mitigations for React and Next.js vulnerabilities",
+        "url": "https://developers.cloudflare.com/changelog/post/2026-05-06-react-nextjs-vulnerabilities/",
+        "timestamp": "2026-05-08T00:03:14.120867",
+        "source": "Hacker News"
     }
 ]
