@@ -493186,5 +493186,11 @@
         "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
         "timestamp": "2026-05-08T20:35:45.680691",
         "source": "Hacker News"
+    },
+    {
+        "title": "Everything Vault – a local-first Markdown knowledge system for LLMs",
+        "url": "https://github.com/AntlerForge/everything-vault",
+        "timestamp": "2026-05-08T20:35:45.680723",
+        "source": "Hacker News"
     }
 ]
