@@ -493150,5 +493150,11 @@
         "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
         "timestamp": "2026-05-08T20:07:07.704203",
         "source": "Hacker News"
+    },
+    {
+        "title": "NocTUI – Lightweight C Library for Building Terminal User Interfaces (TUIs)",
+        "url": "https://github.com/UsboKirishima/noctui",
+        "timestamp": "2026-05-08T20:35:45.680500",
+        "source": "Hacker News"
     }
 ]
