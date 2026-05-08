@@ -489670,5 +489670,11 @@
         "url": "https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319",
         "timestamp": "2026-05-08T03:04:09.796553",
         "source": "Hacker News"
+    },
+    {
+        "title": "Hexo accidentally made the repository private and lost all stars",
+        "url": "https://github.com/orgs/hexojs/discussions/5775",
+        "timestamp": "2026-05-08T03:04:09.796590",
+        "source": "Hacker News"
     }
 ]
