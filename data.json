@@ -492568,5 +492568,11 @@
         "url": "https://lwn.net/Articles/1071499/",
         "timestamp": "2026-05-08T17:55:17.896085",
         "source": "Hacker News"
+    },
+    {
+        "title": "Killswitch: Add per-function short-circuit mitigation primitive",
+        "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+        "timestamp": "2026-05-08T17:55:17.896119",
+        "source": "Hacker News"
     }
 ]
