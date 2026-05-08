@@ -490132,5 +490132,11 @@
         "url": "https://news.ycombinator.com/item?id=48058892",
         "timestamp": "2026-05-08T06:08:31.886418",
         "source": "Hacker News"
+    },
+    {
+        "title": "BotScript – a TypeScript superset for code mostly written by bots",
+        "url": "https://github.com/marcelofarias/botscript",
+        "timestamp": "2026-05-08T06:08:31.886456",
+        "source": "Hacker News"
     }
 ]
