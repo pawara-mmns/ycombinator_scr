@@ -492826,5 +492826,11 @@
         "url": "https://aws.amazon.com/blogs/opensource/introducing-trusted-remote-execution-policy-enforced-scripts-for-ai-agents-and-humans/",
         "timestamp": "2026-05-08T18:57:41.200080",
         "source": "Hacker News"
+    },
+    {
+        "title": "SafeSandbox – infinite undo for AI coding agents (Cursor, Claude Code, Codex)",
+        "url": "https://github.com/Baukaalm/safesandbox",
+        "timestamp": "2026-05-08T18:57:41.200109",
+        "source": "Hacker News"
     }
 ]
