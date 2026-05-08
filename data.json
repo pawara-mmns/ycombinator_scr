@@ -493678,5 +493678,11 @@
         "url": "https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/",
         "timestamp": "2026-05-08T23:37:27.050841",
         "source": "Hacker News"
+    },
+    {
+        "title": "Jetro – JSON query engine for Rust (jq-like DSL with compilation and VM)",
+        "url": "https://github.com/mitghi/jetro",
+        "timestamp": "2026-05-08T23:37:27.050875",
+        "source": "Hacker News"
     }
 ]
