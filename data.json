@@ -492322,5 +492322,11 @@
         "url": "https://www.wsj.com/tech/trumps-border-spending-spurs-boom-in-ai-infused-surveillance-4714521b",
         "timestamp": "2026-05-08T17:15:27.878112",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bjarne Stroustrup: How do I deal with memory leaks?",
+        "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+        "timestamp": "2026-05-08T17:15:27.878168",
+        "source": "Hacker News"
     }
 ]
