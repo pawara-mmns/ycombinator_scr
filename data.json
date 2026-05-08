@@ -493642,5 +493642,11 @@
         "url": "https://news.ycombinator.com/item?id=48070002",
         "timestamp": "2026-05-08T23:37:27.050633",
         "source": "Hacker News"
+    },
+    {
+        "title": "Vedit – Git-style version control for video timelines",
+        "url": "https://github.com/explicit09/vedit",
+        "timestamp": "2026-05-08T23:37:27.050669",
+        "source": "Hacker News"
     }
 ]
