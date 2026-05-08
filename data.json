@@ -490846,5 +490846,11 @@
         "url": "https://floedb.ai/blog/predicate-pushdown-a-planner-perspective",
         "timestamp": "2026-05-08T10:48:05.716177",
         "source": "Hacker News"
+    },
+    {
+        "title": "Steering Zig Fmt",
+        "url": "https://matklad.github.io/2026/05/08/steering-zig-fmt.html",
+        "timestamp": "2026-05-08T10:48:05.716213",
+        "source": "Hacker News"
     }
 ]
