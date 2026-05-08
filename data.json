@@ -489592,5 +489592,11 @@
         "url": "https://spaceflightnow.com/launch-schedule/",
         "timestamp": "2026-05-08T01:55:11.701378",
         "source": "Hacker News"
+    },
+    {
+        "title": "AWS EC2 outage in use1-az4 (us-east-1)",
+        "url": "https://health.aws.amazon.com/health/status?t=2026-05-07",
+        "timestamp": "2026-05-08T01:55:11.701413",
+        "source": "Hacker News"
     }
 ]
