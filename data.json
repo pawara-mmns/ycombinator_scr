@@ -492970,5 +492970,11 @@
         "url": "https://www.fcc.gov/document/fcc-seeks-comment-enhanced-know-your-customer-requirements",
         "timestamp": "2026-05-08T19:36:54.288780",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dirty Frag (CVE-2026-43284, CVE-2026-43500): Mitigation",
+        "url": "https://blog.cloudlinux.com/dirty-frag-mitigation-and-kernel-update",
+        "timestamp": "2026-05-08T19:36:54.288813",
+        "source": "Hacker News"
     }
 ]
