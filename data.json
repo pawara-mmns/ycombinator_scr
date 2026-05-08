@@ -493666,5 +493666,11 @@
         "url": "https://ledatic.org/aliens",
         "timestamp": "2026-05-08T23:37:27.050772",
         "source": "Hacker News"
+    },
+    {
+        "title": "Context-compiler: graph-based code retrieval for Claude Code",
+        "url": "https://github.com/bytewise-ca/claude-context-compiler",
+        "timestamp": "2026-05-08T23:37:27.050805",
+        "source": "Hacker News"
     }
 ]
