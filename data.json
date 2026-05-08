@@ -490690,5 +490690,11 @@
         "url": "https://www.karaqu.com/guest/billiard",
         "timestamp": "2026-05-08T10:11:37.235156",
         "source": "Hacker News"
+    },
+    {
+        "title": "Elevated errors across Claude Models (May 8, 09:49 UTC)",
+        "url": "https://status.claude.com/incidents/378dqscjgghp",
+        "timestamp": "2026-05-08T10:11:37.235191",
+        "source": "Hacker News"
     }
 ]
