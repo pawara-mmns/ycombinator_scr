@@ -489682,5 +489682,11 @@
         "url": "https://github.com/KyleBenzle/FreeCloud",
         "timestamp": "2026-05-08T03:04:09.796624",
         "source": "Hacker News"
+    },
+    {
+        "title": "Thermal event affecting AWS AZ use1-az4",
+        "url": "https://health.aws.amazon.com/health/status#786566",
+        "timestamp": "2026-05-08T03:04:09.796657",
+        "source": "Hacker News"
     }
 ]
