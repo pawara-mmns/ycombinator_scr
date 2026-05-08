@@ -489952,5 +489952,11 @@
         "url": "https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal",
         "timestamp": "2026-05-08T05:18:31.870377",
         "source": "Hacker News"
+    },
+    {
+        "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+        "url": "https://github.com/graemeg/blaise",
+        "timestamp": "2026-05-08T05:18:31.870406",
+        "source": "Hacker News"
     }
 ]
