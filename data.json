@@ -490840,5 +490840,11 @@
         "url": "https://www.newyorker.com/culture/open-questions/do-we-think-too-much-about-the-future",
         "timestamp": "2026-05-08T10:48:05.716141",
         "source": "Hacker News"
+    },
+    {
+        "title": "Predicate Pushdown in Query Planner",
+        "url": "https://floedb.ai/blog/predicate-pushdown-a-planner-perspective",
+        "timestamp": "2026-05-08T10:48:05.716177",
+        "source": "Hacker News"
     }
 ]
