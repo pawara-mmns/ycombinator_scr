@@ -489658,5 +489658,11 @@
         "url": "https://uwaterloo.ca/news/media/dna-matches-identify-four-more-sailors-franklin-expedition",
         "timestamp": "2026-05-08T03:04:09.796467",
         "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+        "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
+        "timestamp": "2026-05-08T03:04:09.796512",
+        "source": "Hacker News"
     }
 ]
