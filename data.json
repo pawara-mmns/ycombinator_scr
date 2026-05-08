@@ -492874,5 +492874,11 @@
         "url": "https://www.bloomberg.com/news/articles/2026-05-08/jane-street-pulls-in-record-16-1-billion-quarterly-trading-haul",
         "timestamp": "2026-05-08T19:36:54.288188",
         "source": "Hacker News"
+    },
+    {
+        "title": "New PRNG, 3x faster than PCG64, more random, with secure version",
+        "url": "https://mltechniques.com/2026/05/05/npg-new-random-generator-3x-faster-stronger-than-pcg64/",
+        "timestamp": "2026-05-08T19:36:54.288231",
+        "source": "Hacker News"
     }
 ]
