@@ -492214,5 +492214,11 @@
         "url": "https://kcsrk.info/ocaml/oxcaml/modes/blogging/2026/05/08/capsules-in-oxcaml/",
         "timestamp": "2026-05-08T16:45:00.301228",
         "source": "Hacker News"
+    },
+    {
+        "title": "let-go: Almost Clojure written in Go",
+        "url": "https://github.com/nooga/let-go",
+        "timestamp": "2026-05-08T16:45:00.301261",
+        "source": "Hacker News"
     }
 ]
