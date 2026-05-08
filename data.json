@@ -491068,5 +491068,11 @@
         "url": "https://fob.sh",
         "timestamp": "2026-05-08T11:59:02.586990",
         "source": "Hacker News"
+    },
+    {
+        "title": "Eisenstein– exact hexagonal arithmetic for Rust (zero drift after 10k rotations)",
+        "url": "https://superinstance.ai/demos",
+        "timestamp": "2026-05-08T11:59:02.587019",
+        "source": "Hacker News"
     }
 ]
