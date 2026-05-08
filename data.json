@@ -491482,5 +491482,11 @@
         "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
         "timestamp": "2026-05-08T14:11:49.963788",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built an open-source, local-first  alternative to LangSmith",
+        "url": "https://pypi.org/project/opensmith/",
+        "timestamp": "2026-05-08T14:11:49.963816",
+        "source": "Hacker News"
     }
 ]
