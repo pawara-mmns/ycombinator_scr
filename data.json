@@ -489718,5 +489718,11 @@
         "url": "https://some.3b1b.co/archive?category=video&year=2021&page=1",
         "timestamp": "2026-05-08T03:04:09.796857",
         "source": "Hacker News"
+    },
+    {
+        "title": "Archive.today requires scanning a QR code on your phone to use",
+        "url": "https://archive.fo",
+        "timestamp": "2026-05-08T03:04:09.796890",
+        "source": "Hacker News"
     }
 ]
