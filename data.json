@@ -492160,5 +492160,11 @@
         "url": "https://multigres.com/blog/2026/05/04/tla-pg-rewind",
         "timestamp": "2026-05-08T16:45:00.300751",
         "source": "Hacker News"
+    },
+    {
+        "title": "Transit",
+        "url": "https://github.com/cognitect/transit-clj",
+        "timestamp": "2026-05-08T16:45:00.300785",
+        "source": "Hacker News"
     }
 ]
