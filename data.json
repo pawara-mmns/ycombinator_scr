@@ -492154,5 +492154,11 @@
         "url": "https://thehill.com/homenews/nexstar_media_wire/5845998-homeland-security-smart-glasses/",
         "timestamp": "2026-05-08T16:45:00.300716",
         "source": "Hacker News"
+    },
+    {
+        "title": "TLA+ Caught a Silent Data Divergence Bug in Postgres's pg_rewind",
+        "url": "https://multigres.com/blog/2026/05/04/tla-pg-rewind",
+        "timestamp": "2026-05-08T16:45:00.300751",
+        "source": "Hacker News"
     }
 ]
