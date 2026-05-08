@@ -491290,5 +491290,11 @@
         "url": "https://wi.kifa.st/",
         "timestamp": "2026-05-08T13:15:21.380814",
         "source": "Hacker News"
+    },
+    {
+        "title": "Why scheduled VM shutdowns in Azure become harder than they look",
+        "url": "https://www.cloudtoggle.com/blog-en/azure-start-stop-alternative/",
+        "timestamp": "2026-05-08T13:15:21.380843",
+        "source": "Hacker News"
     }
 ]
