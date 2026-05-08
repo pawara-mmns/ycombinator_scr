@@ -491782,5 +491782,11 @@
         "url": "https://github.com/nickolasburr/keuka",
         "timestamp": "2026-05-08T15:32:42.651316",
         "source": "Hacker News"
+    },
+    {
+        "title": "Pi-ds4: Run deepseek4 locally on metal right from within Pi",
+        "url": "https://github.com/mitsuhiko/pi-ds4",
+        "timestamp": "2026-05-08T15:32:42.651344",
+        "source": "Hacker News"
     }
 ]
