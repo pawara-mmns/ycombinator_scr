@@ -490984,5 +490984,11 @@
         "url": "https://ghidravevo.substack.com/p/mozillas-buzz-around-mythos-is-disingenuous",
         "timestamp": "2026-05-08T11:29:50.116124",
         "source": "Hacker News"
+    },
+    {
+        "title": "Building an Open Source 7MB AI Terminal with Agents and Code Editor (Rust/Tauri)",
+        "url": "https://github.com/crynta/terax-ai",
+        "timestamp": "2026-05-08T11:59:02.586508",
+        "source": "Hacker News"
     }
 ]
