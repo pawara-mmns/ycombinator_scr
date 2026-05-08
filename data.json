@@ -492304,5 +492304,11 @@
         "url": "https://developer.apple.com/documentation/Charts",
         "timestamp": "2026-05-08T17:15:27.878011",
         "source": "Hacker News"
+    },
+    {
+        "title": "An open-source, self-hosted alternative to SaaS monitoring for Laravel",
+        "url": "https://github.com/laraowl/laraowl",
+        "timestamp": "2026-05-08T17:15:27.878045",
+        "source": "Hacker News"
     }
 ]
