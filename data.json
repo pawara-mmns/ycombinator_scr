@@ -492412,5 +492412,11 @@
         "url": "https://www.mux.com/blog/if-someone-can-watch-it-they-can-steal-it-securing-video-content-on-the-internet",
         "timestamp": "2026-05-08T17:15:27.878654",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dora: ROI of AI Calculator",
+        "url": "https://dora.dev/ai/roi/calculator/#staff_size=500&salary=176000&revenue=100000000&downtime_cost_per_hour=100000&current_deployments_per_year=50&current_features_per_year=50&idea_success_rate=0.33&revenue_impact_per_feature=0.005&current_cfr=0.05&current_fdrt=4&time_saved_per_developer=0.125&ai_license_cost_per_user=250&additional_ai_cost_per_user=80&additional_ai_infra_cost=100000&training_cost_per_user=9600&target_deployments_per_year=56&target_features_per_year=56&target_cfr=0.06&j_curve_drop=0.15&j_curve_duration=3",
+        "timestamp": "2026-05-08T17:15:27.878689",
+        "source": "Hacker News"
     }
 ]
