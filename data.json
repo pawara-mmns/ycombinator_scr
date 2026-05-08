@@ -490456,5 +490456,11 @@
         "url": "https://code-agents.ai",
         "timestamp": "2026-05-08T08:13:56.210542",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Runs AI coding agents inside isolated Docker containers",
+        "url": "https://github.com/marvincaspar/agent-sanbox",
+        "timestamp": "2026-05-08T08:13:56.210575",
+        "source": "Hacker News"
     }
 ]
