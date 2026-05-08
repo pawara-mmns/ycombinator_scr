@@ -490318,5 +490318,11 @@
         "url": "https://news.ycombinator.com/item?id=48059756",
         "timestamp": "2026-05-08T07:32:29.289615",
         "source": "Hacker News"
+    },
+    {
+        "title": "30x faster than Prometheus: How we rebuilt ES as a leading columnar datastore",
+        "url": "https://www.elastic.co/search-labs/blog/elasticsearch-columnar-metrics-engine-30x-faster-prometheus",
+        "timestamp": "2026-05-08T07:32:29.289650",
+        "source": "Hacker News"
     }
 ]
