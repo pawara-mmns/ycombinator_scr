@@ -496084,5 +496084,11 @@
         "url": "https://postmarketos.org/blog/2026/05/08/q6voice-project/",
         "timestamp": "2026-05-09T20:07:04.778899",
         "source": "Hacker News"
+    },
+    {
+        "title": "FreeBSD: Local Privilege Escalation via Execve()",
+        "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+        "timestamp": "2026-05-09T21:02:00.573209",
+        "source": "Hacker News"
     }
 ]
