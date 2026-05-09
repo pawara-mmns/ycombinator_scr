@@ -495850,5 +495850,11 @@
         "url": "https://isthisanart.substack.com/p/death-of-a-software-developer",
         "timestamp": "2026-05-09T19:21:45.406904",
         "source": "Hacker News"
+    },
+    {
+        "title": "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
+        "url": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
+        "timestamp": "2026-05-09T19:21:45.406933",
+        "source": "Hacker News"
     }
 ]
