@@ -494908,5 +494908,11 @@
         "url": "https://blogsystem5.substack.com/p/no-basic-in-endbasic",
         "timestamp": "2026-05-09T12:42:18.923394",
         "source": "Hacker News"
+    },
+    {
+        "title": "Breaking Jolt's Verifier with an Unbound Uni-Skip Claim",
+        "url": "https://blog.zksecurity.xyz/posts/jolt-uniskip-bug/",
+        "timestamp": "2026-05-09T12:42:18.923463",
+        "source": "Hacker News"
     }
 ]
