@@ -494962,5 +494962,11 @@
         "url": "https://www.a16z.news/p/charts-of-the-week-it-was-a-good",
         "timestamp": "2026-05-09T14:06:18.856032",
         "source": "Hacker News"
+    },
+    {
+        "title": "Callbacks in C++ using template functors (Rich Hickey, 1996)",
+        "url": "https://dl.acm.org/doi/10.5555/260627.260756",
+        "timestamp": "2026-05-09T14:06:18.856069",
+        "source": "Hacker News"
     }
 ]
