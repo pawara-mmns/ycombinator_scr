@@ -495628,5 +495628,11 @@
         "url": "https://github.com/kyren/piccolo",
         "timestamp": "2026-05-09T18:03:45.149899",
         "source": "Hacker News"
+    },
+    {
+        "title": "Query Insights for Postgres, Powered by ClickHouse",
+        "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
+        "timestamp": "2026-05-09T18:03:45.149938",
+        "source": "Hacker News"
     }
 ]
