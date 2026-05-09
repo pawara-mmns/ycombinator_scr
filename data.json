@@ -495244,5 +495244,11 @@
         "url": "https://www.alignmentforum.org/posts/eeFFpKCDWE9gjfzsk/exploration-hacking-can-llms-learn-to-resist-rl-training-2",
         "timestamp": "2026-05-09T15:11:41.575624",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Real-workload SQLite benchmarks on Hetzner's cheapest VPS",
+        "url": "https://s13k.dev/blog/real-workload-sqlite-bench-on-5-dollar-vps/",
+        "timestamp": "2026-05-09T15:11:41.575679",
+        "source": "Hacker News"
     }
 ]
