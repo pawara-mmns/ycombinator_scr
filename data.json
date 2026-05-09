@@ -496108,5 +496108,11 @@
         "url": "https://news.ycombinator.com/item?id=48078195",
         "timestamp": "2026-05-09T21:02:00.680998",
         "source": "Hacker News"
+    },
+    {
+        "title": "RustChat is a minimal team messenger, alternative to Slack, Mattermost, Zulip",
+        "url": "https://rustchat.io/",
+        "timestamp": "2026-05-09T21:02:00.681046",
+        "source": "Hacker News"
     }
 ]
