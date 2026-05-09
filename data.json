@@ -494146,5 +494146,11 @@
         "url": "https://til.andrew-quinn.me/posts/i-still-like-jenkins/",
         "timestamp": "2026-05-09T06:57:55.005635",
         "source": "Hacker News"
+    },
+    {
+        "title": "A YouTube Music player that runs in your terminal",
+        "url": "https://github.com/chuzcjoe/musicli",
+        "timestamp": "2026-05-09T06:57:55.005670",
+        "source": "Hacker News"
     }
 ]
