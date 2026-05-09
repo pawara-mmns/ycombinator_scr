@@ -494794,5 +494794,11 @@
         "url": "https://www.kutilek.de/selectric/",
         "timestamp": "2026-05-09T12:42:18.822172",
         "source": "Hacker News"
+    },
+    {
+        "title": "AutoKernel: Autonomous GPU Kernel Optimization via Iterative Agent-Driven Search",
+        "url": "https://arxiv.org/abs/2603.21331",
+        "timestamp": "2026-05-09T12:42:18.922554",
+        "source": "Hacker News"
     }
 ]
