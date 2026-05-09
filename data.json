@@ -495358,5 +495358,11 @@
         "url": "https://adola.app/",
         "timestamp": "2026-05-09T16:07:29.868409",
         "source": "Hacker News"
+    },
+    {
+        "title": "Docker images are MB; a full game engine compiles to 35MB WASM",
+        "url": "https://bogomolov.work/blog/posts/wasm-vs-docker/",
+        "timestamp": "2026-05-09T16:07:29.868451",
+        "source": "Hacker News"
     }
 ]
