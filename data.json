@@ -495334,5 +495334,11 @@
         "url": "https://www.theguardian.com/technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
         "timestamp": "2026-05-09T16:07:29.868272",
         "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-43284 (\"Dirty Frag\") Alma Linux",
+        "url": "https://almalinux.org/blog/2026-05-07-dirty-frag/",
+        "timestamp": "2026-05-09T16:07:29.868305",
+        "source": "Hacker News"
     }
 ]
