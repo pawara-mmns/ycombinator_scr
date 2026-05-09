@@ -495664,5 +495664,11 @@
         "url": "https://en.wikipedia.org/wiki/AoS_and_SoA",
         "timestamp": "2026-05-09T18:03:45.150125",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Durable async jobs for x402-paid APIs",
+        "url": "https://github.com/clearedink/cleared-jobs",
+        "timestamp": "2026-05-09T18:03:45.150194",
+        "source": "Hacker News"
     }
 ]
