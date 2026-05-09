@@ -494752,5 +494752,11 @@
         "url": "https://fromthelittoral.substack.com/p/the-audience-nobody-saw",
         "timestamp": "2026-05-09T11:43:50.482874",
         "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia releases CUDA-Oxide 0.1 for experimental Rust-to-CUDA compiler",
+        "url": "https://www.phoronix.com/news/NVIDIA-CUDA-Oxide-0.1",
+        "timestamp": "2026-05-09T11:43:50.482905",
+        "source": "Hacker News"
     }
 ]
