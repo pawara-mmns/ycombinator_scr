@@ -493948,5 +493948,11 @@
         "url": "https://www.ft.com/content/fe483e68-097a-4b80-ad3a-0792dda8f94a",
         "timestamp": "2026-05-09T01:21:27.948218",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nanorust – Minimal server-driven UI in Rust",
+        "url": "https://github.com/skorotkiewicz/nanorust",
+        "timestamp": "2026-05-09T04:43:09.129402",
+        "source": "Hacker News"
     }
 ]
