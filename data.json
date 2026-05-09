@@ -494560,5 +494560,11 @@
         "url": "https://figshare.com/articles/journal_contribution/_b_7_Essential_Capabilities_Insight_Teams_Need_in_a_Modern_Market_Research_Platform_b_/32228340",
         "timestamp": "2026-05-09T09:51:27.576663",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built godom: Go owns the DOM and the browser is just a rendering surface",
+        "url": "https://www.anupshinde.com/why-i-built-godom/",
+        "timestamp": "2026-05-09T09:51:27.576693",
+        "source": "Hacker News"
     }
 ]
