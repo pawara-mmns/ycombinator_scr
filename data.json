@@ -494578,5 +494578,11 @@
         "url": "https://github.com/MihaiBuilds/memory-vault",
         "timestamp": "2026-05-09T10:51:53.695568",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Aptmatic – a TUI for managing apt across a bunch of Debian boxes",
+        "url": "https://crates.io/crates/aptmatic",
+        "timestamp": "2026-05-09T10:51:53.695617",
+        "source": "Hacker News"
     }
 ]
