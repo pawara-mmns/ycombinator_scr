@@ -494344,5 +494344,11 @@
         "url": "https://github.com/suitenumerique/docs/releases/v5.0.0",
         "timestamp": "2026-05-09T08:27:18.707977",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dirty Frag: Ongoing Linux Kernel Privilege Escalation Vulnerability Since 2017",
+        "url": "https://www.wiz.io/blog/dirty-frag-linux-kernel-local-privilege-escalation-via-esp-and-rxrpc",
+        "timestamp": "2026-05-09T08:27:18.708006",
+        "source": "Hacker News"
     }
 ]
