@@ -493774,5 +493774,11 @@
         "url": "https://www.youtube.com/watch?v=XBWyE2bGaLk",
         "timestamp": "2026-05-08T23:37:27.051522",
         "source": "Hacker News"
+    },
+    {
+        "title": "Can LLMs model real-world systems in TLA+?",
+        "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+        "timestamp": "2026-05-09T01:21:27.619404",
+        "source": "Hacker News"
     }
 ]
