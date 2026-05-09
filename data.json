@@ -495250,5 +495250,11 @@
         "url": "https://s13k.dev/blog/real-workload-sqlite-bench-on-5-dollar-vps/",
         "timestamp": "2026-05-09T15:11:41.575679",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prevent cross-site tracking in Safari breaks Cloudflare challenges",
+        "url": "https://lapcatsoftware.com/articles/2026/5/1.html",
+        "timestamp": "2026-05-09T15:11:41.575716",
+        "source": "Hacker News"
     }
 ]
