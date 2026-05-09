@@ -495592,5 +495592,11 @@
         "url": "https://susam.net/no-query-strings.html",
         "timestamp": "2026-05-09T17:10:58.446127",
         "source": "Hacker News"
+    },
+    {
+        "title": "Darwinian – A self-evolving system optimizer written in Rust",
+        "url": "https://github.com/skorotkiewicz/darwinian_cleaner",
+        "timestamp": "2026-05-09T17:10:58.446155",
+        "source": "Hacker News"
     }
 ]
