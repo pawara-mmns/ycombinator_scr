@@ -495622,5 +495622,11 @@
         "url": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/",
         "timestamp": "2026-05-09T18:03:45.149847",
         "source": "Hacker News"
+    },
+    {
+        "title": "Piccolo: An experimental stackless Lua VM implemented in pure Rust",
+        "url": "https://github.com/kyren/piccolo",
+        "timestamp": "2026-05-09T18:03:45.149899",
+        "source": "Hacker News"
     }
 ]
