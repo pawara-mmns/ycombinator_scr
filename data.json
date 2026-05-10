@@ -497626,5 +497626,11 @@
         "url": "https://docs.fcc.gov/public/attachments/DOC-421309A1.pdf",
         "timestamp": "2026-05-10T12:40:21.267811",
         "source": "Hacker News"
+    },
+    {
+        "title": "Sql2md – Zero-dependency SQL to Markdown converter (open source)",
+        "url": "https://github.com/hyperbob/sql2md",
+        "timestamp": "2026-05-10T12:40:21.267879",
+        "source": "Hacker News"
     }
 ]
