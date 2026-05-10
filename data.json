@@ -497344,5 +497344,11 @@
         "url": "https://yf-aiapp-2.streamlit.app",
         "timestamp": "2026-05-10T10:37:06.175760",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Tale of Two Charting Paradigms: Vega-Lite vs. R+ggplot2",
+        "url": "https://rud.is/b/2016/02/28/a-tale-of-two-charting-paradigms-vega-lite-vs-rggplot2/",
+        "timestamp": "2026-05-10T10:37:06.175795",
+        "source": "Hacker News"
     }
 ]
