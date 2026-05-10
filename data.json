@@ -499030,5 +499030,11 @@
         "url": "https://news.ycombinator.com/item?id=48088126",
         "timestamp": "2026-05-10T22:03:52.305629",
         "source": "Hacker News"
+    },
+    {
+        "title": "Obsidian plugin was abused to deploy a remote access trojan",
+        "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+        "timestamp": "2026-05-10T23:07:14.204702",
+        "source": "Hacker News"
     }
 ]
