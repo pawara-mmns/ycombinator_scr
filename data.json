@@ -498124,5 +498124,11 @@
         "url": "https://amrshawky.com/posts/we-accidentally-recreated-fb/",
         "timestamp": "2026-05-10T16:09:14.059600",
         "source": "Hacker News"
+    },
+    {
+        "title": "Detecting PostgreSQL optimization issues with deterministic analysis",
+        "url": "https://beh74.github.io/pgassistant-blog/post/global_advisor/",
+        "timestamp": "2026-05-10T16:09:14.059628",
+        "source": "Hacker News"
     }
 ]
