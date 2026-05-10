@@ -498214,5 +498214,11 @@
         "url": "https://news.ycombinator.com/item?id=48085738",
         "timestamp": "2026-05-10T17:11:44.152629",
         "source": "Hacker News"
+    },
+    {
+        "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+        "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+        "timestamp": "2026-05-10T17:11:44.152700",
+        "source": "Hacker News"
     }
 ]
