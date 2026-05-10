@@ -497254,5 +497254,11 @@
         "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-26268",
         "timestamp": "2026-05-10T09:12:45.345851",
         "source": "Hacker News"
+    },
+    {
+        "title": "JavaScript Tail Call Optimization in ES2015: Unimplemented and Stack Issues",
+        "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+        "timestamp": "2026-05-10T09:12:45.345885",
+        "source": "Hacker News"
     }
 ]
