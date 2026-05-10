@@ -497596,5 +497596,11 @@
         "url": "https://news.ycombinator.com/item?id=48083469",
         "timestamp": "2026-05-10T12:40:21.267613",
         "source": "Hacker News"
+    },
+    {
+        "title": "DuckDB-Delta Grows Up: Writes, Unity Catalog and Time Travel",
+        "url": "https://duckdb.org/2026/05/07/delta-uc-updates",
+        "timestamp": "2026-05-10T12:40:21.267675",
+        "source": "Hacker News"
     }
 ]
