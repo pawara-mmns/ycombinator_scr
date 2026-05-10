@@ -496882,5 +496882,11 @@
         "url": "https://github.com/narcotic-sh/modafinil",
         "timestamp": "2026-05-10T05:00:07.576824",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP for sandboxed, reproducible envs for agentic-first coding workflows",
+        "url": "https://github.com/aniongithub/devcontainer-mcp",
+        "timestamp": "2026-05-10T05:00:07.576941",
+        "source": "Hacker News"
     }
 ]
