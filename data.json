@@ -497716,5 +497716,11 @@
         "url": "https://news.ycombinator.com/item?id=48084086",
         "timestamp": "2026-05-10T14:06:46.516887",
         "source": "Hacker News"
+    },
+    {
+        "title": "My Marstek B2500-D battery sends telemetry over plain HTTP",
+        "url": "https://luca-becker.me/blog/marstek-b2500-cloud-crypto-broken/",
+        "timestamp": "2026-05-10T14:06:46.516939",
+        "source": "Hacker News"
     }
 ]
