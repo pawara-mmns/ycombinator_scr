@@ -496606,5 +496606,11 @@
         "url": "https://lichess.org/@/RuyLopez1000/blog/did-the-soviets-collude-in-the-1953-candidates-tournament/PFaoJIPI",
         "timestamp": "2026-05-10T01:25:20.233737",
         "source": "Hacker News"
+    },
+    {
+        "title": "Docker Containers Are Leaking (and How to Plug the Hole)",
+        "url": "https://blog.dera.page/posts/dockerwall/",
+        "timestamp": "2026-05-10T01:25:20.233768",
+        "source": "Hacker News"
     }
 ]
