@@ -497272,5 +497272,11 @@
         "url": "https://cangjie-lang.cn/en/docs?url=%2F0.53.13%2Fuser_manual%2Fsource_en%2Ffirst_understanding%2Fbasic.html",
         "timestamp": "2026-05-10T10:37:06.175333",
         "source": "Hacker News"
+    },
+    {
+        "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
+        "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
+        "timestamp": "2026-05-10T10:37:06.175386",
+        "source": "Hacker News"
     }
 ]
