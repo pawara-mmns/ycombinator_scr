@@ -497290,5 +497290,11 @@
         "url": "https://github.com/jaksa76/agentize",
         "timestamp": "2026-05-10T10:37:06.175462",
         "source": "Hacker News"
+    },
+    {
+        "title": "Notetux++ – a native GTK3 Linux port of Notepad++, written in C11",
+        "url": "https://github.com/notetux-plus-plus/notetux-plus-plus",
+        "timestamp": "2026-05-10T10:37:06.175495",
+        "source": "Hacker News"
     }
 ]
