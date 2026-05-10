@@ -497464,5 +497464,11 @@
         "url": "https://jdownloader.org/incident_8.5.2026.html?v=20260508277000",
         "timestamp": "2026-05-10T11:31:56.848110",
         "source": "Hacker News"
+    },
+    {
+        "title": "Profiling.sampling – Statistical Profiler",
+        "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
+        "timestamp": "2026-05-10T11:31:56.848146",
+        "source": "Hacker News"
     }
 ]
