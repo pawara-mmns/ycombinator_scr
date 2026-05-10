@@ -498460,5 +498460,11 @@
         "url": "https://www.the-independent.com/tech/ai-doxxing-gemini-hallucination-google-b2973008.html",
         "timestamp": "2026-05-10T18:05:16.109055",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a local portal so ChatGPT (Pro models) can browse my accounts safely",
+        "url": "https://github.com/DenisSergeevitch/chatgpt-portal",
+        "timestamp": "2026-05-10T18:05:16.109077",
+        "source": "Hacker News"
     }
 ]
