@@ -498292,5 +498292,11 @@
         "url": "https://www.youtube.com/watch?v=7vN614cPqTM",
         "timestamp": "2026-05-10T17:11:44.153097",
         "source": "Hacker News"
+    },
+    {
+        "title": "VDCores: Resource Decoupled Programming and Execution for Asynchronous GPU",
+        "url": "https://arxiv.org/abs/2605.03190",
+        "timestamp": "2026-05-10T17:11:44.153126",
+        "source": "Hacker News"
     }
 ]
