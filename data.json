@@ -496858,5 +496858,11 @@
         "url": "https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/",
         "timestamp": "2026-05-10T05:00:07.576595",
         "source": "Hacker News"
+    },
+    {
+        "title": "Grinder12: 0.96-Bit Lossless Streaming KV-Cache (16.55x VRAM Savings",
+        "url": "https://github.com/ggml-org/llama.cpp/discussions/22891",
+        "timestamp": "2026-05-10T05:00:07.576630",
+        "source": "Hacker News"
     }
 ]
