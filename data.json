@@ -497218,5 +497218,11 @@
         "url": "https://github.com/lexvicacom/tinyblok",
         "timestamp": "2026-05-10T09:12:45.345645",
         "source": "Hacker News"
+    },
+    {
+        "title": "RISC-V Serial Debug Protocol Specification (Draft)",
+        "url": "https://gitlab.com/lauterbach/riscv-rsdp-spec",
+        "timestamp": "2026-05-10T09:12:45.345678",
+        "source": "Hacker News"
     }
 ]
