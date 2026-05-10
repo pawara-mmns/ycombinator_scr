@@ -497092,5 +497092,11 @@
         "url": "https://www.tokreach.com",
         "timestamp": "2026-05-10T07:28:40.633130",
         "source": "Hacker News"
+    },
+    {
+        "title": "tsz: TypeScript checker and LSP written in Rust, designed to outperform tsgo",
+        "url": "https://github.com/mohsen1/tsz",
+        "timestamp": "2026-05-10T07:28:40.633164",
+        "source": "Hacker News"
     }
 ]
