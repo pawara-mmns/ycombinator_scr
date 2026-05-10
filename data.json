@@ -498040,5 +498040,11 @@
         "url": "https://www.theregister.com/systems/2026/05/10/memory-godboxes-could-offer-relief-from-the-rampocalypse/5237463",
         "timestamp": "2026-05-10T15:12:38.877100",
         "source": "Hacker News"
+    },
+    {
+        "title": "Ezdoctor: Single-file Asciidoctor with diagrams and syntax highlightning",
+        "url": "https://github.com/l3nz/ezdoctor",
+        "timestamp": "2026-05-10T16:09:14.059168",
+        "source": "Hacker News"
     }
 ]
