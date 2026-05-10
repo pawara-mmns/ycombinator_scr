@@ -497248,5 +497248,11 @@
         "url": "https://dma.space",
         "timestamp": "2026-05-10T09:12:45.345816",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cursor CVE-2026-26268: Hidden Git hooks RCE via agents autonomous Git operations",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-26268",
+        "timestamp": "2026-05-10T09:12:45.345851",
+        "source": "Hacker News"
     }
 ]
