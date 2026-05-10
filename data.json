@@ -497842,5 +497842,11 @@
         "url": "https://news.ycombinator.com/item?id=48083816",
         "timestamp": "2026-05-10T14:06:46.517729",
         "source": "Hacker News"
+    },
+    {
+        "title": "BLAS, Lapack and OpenMP",
+        "url": "https://pypackaging-native.github.io/key-issues/native-dependencies/blas_openmp/",
+        "timestamp": "2026-05-10T14:06:46.517763",
+        "source": "Hacker News"
     }
 ]
