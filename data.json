@@ -497152,5 +497152,11 @@
         "url": "https://www.chess.com/",
         "timestamp": "2026-05-10T09:12:45.345180",
         "source": "Hacker News"
+    },
+    {
+        "title": "Outlook on Windows silently scales your email by 1.5×",
+        "url": "http://picmel.com/blog/outlook-dpi-scaling-bug",
+        "timestamp": "2026-05-10T09:12:45.345248",
+        "source": "Hacker News"
     }
 ]
