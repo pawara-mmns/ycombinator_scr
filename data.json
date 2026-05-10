@@ -498496,5 +498496,11 @@
         "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
         "timestamp": "2026-05-10T18:05:16.109239",
         "source": "Hacker News"
+    },
+    {
+        "title": "Integrating no-as-a-service in Linux kernel code",
+        "url": "https://github.com/hotheadhacker/no-as-a-service/commit/e6b4218394f3ab6c513caaf2ec2e3e88d03d124c",
+        "timestamp": "2026-05-10T18:05:16.109261",
+        "source": "Hacker News"
     }
 ]
