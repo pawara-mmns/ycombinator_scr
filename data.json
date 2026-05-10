@@ -497914,5 +497914,11 @@
         "url": "https://somethingorotherwhatever.com/shunting-yard-animation/",
         "timestamp": "2026-05-10T15:12:38.876324",
         "source": "Hacker News"
+    },
+    {
+        "title": "Rust-based ScanCode-compatible scanner for licenses and copyrights",
+        "url": "https://github.com/mstykow/provenant",
+        "timestamp": "2026-05-10T15:12:38.876386",
+        "source": "Hacker News"
     }
 ]
