@@ -497212,5 +497212,11 @@
         "url": "https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai",
         "timestamp": "2026-05-10T09:12:45.345611",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tinyblok – publishes conditioned sensor data to NATS from an ESP32",
+        "url": "https://github.com/lexvicacom/tinyblok",
+        "timestamp": "2026-05-10T09:12:45.345645",
+        "source": "Hacker News"
     }
 ]
