@@ -498352,5 +498352,11 @@
         "url": "https://crookedtimber.org/2026/04/28/occasional-paper-blue-angels-devil-hands/",
         "timestamp": "2026-05-10T17:11:44.153451",
         "source": "Hacker News"
+    },
+    {
+        "title": "I Shipped a \"Simple\" Infrastructure Migration and Got 2 Prod Incidents in 24h",
+        "url": "https://awstip.com/how-i-shipped-a-simple-infrastructure-migration-and-got-2-production-incidents-in-24-hours-0b91399a825a",
+        "timestamp": "2026-05-10T17:11:44.153481",
+        "source": "Hacker News"
     }
 ]
