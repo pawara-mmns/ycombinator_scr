@@ -498094,5 +498094,11 @@
         "url": "https://explorer.aauth.dev/",
         "timestamp": "2026-05-10T16:09:14.059425",
         "source": "Hacker News"
+    },
+    {
+        "title": "Prefer Terraform Module Composition over Inheritance (2025)",
+        "url": "https://newsletter.masterpoint.io/p/prefer-module-composition-over-inheritance",
+        "timestamp": "2026-05-10T16:09:14.059455",
+        "source": "Hacker News"
     }
 ]
