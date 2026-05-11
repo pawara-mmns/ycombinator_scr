@@ -500710,5 +500710,11 @@
         "url": "https://provisioningiq.appswireless.com/",
         "timestamp": "2026-05-11T23:52:04.636814",
         "source": "Hacker News"
+    },
+    {
+        "title": "Postmortem: TanStack NPM supply-chain compromise",
+        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "timestamp": "2026-05-11T23:52:04.636847",
+        "source": "Hacker News"
     }
 ]
