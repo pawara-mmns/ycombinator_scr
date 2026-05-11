@@ -500140,5 +500140,11 @@
         "url": "https://pacificlegal.org/press-release/california-homeowners-sue-coastal-commission-over-unconstitutional-permit-conditions/",
         "timestamp": "2026-05-11T18:53:05.700592",
         "source": "Hacker News"
+    },
+    {
+        "title": "Library for fast mapping of Java records to native memory",
+        "url": "https://github.com/mamba-studio/TypedMemory",
+        "timestamp": "2026-05-11T20:28:54.198235",
+        "source": "Hacker News"
     }
 ]
