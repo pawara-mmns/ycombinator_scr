@@ -500824,5 +500824,11 @@
         "url": "https://news.ycombinator.com/item?id=48101913",
         "timestamp": "2026-05-11T23:52:04.637445",
         "source": "Hacker News"
+    },
+    {
+        "title": "Open-source endpoint detection engine for Windows and Linux",
+        "url": "https://github.com/Karib0u/rustinel",
+        "timestamp": "2026-05-11T23:52:04.637502",
+        "source": "Hacker News"
     }
 ]
