@@ -499300,5 +499300,11 @@
         "url": "https://news.ycombinator.com/item?id=48090784",
         "timestamp": "2026-05-11T04:34:28.157227",
         "source": "Hacker News"
+    },
+    {
+        "title": "MCP server that gives a forensic verdict on biopharma catalyst plays",
+        "url": "https://github.com/yesc97/biopharma-catalyst-mcp",
+        "timestamp": "2026-05-11T04:34:28.157263",
+        "source": "Hacker News"
     }
 ]
