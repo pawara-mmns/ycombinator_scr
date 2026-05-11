@@ -500680,5 +500680,11 @@
         "url": "https://pyrefly.org/en/docs/tensor-shapes/",
         "timestamp": "2026-05-11T22:48:42.318874",
         "source": "Hacker News"
+    },
+    {
+        "title": "Mistral AI's NPM package was compromised",
+        "url": "https://github.com/mistralai/client-ts/issues/217",
+        "timestamp": "2026-05-11T23:52:04.636670",
+        "source": "Hacker News"
     }
 ]
