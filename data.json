@@ -499732,5 +499732,11 @@
         "url": "https://www.theguardian.com/politics/2001/jun/29/comment",
         "timestamp": "2026-05-11T11:34:59.819783",
         "source": "Hacker News"
+    },
+    {
+        "title": "Endy – orchestrate multiple coding-agent CLIs to cut LLM spend",
+        "url": "https://github.com/trentisiete/endy",
+        "timestamp": "2026-05-11T11:34:59.819859",
+        "source": "Hacker News"
     }
 ]
