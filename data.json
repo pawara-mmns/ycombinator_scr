@@ -499768,5 +499768,11 @@
         "url": "https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/",
         "timestamp": "2026-05-11T16:45:34.334157",
         "source": "Hacker News"
+    },
+    {
+        "title": "Heimdall MCP, a simple proxy to traces MCP tool calls",
+        "url": "https://github.com/enmanuelmag/heimdall-mcp",
+        "timestamp": "2026-05-11T16:45:34.464113",
+        "source": "Hacker News"
     }
 ]
