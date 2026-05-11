@@ -499372,5 +499372,11 @@
         "url": "https://www.cl.cam.ac.uk/archive/rja14/tcpa-faq-1.0.html",
         "timestamp": "2026-05-11T04:34:28.157828",
         "source": "Hacker News"
+    },
+    {
+        "title": "SzPredict – open seizure prediction benchmark (all 6 baselines fail)",
+        "url": "https://github.com/hyperreal-ai/SzPredict",
+        "timestamp": "2026-05-11T04:34:28.157862",
+        "source": "Hacker News"
     }
 ]
