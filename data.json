@@ -500110,5 +500110,11 @@
         "url": "https://www.juanbenetpodcast.com/p/ben-rapoport-treating-paralysis-and",
         "timestamp": "2026-05-11T18:53:05.700425",
         "source": "Hacker News"
+    },
+    {
+        "title": "Suspend broken for Nvidia on latest Linux kernel",
+        "url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/1117",
+        "timestamp": "2026-05-11T18:53:05.700481",
+        "source": "Hacker News"
     }
 ]
