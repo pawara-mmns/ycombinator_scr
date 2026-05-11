@@ -499276,5 +499276,11 @@
         "url": "https://news.ycombinator.com/item?id=48090988",
         "timestamp": "2026-05-11T04:34:28.157045",
         "source": "Hacker News"
+    },
+    {
+        "title": "PyTorch DevLog",
+        "url": "https://docs.pytorch.org/devlogs/",
+        "timestamp": "2026-05-11T04:34:28.157118",
+        "source": "Hacker News"
     }
 ]
