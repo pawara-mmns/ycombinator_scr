@@ -499216,5 +499216,11 @@
         "url": "https://gawk.dev",
         "timestamp": "2026-05-11T00:07:33.217749",
         "source": "Hacker News"
+    },
+    {
+        "title": "You can have your composer.lock and not make others eat it too",
+        "url": "https://kevinullyott.com/blog/2026-05-05-composer-lock-gitattributes/",
+        "timestamp": "2026-05-11T00:07:33.217787",
+        "source": "Hacker News"
     }
 ]
