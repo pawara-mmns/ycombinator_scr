@@ -499864,5 +499864,11 @@
         "url": "https://fsfe.org/news/2026/news-20260430-01.de.html",
         "timestamp": "2026-05-11T16:45:34.464794",
         "source": "Hacker News"
+    },
+    {
+        "title": "Stop Writing YAML: Configuring ML Systems with Confingy",
+        "url": "https://runwayml.com/news/stop-writing-yaml-configuring-ml-systems-with-confingy",
+        "timestamp": "2026-05-11T16:45:34.464828",
+        "source": "Hacker News"
     }
 ]
