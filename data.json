@@ -500206,5 +500206,11 @@
         "url": "https://github.com/ab-613/opengravity",
         "timestamp": "2026-05-11T20:28:54.556285",
         "source": "Hacker News"
+    },
+    {
+        "title": "Just released: Dirty Frag (CVE-2026-43284 / CVE-2026-43500) Detection Script",
+        "url": "https://github.com/liamromanis101/DirtyFrag-Detector",
+        "timestamp": "2026-05-11T20:28:54.556344",
+        "source": "Hacker News"
     }
 ]
