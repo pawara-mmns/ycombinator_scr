@@ -499750,5 +499750,11 @@
         "url": "https://borretti.me/article/notes-on-the-hantavirus-outbreak",
         "timestamp": "2026-05-11T11:34:59.819997",
         "source": "Hacker News"
+    },
+    {
+        "title": "A Database Without Dynamic Memory Allocation",
+        "url": "https://tigerbeetle.com/blog/2022-10-12-a-database-without-dynamic-memory/",
+        "timestamp": "2026-05-11T11:34:59.820034",
+        "source": "Hacker News"
     }
 ]
