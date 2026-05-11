@@ -500146,5 +500146,11 @@
         "url": "https://github.com/mamba-studio/TypedMemory",
         "timestamp": "2026-05-11T20:28:54.198235",
         "source": "Hacker News"
+    },
+    {
+        "title": "Counting Fast in Erlang with:counters and:atomics",
+        "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
+        "timestamp": "2026-05-11T20:28:54.198334",
+        "source": "Hacker News"
     }
 ]
