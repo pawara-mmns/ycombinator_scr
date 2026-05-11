@@ -499804,5 +499804,11 @@
         "url": "https://eslabs.web.app/",
         "timestamp": "2026-05-11T16:45:34.464349",
         "source": "Hacker News"
+    },
+    {
+        "title": "Notesnook: An end-to-end encrypted note taking alternative to Evernote",
+        "url": "https://github.com/streetwriters/notesnook",
+        "timestamp": "2026-05-11T16:45:34.464384",
+        "source": "Hacker News"
     }
 ]
