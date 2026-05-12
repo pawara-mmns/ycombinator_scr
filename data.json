@@ -502642,5 +502642,11 @@
         "url": "https://github.com/yhzhang0128/egos-2000",
         "timestamp": "2026-05-12T22:34:45.151323",
         "source": "Hacker News"
+    },
+    {
+        "title": "DeepSeek V4's indexer dies at 65K. We got it to 1M on 6GB",
+        "url": "https://arxiv.org/abs/2605.02568",
+        "timestamp": "2026-05-12T22:34:45.151359",
+        "source": "Hacker News"
     }
 ]
