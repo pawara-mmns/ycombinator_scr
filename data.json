@@ -502180,5 +502180,11 @@
         "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
         "timestamp": "2026-05-12T19:41:36.789635",
         "source": "Hacker News"
+    },
+    {
+        "title": "Quack: The DuckDB Client-Server Protocol",
+        "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+        "timestamp": "2026-05-12T19:41:36.789784",
+        "source": "Hacker News"
     }
 ]
