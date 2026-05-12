@@ -502690,5 +502690,11 @@
         "url": "https://nathanschneider.info/2026/05/why-this-is-not-a-newsletter/",
         "timestamp": "2026-05-12T22:34:45.151645",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built a free PII scanner for LLM prompts. No signup needed",
+        "url": "https://aisecuritygateway.ai/ai-leak-checker",
+        "timestamp": "2026-05-12T22:34:45.151680",
+        "source": "Hacker News"
     }
 ]
