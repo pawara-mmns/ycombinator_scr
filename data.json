@@ -502516,5 +502516,11 @@
         "url": "https://arrowcoaching.net/blog/post.html?slug=smart-goals",
         "timestamp": "2026-05-12T21:06:02.000895",
         "source": "Hacker News"
+    },
+    {
+        "title": "My implementation of CVE-2026-31431(CopyFail) in C++, no dependency needed",
+        "url": "https://github.com/gbonacini/CVE-2026-31431",
+        "timestamp": "2026-05-12T21:06:02.000931",
+        "source": "Hacker News"
     }
 ]
