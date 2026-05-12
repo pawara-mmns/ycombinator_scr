@@ -501814,5 +501814,11 @@
         "url": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-votes.html",
         "timestamp": "2026-05-12T15:46:41.587848",
         "source": "Hacker News"
+    },
+    {
+        "title": "jacobin: More than minimal Java 21 JVM writen in Go",
+        "url": "https://github.com/platypusguy/jacobin",
+        "timestamp": "2026-05-12T15:46:41.587908",
+        "source": "Hacker News"
     }
 ]
