@@ -501898,5 +501898,11 @@
         "url": "https://www.theregister.com/databases/2026/05/12/nhs-england-confirms-palantir-staff-can-access-patient-data/5238712",
         "timestamp": "2026-05-12T15:46:41.588318",
         "source": "Hacker News"
+    },
+    {
+        "title": "From Vector Database to Vector Lakebase",
+        "url": "https://zilliz.com/blog/from-vector-database-to-vector-lakebase",
+        "timestamp": "2026-05-12T15:46:41.588347",
+        "source": "Hacker News"
     }
 ]
