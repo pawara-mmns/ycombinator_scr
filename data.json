@@ -502012,5 +502012,11 @@
         "url": "https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm",
         "timestamp": "2026-05-12T17:54:19.222654",
         "source": "Hacker News"
+    },
+    {
+        "title": "Google Cloud and DigitalOcean Behaved Differently Under Repeated Deployments",
+        "url": "https://webbynode.com/articles/repeated-deployments-google-cloud-vs-digitalocean",
+        "timestamp": "2026-05-12T17:54:19.222686",
+        "source": "Hacker News"
     }
 ]
