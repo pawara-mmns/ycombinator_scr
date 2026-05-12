@@ -501994,5 +501994,11 @@
         "url": "https://www.veridax.app/",
         "timestamp": "2026-05-12T17:54:19.222553",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cross-platform Rust: how WhatsApp, Signal etc. are shipping Rust to billions",
+        "url": "https://kerkour.com/rust-cross-platform-apps",
+        "timestamp": "2026-05-12T17:54:19.222589",
+        "source": "Hacker News"
     }
 ]
