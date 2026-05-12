@@ -501004,5 +501004,11 @@
         "url": "https://srikanth.sastry.name/ai-vs-open-source-the-empty-grant/",
         "timestamp": "2026-05-12T02:28:36.476361",
         "source": "Hacker News"
+    },
+    {
+        "title": "A faithful LLM-wiki implementation with Wikipedia-style web browsing",
+        "url": "https://github.com/hzw1199/CyberMe-LLM-Wiki",
+        "timestamp": "2026-05-12T02:28:36.476383",
+        "source": "Hacker News"
     }
 ]
