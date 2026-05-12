@@ -502132,5 +502132,11 @@
         "url": "https://en.wikipedia.org/wiki/Piss_Pot_Island",
         "timestamp": "2026-05-12T17:54:19.223430",
         "source": "Hacker News"
+    },
+    {
+        "title": "CheckSync: Transparent Checkpointing for Go Applications (2021) [pdf]",
+        "url": "https://web.archive.org/web/20220929011357/https://nickaashoek.gitlab.io/writeups/meng.pdf",
+        "timestamp": "2026-05-12T17:54:19.223460",
+        "source": "Hacker News"
     }
 ]
