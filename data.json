@@ -501742,5 +501742,11 @@
         "url": "https://www.theregister.com/cyber-crime/2026/05/12/cache-poisoning-caper-turns-tanstack-npm-packages-toxic/5238650",
         "timestamp": "2026-05-12T13:15:22.440319",
         "source": "Hacker News"
+    },
+    {
+        "title": "Silent-Bench: cryptographic audit of LLM gateways (47.96% vs. 1.89%)",
+        "url": "https://doi.org/10.5281/zenodo.20128451",
+        "timestamp": "2026-05-12T13:15:22.440376",
+        "source": "Hacker News"
     }
 ]
