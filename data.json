@@ -501736,5 +501736,11 @@
         "url": "https://newsroom.ibm.com/2026-05-12-ibm-announces-red-hat-ai-inference-and-red-hat-openShift-virtualization-service-on-ibm-cloud",
         "timestamp": "2026-05-12T13:15:22.440285",
         "source": "Hacker News"
+    },
+    {
+        "title": "Cache-poisoning caper turns TanStack NPM packages toxic",
+        "url": "https://www.theregister.com/cyber-crime/2026/05/12/cache-poisoning-caper-turns-tanstack-npm-packages-toxic/5238650",
+        "timestamp": "2026-05-12T13:15:22.440319",
+        "source": "Hacker News"
     }
 ]
