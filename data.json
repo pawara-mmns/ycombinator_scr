@@ -500848,5 +500848,11 @@
         "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
         "timestamp": "2026-05-12T02:28:36.233440",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+        "url": "https://github.com/tsirysndr/rockbox-zig",
+        "timestamp": "2026-05-12T02:28:36.233542",
+        "source": "Hacker News"
     }
 ]
