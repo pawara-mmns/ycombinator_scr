@@ -501982,5 +501982,11 @@
         "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
         "timestamp": "2026-05-12T17:54:18.974605",
         "source": "Hacker News"
+    },
+    {
+        "title": "Aegis DQ – agentic data quality with LLM diagnosis",
+        "url": "https://github.com/aegis-dq/aegis-dq",
+        "timestamp": "2026-05-12T17:54:19.222492",
+        "source": "Hacker News"
     }
 ]
