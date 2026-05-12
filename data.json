@@ -500968,5 +500968,11 @@
         "url": "https://hugonomy.com/news.html",
         "timestamp": "2026-05-12T02:28:36.476227",
         "source": "Hacker News"
+    },
+    {
+        "title": "A paid JSON Schema validation API using x402 micropayments",
+        "url": "https://github.com/garyedgington/project_x402",
+        "timestamp": "2026-05-12T02:28:36.476249",
+        "source": "Hacker News"
     }
 ]
