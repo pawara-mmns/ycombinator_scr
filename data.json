@@ -502468,5 +502468,11 @@
         "url": "https://www.bbc.co.uk/news/articles/cz02347714mo",
         "timestamp": "2026-05-12T21:06:02.000572",
         "source": "Hacker News"
+    },
+    {
+        "title": "Scrcpy v4.0",
+        "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+        "timestamp": "2026-05-12T21:06:02.000607",
+        "source": "Hacker News"
     }
 ]
