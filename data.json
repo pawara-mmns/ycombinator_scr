@@ -501142,5 +501142,11 @@
         "url": "https://www.google.com/search?q=test",
         "timestamp": "2026-05-12T05:52:23.544414",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tessera – Turn coding agent sessions into structured work",
+        "url": "https://github.com/horang-labs/tessera",
+        "timestamp": "2026-05-12T05:52:23.544455",
+        "source": "Hacker News"
     }
 ]
