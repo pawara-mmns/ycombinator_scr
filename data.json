@@ -502174,5 +502174,11 @@
         "url": "https://github.com/cactus-compute/needle",
         "timestamp": "2026-05-12T19:41:36.789604",
         "source": "Hacker News"
+    },
+    {
+        "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+        "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+        "timestamp": "2026-05-12T19:41:36.789635",
+        "source": "Hacker News"
     }
 ]
