@@ -501598,5 +501598,11 @@
         "url": "https://www.youtube.com/watch?v=blVTDhr4QN8",
         "timestamp": "2026-05-12T13:15:22.439465",
         "source": "Hacker News"
+    },
+    {
+        "title": "Designing a Custom Query Language for Non-Technical Analysts",
+        "url": "https://nchammas.com/writing/custom-query-language-design",
+        "timestamp": "2026-05-12T13:15:22.439503",
+        "source": "Hacker News"
     }
 ]
