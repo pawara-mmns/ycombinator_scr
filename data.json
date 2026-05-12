@@ -501160,5 +501160,11 @@
         "url": "https://www.macrumors.com/2026/05/11/reddit-starts-blocking-mobile-website/",
         "timestamp": "2026-05-12T05:52:23.544526",
         "source": "Hacker News"
+    },
+    {
+        "title": "Notes from Optimizing CPU-Bound Go Hot Paths",
+        "url": "https://blog.andr2i.com/posts/2026-05-03-notes-from-optimizing-cpu-bound-go-hot-paths",
+        "timestamp": "2026-05-12T05:52:23.544561",
+        "source": "Hacker News"
     }
 ]
