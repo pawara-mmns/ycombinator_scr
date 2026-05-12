@@ -502474,5 +502474,11 @@
         "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
         "timestamp": "2026-05-12T21:06:02.000607",
         "source": "Hacker News"
+    },
+    {
+        "title": "MergeBrake – catch DB-breaking Prisma/Drizzle PRs before merge",
+        "url": "https://github.com/mergebrake/mergebrake",
+        "timestamp": "2026-05-12T21:06:02.000642",
+        "source": "Hacker News"
     }
 ]
