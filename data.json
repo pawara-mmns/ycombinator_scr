@@ -502456,5 +502456,11 @@
         "url": "https://en.wikipedia.org/wiki/Swatch_Internet_Time",
         "timestamp": "2026-05-12T21:06:02.000496",
         "source": "Hacker News"
+    },
+    {
+        "title": "Gea: A Compile-Time Reactive UI Framework That's Just JavaScript",
+        "url": "https://www.coyotiv.com/blog/posts/introducing-gea-compile-time-reactive-ui-framework/",
+        "timestamp": "2026-05-12T21:06:02.000536",
+        "source": "Hacker News"
     }
 ]
