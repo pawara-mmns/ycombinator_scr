@@ -501256,5 +501256,11 @@
         "url": "https://docs.factorcode.org/content/article-fry.html",
         "timestamp": "2026-05-12T08:30:49.375700",
         "source": "Hacker News"
+    },
+    {
+        "title": "Keeping your GitHub Actions and workflows secure: Preventing pwn requests (2021)",
+        "url": "https://securitylab.github.com/resources/github-actions-preventing-pwn-requests/",
+        "timestamp": "2026-05-12T08:30:49.375729",
+        "source": "Hacker News"
     }
 ]
