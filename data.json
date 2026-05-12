@@ -500878,5 +500878,11 @@
         "url": "https://eatonphil.com/bookclub.html",
         "timestamp": "2026-05-12T02:28:36.475800",
         "source": "Hacker News"
+    },
+    {
+        "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+        "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+        "timestamp": "2026-05-12T02:28:36.475853",
+        "source": "Hacker News"
     }
 ]
