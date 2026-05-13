@@ -503704,5 +503704,11 @@
         "url": "https://apps.apple.com/us/app/goal-habit-tracker-daily/id6760237119",
         "timestamp": "2026-05-13T12:32:48.560257",
         "source": "Hacker News"
+    },
+    {
+        "title": "I built five SQLite engines from one spec (C, Rust, Zig, Go, Python)",
+        "url": "https://github.com/safitudo/sqlite-leap",
+        "timestamp": "2026-05-13T12:32:48.560279",
+        "source": "Hacker News"
     }
 ]
