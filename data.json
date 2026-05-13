@@ -503770,5 +503770,11 @@
         "url": "https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/",
         "timestamp": "2026-05-13T12:32:48.560523",
         "source": "Hacker News"
+    },
+    {
+        "title": "LogLeak: Composer GitHub Actions token disclosure in error messages, patched",
+        "url": "https://blog.packagist.com/composer-2-9-8-and-2-2-28-fix-github-actions-token-disclosure-in-error-messages/",
+        "timestamp": "2026-05-13T12:32:48.560546",
+        "source": "Hacker News"
     }
 ]
