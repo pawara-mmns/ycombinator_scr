@@ -503470,5 +503470,11 @@
         "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
         "timestamp": "2026-05-13T10:42:24.376941",
         "source": "Hacker News"
+    },
+    {
+        "title": "FFL – A portable Python CLI (via APE) to send files to any browser via WebRTC",
+        "url": "https://github.com/nuwainfo/ffl",
+        "timestamp": "2026-05-13T10:42:24.671885",
+        "source": "Hacker News"
     }
 ]
