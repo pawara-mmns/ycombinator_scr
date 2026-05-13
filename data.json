@@ -503104,5 +503104,11 @@
         "url": "https://github.com/HeliBorg/HeliBoard/wiki/Tutorial:-How-to-Contribute-Gesture-Data",
         "timestamp": "2026-05-13T01:27:41.498098",
         "source": "Hacker News"
+    },
+    {
+        "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+        "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+        "timestamp": "2026-05-13T05:09:20.776615",
+        "source": "Hacker News"
     }
 ]
