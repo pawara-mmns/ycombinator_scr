@@ -503236,5 +503236,11 @@
         "url": "https://corticallabs.com/cloud",
         "timestamp": "2026-05-13T05:09:21.189410",
         "source": "Hacker News"
+    },
+    {
+        "title": "AMD Crafts Custom EPYC CPU with 128GB HBM3 (EPYC 9V64H) (2024)",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-crafts-custom-epyc-cpu-for-microsoft-azure-with-hbm3-memory-cpu-with-88-zen-4-cores-and-450gb-of-hbm3-may-be-repurposed-mi300c-four-chips-hit-7-tb-s",
+        "timestamp": "2026-05-13T05:09:21.189441",
+        "source": "Hacker News"
     }
 ]
