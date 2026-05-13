@@ -503530,5 +503530,11 @@
         "url": "https://monghoul.com/",
         "timestamp": "2026-05-13T10:42:24.672208",
         "source": "Hacker News"
+    },
+    {
+        "title": "All the ways to mock your Rust code",
+        "url": "https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code",
+        "timestamp": "2026-05-13T10:42:24.672238",
+        "source": "Hacker News"
     }
 ]
