@@ -503368,5 +503368,11 @@
         "url": "https://github.com/apernet/hysteria",
         "timestamp": "2026-05-13T08:11:29.272390",
         "source": "Hacker News"
+    },
+    {
+        "title": "Bun is being ported to Rust using Claude. Here's a code review using GPT",
+        "url": "https://github.com/Swival/security-audits/blob/main/bun-rust/README.md",
+        "timestamp": "2026-05-13T08:11:29.272419",
+        "source": "Hacker News"
     }
 ]
