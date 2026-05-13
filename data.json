@@ -503284,5 +503284,11 @@
         "url": "https://subvault.ai",
         "timestamp": "2026-05-13T05:09:21.189698",
         "source": "Hacker News"
+    },
+    {
+        "title": "Reasoning-core: 130M-param guardrail keeping AI agents honest",
+        "url": "https://github.com/jakubkrzysztofsikora/reasoning-core",
+        "timestamp": "2026-05-13T05:09:21.189727",
+        "source": "Hacker News"
     }
 ]
