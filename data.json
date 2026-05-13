@@ -502996,5 +502996,11 @@
         "url": "https://prestonbyrne.com/2026/05/12/thoughts-on-the-1000000-sasu-fine/",
         "timestamp": "2026-05-13T01:27:41.497575",
         "source": "Hacker News"
+    },
+    {
+        "title": "Internet draft for variable length UUIDs – up to 4,096 bits",
+        "url": "https://datatracker.ietf.org/doc/draft-davis-uuidrev-uuid-long/",
+        "timestamp": "2026-05-13T01:27:41.497602",
+        "source": "Hacker News"
     }
 ]
