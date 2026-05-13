@@ -504094,5 +504094,11 @@
         "url": "https://www.bbc.com/news/articles/cddpzglzrv7o",
         "timestamp": "2026-05-13T17:49:40.593676",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Claude Code plugin for two-way HTML artifact generation",
+        "url": "https://github.com/f-labs-io/agent-html-skills",
+        "timestamp": "2026-05-13T17:49:40.593732",
+        "source": "Hacker News"
     }
 ]
