@@ -503068,5 +503068,11 @@
         "url": "https://kiniro.uk/articles/22",
         "timestamp": "2026-05-13T01:27:41.497912",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A minimal screen-on time tracker for Wayland",
+        "url": "https://github.com/skorotkiewicz/work-track",
+        "timestamp": "2026-05-13T01:27:41.497941",
+        "source": "Hacker News"
     }
 ]
