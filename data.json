@@ -503488,5 +503488,11 @@
         "url": "https://news.ycombinator.com/item?id=48120148",
         "timestamp": "2026-05-13T10:42:24.672002",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I mage GhosttyFX, a JavaFX terminal view that uses libghostty",
+        "url": "https://github.com/vlaaad/ghosttyfx/",
+        "timestamp": "2026-05-13T10:42:24.672032",
+        "source": "Hacker News"
     }
 ]
