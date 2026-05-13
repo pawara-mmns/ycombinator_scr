@@ -503110,5 +503110,11 @@
         "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
         "timestamp": "2026-05-13T05:09:20.776615",
         "source": "Hacker News"
+    },
+    {
+        "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+        "url": "https://github.com/tracewayapp/traceway",
+        "timestamp": "2026-05-13T05:09:20.776644",
+        "source": "Hacker News"
     }
 ]
