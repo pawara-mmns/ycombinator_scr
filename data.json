@@ -503176,5 +503176,11 @@
         "url": "https://github.com/aouicher/graphmind",
         "timestamp": "2026-05-13T05:09:21.189073",
         "source": "Hacker News"
+    },
+    {
+        "title": "We built our own message queue for AI agents (and put it on Postgres)",
+        "url": "https://medium.com/@aliceviola/why-we-built-our-own-message-queue-for-ai-agents-and-put-it-on-postgres-37512424b8e0",
+        "timestamp": "2026-05-13T05:09:21.189104",
+        "source": "Hacker News"
     }
 ]
