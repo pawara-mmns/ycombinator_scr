@@ -503734,5 +503734,11 @@
         "url": "https://github.com/av/mi/releases/tag/v1.7.5",
         "timestamp": "2026-05-13T12:32:48.560368",
         "source": "Hacker News"
+    },
+    {
+        "title": "Authorization Bypass in AWS's Agentic AI for Enterprise: Amazon Quick",
+        "url": "https://www.fogsecurity.io/blog/authorization-bypass-in-amazon-quick-ai-agents",
+        "timestamp": "2026-05-13T12:32:48.560392",
+        "source": "Hacker News"
     }
 ]
