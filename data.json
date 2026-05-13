@@ -502954,5 +502954,11 @@
         "url": "https://www.thefp.com/p/could-you-live-without-a-computer",
         "timestamp": "2026-05-13T01:27:41.497376",
         "source": "Hacker News"
+    },
+    {
+        "title": "Atlas: An LLM inference engine written from scratch in Rust and CUDA",
+        "url": "https://atlasinference.io",
+        "timestamp": "2026-05-13T01:27:41.497406",
+        "source": "Hacker News"
     }
 ]
