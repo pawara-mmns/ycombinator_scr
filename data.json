@@ -503566,5 +503566,11 @@
         "url": "https://www.cnn.com/world/africa/bone-crushing-hyenas-cleaning-ethiopian-streets-spc",
         "timestamp": "2026-05-13T10:42:24.672401",
         "source": "Hacker News"
+    },
+    {
+        "title": "Simple, zero overhead way to compress model, KV cache via Low-Rank Decomposition",
+        "url": "https://jeffreywong20.github.io/a3.github.io/",
+        "timestamp": "2026-05-13T10:42:24.672430",
+        "source": "Hacker News"
     }
 ]
